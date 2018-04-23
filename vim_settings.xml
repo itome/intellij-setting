@@ -13,7 +13,7 @@
     <jumps />
     <registers>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -26,6 +26,9 @@
     <history>
       <history-cmd>
         <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts />
