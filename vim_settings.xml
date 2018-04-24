@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1524489358456">
         <mark key="[" line="28" column="47" />
         <mark key="]" line="28" column="46" />
@@ -13,7 +19,7 @@
     <jumps />
     <registers>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -24,12 +30,17 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
