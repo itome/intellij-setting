@@ -3,17 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/MessageSourceViewController.kt" timestamp="1524539529255">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1524547448184">
+      <file name="/Dummy.txt" timestamp="1524549215647">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_message_source.xml" timestamp="1524546913276">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
         <mark key="[" line="2" column="4" />
@@ -21,32 +12,21 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/values/styles_chathistory.xml" timestamp="1524547250803">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="60" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524547696273">
-        <mark key="[" line="94" column="71" />
-        <mark key="]" line="94" column="70" />
-        <mark key="." line="94" column="70" />
-        <mark key="^" line="94" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524548635581">
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all_content.xml" timestamp="1524550258984">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="32" />
-        <mark key="^" line="17" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_message_source_content.xml" timestamp="1524546976484">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="37" column="14" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" timestamp="1524548626950">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
-        <mark key="^" line="17" column="36" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_text.xml" timestamp="1524549470129">
+        <mark key="[" line="46" column="36" />
+        <mark key="]" line="46" column="36" />
+        <mark key="." line="46" column="36" />
+        <mark key="^" line="46" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_message_source_content.xml" timestamp="1524550714351">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1524489358456">
         <mark key="[" line="28" column="47" />
@@ -54,11 +34,30 @@
         <mark key="." line="28" column="46" />
         <mark key="^" line="28" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_text.xml" timestamp="1524547315599">
-        <mark key="[" line="49" column="36" />
-        <mark key="]" line="49" column="71" />
-        <mark key="." line="49" column="71" />
-        <mark key="^" line="49" column="71" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all_content.xml" timestamp="1524549105460">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="18" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllViewController.kt" timestamp="1524551423582">
+        <mark key="[" line="87" column="44" />
+        <mark key="]" line="87" column="46" />
+        <mark key="^" line="87" column="46" />
+        <mark key="." line="87" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_text.xml" timestamp="1524549460802">
+        <mark key="[" line="46" column="36" />
+        <mark key="]" line="46" column="36" />
+        <mark key="." line="46" column="36" />
+        <mark key="^" line="46" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all_content.xml" timestamp="1524550322742">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="14" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/ShowAllContentViewController.kt" timestamp="1524547423938">
         <mark key="[" line="95" column="29" />
@@ -66,24 +65,77 @@
         <mark key="^" line="95" column="33" />
         <mark key="." line="95" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" timestamp="1524551374512">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/MessageSourceViewController.kt" timestamp="1524539529255">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_message_source.xml" timestamp="1524551245634">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" timestamp="1524551653952">
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="60" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/res/values/styles_chathistory.xml" timestamp="1524551710255">
+        <mark key="[" line="58" column="39" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="57" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524550986472">
+        <mark key="[" line="134" column="4" />
+        <mark key="]" line="134" column="3" />
+        <mark key="." line="134" column="3" />
+        <mark key="^" line="134" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="71" />
+        <mark key="." line="7" column="71" />
+        <mark key="^" line="7" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" timestamp="1524549286498">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="39" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" />
+      <jump line="17" column="36" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" />
+      <jump line="29" column="14" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all_content.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all_content.xml" />
+      <jump line="10" column="33" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all_content.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all_content.xml" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc2hvd19hbGwiCg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbF9iYWNrZ3JvdW5kIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvaW1nX2NoYXRfZ3JvdXBib2FyZF9iZ18wMyI+CgogICAgPExpbmVhckxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCI+CgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlZV9hbGxfdGV4dCIKICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9jaGF0aGlzdG9yeV90ZXh0X3NlbmRfc2VlX2FsbF90ZXh0IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc2VlX2FsbCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTNzcCIgLz4KCiAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlZV9hbGxfYXJyb3ciCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIzZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSIzZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6Y29udGVudERlc2NyaXB0aW9uPSJAbnVsbCIKICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZ3J1b3Bib2FyZF9zZWVhbGxfMDIiIC8+CiAgICA8L0xpbmVhckxheW91dD4KPC9GcmFtZUxheW91dD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Cg==</text>
+        <text encoding="base64">Cjw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxMaW5lYXJMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgYW5kcm9pZDppZD0iQCtpZC9zZWVfYWxsX2NvbnRlbnQiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9pbWdfY2hhdF9ncm91cGJvYXJkX2JnXzAzIgogICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIj4KCiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlZV9hbGxfdGV4dCIKICAgICAgICBzdHlsZT0iQHN0eWxlL2NoYXRoaXN0b3J5X3RleHRfcmVjZWl2ZV9zZWVfYWxsX3RleHQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3NlZV9hbGwiCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTNzcCIgLz4KCiAgICA8SW1hZ2VWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVfYWxsX2Fycm93IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iM2RwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSIzZHAiCiAgICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkBudWxsIgogICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaW1nX2dydW9wYm9hcmRfc2VlYWxsXzAyIiAvPgoKPC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczp0ZXh0PSJDbG92YSIK</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczp0ZXh0PSJDbG92YSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -92,22 +144,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9pbWdfY2hhdF9ncm91cGJvYXJkX2JnXzAzIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQKICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KCjwvYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dD4K</text>
+        <text encoding="base64">PExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmlkPSJAK2lkL3NlZV9hbGxfY29udGVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiCiAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbF90ZXh0IgogICAgICAgIHN0eWxlPSJAc3R5bGUvY2hhdGhpc3RvcnlfdGV4dF9zZW5kX3NlZV9hbGxfdGV4dCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIKICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc2VlX2FsbCIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxM3NwIiAvPgoKICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlZV9hbGxfYXJyb3ciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIzZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjNkcCIKICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQG51bGwiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZ3J1b3Bib2FyZF9zZWVhbGxfMDIiIC8+Cgo8L0xpbmVhckxheW91dD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2hvd19hbGxfYmFja2dyb3VuZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIK</text>
+        <text encoding="base64">CiAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvY2hhdGhpc3Rvcnlfcm93X3JlY2VpdmVfbXNnX21lc3NhZ2Vfc291cmNlX2NvbnRlbnQiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQKICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KCjwvYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>show_all</text>
+        <text>content</text>
       </register>
     </registers>
     <search>
@@ -122,11 +174,12 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Back</entry>
+        <entry>action RenameElement</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
         <entry>action Find</entry>
+        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
