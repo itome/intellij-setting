@@ -9,9 +9,6 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524531993279">
-        <mark key="[" line="124" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1524489358456">
         <mark key="[" line="28" column="47" />
         <mark key="]" line="28" column="46" />
@@ -45,6 +42,13 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
