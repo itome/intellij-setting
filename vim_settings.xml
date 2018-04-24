@@ -18,11 +18,10 @@
         <mark key="]" line="25" column="14" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_text.xml" timestamp="1524554104886">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="69" />
-        <mark key="." line="48" column="67" />
-        <mark key="^" line="48" column="67" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_text.xml" timestamp="1524559659566">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="43" column="72" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_message_source_content.xml" timestamp="1524550714351">
         <mark key="[" line="20" column="0" />
@@ -46,11 +45,10 @@
         <mark key="." line="46" column="84" />
         <mark key="^" line="46" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_text.xml" timestamp="1524554119950">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="46" column="31" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_text.xml" timestamp="1524559707390">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="43" column="75" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all_content.xml" timestamp="1524555550399">
         <mark key="[" line="1" column="0" />
@@ -63,7 +61,6 @@
         <mark key="^" line="95" column="33" />
         <mark key="." line="95" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_message_source_with_balloon.xml" timestamp="1524556359537" />
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" timestamp="1524555981086">
         <mark key="[" line="16" column="47" />
         <mark key="]" line="16" column="49" />
@@ -76,17 +73,24 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="37" column="99" />
       </file>
+      <file name="$USER_HOME$/Projects/line-android/res/values/colors.xml" timestamp="1524559960335" />
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_message_source.xml" timestamp="1524556914898">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="60" />
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" timestamp="1524556938657">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" timestamp="1524561393773">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_message_source.xml" timestamp="1524559339334">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/values/styles_chathistory.xml" timestamp="1524553366860">
         <mark key="[" line="58" column="39" />
@@ -94,12 +98,11 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_image.xml" timestamp="1524556617350" />
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524553775944">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
-        <mark key="^" line="203" column="23" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524559025599">
+        <mark key="[" line="215" column="39" />
+        <mark key="]" line="215" column="38" />
+        <mark key="^" line="215" column="38" />
+        <mark key="." line="215" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -137,40 +140,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6aWQ9IkAraWQvbWVzc2FnZV9zb3VyY2VfYmFja2dyb3VuZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbF9iYWNrZ3JvdW5kIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvaW1nX2NoYXRfZ3JvdXBib2FyZF9iZ18wMyI+Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZENvbG9yPSIjMDAwMDAwIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlZV9hbGxfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiPgoKICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVfYWxsX3RleHQiCiAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvY2hhdGhpc3RvcnlfdGV4dF9zZW5kX3NlZV9hbGxfdGV4dCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3NlZV9hbGwiIC8+CgogICAgICAgIDxJbWFnZVZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVfYWxsX2Fycm93IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iM2RwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iM2RwIgogICAgICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQG51bGwiCiAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaW1nX2dydW9wYm9hcmRfc2VlYWxsXzAyIiAvPgogICAgPC9MaW5lYXJMYXlvdXQ+Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPFZpZXdTdHViCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vY2hhdGhpc3Rvcnlfc2VlX2FsbF9oZWlnaHQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0PSJAbGF5b3V0L2NoYXRoaXN0b3J5X3Jvd19yZWNlaXZlX21zZ19zZWVfYWxsIiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmlkPSJAK2lkL3NlZV9hbGxfY29udGVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCI+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVfYWxsX3RleHQiCiAgICAgICAgc3R5bGU9IkBzdHlsZS9jaGF0aGlzdG9yeV90ZXh0X3NlbmRfc2VlX2FsbF90ZXh0IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9zZWVfYWxsIiAvPgoKICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlZV9hbGxfYXJyb3ciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIzZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjNkcCIKICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQG51bGwiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZ3J1b3Bib2FyZF9zZWVhbGxfMDIiIC8+CjwvTGluZWFyTGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iOGRwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPFZpZXdTdHViCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vY2hhdGhpc3Rvcnlfc2VlX2FsbF9oZWlnaHQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0PSJAbGF5b3V0L2NoYXRoaXN0b3J5X3Jvd19zZW5kX21zZ19zZWVfYWxsIiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmcK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlZV9hbGxfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiPgoKICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVfYWxsX3RleHQiCiAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvY2hhdGhpc3RvcnlfdGV4dF9zZW5kX3NlZV9hbGxfdGV4dCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3NlZV9hbGwiIC8+CgogICAgICAgIDxJbWFnZVZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVfYWxsX2Fycm93IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iM2RwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iM2RwIgogICAgICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQG51bGwiCiAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaW1nX2dydW9wYm9hcmRfc2VlYWxsXzAyIiAvPgogICAgPC9MaW5lYXJMYXlvdXQ+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9pbWdfY2hhdF9ncm91cGJvYXJkX2JnIg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQKICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KCjwvYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VlQWxsVmlld0NvbnRyb2xsZXIuaGlkZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vY2hhdGhpc3RvcnlfbWVzc2FnZV9zb3VyY2VfaGVpZ2h0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VlQWxsVmlld0NvbnRyb2xsZXIuaGlkZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>chathistory_row_receive_msg_message_source_content</text>
+        <text>wrap_content</text>
       </register>
     </registers>
     <search>
@@ -185,14 +188,14 @@
         <entry>action RenameElement</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Find</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
+        <entry>action Find</entry>
         <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -203,6 +206,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
