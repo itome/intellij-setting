@@ -3,11 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/MessageSourceViewController.kt" timestamp="1524539529255">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524539247915">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1524489358456">
         <mark key="[" line="28" column="47" />
@@ -18,11 +28,38 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsYXp5Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsYXp5Q29udGFpbmVyVmlldy5pc1Zpc2libGUgPSBmYWxzZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGN1cnJlbnQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0VmlqbDtnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1lbnRpb25Db2xvcjogSW50ID0gZ2V0VGhlbWVUZXh0Q29sb3IoCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQENvbG9ySW50CiAgICAgICAgICAgIHZhbCBtZW50aW9uQ29sb3I6IEludCA9IGdldFRoZW1lVGV4dENvbG9yKAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFjdGl2aXR5OiBDaGF0SGlzdG9yeUFjdGl2aXR5Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpdC5zZXRPbkxvbmdDbGlja0xpc3RlbmVyKDo6b25NZXNzYWdlKQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
     </registers>
     <search>
@@ -38,6 +75,8 @@
         <entry>action Back</entry>
         <entry>action NextSplitter</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
