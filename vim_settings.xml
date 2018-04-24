@@ -39,11 +39,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllViewController.kt" timestamp="1524555401523">
-        <mark key="[" line="46" column="85" />
-        <mark key="]" line="46" column="84" />
-        <mark key="." line="46" column="84" />
-        <mark key="^" line="46" column="84" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllViewController.kt" timestamp="1524562882044">
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="64" column="63" />
+        <mark key="." line="64" column="63" />
+        <mark key="^" line="64" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_text.xml" timestamp="1524559707390">
         <mark key="[" line="38" column="0" />
@@ -80,11 +80,11 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" timestamp="1524561393773">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="42" />
-        <mark key="." line="10" column="42" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" timestamp="1524562549423">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_message_source.xml" timestamp="1524559339334">
         <mark key="[" line="4" column="40" />
@@ -98,11 +98,11 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524559025599">
-        <mark key="[" line="215" column="39" />
-        <mark key="]" line="215" column="38" />
-        <mark key="^" line="215" column="38" />
-        <mark key="." line="215" column="38" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524562584958">
+        <mark key="[" line="136" column="39" />
+        <mark key="]" line="136" column="52" />
+        <mark key="^" line="136" column="52" />
+        <mark key="." line="136" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -170,10 +170,10 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VlQWxsVmlld0NvbnRyb2xsZXIuaGlkZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>see_all</text>
       </register>
     </registers>
     <search>
@@ -193,9 +193,9 @@
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
