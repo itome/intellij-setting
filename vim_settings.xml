@@ -18,7 +18,7 @@
         <mark key="]" line="25" column="14" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_text.xml" timestamp="1524559659566">
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_text.xml" timestamp="1524620079408">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="43" column="72" />
         <mark key="." line="38" column="0" />
@@ -39,10 +39,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllViewController.kt" timestamp="1524618619643">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllViewController.kt" timestamp="1524620004920">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_text.xml" timestamp="1524559707390">
         <mark key="[" line="38" column="0" />
@@ -60,10 +61,10 @@
         <mark key="^" line="95" column="33" />
         <mark key="." line="95" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" timestamp="1524555981086">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" timestamp="1524620159403">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="16" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/MessageSourceViewController.kt" timestamp="1524554761914">
@@ -78,15 +79,14 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" timestamp="1524562549423">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" timestamp="1524620157193">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_message_source.xml" timestamp="1524559339334">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="4" column="40" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_message_source.xml" timestamp="1524620123200">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="57" />
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="40" />
       </file>
@@ -114,6 +114,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/line-android/src/com/linecorp/view/util/ViewsExtensions.kt" timestamp="1524619932521" />
       <file name="$USER_HOME$/Projects/line-android/res/values/dimens_chathistory.xml" timestamp="1524554086648">
         <mark key="[" line="31" column="43" />
         <mark key="]" line="31" column="35" />
@@ -138,37 +139,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmciPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY3VycmVudFRoZW1lCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgo=</text>
+        <text encoding="base64">PEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZENvbG9yPSIjMDAwMDAwIgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvbWVzc2FnZV9zb3VyY2VfYmFja2dyb3VuZCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgPFZpZXdTdHViCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vY2hhdGhpc3Rvcnlfc2VlX2FsbF9oZWlnaHQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0PSJAbGF5b3V0L2NoYXRoaXN0b3J5X3Jvd19yZWNlaXZlX21zZ19zZWVfYWxsIiAvPgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbF9iYWNrZ3JvdW5kIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iOGRwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgPFZpZXdTdHViCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vY2hhdGhpc3Rvcnlfc2VlX2FsbF9oZWlnaHQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0PSJAbGF5b3V0L2NoYXRoaXN0b3J5X3Jvd19zZW5kX21zZ19zZWVfYWxsIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3VycmVudFRoZW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmcK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9pbWdfY2hhdF9ncm91cGJvYXJkX2JnIg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZENvbG9yPSIjMDAwMDAwIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VlQWxsVmlld0NvbnRyb2xsZXIuaGlkZSgpCg==</text>
+        <text encoding="base64">CiAgICAgICAgPFZpZXdTdHViCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vY2hhdGhpc3Rvcnlfc2VlX2FsbF9oZWlnaHQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0PSJAbGF5b3V0L2NoYXRoaXN0b3J5X3Jvd19yZWNlaXZlX21zZ19zZWVfYWxsIiAvPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>message_source</text>
@@ -184,16 +185,16 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action ParameterInfo</entry>
         <entry>action RenameElement</entry>
-        <entry>action SplitVertically</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
