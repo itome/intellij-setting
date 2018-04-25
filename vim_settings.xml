@@ -96,11 +96,11 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524627178847">
-        <mark key="[" line="627" column="48" />
-        <mark key="]" line="627" column="47" />
-        <mark key="^" line="627" column="47" />
-        <mark key="." line="627" column="47" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524631229454">
+        <mark key="[" line="626" column="0" />
+        <mark key="]" line="626" column="0" />
+        <mark key="^" line="630" column="10" />
+        <mark key="." line="626" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -142,31 +142,31 @@
         <text>chathistory_message_max_width</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiAgVE9ETzogQHBhcmFtCg==</text>
+        <text encoding="base64">ICAgICAqIFRPRE86IFdlIHNob3VsZCBwYXNzIHNwZWNpZnkgd2lkdGgKICAgICAqICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiAgVE9ETzogQHBhcmFtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvbWVzc2FnZV9zb3VyY2VfYmFja2dyb3VuZCIK</text>
+        <text encoding="base64">PEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbF9iYWNrZ3JvdW5kIgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvbWVzc2FnZV9zb3VyY2VfYmFja2dyb3VuZCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbF9iYWNrZ3JvdW5kIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY3VycmVudFRoZW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3VycmVudFRoZW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
