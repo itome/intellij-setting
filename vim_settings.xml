@@ -91,10 +91,11 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524637119971">
-        <mark key="[" line="653" column="0" />
-        <mark key="]" line="653" column="0" />
-        <mark key="." line="653" column="0" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524638594627">
+        <mark key="[" line="621" column="29" />
+        <mark key="]" line="621" column="27" />
+        <mark key="." line="621" column="27" />
+        <mark key="^" line="621" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -154,34 +155,34 @@
         <text encoding="base64">LyoqCiAqIEEgdmlldyBjb250cm9sbGVyIGNsYXNzIHdoaWNoIGNvbnRyb2xzIGluc3RhbnQgbmV3cy4KICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGV4dFBhaW50ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamxma2pzbGRrZmpsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuaXNBbnRpQWxpYXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGV4dFBhaW50ID0gVGV4dFBhaW50KCkuYWxzbyB7IAogICAgICAgICAgICBpdC5pc0FudGlBbGlhcwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogIlNlZSBBbGwiIHNlY3Rpb24gCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGV4dFBhaW50ID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZ3J1b3Bib2FyZF9zZWVhbGxfMDIiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZ3J1b3Bib2FyZF9zZWVhbGxfMDIiIC8+Cg==</text>
+        <text encoding="base64">ICogIlNlZSBBbGwiIHNlY3Rpb24gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>this</text>
@@ -200,13 +201,13 @@
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action Back</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
