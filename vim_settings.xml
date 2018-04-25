@@ -42,11 +42,10 @@
         <mark key="." line="29" column="59" />
         <mark key="^" line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524635640121">
-        <mark key="[" line="626" column="95" />
-        <mark key="]" line="626" column="94" />
-        <mark key="." line="626" column="94" />
-        <mark key="^" line="626" column="94" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524636793185">
+        <mark key="[" line="659" column="0" />
+        <mark key="]" line="659" column="0" />
+        <mark key="." line="659" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -118,7 +117,6 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/com/linecorp/view/util/ViewsExtensions.kt" timestamp="1524619932521" />
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextMessageViewController.kt" timestamp="1524633942897">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="22" />
@@ -156,34 +154,34 @@
         <text encoding="base64">LyoqCiAqIEEgdmlldyBjb250cm9sbGVyIGNsYXNzIHdoaWNoIGNvbnRyb2xzIGluc3RhbnQgbmV3cy4KICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogIlNlZSBBbGwiIHNlY3Rpb24gCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICogIlNlZSBBbGwiIHNlY3Rpb24gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZ3J1b3Bib2FyZF9zZWVhbGxfMDIiIC8+Cg==</text>
+        <text encoding="base64">LyoqCiAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZ3J1b3Bib2FyZF9zZWVhbGxfMDIiIC8+Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBXZSBzaG91bGQgcGFzcyBleGFjdCB3aWR0aCB0byB7QGxpbmsgI2dldFN0YXRpY0xheW91dCgpfSB0byBnZXQgZXhhY3QgbGF5b3V0LAogICAgICAgIC8vIGJlY2F1c2UgdGV4dFZpZXcncyB3aWR0aCBpcyBsaW1pdGVkIGJ5IHNjcmVlbiBzaXplLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZ3J1b3Bib2FyZF9zZWVhbGxfMDIiIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE86IFdlIHNob3VsZCBwYXNzIHNwZWNpZnkgd2lkdGgKICAgICAqICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZ3J1b3Bib2FyZF9zZWVhbGxfMDIiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiAgVE9ETzogQHBhcmFtCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBXZSBzaG91bGQgcGFzcyBleGFjdCB3aWR0aCB0byB7QGxpbmsgI2dldFN0YXRpY0xheW91dCgpfSB0byBnZXQgZXhhY3QgbGF5b3V0LAogICAgICAgIC8vIGJlY2F1c2UgdGV4dFZpZXcncyB3aWR0aCBpcyBsaW1pdGVkIGJ5IHNjcmVlbiBzaXplLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>this</text>
@@ -204,11 +202,11 @@
         <entry>action Back</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
