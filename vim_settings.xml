@@ -39,11 +39,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllViewController.kt" timestamp="1524562882044">
-        <mark key="[" line="64" column="57" />
-        <mark key="]" line="64" column="63" />
-        <mark key="." line="64" column="63" />
-        <mark key="^" line="64" column="63" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllViewController.kt" timestamp="1524563030601">
+        <mark key="[" line="64" column="50" />
+        <mark key="]" line="64" column="64" />
+        <mark key="." line="64" column="64" />
+        <mark key="^" line="64" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_text.xml" timestamp="1524559707390">
         <mark key="[" line="38" column="0" />
@@ -98,11 +98,11 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524562584958">
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524563039813">
         <mark key="[" line="136" column="39" />
-        <mark key="]" line="136" column="52" />
-        <mark key="^" line="136" column="52" />
-        <mark key="." line="136" column="52" />
+        <mark key="]" line="136" column="45" />
+        <mark key="^" line="136" column="45" />
+        <mark key="." line="136" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -170,10 +170,10 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VlQWxsVmlld0NvbnRyb2xsZXIuaGlkZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>see_all</text>
+        <text>message_source</text>
       </register>
     </registers>
     <search>
@@ -193,9 +193,9 @@
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
