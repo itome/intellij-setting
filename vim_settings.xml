@@ -18,9 +18,9 @@
         <mark key="]" line="25" column="14" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_text.xml" timestamp="1524620079408">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="43" column="72" />
+      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_text.xml" timestamp="1524626586448">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="69" />
         <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_message_source_content.xml" timestamp="1524550714351">
@@ -96,6 +96,12 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524627178847">
+        <mark key="[" line="627" column="48" />
+        <mark key="]" line="627" column="47" />
+        <mark key="^" line="627" column="47" />
+        <mark key="." line="627" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="71" />
@@ -132,41 +138,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all_content.xml" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmciPgo=</text>
+      <register name="0" type="4">
+        <text>chathistory_message_max_width</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiAgVE9ETzogQHBhcmFtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvbWVzc2FnZV9zb3VyY2VfYmFja2dyb3VuZCIK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbF9iYWNrZ3JvdW5kIgo=</text>
+        <text encoding="base64">PEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ltZ19jaGF0X2dyb3VwYm9hcmRfYmdfMDMiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvbWVzc2FnZV9zb3VyY2VfYmFja2dyb3VuZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY3VycmVudFRoZW1lCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbF9iYWNrZ3JvdW5kIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZENvbG9yPSIjMDAwMDAwIgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3VycmVudFRoZW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgPFZpZXdTdHViCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vY2hhdGhpc3Rvcnlfc2VlX2FsbF9oZWlnaHQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0PSJAbGF5b3V0L2NoYXRoaXN0b3J5X3Jvd19yZWNlaXZlX21zZ19zZWVfYWxsIiAvPgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>message_source</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -181,14 +187,14 @@
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Find</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
-        <entry>action SaveAll</entry>
+        <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
