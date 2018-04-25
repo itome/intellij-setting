@@ -169,7 +169,7 @@
         <text encoding="base64">CiAgICAgICAgPFZpZXdTdHViCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VlX2FsbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vY2hhdGhpc3Rvcnlfc2VlX2FsbF9oZWlnaHQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0PSJAbGF5b3V0L2NoYXRoaXN0b3J5X3Jvd19yZWNlaXZlX21zZ19zZWVfYWxsIiAvPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>message_source</text>
@@ -193,8 +193,8 @@
         <entry>action Back</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
