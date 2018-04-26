@@ -10,6 +10,9 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -45,6 +48,9 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
