@@ -25,11 +25,6 @@
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all_content.xml" timestamp="1524555550399">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="24" column="14" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/ShowAllContentViewController.kt" timestamp="1524547423938">
         <mark key="[" line="95" column="29" />
         <mark key="]" line="95" column="33" />
@@ -50,7 +45,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524733193134">
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524734226883">
         <mark key="[" line="192" column="74" />
         <mark key="]" line="192" column="73" />
         <mark key="^" line="192" column="73" />
@@ -75,32 +70,21 @@
         <mark key="^" line="26" column="7" />
         <mark key="." line="26" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextViewController.kt" timestamp="1524633808449">
-        <mark key="[" line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextContentViewController.kt" timestamp="1524639064484">
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="90" column="29" />
-        <mark key="." line="90" column="43" />
-        <mark key="^" line="76" column="43" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextContentViewController.kt" timestamp="1524734878292">
+        <mark key="[" line="21" column="72" />
+        <mark key="]" line="21" column="71" />
+        <mark key="." line="21" column="71" />
+        <mark key="^" line="21" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/FlexMessageViewHolder.kt" timestamp="1524711141030">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1524556591108">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1524709383731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_text.xml" timestamp="1524626586448">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="69" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1524489358456">
         <mark key="[" line="28" column="47" />
@@ -114,16 +98,15 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_text.xml" timestamp="1524559707390">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="43" column="75" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/line-android/FEATURE_FLAG" timestamp="1524730670479">
         <mark key="[" line="66" column="41" />
         <mark key="]" line="66" column="32" />
         <mark key="^" line="66" column="32" />
         <mark key="." line="66" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SearchRequestProcessorTest.kt" timestamp="1524734406648">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" timestamp="1524639948963">
         <mark key="[" line="5" column="61" />
@@ -166,11 +149,27 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524735867560">
+        <mark key="'" line="36" column="11" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/res/values/dimens_chathistory.xml" timestamp="1524554086648">
         <mark key="[" line="31" column="43" />
         <mark key="]" line="31" column="35" />
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/ContactInstructionViewControllerTest.kt" timestamp="1524735864411">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewController.kt" timestamp="1524734433871">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -196,43 +195,44 @@
       <jump line="423" column="30" filename="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" />
       <jump line="245" column="86" filename="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" />
       <jump line="433" column="27" filename="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" />
+      <jump line="28" column="11" filename="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkZFQVRVUkVfTE9OR19URVhUX01FU1NBR0UpIHsKICAgICAgICAgICAgdGV4dFZpZXcudXBkYXRlTWF4TGluZXMoKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNb2NraXRvQW5ub3RhdGlvbnMuaW5pdE1vY2tzKHRoaXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzcygiVU5VU0VEIikK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3U3R1Yi5pc0kK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWlscyB7ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWVBbGxUZXh0Q29udGVudFZpZXdDb250cm9sbGVyLmhpZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlU291cmNlVmlld0NvbnRyb2xsZXIudXBkYXRlVmlzaWJpbGl0eShtZXNzYWdlVmlld0RhdGEubWVzc2FnZVNvdXJjZVZpZXdEYXRhKQogICAgICAgIHVwZGF0ZUJhbGxvb25Sb290Vmlld01pbmltdW1XaWR0aCgpCiAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRWaXNpYmxlKCJKdXN0IHRvIGNvbmZpcm0gdGhhdCBoaWRlKCkgd29ya3MuIiwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdmlldyA9IAogICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIGZ1biBzZXRVcCgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEID09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhdEhpc3RvcnlBY3Rpdml0eSwKICAgICAgICAgICAgdmlld1N0dWIK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>viewStub</text>
       </register>
     </registers>
     <search>
@@ -251,16 +251,16 @@
         <entry>actionlist</entry>
         <entry>Comment</entry>
         <entry>action CommentWithLineComment</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
