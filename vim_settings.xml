@@ -74,12 +74,18 @@
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextViewController.kt" timestamp="1524633808449">
         <mark key="[" line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextContentViewController.kt" timestamp="1524798056638">
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="13" />
+        <mark key="." line="60" column="13" />
+        <mark key="^" line="60" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/FlexMessageViewHolder.kt" timestamp="1524711141030">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/ChatHistoryCursorAdapterTest.kt" timestamp="1524791766508" />
-      <file name="/Dummy.txt" timestamp="1524796391403">
+      <file name="/Dummy.txt" timestamp="1524797409534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1524709383731">
@@ -151,14 +157,14 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524793230848">
-        <mark key="'" line="36" column="11" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="41" column="19" />
+      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524798569813">
+        <mark key="'" line="40" column="11" />
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="47" />
+        <mark key="." line="43" column="47" />
+        <mark key="^" line="43" column="47" />
       </file>
-      <file name="/fragment.java" timestamp="1524796391418">
+      <file name="/fragment.java" timestamp="1524797409552">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/values/dimens_chathistory.xml" timestamp="1524554086648">
@@ -208,37 +214,37 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgiTm90IGluZmxhdGVkIHdoaWxlIHZpZXcgaXMgaGlkZGVuIikgeyB0YXJnZXQuaXNJbmZsYXRlZCgpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgiTm90IGluZmxhdGVkIGp1c3QgYWZ0ZXIgY3JlYXRlZCIpIHsgdGFyZ2V0LmlzSW5mbGF0ZWQoKSB9Cg==</text>
+        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgZnVuIGlzSW5mbGF0ZWQoKSA9IGxhenlDb250YWluZXJWaWV3LmlzSW5pdGlhbGl6ZWQoKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgiTm90IGluZmxhdGVkIHdoaWxlIHZpZXcgaXMgaGlkZGVuIikgeyB0YXJnZXQuaXNJbmZsYXRlZCgpIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgiTm90IGluZmxhdGVkIGp1c3QgYWZ0ZXIgY3JlYXRlZCIpIHsgdGFyZ2V0LmlzSW5mbGF0ZWQoKSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgiTm90IGluZmxhdGVkIHdoaWxlIHZpZXcgaXMgaGlkZGVuIikgeyB0YXJnZXQuaXNJbmZsYXRlZCgpIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEJvb2xlYW4gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBpcwo=</text>
+        <text encoding="base64">ICAgIEJvb2xlYW4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3U3R1Yi5pc0kK</text>
+        <text encoding="base64">ICAgIGZ1biBpcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWlscyB7ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3U3R1Yi5pc0kK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWlscyB7ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRWaXNpYmxlKCJKdXN0IHRvIGNvbmZpcm0gdGhhdCBoaWRlKCkgd29ya3MuIiwgKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>isInflated</text>
       </register>
     </registers>
     <search>
@@ -257,16 +263,16 @@
         <entry>action CommentWithLineComment</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
         <entry>action SplitVertically</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
         <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
