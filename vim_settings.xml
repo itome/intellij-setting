@@ -46,11 +46,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524734226883">
-        <mark key="[" line="192" column="74" />
-        <mark key="]" line="192" column="73" />
-        <mark key="^" line="192" column="73" />
-        <mark key="." line="192" column="73" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524808757495">
+        <mark key="[" line="248" column="121" />
+        <mark key="]" line="249" column="32" />
+        <mark key="^" line="249" column="32" />
+        <mark key="." line="249" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -243,7 +243,7 @@
         <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgZnVuIGlzVmlld0luaXRpYWxpemVkKCkgPSBsYXp5Q29udGFpbmVyVmlldy5pc0luaXRpYWxpemVkKCkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>view</text>
@@ -270,11 +270,11 @@
         <entry>action NextSplitter</entry>
         <entry>action RenameElement</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
