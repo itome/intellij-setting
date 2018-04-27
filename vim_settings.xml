@@ -46,11 +46,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524808757495">
-        <mark key="[" line="248" column="121" />
-        <mark key="]" line="249" column="32" />
-        <mark key="^" line="249" column="32" />
-        <mark key="." line="249" column="32" />
+      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524809527902">
+        <mark key="[" line="247" column="76" />
+        <mark key="]" line="247" column="75" />
+        <mark key="." line="247" column="75" />
+        <mark key="^" line="247" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -216,31 +216,31 @@
         <text encoding="base64">ICAgICAgICBiYWxsb29uUm9vdFZpZXcgPSBWaWV3KGFjdGl2aXR5KS5hcHBseSB7IGlkID0gUi5pZC5jaGF0aGlzdG9yeV9yb3dfbWVzc2FnZSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuZXZlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93Qm90dG9tQnV0dG9uSWZOZWVkZWQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuZXZlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcm9vdFZpZXcgPSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByb290Vmlldy4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB2aWV3OiBWaWV3Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcm9vdFZpZXcgPSAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByb290Vmlldy4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB2aWV3OiBWaWV3Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLlZpc2libGVGb3JUZXN0aW5nCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgZnVuIGlzVmlld0luaXRpYWxpemVkKCkgPSBsYXp5Q29udGFpbmVyVmlldy5pc0luaXRpYWxpemVkKCkKCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLlZpc2libGVGb3JUZXN0aW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
