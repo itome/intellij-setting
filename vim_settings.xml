@@ -71,12 +71,6 @@
         <mark key="^" line="26" column="7" />
         <mark key="." line="26" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextContentViewController.kt" timestamp="1524791992796">
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="59" column="21" />
-        <mark key="." line="59" column="21" />
-        <mark key="^" line="59" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/FlexMessageViewHolder.kt" timestamp="1524711141030">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="31" />
@@ -151,7 +145,7 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524792194125">
+      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524793230848">
         <mark key="'" line="36" column="11" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -232,7 +226,7 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRWaXNpYmxlKCJKdXN0IHRvIGNvbmZpcm0gdGhhdCBoaWRlKCkgd29ya3MuIiwgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -262,8 +256,8 @@
         <entry>action SplitVertically</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
         <entry>action NextSplitter</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
