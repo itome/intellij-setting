@@ -157,12 +157,11 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524798569813">
-        <mark key="'" line="40" column="11" />
-        <mark key="[" line="43" column="33" />
-        <mark key="]" line="43" column="47" />
-        <mark key="." line="43" column="47" />
-        <mark key="^" line="43" column="47" />
+      <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524806395733">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="53" column="7" />
+        <mark key="^" line="53" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1524797409552">
         <mark key="[" line="0" column="0" />
@@ -210,41 +209,41 @@
       <jump line="28" column="11" filename="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgiTm90IGluZmxhdGVkIHdoaWxlIHZpZXcgaXMgaGlkZGVuIikgeyB0YXJnZXQuaXNJbmZsYXRlZCgpIH0K</text>
+      <register name="0" type="4">
+        <text>View.OnClickListener {}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgZnVuIGlzSW5mbGF0ZWQoKSA9IGxhenlDb250YWluZXJWaWV3LmlzSW5pdGlhbGl6ZWQoKQoK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkodmlld1N0dWIsIG5ldmVyKCkpLmluZmxhdGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgiTm90IGluZmxhdGVkIGp1c3QgYWZ0ZXIgY3JlYXRlZCIpIHsgdGFyZ2V0LmlzSW5mbGF0ZWQoKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkodmlld1N0dWIsIG5ldmVyKCkpLmluZmxhdGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgiTm90IGluZmxhdGVkIHdoaWxlIHZpZXcgaXMgaGlkZGVuIikgeyB0YXJnZXQuaXNJbmZsYXRlZCgpIH0K</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkodmlld1N0dWIpLmluZmxhdGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHRlc3RTaG93KCkgewogICAgICAgIHRhcmdldC5zaG93KFZpZXcuT25DbGlja0xpc3RlbmVyIHt9KQogICAgICAgIHZlcmlmeSh2aWV3U3R1YikuaW5mbGF0ZSgpCiAgICAgICAgYXNzZXJ0VHJ1ZSB7IHRhcmdldC5pc1Nob3duKCkgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJvb2xlYW4gCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQuaGlkZSgpCiAgICAgICAgdmVyaWZ5KHZpZXdTdHViLCBuZXZlcigpKS5pbmZsYXRlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBpcwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSB7IHRhcmdldC5pc1ZpZXdJbml0aWFsaXplZCgpIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3U3R1Yi5pc0kK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWlscyB7ICB9Cg==</text>
+        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgZnVuIGlzSW5mbGF0ZWQoKSA9IGxhenlDb250YWluZXJWaWV3LmlzSW5pdGlhbGl6ZWQoKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgiTm90IGluZmxhdGVkIGp1c3QgYWZ0ZXIgY3JlYXRlZCIpIHsgdGFyZ2V0LmlzSW5mbGF0ZWQoKSB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>isInflated</text>
+        <text>never</text>
       </register>
     </registers>
     <search>
@@ -271,8 +270,8 @@
         <entry>action NextSplitter</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
