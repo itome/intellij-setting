@@ -131,6 +131,12 @@
         <mark key="^" line="66" column="32" />
         <mark key="." line="66" column="32" />
       </file>
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/build.gradle" timestamp="1525745203226">
+        <mark key="[" line="47" column="74" />
+        <mark key="]" line="47" column="73" />
+        <mark key="^" line="47" column="73" />
+        <mark key="." line="47" column="73" />
+      </file>
       <file name="/fragment.kt" timestamp="1524709383731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -257,7 +263,7 @@
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLlZpc2libGVGb3JUZXN0aW5nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>view</text>
@@ -281,7 +287,6 @@
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>Comment</entry>
         <entry>action CommentWithLineComment</entry>
         <entry>action GotoAction</entry>
@@ -290,6 +295,7 @@
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
