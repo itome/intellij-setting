@@ -65,6 +65,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/data/repository/GitHubRepository.kt" timestamp="1525751293243">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="71" />
@@ -135,6 +141,12 @@
         <mark key="]" line="47" column="73" />
         <mark key="^" line="47" column="73" />
         <mark key="." line="47" column="73" />
+      </file>
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/data/api/GitHubService.kt" timestamp="1525751271495">
+        <mark key="[" line="11" column="70" />
+        <mark key="]" line="11" column="69" />
+        <mark key="^" line="11" column="69" />
+        <mark key="." line="11" column="69" />
       </file>
       <file name="/fragment.kt" timestamp="1524709383731">
         <mark key="[" line="0" column="0" />
@@ -261,7 +273,7 @@
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text>BehaviorProcessor.create()</text>
@@ -290,10 +302,10 @@
         <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
