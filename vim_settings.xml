@@ -52,8 +52,11 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="37" column="99" />
       </file>
-      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainAction.kt" timestamp="1525746568572">
-        <mark key="." line="12" column="49" />
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainAction.kt" timestamp="1525757031956">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextMessageViewController.kt" timestamp="1524633942897">
         <mark key="[" line="12" column="17" />
@@ -279,7 +282,7 @@
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>BehaviorProcessor.create()</text>
@@ -307,11 +310,11 @@
         <entry>action SaveAll</entry>
         <entry>action RenameElement</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
