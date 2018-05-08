@@ -13,6 +13,12 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/di/UiModule.kt" timestamp="1525749842004">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" timestamp="1524639948963">
         <mark key="[" line="5" column="61" />
         <mark key="]" line="5" column="59" />
@@ -58,13 +64,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/TextMessageDetailActivity.kt" timestamp="1524642435721">
-        <mark key="'" line="26" column="84" />
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="7" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="26" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -153,25 +152,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="76" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/line-android/src/com/linecorp/chathistory/TextMessageSpanApplier.kt" timestamp="1524708737089">
-        <mark key="'" line="226" column="46" />
-        <mark key="[" line="117" column="12" />
-        <mark key="]" line="117" column="11" />
-        <mark key="^" line="117" column="11" />
-        <mark key="." line="117" column="11" />
-      </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/res/layout/main_repo_item.xml" timestamp="1525746708447">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" timestamp="1524639035895">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActivity.kt" timestamp="1525748653952" />
       <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewController.kt" timestamp="1524734433871">
@@ -276,7 +261,7 @@
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text>BehaviorProcessor.create()</text>
@@ -306,9 +291,9 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
