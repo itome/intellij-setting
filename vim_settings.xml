@@ -261,7 +261,7 @@
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>BehaviorProcessor.create()</text>
@@ -292,8 +292,8 @@
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
