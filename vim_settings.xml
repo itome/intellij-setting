@@ -28,6 +28,12 @@
         <mark key="^" line="95" column="33" />
         <mark key="." line="95" column="33" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/MessageSourceViewController.kt" timestamp="1524554761914">
         <mark key="[" line="37" column="100" />
         <mark key="]" line="37" column="99" />
@@ -71,12 +77,6 @@
         <mark key="]" line="35" column="90" />
         <mark key="." line="35" column="90" />
         <mark key="^" line="35" column="90" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_message_source.xml" timestamp="1524620123200">
         <mark key="[" line="1" column="0" />
@@ -161,7 +161,6 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActivity.kt" timestamp="1525743455051" />
       <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewController.kt" timestamp="1524734433871">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="36" />
@@ -258,7 +257,7 @@
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLlZpc2libGVGb3JUZXN0aW5nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>view</text>
@@ -289,8 +288,8 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
