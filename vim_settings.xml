@@ -8,10 +8,10 @@
         <mark key="]" line="40" column="2" />
       </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainStore.kt" timestamp="1525743507375">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="19" column="51" />
-        <mark key="^" line="19" column="51" />
-        <mark key="." line="19" column="51" />
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+        <mark key="." line="17" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" timestamp="1524639948963">
         <mark key="[" line="5" column="61" />
@@ -39,6 +39,9 @@
         <mark key="]" line="37" column="99" />
         <mark key="." line="38" column="40" />
         <mark key="^" line="37" column="99" />
+      </file>
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainAction.kt" timestamp="1525746568572">
+        <mark key="." line="12" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextMessageViewController.kt" timestamp="1524633942897">
         <mark key="[" line="12" column="17" />
@@ -263,7 +266,7 @@
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLlZpc2libGVGb3JUZXN0aW5nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>view</text>
@@ -285,17 +288,17 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>actionlist</entry>
         <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action RenameElement</entry>
         <entry>Comment</entry>
         <entry>action CommentWithLineComment</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
