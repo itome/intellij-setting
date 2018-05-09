@@ -25,7 +25,7 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActionCreator.kt" timestamp="1525743840130">
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActionCreator.kt" timestamp="1525833374045">
         <mark key="." line="27" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/ShowAllContentViewController.kt" timestamp="1524547423938">
@@ -34,11 +34,11 @@
         <mark key="^" line="95" column="33" />
         <mark key="." line="95" column="33" />
       </file>
-      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/App.kt" timestamp="1525754438584">
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/App.kt" timestamp="1525833411027">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="1" />
         <mark key="^" line="4" column="43" />
-        <mark key="." line="7" column="1" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
         <mark key="[" line="2" column="4" />
@@ -282,7 +282,7 @@
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>BehaviorProcessor.create()</text>
@@ -306,15 +306,15 @@
         <entry>Comment</entry>
         <entry>action CommentWithLineComment</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action RenameElement</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
