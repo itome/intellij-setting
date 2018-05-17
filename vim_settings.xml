@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainStore.kt" timestamp="1526565858972">
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainStore.kt" timestamp="1526570345127">
         <mark key="'" line="18" column="9" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="53" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
@@ -22,11 +22,11 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/flux/Dispatcher.kt" timestamp="1526567464422">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="15" column="3" />
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/flux/Dispatcher.kt" timestamp="1526574923633">
+        <mark key="[" line="14" column="77" />
+        <mark key="]" line="14" column="75" />
+        <mark key="^" line="14" column="75" />
+        <mark key="." line="14" column="75" />
       </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/App.kt" timestamp="1526549095875">
         <mark key="[" line="7" column="0" />
@@ -58,6 +58,10 @@
         <mark key="." line="12" column="77" />
         <mark key="^" line="12" column="77" />
       </file>
+      <file name="$USER_HOME$/Projects/GithubMVI/app/build.gradle" timestamp="1526569857658">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_main.xml" timestamp="1526561433808">
         <mark key="[" line="23" column="53" />
         <mark key="]" line="23" column="67" />
@@ -88,6 +92,12 @@
         <mark key="." line="7" column="71" />
         <mark key="^" line="7" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/core/searchlaw/SearchLawStore.kt" timestamp="1526573607704">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524808053095">
         <mark key="[" line="35" column="91" />
         <mark key="]" line="35" column="90" />
@@ -112,11 +122,16 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/core/searchlaw/SearchLawAction.kt" timestamp="1526568029320">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="43" />
+      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/data/datastore/ApiService.kt" timestamp="1526569934846">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/core/searchlaw/SearchLawAction.kt" timestamp="1526569304478">
+        <mark key="[" line="6" column="68" />
+        <mark key="]" line="6" column="75" />
+        <mark key="^" line="6" column="75" />
+        <mark key="." line="6" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_message_source.xml" timestamp="1524639942807">
         <mark key="[" line="5" column="0" />
@@ -148,11 +163,6 @@
         <mark key="^" line="11" column="69" />
         <mark key="." line="11" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values/styles.xml" timestamp="1526557266452">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/fragment.kt" timestamp="1524709383731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -165,11 +175,29 @@
         <mark key="." line="7" column="75" />
         <mark key="^" line="7" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/entity/Law.kt" timestamp="1526575857517">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/AndroidManifest.xml" timestamp="1526576159840">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="21" column="66" />
+        <mark key="." line="21" column="66" />
+        <mark key="^" line="21" column="66" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/MainActivity.kt" timestamp="1526556172277">
         <mark key="[" line="10" column="89" />
         <mark key="]" line="10" column="88" />
         <mark key="." line="10" column="88" />
         <mark key="^" line="10" column="88" />
+      </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/LibraApplication.kt" timestamp="1526576222833">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values-21/styles.xml" timestamp="1526555899787">
         <mark key="[" line="3" column="0" />
@@ -183,11 +211,21 @@
         <mark key="." line="28" column="46" />
         <mark key="^" line="28" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/datastore/remote/LawRemoteDataStore.kt" timestamp="1526574233746">
+        <mark key="[" line="8" column="83" />
+        <mark key="]" line="8" column="82" />
+        <mark key="." line="8" column="82" />
+        <mark key="^" line="8" column="82" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values/colors.xml" timestamp="1526556199757">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/data/model/AccessTokenData.kt" timestamp="1526569056704">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" timestamp="1524809527902">
         <mark key="[" line="247" column="76" />
@@ -195,24 +233,12 @@
         <mark key="." line="247" column="75" />
         <mark key="^" line="247" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/flux/Action.kt" timestamp="1526567706239">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/view/main/MainActivityUI.kt" timestamp="1526563014580">
-        <mark key="[" line="22" column="62" />
-        <mark key="]" line="22" column="63" />
-        <mark key="." line="22" column="63" />
-        <mark key="^" line="22" column="63" />
-      </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActionCreator.kt" timestamp="1526567863089">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="25" column="14" />
         <mark key="." line="17" column="74" />
         <mark key="^" line="17" column="74" />
       </file>
-      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/flux/Action.kt" timestamp="1526565239998" />
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/ShowAllContentViewController.kt" timestamp="1524547423938">
         <mark key="[" line="95" column="29" />
         <mark key="]" line="95" column="33" />
@@ -231,19 +257,11 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/RepoDetailDialogFragment.kt" timestamp="1526565905558">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="36" column="60" />
-        <mark key="]" line="36" column="59" />
-        <mark key="^" line="36" column="59" />
-        <mark key="." line="36" column="59" />
-      </file>
-      <file name="$USER_HOME$/Projects/Libra/app/build.gradle" timestamp="1526565398632">
+      <file name="$USER_HOME$/Projects/Libra/app/build.gradle" timestamp="1526573291875">
         <mark key="'" line="50" column="3" />
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="57" />
-        <mark key="." line="53" column="4" />
-        <mark key="^" line="53" column="3" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/flux/Store.kt" timestamp="1526565831302">
         <mark key="[" line="2" column="23" />
@@ -269,12 +287,16 @@
         <mark key="^" line="82" column="55" />
         <mark key="." line="82" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/ui/events/core/EventsProcessorHolder.kt" timestamp="1526564981308" />
-      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/core/searchlaw/SearchLawActionCreator.kt" timestamp="1526568023849">
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="12" column="61" />
-        <mark key="^" line="12" column="61" />
-        <mark key="." line="12" column="61" />
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/repository/LawRepository.kt" timestamp="1526575941489">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/core/searchlaw/SearchLawActionCreator.kt" timestamp="1526576257116">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextContentViewController.kt" timestamp="1524807498135">
         <mark key="[" line="67" column="26" />
@@ -282,9 +304,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="76" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/di/module/ApiModule.kt" timestamp="1526565120894">
-        <mark key="[" line="38" column="101" />
-        <mark key="]" line="38" column="100" />
+      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/di/module/ApiModule.kt" timestamp="1526572577180">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="65" />
         <mark key="^" line="38" column="100" />
         <mark key="." line="38" column="100" />
       </file>
@@ -294,11 +316,15 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActivity.kt" timestamp="1526567445283">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="41" />
+      <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActivity.kt" timestamp="1526570664398">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="38" />
         <mark key="^" line="26" column="41" />
         <mark key="." line="26" column="41" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-simplexml/2.4.0/abbf77a904b35babb70fb029b578f55338ddff20/converter-simplexml-2.4.0-sources.jar!/retrofit2/converter/simplexml/SimpleXmlConverterFactory.java" timestamp="1526571448508">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="32" column="58" />
       </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/flux/Dispatcher.kt" timestamp="1526537527741">
         <mark key="[" line="17" column="46" />
@@ -312,11 +338,11 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/view/searchlaw/SearchLawActivity.kt" timestamp="1526565696565">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="11" column="41" />
-        <mark key="^" line="11" column="41" />
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/view/searchlaw/SearchLawActivity.kt" timestamp="1526576278726">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_search_law.xml" timestamp="1526558401547">
         <mark key="[" line="9" column="17" />
@@ -330,14 +356,24 @@
         <mark key="^" line="22" column="73" />
         <mark key="." line="22" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/datastore/remote/EGovApiService.kt" timestamp="1526574253731">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllViewController.kt" timestamp="1524620004920">
         <mark key="[" line="27" column="42" />
         <mark key="]" line="27" column="41" />
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1526565752999">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/ui/repository/core/RepositoryProcessorHolder.kt" timestamp="1526575505759">
+        <mark key="'" line="22" column="6" />
+        <mark key="[" line="45" column="61" />
+        <mark key="]" line="45" column="60" />
+        <mark key="^" line="45" column="60" />
+        <mark key="." line="45" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -372,43 +408,45 @@
       <jump line="5" column="3" filename="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/view/main/MainActivityUI.kt" />
       <jump line="5" column="3" filename="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/view/searchlaw/SearchLawActivityUI.kt" />
       <jump line="48" column="3" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
+      <jump line="59" column="12" filename="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/data/datastore/ApiService.kt" />
+      <jump line="22" column="6" filename="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/ui/repository/core/RepositoryProcessorHolder.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBmZXRjaFJlcG8ocmVwb093bmVyOiBTdHJpbmcpID0gcmVwb3NpdG9yeS5mZXRjaFVzZXJSZXBvcyhyZXBvT3duZXIpCiAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKICAgICAgICAuc3Vic2NyaWJlQnkoCiAgICAgICAgICAgIG9uU3VjY2VzcyA9IHsKICAgICAgICAgICAgICAgIGRpc3BhdGNoZXIuZGlzcGF0Y2goTWFpbkFjdGlvbi5SZWZyZXNoUmVwbyhpdCkpCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG9uRXJyb3IgPSB7CiAgICAgICAgICAgICAgICBUaW1iZXIuZShpdCkKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJFcnJvciIsIGl0LnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB0eXBlOiBTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkZpbmlzaGVkIiwgaXQudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkZpbmlzaGVkIiwgaXQudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBqcC5zYXRvcnVmdWppd2FyYS5mbHV4LmZsdXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJFcnJvciIsIGl0LnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZhYkNsaWNrUHVibGlzaGVyOiBQdWJsaXNoU3ViamVjCg==</text>
+        <text encoding="base64">ICAgIDxhcHBsaWNhdGlvbgogICAgICAgIGFuZHJvaWQ6bmFtZT0iLkFwcGxpY2F0aW9uRXgiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyYXZpdHkK</text>
+        <text encoding="base64">ICAgICAgICBhcGlTZXJ2aWNlLmdldEFsbExhd3MoKQogICAgICAgICAgICAuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQogICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKICAgICAgICAgICAgLnN1YnNjcmliZSh7CiAgICAgICAgICAgICAgICBMb2cuZCgiRmluaXNoZWQiLCBpdC50b1N0cmluZygpKQogICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICBMb2cuZSgiRXJyb3IiLCBpdC50b1N0cmluZygpKQogICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXRpbgo=</text>
+        <text encoding="base64">QFJvb3QK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -418,26 +456,26 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action FindInPath</entry>
-        <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>actionlist</entry>
         <entry>Comment</entry>
         <entry>action CommentWithLineComment</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action RenameElement</entry>
         <entry>action Find</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action Generate</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Generate</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
