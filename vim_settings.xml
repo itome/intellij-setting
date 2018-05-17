@@ -7,7 +7,6 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="40" column="2" />
       </file>
-      <file name="$USER_HOME$/OSS/android_flux_example/app/src/main/java/jp/ibaraki/nobuhito/fluxexample/ListActionType.kt" timestamp="1526529574231" />
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainStore.kt" timestamp="1526531391154">
         <mark key="'" line="18" column="9" />
         <mark key="[" line="15" column="54" />
@@ -45,7 +44,6 @@
         <mark key="^" line="4" column="43" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/OSS/android_flux_example/app/src/main/java/jp/ibaraki/nobuhito/fluxexample/ListReducer.kt" timestamp="1526529605001" />
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="5" />
@@ -92,7 +90,6 @@
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/viewmodel/1.1.0/e4c0c5d65f92ccad0b0148ac2f01b540ac7a711e/viewmodel-1.1.0-sources.jar!/android/arch/lifecycle/ViewModel.java" timestamp="1526530180902" />
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="71" />
@@ -304,7 +301,7 @@
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>BehaviorProcessor.create()</text>
@@ -332,11 +329,11 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
