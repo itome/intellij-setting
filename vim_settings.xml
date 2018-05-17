@@ -71,6 +71,12 @@
         <mark key="^" line="25" column="33" />
         <mark key="." line="25" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_main.xml" timestamp="1526551585167">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" timestamp="1524549286498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -82,6 +88,12 @@
         <mark key="]" line="9" column="98" />
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
+      </file>
+      <file name="$USER_HOME$/Projects/Libra/app/build.gradle" timestamp="1526550805751">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -179,11 +191,11 @@
         <mark key="^" line="18" column="114" />
         <mark key="." line="18" column="114" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/MainActivity.kt" timestamp="1526549474477">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/MainActivity.kt" timestamp="1526552131859">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/flux/Dispatcher.kt" timestamp="1526537527741">
         <mark key="[" line="17" column="46" />
@@ -248,43 +260,44 @@
       <jump line="28" column="11" filename="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" />
       <jump line="18" column="9" filename="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainStore.kt" />
       <jump line="81" column="0" filename="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/RepoDetailDialogFragment.kt" />
+      <jump line="11" column="17" filename="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBiYWxsb29uUm9vdFZpZXcgPSBWaWV3KGFjdGl2aXR5KS5hcHBseSB7IGlkID0gUi5pZC5jaGF0aGlzdG9yeV9yb3dfbWVzc2FnZSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93Qm90dG9tQnV0dG9uSWZOZWVkZWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nID0gRGF0YUJpbmRpbmdVdGlsLnNldENvbnRlbnRWaWV3KHRoaXMsIFIubGF5b3V0LmFjdGl2aXR5X21haW4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuZXZlcigpCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBiaW5kaW5nOiBBY3Rpdml0eU1haW5CaW5kaW5nCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnRleHQgPSAiSGVsbG8iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJpbmRpbmc6IEFjdGl2aXR5TWFpbkJpbmRpbmcgPSBBY3Rpdml0eU1haW5CaW5kaW5nLmluZmxhdGUobGF5b3V0SW5mbGF0ZXIpCiAgICBwcml2dGUgbGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcm9vdFZpZXcgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb290Vmlldy4K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB2aWV3OiBWaWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJpbmRpbmcgPSBNYWluQQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>BehaviorProcessor.create()</text>
+        <text>main_activity</text>
       </register>
     </registers>
     <search>
@@ -304,16 +317,16 @@
         <entry>action CommentWithLineComment</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry>action SaveAll</entry>
         <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoAction</entry>
-        <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
