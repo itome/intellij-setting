@@ -304,7 +304,7 @@
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>BehaviorProcessor.create()</text>
@@ -334,9 +334,9 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
