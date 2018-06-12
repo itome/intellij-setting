@@ -58,15 +58,17 @@
         <mark key="." line="12" column="77" />
         <mark key="^" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/build.gradle" timestamp="1528769493716">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/Pattaya/android/build.gradle" timestamp="1528778401532">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" timestamp="1528769895345">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" timestamp="1528777714835">
+        <mark key="'" line="138" column="4" />
+        <mark key="[" line="96" column="23" />
+        <mark key="]" line="96" column="24" />
+        <mark key="^" line="142" column="52" />
+        <mark key="." line="96" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_main.xml" timestamp="1526561433808">
         <mark key="[" line="23" column="53" />
@@ -91,12 +93,6 @@
         <mark key="]" line="9" column="98" />
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/settings.gradle" timestamp="1528769048436">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="127" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -303,11 +299,11 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1528767123642">
-        <mark key="[" line="4" column="69" />
-        <mark key="]" line="4" column="69" />
-        <mark key="." line="4" column="69" />
-        <mark key="^" line="4" column="69" />
+      <file name="$USER_HOME$/Projects/Pattaya/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1528777120789">
+        <mark key="[" line="4" column="66" />
+        <mark key="]" line="4" column="68" />
+        <mark key="." line="4" column="68" />
+        <mark key="^" line="4" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/libra/android/app/build.gradle" timestamp="1527995728675">
         <mark key="[" line="98" column="24" />
@@ -443,43 +439,44 @@
       <jump line="81" column="52" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="0" column="2" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="0" column="12" filename="$USER_HOME$/Projects/Pattaya/node_modules/react-native-firebase/android/build.gradle" />
+      <jump line="139" column="4" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2.14.1</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb21waWxlT25seSAiY29tLmdvb2dsZS5maXJlYmFzZTpmaXJlYmFzZS1hZHM6MTUuMC4wIgogIGNvbXBpbGVPbmx5ICJjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLWF1dGg6MTUuMS4wIgogIGNvbXBpbGVPbmx5ICJjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLWNvbmZpZzoxNS4wLjAiCiAgY29tcGlsZU9ubHkgImNvbS5nb29nbGUuZmlyZWJhc2U6ZmlyZWJhc2UtY29yZToxNS4wLjIiCiAgY29tcGlsZU9ubHkgImNvbS5nb29nbGUuZmlyZWJhc2U6ZmlyZWJhc2UtY3Jhc2g6MTUuMC4yIgogIGNvbXBpbGVPbmx5ICJjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLWRhdGFiYXNlOjE1LjAuMCIKICBjb21waWxlT25seSAiY29tLmdvb2dsZS5maXJlYmFzZTpmaXJlYmFzZS1maXJlc3RvcmU6MTYuMC4wIgogIGNvbXBpbGVPbmx5ICJjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLWZ1bmN0aW9uczoxNS4wLjAiCiAgY29tcGlsZU9ubHkgImNvbS5nb29nbGUuZmlyZWJhc2U6ZmlyZWJhc2UtaW52aXRlczoxNS4wLjEiCiAgY29tcGlsZU9ubHkgImNvbS5nb29nbGUuZmlyZWJhc2U6ZmlyZWJhc2Utc3RvcmFnZToxNS4wLjIiCiAgY29tcGlsZU9ubHkgImNvbS5nb29nbGUuZmlyZWJhc2U6ZmlyZWJhc2UtbWVzc2FnaW5nOjE1LjAuMiIKICBjb21waWxlT25seSAiY29tLmdvb2dsZS5maXJlYmFzZTpmaXJlYmFzZS1wZXJmOjE1LjEuMCIK</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tIiAvLyBHb29nbGUncyBNYXZlbiByZXBvc2l0b3J5CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFJORmlyZWJhc2UgcmVxdWlyZWQgZGVwZW5kZW5jaWVzCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvLyBGaXJlYmFzZSBkZXBlbmRlbmNpZXMKICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtYmFzZToxNS4wLjAiCiAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdvb2dsZS5maXJlYmFzZTpmaXJlYmFzZS1jb3JlOjE1LjAuMiIK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmlyZWJhc2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIC8vIEFsbCBvZiBSZWFjdCBOYXRpdmUgKEpTLCBPYmotQyBzb3VyY2VzLCBBbmRyb2lkIGJpbmFyaWVzKSBpcyBpbnN0YWxsZWQgZnJvbSBucG0KICAgICAgICAgICAgdXJsICIkcm9vdERpci8uLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlL2FuZHJvaWQiCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJyB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1maXJlYmFzZScKcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1maXJlYmFzZScpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1maXJlYmFzZS9hbmRyb2lkJykK</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyMy4wLjEiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Macro.OptimizeImportAndReformatCode</text>
