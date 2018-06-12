@@ -59,16 +59,10 @@
         <mark key="^" line="12" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/build.gradle" timestamp="1528733572509">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" timestamp="1528733168980">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="142" column="17" />
-        <mark key="." line="97" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_main.xml" timestamp="1526561433808">
         <mark key="[" line="23" column="53" />
@@ -465,7 +459,7 @@
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nb29nbGUuZ21zOmdvb2dsZS1zZXJ2aWNlczozLjEuMCcK</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>compile</text>
@@ -496,8 +490,8 @@
         <entry>action RenameElement</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
