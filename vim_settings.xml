@@ -63,12 +63,12 @@
         <mark key="]" line="18" column="16" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" timestamp="1528777714835">
+      <file name="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" timestamp="1528872118075">
         <mark key="'" line="138" column="4" />
-        <mark key="[" line="96" column="23" />
-        <mark key="]" line="96" column="24" />
-        <mark key="^" line="142" column="52" />
-        <mark key="." line="96" column="24" />
+        <mark key="[" line="147" column="4" />
+        <mark key="]" line="147" column="4" />
+        <mark key="." line="147" column="4" />
+        <mark key="^" line="147" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_main.xml" timestamp="1526561433808">
         <mark key="[" line="23" column="53" />
@@ -443,7 +443,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2.14.1</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -452,34 +452,34 @@
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tIiAvLyBHb29nbGUncyBNYXZlbiByZXBvc2l0b3J5CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tIiAvLyBHb29nbGUncyBNYXZlbiByZXBvc2l0b3J5CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJyB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJyB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJyB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyMy4wLjEiCg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -511,9 +511,9 @@
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
         <entry>action Run</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
