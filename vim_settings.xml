@@ -485,7 +485,7 @@
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -506,7 +506,6 @@
         <entry>action CommentWithLineComment</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action ParameterInfo</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action Generate</entry>
@@ -520,6 +519,7 @@
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
