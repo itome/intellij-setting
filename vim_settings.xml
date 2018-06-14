@@ -94,11 +94,6 @@
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-twitter-signin/android/src/main/java/com/goldenowl/twittersignin/TwitterSigninPackage.java" timestamp="1528964127236">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="71" />
@@ -267,6 +262,12 @@
         <mark key="]" line="12" column="22" />
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-twitter-signin/android/src/main/java/com/goldenowl/twittersignin/TwitterSigninModule.java" timestamp="1528967426180">
+        <mark key="[" line="81" column="74" />
+        <mark key="]" line="81" column="73" />
+        <mark key="^" line="81" column="73" />
+        <mark key="." line="81" column="73" />
       </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/RepoDetailDialogFragment.kt" timestamp="1526565905558">
         <mark key="'" line="81" column="0" />
@@ -485,7 +486,7 @@
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action ToggleLineBreakpoint</text>
       </register>
     </registers>
     <search>
@@ -504,7 +505,6 @@
         <entry>actionlist</entry>
         <entry>Comment</entry>
         <entry>action CommentWithLineComment</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ParameterInfo</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
@@ -516,10 +516,11 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ToggleLineBreakpoint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
