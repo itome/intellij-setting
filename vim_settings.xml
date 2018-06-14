@@ -486,7 +486,7 @@
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -516,11 +516,11 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
