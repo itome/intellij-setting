@@ -196,7 +196,6 @@
         <mark key="." line="21" column="66" />
         <mark key="^" line="21" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-firebase/android/src/main/java/io/invertase/firebase/auth/RNFirebaseAuthPackage.java" timestamp="1528964060375" />
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/MainActivity.kt" timestamp="1526556172277">
         <mark key="[" line="10" column="89" />
         <mark key="]" line="10" column="88" />
@@ -263,7 +262,7 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-twitter-signin/android/src/main/java/com/goldenowl/twittersignin/TwitterSigninModule.java" timestamp="1528967426180">
+      <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-twitter-signin/android/src/main/java/com/goldenowl/twittersignin/TwitterSigninModule.java" timestamp="1529030360394">
         <mark key="[" line="81" column="74" />
         <mark key="]" line="81" column="73" />
         <mark key="^" line="81" column="73" />
@@ -486,7 +485,7 @@
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ToggleLineBreakpoint</text>
       </register>
     </registers>
     <search>
@@ -518,9 +517,9 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action ToggleLineBreakpoint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
