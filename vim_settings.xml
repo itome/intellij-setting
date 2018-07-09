@@ -40,6 +40,12 @@
         <mark key="." line="16" column="75" />
         <mark key="^" line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/java/com/undefd/pattaya/MainApplication.java" timestamp="1531103419967">
+        <mark key="'" line="31" column="32" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/drawable/ic_add_white_24dp.xml" timestamp="1526557608709">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="38" />
@@ -352,12 +358,12 @@
         <mark key="^" line="98" column="23" />
         <mark key="." line="98" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" timestamp="1531102320423">
+      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" timestamp="1531103606381">
         <mark key="'" line="17" column="20" />
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="22" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/TextMessageDetailViewController.kt" timestamp="1524647903875">
         <mark key="[" line="82" column="56" />
@@ -500,6 +506,7 @@
       <jump line="133" column="1" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="176" column="24" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="17" column="20" filename="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" />
+      <jump line="31" column="32" filename="$USER_HOME$/Projects/Pattaya/android/app/src/main/java/com/undefd/pattaya/MainApplication.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -512,34 +519,34 @@
         <text encoding="base64">ICogICAvLyBidW5kbGVJbkJldGE6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1ibHVyJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWJsdXInKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtYmx1ci9hbmRyb2lkJykK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5CVi5MaW5lYXJHcmFkaWVudC5MaW5lYXJHcmFkaWVudFBhY2thZ2U7CmltcG9ydCBjb20uZW50cmlhLnZpZXdzLlJOVmlld092ZXJmbG93UGFja2FnZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEJsdXJWaWV3UGFja2FnZSgpLAo=</text>
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1ibHVyJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWJsdXInKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtYmx1ci9hbmRyb2lkJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtYmx1cicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEJsdXJWaWV3UGFja2FnZSgpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXJzY3JpcHRUYXJnZXRBcGkgMjMKICAgICAgICByZW5kZXJzY3JpcHRTdXBwb3J0TW9kZUVuYWJsZWQgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtYmx1cicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJzY3JpcHRUYXJnZXRBcGkgMjMKICAgICAgICByZW5kZXJzY3JpcHRTdXBwb3J0TW9kZUVuYWJsZWQgdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1bmRsZUluQmV0YTogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
+        <text encoding="base64">ICAgIGJ1bmRsZUluQmV0YTogdHJ1ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBlbmFibGVQcm9ndWFyZEluUmVsZWFzZUJ1aWxkcwogICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoInByb2d1YXJkLWFuZHJvaWQudHh0IiksICJwcm9ndWFyZC1ydWxlcy5wcm8iCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBlbmFibGVQcm9ndWFyZEluUmVsZWFzZUJ1aWxkcwogICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoInByb2d1YXJkLWFuZHJvaWQudHh0IiksICJwcm9ndWFyZC1ydWxlcy5wcm8iCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -565,15 +572,15 @@
         <entry>action Run</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoAction</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
