@@ -63,8 +63,8 @@
         <mark key="]" line="18" column="16" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" timestamp="1531100202426">
-        <mark key="'" line="133" column="1" />
+      <file name="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" timestamp="1531101412538">
+        <mark key="'" line="176" column="24" />
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="0" />
         <mark key="^" line="49" column="65" />
@@ -94,10 +94,11 @@
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/settings.gradle" timestamp="1531100270826">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/Pattaya/android/settings.gradle" timestamp="1531101328387">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all.xml" timestamp="1524549162549">
         <mark key="[" line="7" column="29" />
@@ -351,6 +352,13 @@
         <mark key="^" line="98" column="23" />
         <mark key="." line="98" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" timestamp="1531102320423">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/TextMessageDetailViewController.kt" timestamp="1524647903875">
         <mark key="[" line="82" column="56" />
         <mark key="]" line="82" column="55" />
@@ -490,6 +498,8 @@
       <jump line="179" column="0" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="100" column="12" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="133" column="1" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
+      <jump line="176" column="24" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
+      <jump line="17" column="20" filename="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -529,7 +539,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
     </registers>
     <search>
@@ -556,14 +566,14 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SaveAll</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action RenameElement</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
