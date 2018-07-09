@@ -219,6 +219,15 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-firebase/android/src/main/java/io/invertase/firebase/auth/RNFirebaseAuth.java" timestamp="1531116432426">
+        <mark key="[" line="1354" column="8" />
+        <mark key="]" line="1354" column="7" />
+        <mark key="." line="1354" column="7" />
+        <mark key="^" line="1354" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-firebase/android/src/main/java/io/invertase/firebase/Utils.java" timestamp="1531115837216">
+        <mark key="'" line="27" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/AndroidManifest.xml" timestamp="1526576159840">
         <mark key="[" line="21" column="66" />
         <mark key="]" line="21" column="66" />
@@ -508,10 +517,11 @@
       <jump line="17" column="20" filename="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" />
       <jump line="31" column="32" filename="$USER_HOME$/Projects/Pattaya/android/app/src/main/java/com/undefd/pattaya/MainApplication.java" />
       <jump line="166" column="12" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
+      <jump line="27" column="25" filename="$USER_HOME$/Projects/Pattaya/node_modules/react-native-firebase/android/src/main/java/io/invertase/firebase/Utils.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>return</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -520,34 +530,34 @@
         <text encoding="base64">ICogICAvLyBidW5kbGVJbkJldGE6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmludmVydGFzZS5maXJlYmFzZS5STkZpcmViYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIlByb2ZpbGUiLCBhdXRoUmVzdWx0LmdldEFkZGl0aW9uYWxVc2VySW5mbygpLmdldFByb2ZpbGUoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb2xkZW5vd2wudHdpdHRlcnNpZ25pbi5Ud2l0dGVyU2lnbmluUGFja2FnZTsK</text>
+        <text encoding="base64">aW1wb3J0IGlvLmludmVydGFzZS5maXJlYmFzZS5STkZpcmViYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb2xkZW5vd2wudHdpdHRlcnNpZ25pbi5Ud2l0dGVyU2lnbmluUGFja2FnZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCBjb20uQlYuTGluZWFyR3JhZGllbnQuTGluZWFyR3JhZGllbnRQYWNrYWdlOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2ZGZkM2QyLi4uIFJlbmFtZSBhbmRyb2lkIHBhY2thZ2U6YW5kcm9pZC9hcHAvc3JjL21haW4vamF2YS9jb20vdW5kZWZkL3BhdHRheWEvTWFpbkFwcGxpY2F0aW9uLmphdmEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOmFuZHJvaWQvYXBwL3NyYy9tYWluL2phdmEvY29tL3BhdHRheWEvTWFpbkFwcGxpY2F0aW9uLmphdmEK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51bmRlZmQucGF0dGF5YS5CdWlsZENvbmZpZzsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CmltcG9ydCBjb20uQlYuTGluZWFyR3JhZGllbnQuTGluZWFyR3JhZGllbnRQYWNrYWdlOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA2ZGZkM2QyLi4uIFJlbmFtZSBhbmRyb2lkIHBhY2thZ2U6YW5kcm9pZC9hcHAvc3JjL21haW4vamF2YS9jb20vdW5kZWZkL3BhdHRheWEvTWFpbkFwcGxpY2F0aW9uLmphdmEK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFEOmFuZHJvaWQvYXBwL3NyYy9tYWluL2phdmEvY29tL3BhdHRheWEvTWFpbkFwcGxpY2F0aW9uLmphdmEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS51bmRlZmQucGF0dGF5YS5CdWlsZENvbmZpZzsK</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -562,7 +572,6 @@
         <entry>firebase-messaging</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>actionlist</entry>
         <entry>Comment</entry>
         <entry>action CommentWithLineComment</entry>
@@ -577,11 +586,12 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
