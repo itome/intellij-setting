@@ -40,10 +40,11 @@
         <mark key="." line="16" column="75" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/java/com/undefd/pattaya/MainApplication.java" timestamp="1531110014273">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/java/com/undefd/pattaya/MainApplication.java" timestamp="1531112791225">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/drawable/ic_add_white_24dp.xml" timestamp="1526557608709">
         <mark key="[" line="6" column="28" />
@@ -99,7 +100,7 @@
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/settings.gradle" timestamp="1531110258993">
+      <file name="$USER_HOME$/Projects/Pattaya/android/settings.gradle" timestamp="1531112729806">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -518,31 +519,31 @@
         <text encoding="base64">ICogICAvLyBidW5kbGVJbkJldGE6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb2xkZW5vd2wudHdpdHRlcnNpZ25pbi5Ud2l0dGVyU2lnbmluUGFja2FnZTsK</text>
+        <text encoding="base64">aW1wb3J0IGlvLmludmVydGFzZS5maXJlYmFzZS5STkZpcmViYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb2xkZW5vd2wudHdpdHRlcnNpZ25pbi5Ud2l0dGVyU2lnbmluUGFja2FnZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCBjb20uQlYuTGluZWFyR3JhZGllbnQuTGluZWFyR3JhZGllbnRQYWNrYWdlOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2ZGZkM2QyLi4uIFJlbmFtZSBhbmRyb2lkIHBhY2thZ2U6YW5kcm9pZC9hcHAvc3JjL21haW4vamF2YS9jb20vdW5kZWZkL3BhdHRheWEvTWFpbkFwcGxpY2F0aW9uLmphdmEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOmFuZHJvaWQvYXBwL3NyYy9tYWluL2phdmEvY29tL3BhdHRheWEvTWFpbkFwcGxpY2F0aW9uLmphdmEK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51bmRlZmQucGF0dGF5YS5CdWlsZENvbmZpZzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmltcG9ydCBjb20uQlYuTGluZWFyR3JhZGllbnQuTGluZWFyR3JhZGllbnRQYWNrYWdlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA2ZGZkM2QyLi4uIFJlbmFtZSBhbmRyb2lkIHBhY2thZ2U6YW5kcm9pZC9hcHAvc3JjL21haW4vamF2YS9jb20vdW5kZWZkL3BhdHRheWEvTWFpbkFwcGxpY2F0aW9uLmphdmEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFEOmFuZHJvaWQvYXBwL3NyYy9tYWluL2phdmEvY29tL3BhdHRheWEvTWFpbkFwcGxpY2F0aW9uLmphdmEK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS51bmRlZmQucGF0dGF5YS5CdWlsZENvbmZpZzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5CVi5MaW5lYXJHcmFkaWVudC5MaW5lYXJHcmFkaWVudFBhY2thZ2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
@@ -576,9 +577,9 @@
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
