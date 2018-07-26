@@ -40,11 +40,11 @@
         <mark key="." line="16" column="75" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/java/com/undefd/pattaya/MainApplication.java" timestamp="1532601660610">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="33" column="19" />
-        <mark key="^" line="33" column="19" />
-        <mark key="." line="33" column="19" />
+      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/java/com/undefd/pattaya/MainApplication.java" timestamp="1532603853734">
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="38" column="52" />
+        <mark key="^" line="38" column="52" />
+        <mark key="." line="38" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/drawable/ic_add_white_24dp.xml" timestamp="1526557608709">
         <mark key="[" line="6" column="28" />
@@ -355,12 +355,12 @@
         <mark key="^" line="98" column="23" />
         <mark key="." line="98" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" timestamp="1532600856601">
-        <mark key="'" line="18" column="20" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="63" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" timestamp="1532604021299">
+        <mark key="'" line="30" column="20" />
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/TextMessageDetailViewController.kt" timestamp="1524647903875">
         <mark key="[" line="82" column="56" />
@@ -549,7 +549,7 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIlByb2ZpbGUiLCBhdXRoUmVzdWx0LmdldEFkZGl0aW9uYWxVc2VySW5mbygpLmdldFByb2ZpbGUoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
     </registers>
     <search>
@@ -580,10 +580,10 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action NextSplitter</entry>
         <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
