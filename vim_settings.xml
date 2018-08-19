@@ -113,7 +113,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeAction.java" timestamp="1534643065174" />
       <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524808053095">
         <mark key="[" line="35" column="91" />
         <mark key="]" line="35" column="90" />
@@ -241,11 +240,11 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1534646499737">
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="258" column="0" />
-        <mark key="." line="258" column="0" />
-        <mark key="^" line="258" column="7" />
+      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1534646714628">
+        <mark key="[" line="260" column="67" />
+        <mark key="]" line="260" column="67" />
+        <mark key="." line="260" column="67" />
+        <mark key="^" line="260" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/datastore/remote/LawRemoteDataStore.kt" timestamp="1526574233746">
         <mark key="[" line="8" column="83" />
@@ -550,7 +549,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -578,13 +577,13 @@
         <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Run</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
