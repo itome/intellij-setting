@@ -69,6 +69,9 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native/android/com/facebook/react/react-native/0.55.4/react-native-0.55.4-sources.jar!/com/facebook/react/ReactActivityDelegate.java" timestamp="1534419580771">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_main.xml" timestamp="1526561433808">
         <mark key="[" line="23" column="53" />
         <mark key="]" line="23" column="67" />
@@ -505,6 +508,8 @@
       <jump line="26" column="28" filename="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" />
       <jump line="24" column="11" filename="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" />
       <jump line="179" column="0" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
+      <jump line="166" column="24" filename="$USER_HOME$/Projects/Pattaya/node_modules/react-native/android/com/facebook/react/react-native/0.55.4/react-native-0.55.4-sources.jar!/com/facebook/react/ReactActivityDelegate.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Pattaya/node_modules/react-native/android/com/facebook/react/react-native/0.55.4/react-native-0.55.4-sources.jar!/com/facebook/react/ReactActivityDelegate.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -544,7 +549,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -571,14 +576,14 @@
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
