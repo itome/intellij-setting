@@ -51,6 +51,12 @@
         <mark key="." line="12" column="77" />
         <mark key="^" line="12" column="77" />
       </file>
+      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/data/datastore/remote/LoginRemoteDataStore.kt" timestamp="1535163344743">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionReadManagerData.java" timestamp="1534653518218">
         <mark key="'" line="24" column="41" />
         <mark key="[" line="24" column="102" />
@@ -426,7 +432,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/di/module/ApiModule.kt" timestamp="1526572577180">
+      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/di/module/ApiModule.kt" timestamp="1535163811232">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="65" />
         <mark key="^" line="38" column="100" />
@@ -628,7 +634,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFVVSUQgVVVJRF9TRVJWSUNFX01BQkVFX0NPTlRST0wgPSBVVUlELmZyb21TdHJpbmcoQ29uc3RhbnRzLlVVSURfU1RSSU5HX1NFUlZJQ0VfTUFCRUVFX0NPTlRST0wpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -655,14 +661,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
