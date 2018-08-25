@@ -432,7 +432,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/di/module/ApiModule.kt" timestamp="1535163811232">
+      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/di/module/ApiModule.kt" timestamp="1535172805947">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="65" />
         <mark key="^" line="38" column="100" />
@@ -634,7 +634,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFVVSUQgVVVJRF9TRVJWSUNFX01BQkVFX0NPTlRST0wgPSBVVUlELmZyb21TdHJpbmcoQ29uc3RhbnRzLlVVSURfU1RSSU5HX1NFUlZJQ0VfTUFCRUVFX0NPTlRST0wpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -666,9 +666,9 @@
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
