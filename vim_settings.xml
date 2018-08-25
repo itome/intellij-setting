@@ -134,6 +134,12 @@
         <mark key="^" line="32" column="8" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/ui/login/core/LoginProcessorHolder.kt" timestamp="1535175289632">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_message_source.xml" timestamp="1524620123200">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="57" />
@@ -634,7 +640,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFVVSUQgVVVJRF9TRVJWSUNFX01BQkVFX0NPTlRST0wgPSBVVUlELmZyb21TdHJpbmcoQ29uc3RhbnRzLlVVSURfU1RSSU5HX1NFUlZJQ0VfTUFCRUVFX0NPTlRST0wpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -666,9 +672,9 @@
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
