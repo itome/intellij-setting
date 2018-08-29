@@ -650,7 +650,7 @@
         <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgQUxQSEFfU0VSVklDRSA9ICIyMjlCRkYwMC0wM0ZCLTQwREEtOThBNy1CMERFRjY1QzJENEIiOwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBBTFBIQV9QSU9fU0VUVElORyA9ICIyMjlCMzAwMC0wM0ZCLTQwREEtOThBNy1CMERFRjY1QzJENEIiOwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBBTFBIQV9QSU9fT1VUUFVUID0gIjIyOUIzMDAyLTAzRkItNDBEQS05OEE3LUIwREVGNjVDMkQ0QiI7CiAgICBzdGF0aWMgZmluYWwgU3RyaW5nIEFMUEhBX1BXTV9DT05GSUcgPSAiMjI5QjMwMDQtMDNGQi00MERBLTk4QTctQjBERUY2NUMyRDRCIjsKICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgQUxQSEFfUFdNX1BBUkFNRVRFUiA9ICIyMjlCMzAwNS0wM0ZCLTQwREEtOThBNy1CMERFRjY1QzJENEIiOwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBBTFBIQV9QV01fRFVUWSA9ICIyMjlCMzAwNi0wM0ZCLTQwREEtOThBNy1CMERFRjY1QzJENEIiOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -683,8 +683,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
