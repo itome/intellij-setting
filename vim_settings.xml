@@ -495,6 +495,11 @@
         <mark key="^" line="222" column="11" />
         <mark key="." line="222" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/widget/HeaderView.kt" timestamp="1536059823948">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllTextContentViewController.kt" timestamp="1524807498135">
         <mark key="[" line="67" column="26" />
         <mark key="]" line="67" column="65" />
@@ -513,6 +518,7 @@
         <mark key="." line="19" column="103" />
         <mark key="^" line="19" column="103" />
       </file>
+      <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/widget/HandwritingView.kt" timestamp="1536059915794" />
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActivity.kt" timestamp="1526570664398">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="38" />
@@ -629,31 +635,31 @@
         <text>00002902-0000-1000-8000-00805f9b34fb</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNy4wLjMiCg==</text>
+        <text encoding="base64">ICAgIAogICAgaW5pdCB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAogICAgaW5pdCB7CiAgICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNy4wLjMiCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNy4wLjMiCg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2JlaGF2aW9yPSJAc3RyaW5nL2FwcGJhcl9zY3JvbGxpbmdfdmlld19iZWhhdmlvciI=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxpbnRPcHRpb25zIHsKICAgICAgICBjaGVja1JlbGVhc2VCdWlsZHMgZmFsc2UKICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBERVNDUklQVE9SX1VVSURfU1RSSU5HID0gIjAwMDAyOTAyLTAwMDAtMTAwMC04MDAwLTAwODA1ZjliMzRmYiI7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgQUxQSEFfU0VSVklDRSA9ICIyMjlCRkYwMC0wM0ZCLTQwREEtOThBNy1CMERFRjY1QzJENEIiOwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBBTFBIQV9QSU9fU0VUVElORyA9ICIyMjlCMzAwMC0wM0ZCLTQwREEtOThBNy1CMERFRjY1QzJENEIiOwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBBTFBIQV9QSU9fT1VUUFVUID0gIjIyOUIzMDAyLTAzRkItNDBEQS05OEE3LUIwREVGNjVDMkQ0QiI7CiAgICBzdGF0aWMgZmluYWwgU3RyaW5nIEFMUEhBX1BXTV9DT05GSUcgPSAiMjI5QjMwMDQtMDNGQi00MERBLTk4QTctQjBERUY2NUMyRDRCIjsKICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgQUxQSEFfUFdNX1BBUkFNRVRFUiA9ICIyMjlCMzAwNS0wM0ZCLTQwREEtOThBNy1CMERFRjY1QzJENEIiOwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBBTFBIQV9QV01fRFVUWSA9ICIyMjlCMzAwNi0wM0ZCLTQwREEtOThBNy1CMERFRjY1QzJENEIiOwoK</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
