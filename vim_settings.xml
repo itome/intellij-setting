@@ -489,7 +489,7 @@
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeee/build.gradle" timestamp="1535521251646">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" timestamp="1536060253924">
+      <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" timestamp="1536061913662">
         <mark key="[" line="222" column="12" />
         <mark key="]" line="222" column="11" />
         <mark key="^" line="222" column="11" />
@@ -518,7 +518,12 @@
         <mark key="." line="19" column="103" />
         <mark key="^" line="19" column="103" />
       </file>
-      <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/widget/HandwritingView.kt" timestamp="1536059915794" />
+      <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/widget/HandwritingView.kt" timestamp="1536062275901">
+        <mark key="[" line="118" column="8" />
+        <mark key="]" line="118" column="7" />
+        <mark key="^" line="118" column="7" />
+        <mark key="." line="118" column="7" />
+      </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActivity.kt" timestamp="1526570664398">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="38" />
@@ -662,7 +667,7 @@
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjMiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -694,9 +699,9 @@
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
