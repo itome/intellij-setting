@@ -480,6 +480,7 @@
       <file name="/Dummy.txt" timestamp="1535334802722">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/speaker/SpeakerViewModel.kt" timestamp="1536165860095" />
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionPwmSetting.java" timestamp="1534653439486">
         <mark key="[" line="19" column="40" />
         <mark key="]" line="19" column="101" />
@@ -667,7 +668,7 @@
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjMiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -699,9 +700,9 @@
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
