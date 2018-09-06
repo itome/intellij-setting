@@ -293,6 +293,12 @@
         <mark key="^" line="4" column="43" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/schedule/day/ScheduleDayFragment.kt" timestamp="1536210426328">
+        <mark key="[" line="104" column="12" />
+        <mark key="]" line="104" column="11" />
+        <mark key="^" line="104" column="11" />
+        <mark key="." line="104" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/drawable/ic_add_white_24dp.xml" timestamp="1526557608709">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="38" />
@@ -357,6 +363,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="32" column="8" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/schedule/day/ScheduleDayAdapter.kt" timestamp="1536210440499">
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="11" />
+        <mark key="^" line="42" column="11" />
+        <mark key="." line="42" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_message_source.xml" timestamp="1524620123200">
         <mark key="[" line="1" column="0" />
@@ -663,7 +675,7 @@
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjMiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -695,9 +707,9 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
