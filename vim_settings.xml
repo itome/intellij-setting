@@ -698,7 +698,7 @@
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjMiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -730,9 +730,9 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
