@@ -497,6 +497,7 @@
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeee/build.gradle" timestamp="1535521251646">
         <mark key="'" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/util/Extensions.kt" timestamp="1536212724218" />
       <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" timestamp="1536061913662">
         <mark key="[" line="222" column="12" />
         <mark key="]" line="222" column="11" />
@@ -675,7 +676,7 @@
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjMiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -706,10 +707,10 @@
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
