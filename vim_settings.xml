@@ -15,7 +15,6 @@
         <mark key="." line="16" column="75" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/MainActivity.kt" timestamp="1536238206555" />
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionReadManagerData.java" timestamp="1534653518218">
         <mark key="'" line="24" column="41" />
         <mark key="[" line="24" column="102" />
@@ -205,11 +204,11 @@
         <mark key="." line="19" column="94" />
         <mark key="^" line="19" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/build.gradle" timestamp="1526561728688">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="4" column="29" />
+      <file name="$USER_HOME$/Projects/Libra/build.gradle" timestamp="1536638035922">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/android_flux_example/app/src/main/java/jp/ibaraki/nobuhito/fluxexample/ListActionCreator.kt" timestamp="1526530020476">
         <mark key="[" line="22" column="8" />
@@ -274,10 +273,6 @@
         <mark key="]" line="23" column="95" />
         <mark key="." line="23" column="95" />
         <mark key="^" line="23" column="95" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0-beta01/740ce61935bd789380c01178bd8ce402402ebd2f/lifecycle-livedata-2.0.0-beta01-sources.jar!/androidx/lifecycle/MediatorLiveData.java" timestamp="1536231861267" />
-      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeee/app/build.gradle" timestamp="1535521280853">
-        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/datastore/remote/EGovApiService.kt" timestamp="1526574253731">
         <mark key="[" line="8" column="20" />
@@ -495,6 +490,9 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/Libra/app/build.gradle" timestamp="1536638120104">
+        <mark key="'" line="10" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionSetting.java" timestamp="1534653553433">
         <mark key="[" line="23" column="37" />
         <mark key="]" line="23" column="94" />
@@ -507,8 +505,6 @@
         <mark key="^" line="82" column="55" />
         <mark key="." line="82" column="55" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/speaker/SpeakerViewModel.kt" timestamp="1536165860095" />
-      <file name="$USER_HOME$/OSS/iosched/build.gradle" timestamp="1536636821957" />
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionPwmSetting.java" timestamp="1534653439486">
         <mark key="[" line="19" column="40" />
         <mark key="]" line="19" column="101" />
@@ -518,7 +514,6 @@
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeee/build.gradle" timestamp="1535521251646">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/util/Extensions.kt" timestamp="1536212724218" />
       <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" timestamp="1536061913662">
         <mark key="[" line="222" column="12" />
         <mark key="]" line="222" column="11" />
@@ -663,6 +658,7 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/MaBeeeAndroid/MaBeee/build.gradle" />
       <jump line="102" column="12" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/sessions/LoadUserSessionsByDayUseCase.kt" />
       <jump line="42" column="0" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/userevent/DefaultSessionAndUserEventRepository.kt" />
+      <jump line="10" column="23" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -675,31 +671,31 @@
         <text>00002902-0000-1000-8000-00805f9b34fb</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgaW5pdCB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">dGFzayBjbGVhbih0eXBlOiBEZWxldGUpIHsKICAgIGRlbGV0ZSByb290UHJvamVjdC5idWlsZERpcgp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgaW5pdCB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjMtTTEnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNy4wLjMiCg==</text>
+        <text encoding="base64">ICAgIAogICAgaW5pdCB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAogICAgaW5pdCB7CiAgICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNy4wLjMiCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNy4wLjMiCg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2JlaGF2aW9yPSJAc3RyaW5nL2FwcGJhcl9zY3JvbGxpbmdfdmlld19iZWhhdmlvciI=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxpbnRPcHRpb25zIHsKICAgICAgICBjaGVja1JlbGVhc2VCdWlsZHMgZmFsc2UKICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
