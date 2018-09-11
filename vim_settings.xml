@@ -699,7 +699,7 @@
         <text encoding="base64">ICAgIGxpbnRPcHRpb25zIHsKICAgICAgICBjaGVja1JlbGVhc2VCdWlsZHMgZmFsc2UKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -731,9 +731,9 @@
         <entry>actions</entry>
         <entry>actionlist</entry>
         <entry>action ProjectToolWindow</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
