@@ -177,9 +177,6 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/prefs/PreferenceStorage.kt" timestamp="1536170458093">
-        <mark key="." line="48" column="69" />
-      </file>
       <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-twitter-signin/android/src/main/java/com/goldenowl/twittersignin/TwitterSigninModule.java" timestamp="1529030360394">
         <mark key="[" line="81" column="74" />
         <mark key="]" line="81" column="73" />
@@ -478,6 +475,12 @@
         <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/model/src/main/java/com/google/samples/apps/iosched/model/reservations/ReservationRequest.kt" timestamp="1536644562409" />
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/prefs/PreferenceModule.kt" timestamp="1536686471382">
+        <mark key="[" line="37" column="99" />
+        <mark key="]" line="37" column="98" />
+        <mark key="^" line="37" column="98" />
+        <mark key="." line="37" column="98" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/flux/Store.kt" timestamp="1526565831302">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="21" />
@@ -696,7 +699,7 @@
         <text encoding="base64">ICAgIGxpbnRPcHRpb25zIHsKICAgICAgICBjaGVja1JlbGVhc2VCdWlsZHMgZmFsc2UKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -711,11 +714,6 @@
         <entry>firebase-messaging</entry>
       </history-search>
       <history-cmd>
-        <entry>action CommentWithLineComment</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action ParameterInfo</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
-        <entry>action Generate</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
@@ -726,11 +724,16 @@
         <entry>action NextSplitter</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action</entry>
+        <entry>Project</entry>
+        <entry>action GotoAction</entry>
+        <entry>actions</entry>
+        <entry>actionlist</entry>
+        <entry>action ProjectToolWindow</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
