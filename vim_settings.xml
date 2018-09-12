@@ -85,6 +85,12 @@
         <mark key="^" line="6" column="75" />
         <mark key="." line="6" column="75" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/result/Event.kt" timestamp="1536735055402">
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_show_all_content.xml" timestamp="1524549105460">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -195,8 +201,12 @@
         <mark key="^" line="19" column="99" />
         <mark key="." line="19" column="99" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LauncherActivity.kt" timestamp="1536734076594">
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LauncherActivity.kt" timestamp="1536734109729">
         <mark key="'" line="40" column="68" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="7" />
+        <mark key="^" line="41" column="7" />
+        <mark key="." line="41" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionLocalName.java" timestamp="1534653029411">
         <mark key="[" line="23" column="102" />
@@ -390,6 +400,13 @@
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LaunchViewModel.kt" timestamp="1536735019441">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/ui/repository/RepositoryActivity.kt" timestamp="1530872347968">
         <mark key="[" line="32" column="24" />
@@ -665,6 +682,8 @@
       <jump line="104" column="20" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/userevent/DefaultSessionAndUserEventRepository.kt" />
       <jump line="120" column="0" filename="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/info/EventInfoViewModel.kt" />
       <jump line="40" column="68" filename="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LauncherActivity.kt" />
+      <jump line="54" column="0" filename="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LaunchViewModel.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LaunchViewModel.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -704,7 +723,7 @@
         <text encoding="base64">ICAgIGxpbnRPcHRpb25zIHsKICAgICAgICBjaGVja1JlbGVhc2VCdWlsZHMgZmFsc2UKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -735,10 +754,10 @@
         <entry>actions</entry>
         <entry>actionlist</entry>
         <entry>action ProjectToolWindow</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
