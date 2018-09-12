@@ -153,6 +153,12 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/signin/NotificationsPreferenceViewModel.kt" timestamp="1536772055061">
+        <mark key="[" line="28" column="86" />
+        <mark key="]" line="28" column="85" />
+        <mark key="^" line="28" column="85" />
+        <mark key="." line="28" column="85" />
+      </file>
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/MediatorUseCase.kt" timestamp="1536771416560" />
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainActionCreator.kt" timestamp="1526567863089">
         <mark key="[" line="17" column="0" />
@@ -582,7 +588,7 @@
         <mark key="^" line="19" column="101" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/util/Extensions.kt" timestamp="1536734058189" />
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/prefs/NotificationsPrefSaveActionUseCase.kt" timestamp="1536771987422" />
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/prefs/NotificationsPrefSaveActionUseCase.kt" timestamp="1536772065973" />
       <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" timestamp="1536061913662">
         <mark key="[" line="222" column="12" />
         <mark key="]" line="222" column="11" />
@@ -818,7 +824,7 @@
         <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0b3BMZWZ0UmFkaXVzPSJAZGltZW4vYm90dG9tX3NoZWV0X2Nvcm5lcl9yYWRpdXMiCiAgICAgICAgYW5kcm9pZDp0b3BSaWdodFJhZGl1cz0iQGRpbWVuL2JvdHRvbV9zaGVldF9jb3JuZXJfcmFkaXVzIg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -850,9 +856,9 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
