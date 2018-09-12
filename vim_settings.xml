@@ -195,6 +195,9 @@
         <mark key="^" line="19" column="99" />
         <mark key="." line="19" column="99" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LauncherActivity.kt" timestamp="1536734076594">
+        <mark key="'" line="40" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionLocalName.java" timestamp="1534653029411">
         <mark key="[" line="23" column="102" />
         <mark key="]" line="23" column="102" />
@@ -517,7 +520,7 @@
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeee/build.gradle" timestamp="1535521251646">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/util/Extensions.kt" timestamp="1536720370491" />
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/util/Extensions.kt" timestamp="1536734058189" />
       <file name="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" timestamp="1536061913662">
         <mark key="[" line="222" column="12" />
         <mark key="]" line="222" column="11" />
@@ -661,6 +664,7 @@
       <jump line="10" column="23" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
       <jump line="104" column="20" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/userevent/DefaultSessionAndUserEventRepository.kt" />
       <jump line="120" column="0" filename="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/info/EventInfoViewModel.kt" />
+      <jump line="40" column="68" filename="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LauncherActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -700,7 +704,7 @@
         <text encoding="base64">ICAgIGxpbnRPcHRpb25zIHsKICAgICAgICBjaGVja1JlbGVhc2VCdWlsZHMgZmFsc2UKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -723,7 +727,6 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
         <entry>action NextSplitter</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action</entry>
@@ -735,6 +738,7 @@
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
