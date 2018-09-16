@@ -38,10 +38,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/UseCase.kt" timestamp="1536777693157">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/UseCase.kt" timestamp="1537111306719">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524808053095">
         <mark key="[" line="35" column="91" />
@@ -602,11 +602,12 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/app/build.gradle" timestamp="1537111027540">
-        <mark key="'" line="30" column="26" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="76" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/Libra/app/build.gradle" timestamp="1537111147308">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/mobile/src/main/res/layout/fragment_schedule_filter.xml" timestamp="1536763538947">
         <mark key="[" line="43" column="0" />
@@ -791,7 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" />
       <jump line="29" column="14" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all_content.xml" />
@@ -891,6 +891,7 @@
       <jump line="16" column="11" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
       <jump line="31" column="41" filename="$USER_HOME$/Projects/Libra/core/build.gradle" />
       <jump line="30" column="26" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
+      <jump line="4" column="12" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -903,31 +904,31 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIHVmbgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0K</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgoK</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4dC5tYXRlcmlhbFZlcnNpb24gPSAnMS4wLjAtcmMwMicK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4dC5icm93c2VyVmVyc2lvbiA9ICcxLjAuMC1yYzAyJwo=</text>
+        <text encoding="base64">ICAgIGV4dC5tYXRlcmlhbFZlcnNpb24gPSAnMS4wLjAtcmMwMicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWw6bWF0ZXJpYWw6JHJvb3RQcm9qZWN0Lm1hdGVyaWFsVmVyc2lvbiIK</text>
+        <text encoding="base64">ICAgIGV4dC5icm93c2VyVmVyc2lvbiA9ICcxLjAuMC1yYzAyJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5icm93c2VyOmJyb3dzZXI6JGJyb3dzZXJWZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWw6bWF0ZXJpYWw6JHJvb3RQcm9qZWN0Lm1hdGVyaWFsVmVyc2lvbiIK</text>
       </register>
       <register name=":" type="4">
         <text>action SearchEverywhere</text>
