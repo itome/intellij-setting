@@ -312,10 +312,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/OSS/dashboard/lib/pages/main_page.dart" timestamp="1537190365462">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/OSS/dashboard/lib/pages/main_page.dart" timestamp="1537193375712">
+        <mark key="'" line="85" column="25" />
+        <mark key="[" line="123" column="12" />
+        <mark key="]" line="123" column="11" />
+        <mark key="." line="123" column="11" />
+        <mark key="^" line="123" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/di/module/ApiModule.kt" timestamp="1535172805947">
         <mark key="[" line="20" column="0" />
@@ -804,7 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="433" column="27" filename="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" />
       <jump line="28" column="11" filename="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" />
       <jump line="18" column="9" filename="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainStore.kt" />
       <jump line="81" column="0" filename="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/RepoDetailDialogFragment.kt" />
@@ -904,6 +905,7 @@
       <jump line="281" column="0" filename="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" />
       <jump line="163" column="0" filename="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" />
       <jump line="50" column="8" filename="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/widget/HandwritingView.kt" />
+      <jump line="85" column="25" filename="$USER_HOME$/OSS/dashboard/lib/pages/main_page.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -916,34 +918,34 @@
         <text encoding="base64">ICAgICBpbXBsZW1lbnRhdGlvbiAiYW5kcm9pZC5hcmNoLmxpZmVjeWNsZTpsaXZlZGF0YTokbGlmZWN5Y2xlX3ZlcnNpb24iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgTWFpblBhZ2UgZXh0ZW5kcyBTdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgTWF0ZXJpYWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpCiAgCg==</text>
+        <text encoding="base64">Y2xhc3MgTWFpblBhZ2UgZXh0ZW5kcyBTdGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgQG92ZXJyaWRlCiAgU3RyaW5nIHRvU3RyaW5nRGVlcCgKICAgICAge1N0cmluZyBwcmVmaXhMaW5lT25lOiAnJywgU3RyaW5nIHByZWZpeE90aGVyTGluZXMsIERpYWdub3N0aWNMZXZlbCBtaW5MZXZlbDogRGlhZ25vc3RpY0xldmVsCiAgICAgICAgICAuZGVidWd9KSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICBAb3ZlcnJpCiAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">CiAgQG92ZXJyaWRlCiAgU3RyaW5nIHRvU3RyaW5nRGVlcCgKICAgICAge1N0cmluZyBwcmVmaXhMaW5lT25lOiAnJywgU3RyaW5nIHByZWZpeE90aGVyTGluZXMsIERpYWdub3N0aWNMZXZlbCBtaW5MZXZlbDogRGlhZ25vc3RpY0xldmVsCiAgICAgICAgICAuZGVidWd9KSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIE1ha2UgdGhpcyBhcyBvcGVuIHNvIHRoYXQgbW9jayBpbnN0YW5jZXMgY2FuIG1vY2sgdGhpcyBtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvckxpdmVEYXRhPFJlc3VsdDxSPj4oKQogICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvcgo=</text>
+        <text encoding="base64">ICAgIC8vIE1ha2UgdGhpcyBhcyBvcGVuIHNvIHRoYXQgbW9jayBpbnN0YW5jZXMgY2FuIG1vY2sgdGhpcyBtZXRob2QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuY29yZS5yZXN1bHQuUmVzdWx0Cgo=</text>
+        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvckxpdmVEYXRhPFJlc3VsdDxSPj4oKQogICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgcmVzdWx0ID0gTWVkaWF0b3JMaXZlRGF0YTxSZXN1bHQ8Uj4+KCkKCiAgICAvLyBNYWtlIHRoaXMgYXMgb3BlbiBzbyB0aGF0IG1vY2sgaW5zdGFuY2VzIGNhbiBtb2NrIHRoaXMgbWV0aG9kCiAgICBvcGVuIGZ1biBvYnNlcnZlKCk6IE1lZGlhdG9yTGl2ZURhdGE8UmVzdWx0PFI+PiB7CiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuY29yZS5yZXN1bHQuUmVzdWx0Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -970,14 +972,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
