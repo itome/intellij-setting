@@ -64,9 +64,12 @@
         <mark key="^" line="67" column="7" />
         <mark key="." line="67" column="7" />
       </file>
-      <file name="$USER_HOME$/OSS/inKino/lib/models/event.dart" timestamp="1537176049955">
-        <mark key="'" line="46" column="8" />
-        <mark key="." line="38" column="25" />
+      <file name="$USER_HOME$/OSS/inKino/lib/models/event.dart" timestamp="1537179291628">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/values/dimens_chathistory.xml" timestamp="1524554086648">
         <mark key="[" line="31" column="43" />
@@ -810,9 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" />
-      <jump line="26" column="84" filename="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/TextMessageDetailActivity.kt" />
       <jump line="155" column="8" filename="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/TextMessageViewHolder.kt" />
       <jump line="224" column="46" filename="$USER_HOME$/Projects/line-android/src/com/linecorp/chathistory/TextMessageSpanApplier.kt" />
       <jump line="21972" column="65" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java" />
@@ -910,6 +910,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" />
       <jump line="108" column="0" filename="$USER_HOME$/Projects/flutter_app/flutter_app/lib/main.dart" />
       <jump line="46" column="8" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
+      <jump line="21" column="0" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
+      <jump line="123" column="0" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
