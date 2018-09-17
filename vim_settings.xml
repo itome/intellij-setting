@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/schedule/UserSessionMatcher.kt" timestamp="1537159291529" />
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/di/UiModule.kt" timestamp="1525749842004">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="1" />
@@ -14,6 +15,13 @@
         <mark key="]" line="16" column="42" />
         <mark key="." line="16" column="75" />
         <mark key="^" line="16" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionReadManagerData.java" timestamp="1534653518218">
+        <mark key="'" line="24" column="41" />
+        <mark key="[" line="24" column="102" />
+        <mark key="]" line="24" column="102" />
+        <mark key="." line="24" column="102" />
+        <mark key="^" line="24" column="102" />
       </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/di/AutoInjector.kt" timestamp="1526565574725">
         <mark key="[" line="53" column="63" />
@@ -33,11 +41,18 @@
         <mark key="." line="7" column="71" />
         <mark key="^" line="7" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/UseCase.kt" timestamp="1537158849827">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/UseCase.kt" timestamp="1537161763743">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/lawlist/LoadLawListUseCase.kt" timestamp="1537161063273">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewControllerTest.kt" timestamp="1524808053095">
         <mark key="[" line="35" column="91" />
@@ -57,6 +72,7 @@
         <mark key="^" line="67" column="7" />
         <mark key="." line="67" column="7" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataRepository.kt" timestamp="1537160251562" />
       <file name="$USER_HOME$/Projects/line-android/res/values/dimens_chathistory.xml" timestamp="1524554086648">
         <mark key="[" line="31" column="43" />
         <mark key="]" line="31" column="35" />
@@ -107,6 +123,13 @@
         <mark key="^" line="47" column="73" />
         <mark key="." line="47" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values/styles.xml" timestamp="1536765046462">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/view/searchlaw/SearchLawActivityUI.kt" timestamp="1526565142705">
         <mark key="[" line="7" column="76" />
         <mark key="]" line="7" column="75" />
@@ -124,6 +147,13 @@
         <mark key="]" line="23" column="99" />
         <mark key="." line="23" column="99" />
         <mark key="^" line="23" column="99" />
+      </file>
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/sessions/LoadUserSessionsByDayUseCase.kt" timestamp="1536237787765">
+        <mark key="'" line="102" column="12" />
+        <mark key="[" line="70" column="24" />
+        <mark key="]" line="70" column="23" />
+        <mark key="^" line="70" column="23" />
+        <mark key="." line="70" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionPioSetting.java" timestamp="1534653229403">
         <mark key="[" line="19" column="40" />
@@ -150,7 +180,8 @@
         <mark key="." line="8" column="82" />
         <mark key="^" line="8" column="82" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/UseCase.kt" timestamp="1536771241939">
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LaunchModule.kt" timestamp="1536720022529" />
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/UseCase.kt" timestamp="1537160139009">
         <mark key="[" line="39" column="8" />
         <mark key="]" line="39" column="7" />
         <mark key="^" line="39" column="7" />
@@ -193,6 +224,7 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.0.0-beta01/a9b4353a67cfebb94c36605deac8c2b10ce4596f/lifecycle-livedata-core-2.0.0-beta01-sources.jar!/androidx/lifecycle/MutableLiveData.java" timestamp="1536771376046" />
       <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-twitter-signin/android/src/main/java/com/goldenowl/twittersignin/TwitterSigninModule.java" timestamp="1529030360394">
         <mark key="[" line="81" column="74" />
         <mark key="]" line="81" column="73" />
@@ -322,21 +354,19 @@
         <mark key="." line="23" column="95" />
         <mark key="^" line="23" column="95" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0-beta01/740ce61935bd789380c01178bd8ce402402ebd2f/lifecycle-livedata-2.0.0-beta01-sources.jar!/androidx/lifecycle/MediatorLiveData.java" timestamp="1536776595854">
-        <mark key="'" line="126" column="8" />
-      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/datastore/remote/EGovApiService.kt" timestamp="1526574253731">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/agenda/LoadAgendaUseCase.kt" timestamp="1536771918625">
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/agenda/LoadAgendaUseCase.kt" timestamp="1537159582677">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="3" />
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/MainApplication.kt" timestamp="1536645105670" />
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" timestamp="1524639948963">
         <mark key="[" line="5" column="61" />
         <mark key="]" line="5" column="59" />
@@ -450,6 +480,13 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" timestamp="1537161829239">
+        <mark key="'" line="51" column="7" />
+        <mark key="[" line="80" column="8" />
+        <mark key="]" line="80" column="7" />
+        <mark key="^" line="80" column="7" />
+        <mark key="." line="80" column="7" />
+      </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/data/api/GitHubService.kt" timestamp="1525751271495">
         <mark key="[" line="11" column="70" />
         <mark key="]" line="11" column="69" />
@@ -519,6 +556,12 @@
         <mark key="." line="30" column="86" />
         <mark key="^" line="30" column="86" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/sessions/LoadSessionUseCase.kt" timestamp="1537159857567">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/LibraApplication.kt" timestamp="1526576222833">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="37" />
@@ -543,6 +586,13 @@
         <mark key="." line="19" column="95" />
         <mark key="^" line="19" column="95" />
       </file>
+      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1534652431294">
+        <mark key="'" line="265" column="19" />
+        <mark key="[" line="292" column="75" />
+        <mark key="]" line="292" column="83" />
+        <mark key="." line="292" column="83" />
+        <mark key="^" line="292" column="83" />
+      </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/res/values/strings.xml" timestamp="1530292288027">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="34" />
@@ -555,6 +605,7 @@
         <mark key="." line="247" column="75" />
         <mark key="^" line="247" column="75" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/di/AppModule.kt" timestamp="1536645404080" />
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/team/itome/libra/ui/main/MainActivity.kt" timestamp="1536749906816">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -567,6 +618,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/model/src/main/java/com/google/samples/apps/iosched/model/reservations/ReservationRequest.kt" timestamp="1536644562409" />
       <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/prefs/PreferenceModule.kt" timestamp="1536686471382">
         <mark key="[" line="37" column="99" />
         <mark key="]" line="37" column="98" />
@@ -645,9 +697,7 @@
         <mark key="." line="19" column="101" />
         <mark key="^" line="19" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeee/build.gradle" timestamp="1535521251646">
-        <mark key="'" line="25" column="0" />
-      </file>
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/util/Extensions.kt" timestamp="1536734058189" />
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/prefs/NotificationsPrefSaveActionUseCase.kt" timestamp="1536774584540">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -704,9 +754,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/userevent/DefaultSessionAndUserEventRepository.kt" timestamp="1536644331527">
-        <mark key="'" line="104" column="20" />
-      </file>
       <file name="$USER_HOME$/OSS/iosched/mobile/build/generated/source/kapt/debug/com/google/samples/apps/iosched/databinding/ItemFilterChipBindingImpl.java" timestamp="1536740178313">
         <mark key="[" line="109" column="12" />
         <mark key="]" line="109" column="11" />
@@ -756,6 +803,7 @@
         <mark key="." line="12" column="69" />
         <mark key="^" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/di/AppComponent.kt" timestamp="1536644844365" />
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/SeeAllViewController.kt" timestamp="1524620004920">
         <mark key="[" line="27" column="42" />
         <mark key="]" line="27" column="41" />
@@ -770,9 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" />
-      <jump line="29" column="14" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all_content.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all_content.xml" />
       <jump line="10" column="33" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all_content.xml" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" />
@@ -870,10 +915,13 @@
       <jump line="31" column="41" filename="$USER_HOME$/Projects/Libra/core/build.gradle" />
       <jump line="4" column="12" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
       <jump line="30" column="4" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/UseCase.kt" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/UseCase.kt" />
+      <jump line="51" column="7" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>compile</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -882,34 +930,34 @@
         <text encoding="base64">ICAgICBpbXBsZW1lbnRhdGlvbiAiYW5kcm9pZC5hcmNoLmxpZmVjeWNsZTpsaXZlZGF0YTokbGlmZWN5Y2xlX3ZlcnNpb24iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIE1ha2UgdGhpcyBhcyBvcGVuIHNvIHRoYXQgbW9jayBpbnN0YW5jZXMgY2FuIG1vY2sgdGhpcyBtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvckxpdmVEYXRhPFJlc3VsdDxSPj4oKQogICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvcgo=</text>
+        <text encoding="base64">ICAgIC8vIE1ha2UgdGhpcyBhcyBvcGVuIHNvIHRoYXQgbW9jayBpbnN0YW5jZXMgY2FuIG1vY2sgdGhpcyBtZXRob2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuY29yZS5yZXN1bHQuUmVzdWx0Cgo=</text>
+        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvckxpdmVEYXRhPFJlc3VsdDxSPj4oKQogICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgcmVzdWx0ID0gTWVkaWF0b3JMaXZlRGF0YTxSZXN1bHQ8Uj4+KCkKCiAgICAvLyBNYWtlIHRoaXMgYXMgb3BlbiBzbyB0aGF0IG1vY2sgaW5zdGFuY2VzIGNhbiBtb2NrIHRoaXMgbWV0aG9kCiAgICBvcGVuIGZ1biBvYnNlcnZlKCk6IE1lZGlhdG9yTGl2ZURhdGE8UmVzdWx0PFI+PiB7CiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuY29yZS5yZXN1bHQuUmVzdWx0Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIHVmbgo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgcmVzdWx0ID0gTWVkaWF0b3JMaXZlRGF0YTxSZXN1bHQ8Uj4+KCkKCiAgICAvLyBNYWtlIHRoaXMgYXMgb3BlbiBzbyB0aGF0IG1vY2sgaW5zdGFuY2VzIGNhbiBtb2NrIHRoaXMgbWV0aG9kCiAgICBvcGVuIGZ1biBvYnNlcnZlKCk6IE1lZGlhdG9yTGl2ZURhdGE8UmVzdWx0PFI+PiB7CiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIHVmbgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0K</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -936,14 +984,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
+        <entry>action Back</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
