@@ -64,6 +64,10 @@
         <mark key="^" line="67" column="7" />
         <mark key="." line="67" column="7" />
       </file>
+      <file name="$USER_HOME$/OSS/inKino/lib/models/event.dart" timestamp="1537176049955">
+        <mark key="'" line="46" column="8" />
+        <mark key="." line="38" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/res/values/dimens_chathistory.xml" timestamp="1524554086648">
         <mark key="[" line="31" column="43" />
         <mark key="]" line="31" column="35" />
@@ -83,7 +87,7 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
       </file>
-      <file name="$USER_HOME$/OSS/inKino/pubspec.yaml" timestamp="1537172833100">
+      <file name="$USER_HOME$/OSS/inKino/pubspec.yaml" timestamp="1537175625348">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="15" />
         <mark key="^" line="16" column="15" />
@@ -621,6 +625,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/OSS/inKino/lib/models/actor.dart" timestamp="1537176005888">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/OSS/iosched/mobile/src/main/res/layout/fragment_schedule_filter.xml" timestamp="1536763538947">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="57" />
@@ -800,7 +810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all_content.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_see_all.xml" />
       <jump line="26" column="84" filename="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/TextMessageDetailActivity.kt" />
@@ -900,6 +909,7 @@
       <jump line="109" column="0" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" />
       <jump line="108" column="0" filename="$USER_HOME$/Projects/flutter_app/flutter_app/lib/main.dart" />
+      <jump line="46" column="8" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -939,7 +949,7 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -970,10 +980,10 @@
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
