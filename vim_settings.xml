@@ -299,12 +299,12 @@
         <mark key="^" line="98" column="23" />
         <mark key="." line="98" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/flutter_app/flutter_app/lib/main.dart" timestamp="1537193723849">
+      <file name="$USER_HOME$/Projects/flutter_app/flutter_app/lib/main.dart" timestamp="1537193877956">
         <mark key="'" line="109" column="0" />
-        <mark key="[" line="90" column="54" />
-        <mark key="]" line="90" column="53" />
-        <mark key="^" line="90" column="53" />
-        <mark key="." line="90" column="53" />
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="1" />
+        <mark key="^" line="36" column="1" />
+        <mark key="." line="36" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/repository/LawRepository.kt" timestamp="1526575941489">
         <mark key="[" line="10" column="4" />
@@ -613,6 +613,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1537193832405" />
       <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/prefs/PreferenceModule.kt" timestamp="1536686471382">
         <mark key="[" line="37" column="99" />
         <mark key="]" line="37" column="98" />
@@ -945,7 +946,7 @@
         <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuY29yZS5yZXN1bHQuUmVzdWx0Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -962,7 +963,6 @@
       <history-cmd>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action NextSplitter</entry>
         <entry>action</entry>
         <entry>Project</entry>
@@ -976,10 +976,11 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
