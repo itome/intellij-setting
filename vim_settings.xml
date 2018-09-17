@@ -312,6 +312,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/OSS/dashboard/lib/pages/main_page.dart" timestamp="1537189199232">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/di/module/ApiModule.kt" timestamp="1535172805947">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="65" />
@@ -911,34 +916,34 @@
         <text encoding="base64">ICAgICBpbXBsZW1lbnRhdGlvbiAiYW5kcm9pZC5hcmNoLmxpZmVjeWNsZTpsaXZlZGF0YTokbGlmZWN5Y2xlX3ZlcnNpb24iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgQG92ZXJyaWRlCiAgU3RyaW5nIHRvU3RyaW5nRGVlcCgKICAgICAge1N0cmluZyBwcmVmaXhMaW5lT25lOiAnJywgU3RyaW5nIHByZWZpeE90aGVyTGluZXMsIERpYWdub3N0aWNMZXZlbCBtaW5MZXZlbDogRGlhZ25vc3RpY0xldmVsCiAgICAgICAgICAuZGVidWd9KSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICBAb3ZlcnJpCiAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">CiAgQG92ZXJyaWRlCiAgU3RyaW5nIHRvU3RyaW5nRGVlcCgKICAgICAge1N0cmluZyBwcmVmaXhMaW5lT25lOiAnJywgU3RyaW5nIHByZWZpeE90aGVyTGluZXMsIERpYWdub3N0aWNMZXZlbCBtaW5MZXZlbDogRGlhZ25vc3RpY0xldmVsCiAgICAgICAgICAuZGVidWd9KSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIE1ha2UgdGhpcyBhcyBvcGVuIHNvIHRoYXQgbW9jayBpbnN0YW5jZXMgY2FuIG1vY2sgdGhpcyBtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvckxpdmVEYXRhPFJlc3VsdDxSPj4oKQogICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvcgo=</text>
+        <text encoding="base64">ICAgIC8vIE1ha2UgdGhpcyBhcyBvcGVuIHNvIHRoYXQgbW9jayBpbnN0YW5jZXMgY2FuIG1vY2sgdGhpcyBtZXRob2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuY29yZS5yZXN1bHQuUmVzdWx0Cgo=</text>
+        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvckxpdmVEYXRhPFJlc3VsdDxSPj4oKQogICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgcmVzdWx0ID0gTWVkaWF0b3JMaXZlRGF0YTxSZXN1bHQ8Uj4+KCkKCiAgICAvLyBNYWtlIHRoaXMgYXMgb3BlbiBzbyB0aGF0IG1vY2sgaW5zdGFuY2VzIGNhbiBtb2NrIHRoaXMgbWV0aG9kCiAgICBvcGVuIGZ1biBvYnNlcnZlKCk6IE1lZGlhdG9yTGl2ZURhdGE8UmVzdWx0PFI+PiB7CiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuY29yZS5yZXN1bHQuUmVzdWx0Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIHVmbgo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgcmVzdWx0ID0gTWVkaWF0b3JMaXZlRGF0YTxSZXN1bHQ8Uj4+KCkKCiAgICAvLyBNYWtlIHRoaXMgYXMgb3BlbiBzbyB0aGF0IG1vY2sgaW5zdGFuY2VzIGNhbiBtb2NrIHRoaXMgbWV0aG9kCiAgICBvcGVuIGZ1biBvYnNlcnZlKCk6IE1lZGlhdG9yTGl2ZURhdGE8UmVzdWx0PFI+PiB7CiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIHVmbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -969,10 +974,10 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
