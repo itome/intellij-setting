@@ -321,6 +321,12 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/OSS/MvRx/sample/src/main/java/com/airbnb/mvrx/sample/features/helloworld/HelloWorldEpoxyFragment.kt" timestamp="1537163697425">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/view/searchlaw/SearchLawActivity.kt" timestamp="1526580064091">
         <mark key="[" line="21" column="55" />
         <mark key="]" line="21" column="62" />
@@ -929,7 +935,7 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -960,10 +966,10 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
