@@ -935,7 +935,7 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -965,11 +965,11 @@
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
