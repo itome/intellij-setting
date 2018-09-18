@@ -299,12 +299,11 @@
         <mark key="^" line="98" column="23" />
         <mark key="." line="98" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/flutter_app/flutter_app/lib/main.dart" timestamp="1537232329001">
-        <mark key="'" line="36" column="10" />
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="5" />
+      <file name="$USER_HOME$/Projects/flutter_app/flutter_app/lib/main.dart" timestamp="1537270983610">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/repository/LawRepository.kt" timestamp="1526575941489">
         <mark key="[" line="10" column="4" />
@@ -613,7 +612,9 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1537193832405" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1537268983436">
+        <mark key="'" line="683" column="21" />
+      </file>
       <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/prefs/PreferenceModule.kt" timestamp="1536686471382">
         <mark key="[" line="37" column="99" />
         <mark key="]" line="37" column="98" />
@@ -807,7 +808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="9" filename="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainStore.kt" />
       <jump line="81" column="0" filename="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/RepoDetailDialogFragment.kt" />
       <jump line="11" column="17" filename="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/MainActivity.kt" />
       <jump line="20" column="8" filename="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_main.xml" />
@@ -907,10 +907,11 @@
       <jump line="50" column="8" filename="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/widget/HandwritingView.kt" />
       <jump line="85" column="25" filename="$USER_HOME$/OSS/dashboard/lib/pages/main_page.dart" />
       <jump line="36" column="10" filename="$USER_HOME$/Projects/flutter_app/flutter_app/lib/main.dart" />
+      <jump line="683" column="21" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>this</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -919,34 +920,34 @@
         <text encoding="base64">ICAgICBpbXBsZW1lbnRhdGlvbiAiYW5kcm9pZC5hcmNoLmxpZmVjeWNsZTpsaXZlZGF0YTokbGlmZWN5Y2xlX3ZlcnNpb24iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgTWF0ZXJpYWwK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIENvbHVtbiBpcyBhbHNvIGxheW91dCB3aWRnZXQuIEl0IHRha2VzIGEgbGlzdCBvZiBjaGlsZHJlbiBhbmQKICAgICAgICAgIC8vIGFycmFuZ2VzIHRoZW0gdmVydGljYWxseS4gQnkgZGVmYXVsdCwgaXQgc2l6ZXMgaXRzZWxmIHRvIGZpdCBpdHMKICAgICAgICAgIC8vIGNoaWxkcmVuIGhvcml6b250YWxseSwgYW5kIHRyaWVzIHRvIGJlIGFzIHRhbGwgYXMgaXRzIHBhcmVudC4KICAgICAgICAgIC8vCiAgICAgICAgICAvLyBJbnZva2UgImRlYnVnIHBhaW50IiAocHJlc3MgInAiIGluIHRoZSBjb25zb2xlIHdoZXJlIHlvdSByYW4KICAgICAgICAgIC8vICJmbHV0dGVyIHJ1biIsIG9yIHNlbGVjdCAiVG9nZ2xlIERlYnVnIFBhaW50IiBmcm9tIHRoZSBGbHV0dGVyIHRvb2wKICAgICAgICAgIC8vIHdpbmRvdyBpbiBJbnRlbGxpSikgdG8gc2VlIHRoZSB3aXJlZnJhbWUgZm9yIGVhY2ggd2lkZ2V0LgogICAgICAgICAgLy8KICAgICAgICAgIC8vIENvbHVtbiBoYXMgdmFyaW91cyBwcm9wZXJ0aWVzIHRvIGNvbnRyb2wgaG93IGl0IHNpemVzIGl0c2VsZiBhbmQKICAgICAgICAgIC8vIGhvdyBpdCBwb3NpdGlvbnMgaXRzIGNoaWxkcmVuLiBIZXJlIHdlIHVzZSBtYWluQXhpc0FsaWdubWVudCB0bwogICAgICAgICAgLy8gY2VudGVyIHRoZSBjaGlsZHJlbiB2ZXJ0aWNhbGx5OyB0aGUgbWFpbiBheGlzIGhlcmUgaXMgdGhlIHZlcnRpY2FsCiAgICAgICAgICAvLyBheGlzIGJlY2F1c2UgQ29sdW1ucyBhcmUgdmVydGljYWwgKHRoZSBjcm9zcyBheGlzIHdvdWxkIGJlCiAgICAgICAgICAvLyBob3Jpem9udGFsKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgTWFpblBhZ2UgZXh0ZW5kcyBTdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBDZW50ZXIgaXMgYSBsYXlvdXQgd2lkZ2V0LiBJdCB0YWtlcyBhIHNpbmdsZSBjaGlsZCBhbmQgcG9zaXRpb25zIGl0CiAgICAgICAgLy8gaW4gdGhlIG1pZGRsZSBvZiB0aGUgcGFyZW50Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpCiAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBIZXJlIHdlIHRha2UgdGhlIHZhbHVlIGZyb20gdGhlIE15SG9tZVBhZ2Ugb2JqZWN0IHRoYXQgd2FzIGNyZWF0ZWQgYnkKICAgICAgICAvLyB0aGUgQXBwLmJ1aWxkIG1ldGhvZCwgYW5kIHVzZSBpdCB0byBzZXQgb3VyIGFwcGJhciB0aXRsZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQG92ZXJyaWRlCiAgU3RyaW5nIHRvU3RyaW5nRGVlcCgKICAgICAge1N0cmluZyBwcmVmaXhMaW5lT25lOiAnJywgU3RyaW5nIHByZWZpeE90aGVyTGluZXMsIERpYWdub3N0aWNMZXZlbCBtaW5MZXZlbDogRGlhZ25vc3RpY0xldmVsCiAgICAgICAgICAuZGVidWd9KSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRoaXMgbWV0aG9kIGlzIHJlcnVuIGV2ZXJ5IHRpbWUgc2V0U3RhdGUgaXMgY2FsbGVkLCBmb3IgaW5zdGFuY2UgYXMgZG9uZQogICAgLy8gYnkgdGhlIF9pbmNyZW1lbnRDb3VudGVyIG1ldGhvZCBhYm92ZS4KICAgIC8vCiAgICAvLyBUaGUgRmx1dHRlciBmcmFtZXdvcmsgaGFzIGJlZW4gb3B0aW1pemVkIHRvIG1ha2UgcmVydW5uaW5nIGJ1aWxkIG1ldGhvZHMKICAgIC8vIGZhc3QsIHNvIHRoYXQgeW91IGNhbiBqdXN0IHJlYnVpbGQgYW55dGhpbmcgdGhhdCBuZWVkcyB1cGRhdGluZyByYXRoZXIKICAgIC8vIHRoYW4gaGF2aW5nIHRvIGluZGl2aWR1YWxseSBjaGFuZ2UgaW5zdGFuY2VzIG9mIHdpZGdldHMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVGhpcyBjYWxsIHRvIHNldFN0YXRlIHRlbGxzIHRoZSBGbHV0dGVyIGZyYW1ld29yayB0aGF0IHNvbWV0aGluZyBoYXMKICAgICAgLy8gY2hhbmdlZCBpbiB0aGlzIFN0YXRlLCB3aGljaCBjYXVzZXMgaXQgdG8gcmVydW4gdGhlIGJ1aWxkIG1ldGhvZCBiZWxvdwogICAgICAvLyBzbyB0aGF0IHRoZSBkaXNwbGF5IGNhbiByZWZsZWN0IHRoZSB1cGRhdGVkIHZhbHVlcy4gSWYgd2UgY2hhbmdlZAogICAgICAvLyBfY291bnRlciB3aXRob3V0IGNhbGxpbmcgc2V0U3RhdGUoKSwgdGhlbiB0aGUgYnVpbGQgbWV0aG9kIHdvdWxkIG5vdCBiZQogICAgICAvLyBjYWxsZWQgYWdhaW4sIGFuZCBzbyBub3RoaW5nIHdvdWxkIGFwcGVhciB0byBoYXBwZW4uCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIE1ha2UgdGhpcyBhcyBvcGVuIHNvIHRoYXQgbW9jayBpbnN0YW5jZXMgY2FuIG1vY2sgdGhpcyBtZXRob2QK</text>
+        <text encoding="base64">CiAgLy8gVGhpcyB3aWRnZXQgaXMgdGhlIGhvbWUgcGFnZSBvZiB5b3VyIGFwcGxpY2F0aW9uLiBJdCBpcyBzdGF0ZWZ1bCwgbWVhbmluZwogIC8vIHRoYXQgaXQgaGFzIGEgU3RhdGUgb2JqZWN0IChkZWZpbmVkIGJlbG93KSB0aGF0IGNvbnRhaW5zIGZpZWxkcyB0aGF0IGFmZmVjdAogIC8vIGhvdyBpdCBsb29rcy4KCiAgLy8gVGhpcyBjbGFzcyBpcyB0aGUgY29uZmlndXJhdGlvbiBmb3IgdGhlIHN0YXRlLiBJdCBob2xkcyB0aGUgdmFsdWVzIChpbiB0aGlzCiAgLy8gY2FzZSB0aGUgdGl0bGUpIHByb3ZpZGVkIGJ5IHRoZSBwYXJlbnQgKGluIHRoaXMgY2FzZSB0aGUgQXBwIHdpZGdldCkgYW5kCiAgLy8gdXNlZCBieSB0aGUgYnVpbGQgbWV0aG9kIG9mIHRoZSBTdGF0ZS4gRmllbGRzIGluIGEgV2lkZ2V0IHN1YmNsYXNzIGFyZQogIC8vIGFsd2F5cyBtYXJrZWQgImZpbmFsIi4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvckxpdmVEYXRhPFJlc3VsdDxSPj4oKQogICAgcHJvdGVjdGVkIHZhbCByZXN1bHQgPSBNZWRpYXRvcgo=</text>
+        <text encoding="base64">ICAvLyBUaGlzIHdpZGdldCBpcyB0aGUgcm9vdCBvZiB5b3VyIGFwcGxpY2F0aW9uLgoK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuY29yZS5yZXN1bHQuUmVzdWx0Cgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gVGhpcyBpcyB0aGUgdGhlbWUgb2YgeW91ciBhcHBsaWNhdGlvbi4KICAgICAgICAvLwogICAgICAgIC8vIFRyeSBydW5uaW5nIHlvdXIgYXBwbGljYXRpb24gd2l0aCAiZmx1dHRlciBydW4iLiBZb3UnbGwgc2VlIHRoZQogICAgICAgIC8vIGFwcGxpY2F0aW9uIGhhcyBhIGJsdWUgdG9vbGJhci4gVGhlbiwgd2l0aG91dCBxdWl0dGluZyB0aGUgYXBwLCB0cnkKICAgICAgICAvLyBjaGFuZ2luZyB0aGUgcHJpbWFyeVN3YXRjaCBiZWxvdyB0byBDb2xvcnMuZ3JlZW4gYW5kIHRoZW4gaW52b2tlCiAgICAgICAgLy8gImhvdCByZWxvYWQiIChwcmVzcyAiciIgaW4gdGhlIGNvbnNvbGUgd2hlcmUgeW91IHJhbiAiZmx1dHRlciBydW4iLAogICAgICAgIC8vIG9yIHByZXNzIFJ1biA+IEZsdXR0ZXIgSG90IFJlbG9hZCBpbiBJbnRlbGxpSikuIE5vdGljZSB0aGF0IHRoZQogICAgICAgIC8vIGNvdW50ZXIgZGlkbid0IHJlc2V0IGJhY2sgdG8gemVybzsgdGhlIGFwcGxpY2F0aW9uIGlzIG5vdCByZXN0YXJ0ZWQu</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -974,13 +975,13 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SaveAll</entry>
         <entry>action Back</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
