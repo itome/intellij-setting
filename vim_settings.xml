@@ -948,7 +948,7 @@
         <text encoding="base64">CiAgICAgICAgLy8gVGhpcyBpcyB0aGUgdGhlbWUgb2YgeW91ciBhcHBsaWNhdGlvbi4KICAgICAgICAvLwogICAgICAgIC8vIFRyeSBydW5uaW5nIHlvdXIgYXBwbGljYXRpb24gd2l0aCAiZmx1dHRlciBydW4iLiBZb3UnbGwgc2VlIHRoZQogICAgICAgIC8vIGFwcGxpY2F0aW9uIGhhcyBhIGJsdWUgdG9vbGJhci4gVGhlbiwgd2l0aG91dCBxdWl0dGluZyB0aGUgYXBwLCB0cnkKICAgICAgICAvLyBjaGFuZ2luZyB0aGUgcHJpbWFyeVN3YXRjaCBiZWxvdyB0byBDb2xvcnMuZ3JlZW4gYW5kIHRoZW4gaW52b2tlCiAgICAgICAgLy8gImhvdCByZWxvYWQiIChwcmVzcyAiciIgaW4gdGhlIGNvbnNvbGUgd2hlcmUgeW91IHJhbiAiZmx1dHRlciBydW4iLAogICAgICAgIC8vIG9yIHByZXNzIFJ1biA+IEZsdXR0ZXIgSG90IFJlbG9hZCBpbiBJbnRlbGxpSikuIE5vdGljZSB0aGF0IHRoZQogICAgICAgIC8vIGNvdW50ZXIgZGlkbid0IHJlc2V0IGJhY2sgdG8gemVybzsgdGhlIGFwcGxpY2F0aW9uIGlzIG5vdCByZXN0YXJ0ZWQu</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -975,14 +975,14 @@
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
