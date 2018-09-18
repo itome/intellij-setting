@@ -15,6 +15,11 @@
         <mark key="." line="16" column="75" />
         <mark key="^" line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/OSS/movie-details-ui/lib/arc_banner_image.dart" timestamp="1537290581513">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/di/AutoInjector.kt" timestamp="1526565574725">
         <mark key="[" line="53" column="63" />
         <mark key="]" line="53" column="62" />
@@ -810,6 +815,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/OSS/movie-details-ui/lib/actor_scroller.dart" timestamp="1537289910506">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="31" column="35" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
@@ -951,7 +962,7 @@
         <text encoding="base64">CiAgICAgICAgLy8gVGhpcyBpcyB0aGUgdGhlbWUgb2YgeW91ciBhcHBsaWNhdGlvbi4KICAgICAgICAvLwogICAgICAgIC8vIFRyeSBydW5uaW5nIHlvdXIgYXBwbGljYXRpb24gd2l0aCAiZmx1dHRlciBydW4iLiBZb3UnbGwgc2VlIHRoZQogICAgICAgIC8vIGFwcGxpY2F0aW9uIGhhcyBhIGJsdWUgdG9vbGJhci4gVGhlbiwgd2l0aG91dCBxdWl0dGluZyB0aGUgYXBwLCB0cnkKICAgICAgICAvLyBjaGFuZ2luZyB0aGUgcHJpbWFyeVN3YXRjaCBiZWxvdyB0byBDb2xvcnMuZ3JlZW4gYW5kIHRoZW4gaW52b2tlCiAgICAgICAgLy8gImhvdCByZWxvYWQiIChwcmVzcyAiciIgaW4gdGhlIGNvbnNvbGUgd2hlcmUgeW91IHJhbiAiZmx1dHRlciBydW4iLAogICAgICAgIC8vIG9yIHByZXNzIFJ1biA+IEZsdXR0ZXIgSG90IFJlbG9hZCBpbiBJbnRlbGxpSikuIE5vdGljZSB0aGF0IHRoZQogICAgICAgIC8vIGNvdW50ZXIgZGlkbid0IHJlc2V0IGJhY2sgdG8gemVybzsgdGhlIGFwcGxpY2F0aW9uIGlzIG5vdCByZXN0YXJ0ZWQu</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -978,14 +989,14 @@
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
