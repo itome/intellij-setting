@@ -461,6 +461,13 @@
         <mark key="." line="507" column="79" />
         <mark key="^" line="507" column="79" />
       </file>
+      <file name="$USER_HOME$/OSS/Taskist/lib/ui/page_task.dart" timestamp="1537337098150">
+        <mark key="'" line="381" column="0" />
+        <mark key="[" line="382" column="2" />
+        <mark key="]" line="382" column="1" />
+        <mark key="^" line="382" column="1" />
+        <mark key="." line="382" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/entity/LawNameInfoList.kt" timestamp="1526581119595">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="18" />
@@ -824,9 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="3" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
-      <jump line="59" column="12" filename="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/data/datastore/ApiService.kt" />
-      <jump line="22" column="6" filename="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/ui/repository/core/RepositoryProcessorHolder.kt" />
       <jump line="81" column="52" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="0" column="2" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="0" column="12" filename="$USER_HOME$/Projects/Pattaya/node_modules/react-native-firebase/android/build.gradle" />
@@ -924,6 +928,9 @@
       <jump line="101" column="51" filename="$USER_HOME$/OSS/dashboard/lib/pages/main_page.dart" />
       <jump line="110" column="23" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_detail.dart" />
       <jump line="35" column="43" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_detail.dart" />
+      <jump line="159" column="41" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_task.dart" />
+      <jump line="40" column="0" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_task.dart" />
+      <jump line="381" column="0" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_task.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -963,7 +970,7 @@
         <text encoding="base64">CiAgLy8gVGhpcyB3aWRnZXQgaXMgdGhlIGhvbWUgcGFnZSBvZiB5b3VyIGFwcGxpY2F0aW9uLiBJdCBpcyBzdGF0ZWZ1bCwgbWVhbmluZwogIC8vIHRoYXQgaXQgaGFzIGEgU3RhdGUgb2JqZWN0IChkZWZpbmVkIGJlbG93KSB0aGF0IGNvbnRhaW5zIGZpZWxkcyB0aGF0IGFmZmVjdAogIC8vIGhvdyBpdCBsb29rcy4KCiAgLy8gVGhpcyBjbGFzcyBpcyB0aGUgY29uZmlndXJhdGlvbiBmb3IgdGhlIHN0YXRlLiBJdCBob2xkcyB0aGUgdmFsdWVzIChpbiB0aGlzCiAgLy8gY2FzZSB0aGUgdGl0bGUpIHByb3ZpZGVkIGJ5IHRoZSBwYXJlbnQgKGluIHRoaXMgY2FzZSB0aGUgQXBwIHdpZGdldCkgYW5kCiAgLy8gdXNlZCBieSB0aGUgYnVpbGQgbWV0aG9kIG9mIHRoZSBTdGF0ZS4gRmllbGRzIGluIGEgV2lkZ2V0IHN1YmNsYXNzIGFyZQogIC8vIGFsd2F5cyBtYXJrZWQgImZpbmFsIi4KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -994,10 +1001,10 @@
         <entry>action Back</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
