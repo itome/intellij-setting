@@ -505,12 +505,12 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" timestamp="1537337572927">
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" timestamp="1537353782735">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="1" column="27" />
+        <mark key="[" line="62" column="49" />
+        <mark key="]" line="62" column="48" />
+        <mark key="^" line="62" column="48" />
+        <mark key="." line="62" column="48" />
       </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/data/api/GitHubService.kt" timestamp="1525751271495">
         <mark key="[" line="11" column="70" />
@@ -970,7 +970,7 @@
         <text encoding="base64">CiAgLy8gVGhpcyB3aWRnZXQgaXMgdGhlIGhvbWUgcGFnZSBvZiB5b3VyIGFwcGxpY2F0aW9uLiBJdCBpcyBzdGF0ZWZ1bCwgbWVhbmluZwogIC8vIHRoYXQgaXQgaGFzIGEgU3RhdGUgb2JqZWN0IChkZWZpbmVkIGJlbG93KSB0aGF0IGNvbnRhaW5zIGZpZWxkcyB0aGF0IGFmZmVjdAogIC8vIGhvdyBpdCBsb29rcy4KCiAgLy8gVGhpcyBjbGFzcyBpcyB0aGUgY29uZmlndXJhdGlvbiBmb3IgdGhlIHN0YXRlLiBJdCBob2xkcyB0aGUgdmFsdWVzIChpbiB0aGlzCiAgLy8gY2FzZSB0aGUgdGl0bGUpIHByb3ZpZGVkIGJ5IHRoZSBwYXJlbnQgKGluIHRoaXMgY2FzZSB0aGUgQXBwIHdpZGdldCkgYW5kCiAgLy8gdXNlZCBieSB0aGUgYnVpbGQgbWV0aG9kIG9mIHRoZSBTdGF0ZS4gRmllbGRzIGluIGEgV2lkZ2V0IHN1YmNsYXNzIGFyZQogIC8vIGFsd2F5cyBtYXJrZWQgImZpbmFsIi4KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1003,8 +1003,8 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
