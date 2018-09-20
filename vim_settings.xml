@@ -15,7 +15,7 @@
         <text encoding="base64">CmltcG9ydAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -31,6 +31,7 @@
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
