@@ -3,15 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/MyApplication/app/src/main/java/com/example/s04407/myapplication/MainActivity.kt" timestamp="1537418799354">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="9" column="24" />
+      <file name="$USER_HOME$/Projects/MyApplication/app/src/main/java/com/example/s04407/myapplication/MainActivity.kt" timestamp="1537419767891">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CmltcG9ydAo=</text>
+      </register>
       <register name=":" type="4">
         <text>action ActivateProjectToolWindow</text>
       </register>
@@ -24,12 +26,20 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
