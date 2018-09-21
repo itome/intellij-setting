@@ -10,11 +10,11 @@
         <mark key="." line="20" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.sdk.android/twitter-core/3.3.0/4586b8a0b1e5836642ed4e89b9381ef8de0ae606/twitter-core-3.3.0-sources.jar!/com/twitter/sdk/android/core/TwitterSession.java" timestamp="1537495612229" />
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" timestamp="1537503258835">
-        <mark key="[" line="70" column="8" />
-        <mark key="]" line="70" column="7" />
-        <mark key="." line="70" column="7" />
-        <mark key="^" line="70" column="7" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" timestamp="1537505824983">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="3" />
+        <mark key="^" line="45" column="3" />
+        <mark key="." line="45" column="3" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Status.java" timestamp="1537492969730" />
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/repository/AuthRepository.kt" timestamp="1537494100326">
@@ -37,6 +37,12 @@
         <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopEventItem.kt" timestamp="1537427705272" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1537505769691">
+        <mark key="[" line="85" column="12" />
+        <mark key="]" line="85" column="11" />
+        <mark key="^" line="85" column="11" />
+        <mark key="." line="85" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/GrpcHeaderInterceptor.kt" timestamp="1537493255232">
         <mark key="[" line="32" column="4" />
         <mark key="]" line="32" column="3" />
@@ -74,11 +80,11 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/AppError.kt" timestamp="1537503556472">
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="63" column="7" />
-        <mark key="^" line="63" column="7" />
-        <mark key="." line="63" column="7" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/AppError.kt" timestamp="1537503742704">
+        <mark key="[" line="65" column="16" />
+        <mark key="]" line="65" column="15" />
+        <mark key="^" line="65" column="15" />
+        <mark key="." line="65" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/grpc/AddFreeBetProto.java" timestamp="1537421160627" />
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/di/DeviceModule.kt" timestamp="1537502990445" />
@@ -129,11 +135,11 @@
         <mark key="." line="30" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.60/e5c7258c893cd3fa12b85eb535dcc5d0961ba4c7/kotlin-stdlib-1.2.60-sources.jar!/kotlin/jvm/JvmClassMapping.kt" timestamp="1537422027204" />
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/ThemeViewModel.kt" timestamp="1537498727513">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="11" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/ThemeViewModel.kt" timestamp="1537505222044">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/di/AppModule.kt" timestamp="1537502932689">
         <mark key="[" line="26" column="13" />
@@ -141,6 +147,7 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/info/InfoFragment.kt" timestamp="1537504612570" />
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/AuthDataSource.kt" timestamp="1537493110063">
         <mark key="[" line="36" column="24" />
         <mark key="]" line="36" column="23" />
@@ -189,6 +196,14 @@
         <mark key="^" line="1393" column="5" />
         <mark key="." line="1393" column="5" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/3215e265c4a636ca0b3e86adcd621c5e/jars/classes.jar!/com/google/android/gms/tasks/Task.class" timestamp="1537504044649" />
+      <file name="$USER_HOME$/Projects/android/app/build.gradle" timestamp="1537435352906">
+        <mark key="'" line="112" column="51" />
+        <mark key="[" line="151" column="2" />
+        <mark key="]" line="151" column="1" />
+        <mark key="^" line="151" column="1" />
+        <mark key="." line="151" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/local/ShareType.kt" timestamp="1537422965839" />
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/extension/ThemeExtensionActivity.kt" timestamp="1537498598944" />
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/dialog/LogoutDialogFragment.kt" timestamp="1537497234511">
@@ -203,11 +218,6 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/mybet/MyBetChoiceItem.kt" timestamp="1537427906311">
-        <mark key="[" line="46" column="12" />
-        <mark key="]" line="46" column="12" />
-        <mark key="." line="46" column="12" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.13/f60b1cb54da863cfb2078dd82bd4edb18e024974/rxjava-2.1.13-sources.jar!/io/reactivex/FlowableEmitter.java" timestamp="1537492085589" />
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/AuthService.kt" timestamp="1537492516528">
         <mark key="[" line="12" column="12" />
@@ -221,11 +231,11 @@
         <mark key="^" line="29" column="7" />
         <mark key="." line="29" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/ErrorHandler.kt" timestamp="1537498733047">
-        <mark key="[" line="7" column="69" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/ErrorHandler.kt" timestamp="1537505072606">
+        <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="68" />
-        <mark key="^" line="7" column="68" />
         <mark key="." line="7" column="68" />
+        <mark key="^" line="7" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/TopDataSource.kt" timestamp="1537426718817">
         <mark key="[" line="27" column="20" />
@@ -233,12 +243,13 @@
         <mark key="^" line="27" column="19" />
         <mark key="." line="27" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginActivity.kt" timestamp="1537502752396">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginActivity.kt" timestamp="1537504714758">
         <mark key="'" line="52" column="0" />
         <mark key="k" line="138" column="12" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="147" column="4" />
+        <mark key="]" line="147" column="3" />
+        <mark key="." line="147" column="3" />
+        <mark key="^" line="147" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/di/DatabaseModule.kt" timestamp="1537502954122">
         <mark key="[" line="25" column="4" />
@@ -246,23 +257,25 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" timestamp="1537503033661">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" timestamp="1537504955840">
         <mark key="'" line="135" column="0" />
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="3" />
-        <mark key="." line="48" column="3" />
-        <mark key="^" line="48" column="3" />
+        <mark key="[" line="60" column="75" />
+        <mark key="]" line="60" column="75" />
+        <mark key="." line="60" column="75" />
+        <mark key="^" line="60" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/UserViewModel.kt" timestamp="1537496209746">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="3" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="27" column="3" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/UserViewModel.kt" timestamp="1537505125719">
+        <mark key="'" line="38" column="48" />
+        <mark key="[" line="62" column="12" />
+        <mark key="]" line="62" column="11" />
+        <mark key="^" line="62" column="11" />
+        <mark key="." line="62" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetViewModel.kt" timestamp="1537503459241">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetViewModel.kt" timestamp="1537503775878">
+        <mark key="[" line="232" column="4" />
+        <mark key="]" line="232" column="3" />
+        <mark key="." line="232" column="3" />
+        <mark key="^" line="232" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/ExchangePointDataSource.kt" timestamp="1537422672307" />
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/repository/UserRepository.kt" timestamp="1537495044924">
@@ -295,43 +308,47 @@
       <jump line="95" column="39" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" />
       <jump line="133" column="0" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
       <jump line="62" column="55" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/point/PointActivity.kt" />
+      <jump line="38" column="48" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/UserViewModel.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVHdpdHRlckNvcmUuZ2V0SW5zdGFuY2UoKS5zZXNzaW9uTWFuYWdlci5hY3RpdmVTZXNzaW9uLmF1dGhUb2tlbi50b2tlbiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJldHJ5V2hlbiB7IGl0LmZsYXRNYXAgeyBpdGggfSB9Cg==</text>
+        <text encoding="base64">CmZ1biByZXRyeUFmdGVyUmVsb2dpbihPYnNlcnZhYmxlPFRocm93YWJsZT4pIHsKICAgIHJldHVybiBsb2dpbgp9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJldHJ5V2hlbiB7ICB9Cg==</text>
+      <register name="2" type="4">
+        <text>.subscribe {
+                    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJldHJ5IHsgaSB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJldHJ5V2hlbiB7IH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJldHJ5IHsgaSB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmaXJlYmFzZUF1dGguc2lnbkluV2l0aENyZWRlbnRpYWwoCiAgICAgICAgICAgIFR3aXR0ZXJBdXRoUHJvdmlkZXIuZ2V0Q3JlZGVudGlhbCh0b2tlbiwgc2VjcmV0KQogICAgICAgICkuYWRkT25TdWNjZXNzTGlzdGVuZXIgewogICAgICAgICAgICBpZFRva2VuU3ViamVjdC56aXBXaXRoKE9ic2VydmFibGUuanVzdChpdCkpCiAgICAgICAgICAgICAgICAudG9GbG93YWJsZShCYWNrcHJlc3N1cmVTdHJhdGVneS5MQVRFU1QpCiAgICAgICAgICAgICAgICAuZmxhdE1hcCB7CiAgICAgICAgICAgICAgICAgICAgYXV0aFJlcG9zaXRvcnkuYXV0aCgKICAgICAgICAgICAgICAgICAgICAgICAgaXQuZmlyc3QudG9rZW4hISwKICAgICAgICAgICAgICAgICAgICAgICAgQXV0aFByb3ZpZGVyVHlwZVByb3RvLkF1dGhQcm92aWRlclR5cGUuVFdJVFRFUiwKICAgICAgICAgICAgICAgICAgICAgICAgdG9rZW4sCiAgICAgICAgICAgICAgICAgICAgICAgIHNlY3JldAogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5mbGF0TWFwIHsKICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZUlkUmVwb3NpdG9yeS5yZWZyZXNoKCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5mbGF0TWFwIHsKICAgICAgICAgICAgICAgICAgICB1c2VyUmVwb3NpdG9yeS5nZXRNZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQogICAgICAgICAgICAgICAgLm1hcCB7IFJlc3VsdC5zdWNjZXNzKGl0KSB9CiAgICAgICAgICAgICAgICAuZG9PbkVycm9yKGRlZmF1bHRFcnJvckhhbmRsZXIoKSkKICAgICAgICAgICAgICAgIC5vbkVycm9yUmV0dXJuIHsgUmVzdWx0LmZhaWx1cmUoaXQpIH0KICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAgICAgLmRvT25OZXh0IHsKICAgICAgICAgICAgICAgICAgICBGaXJlYmFzZU1lc3NhZ2luZy5nZXRJbnN0YW5jZSgpLnN1YnNjcmliZVRvVG9waWMoVE9QSUNfTE9HSU4pCiAgICAgICAgICAgICAgICAgICAgX2xvZ2luLnBvc3RWYWx1ZShpdCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoKQogICAgICAgICAgICAgICAgLmFkZFRvKGRpc3Bvc2FibGUpCiAgICAgICAgfS5hZGRPbkZhaWx1cmVMaXN0ZW5lciB7CiAgICAgICAgICAgIC8vIOOCouOCq+OCpuODs+ODiOOBq+e0kOS7mOOBhOOBpuOBhOOCi+ODoeODvOODq+OCouODieODrOOCueOBjOOBmeOBp+OBq+WIpeOBruOCouOCq+OCpuODs+ODiOOBp+S9v+eUqOOBleOCjOOBpuOBhOOCi+WgtOWQiOWkseaVl+OBmeOCiwogICAgICAgICAgICBfbG9naW4ucG9zdFZhbHVlKFJlc3VsdC5mYWlsdXJlKGl0KSkKICAgICAgICB9CiAgICAgICAgX2xvZ2luLnBvc3RWYWx1ZShSZXN1bHQubG9hZGluZygpKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcGxldGFibGUK</text>
+      </register>
+      <register name="7" type="4">
+        <text>.addOnCompleteListener {
+            return@addOnCompleteListener Completable.complete()
+        }</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcGxldGFibGUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZSB7IF90aGVtZS5wb3N0VmFsdWUoKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJldHJ5V2hlbiB7IGl0LmZsYXRNYXAgeyBpdGggfSB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>UnAutho</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
@@ -347,13 +364,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Run</entry>
-        <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Back</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -382,6 +400,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
