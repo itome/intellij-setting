@@ -726,8 +726,8 @@
         <mark key="^" line="52" column="55" />
         <mark key="." line="52" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" timestamp="1537780665532">
-        <mark key="'" line="202" column="16" />
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" timestamp="1537781408710">
+        <mark key="'" line="60" column="0" />
         <mark key="[" line="13" column="52" />
         <mark key="]" line="13" column="51" />
         <mark key="." line="13" column="51" />
@@ -791,6 +791,12 @@
         <mark key="]" line="67" column="65" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="76" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivity.kt" timestamp="1537781455334">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="16" column="77" />
+        <mark key="^" line="16" column="77" />
+        <mark key="." line="16" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/app/src/beta/res/values/strings.xml" timestamp="1530292210415">
         <mark key="[" line="1" column="36" />
@@ -895,7 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="1" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="176" column="24" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="17" column="20" filename="$USER_HOME$/Projects/Pattaya/android/app/src/main/AndroidManifest.xml" />
       <jump line="31" column="32" filename="$USER_HOME$/Projects/Pattaya/android/app/src/main/java/com/undefd/pattaya/MainApplication.java" />
@@ -995,6 +1000,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
       <jump line="162" column="38" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" />
       <jump line="189" column="16" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1007,31 +1013,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMThkcCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9sb2dpbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMjRkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnQ9IkBjb2xvci9sb2dpbl90d2l0dGVyX2JhY2tncm91bmQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMjRkcCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvV2lkZ2V0LkFwcENvbXBhdC5CdXR0b24uQ29sb3JlZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnQ9IkBjb2xvci9sb2dpbl90d2l0dGVyX2JhY2tncm91bmQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvV2lkZ2V0LkFwcENvbXBhdC5CdXR0b24uQ29sb3JlZCIK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnQ9IkBjb2xvci9sb2dpbl9jb25maXJtX2JhY2tncm91bmQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvV2lkZ2V0LkFwcENvbXBhdC5CdXR0b24uQ29sb3JlZCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnQ9IkBjb2xvci9sb2dpbl9jb25maXJtX2JhY2tncm91bmQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSIxNmRwIgogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjE2ZHAiCg==</text>
+        <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
