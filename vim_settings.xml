@@ -140,6 +140,10 @@
         <mark key="^" line="47" column="73" />
         <mark key="." line="47" column="73" />
       </file>
+      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/res/layout/fragment_customize_schedule.xml" timestamp="1537765443146">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="37" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/view/searchlaw/SearchLawActivityUI.kt" timestamp="1526565142705">
         <mark key="[" line="7" column="76" />
         <mark key="]" line="7" column="75" />
@@ -530,7 +534,7 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" timestamp="1537617990891">
+      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" timestamp="1537765444649">
         <mark key="'" line="109" column="0" />
         <mark key="[" line="60" column="4" />
         <mark key="]" line="60" column="3" />
@@ -718,11 +722,11 @@
         <mark key="^" line="52" column="55" />
         <mark key="." line="52" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" timestamp="1537629066100">
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="20" column="53" />
-        <mark key="." line="20" column="53" />
-        <mark key="^" line="20" column="76" />
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" timestamp="1537765598065">
+        <mark key="[" line="31" column="50" />
+        <mark key="]" line="31" column="68" />
+        <mark key="." line="31" column="68" />
+        <mark key="^" line="31" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/TextMessageDetailViewController.kt" timestamp="1524647903875">
         <mark key="[" line="82" column="56" />
@@ -730,7 +734,7 @@
         <mark key="^" line="82" column="55" />
         <mark key="." line="82" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537627575207">
+      <file name="/Dummy.txt" timestamp="1537764804445">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/mobile/build/generated/source/kapt/debug/com/google/samples/apps/iosched/databinding/FragmentScheduleFilterBindingImpl.java" timestamp="1536776736210">
@@ -983,43 +987,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>image_view_logo</text>
+        <text>@id/guideline_start</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICBpbXBsZW1lbnRhdGlvbiAiYW5kcm9pZC5hcmNoLmxpZmVjeWNsZTpsaXZlZGF0YTokbGlmZWN5Y2xlX3ZlcnNpb24iCg==</text>
+        <text encoding="base64">CiAgICA8YW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuR3VpZGVsaW5lCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfc3RhcnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRHdWlkZV9iZWdpbj0iQGRpbWVuL29uYm9hcmRpbmdfbWFyZ2lucyIgLz4KCiAgICA8YW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuR3VpZGVsaW5lCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfZW5kIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50R3VpZGVfZW5kPSJAZGltZW4vb25ib2FyZGluZ19tYXJnaW5zIiAvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b1RvcE9mPSJAaWQvdGV4dF9zaWduX2luX3RvX2NvbnRpbnVlIg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjMyZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMzJkcCIK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9IkAraWQvaW1hZ2VfbG9nbyIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9pbWFnZV9sb2dvIg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuR3VpZGVsaW5lCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIvPgoK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dEZvbnRXZWlnaHQ9ImxpZ2h0Ig==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludFJpZ2h0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDp3aW5kb3dMaWdodFN0YXR1c0JhciI+dHJ1ZTwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnN0YXR1c0JhckNvbG9yIj5AYW5kcm9pZDpjb2xvci9ibGFjazwvaXRlbT4K</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9IkAraWQvaW1hZ2VfbG9nbyIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9pbWFnZV9sb2dvIiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0iQCtpZC9pbWFnZV9sb2dvIgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJ3aW5kb3dBY3RpbyIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b1RvcE9mPSJAaWQvdGV4dF9zaWduX2luX3RvX2NvbnRpbnVlIg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhY3Rpb25CYXJTdHlsZSI+QDwvaXRlbT4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9IkAraWQvaW1hZ2VfbG9nbyIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9pbWFnZV9sb2dvIg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGFwcDpsYXlvdXRfZ29uZU1hcmdpblRvcD0iMTZkcCI=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dEZvbnRXZWlnaHQ9ImxpZ2h0Ig==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -1051,9 +1055,9 @@
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
