@@ -724,11 +724,11 @@
         <mark key="^" line="52" column="55" />
         <mark key="." line="52" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" timestamp="1537766547160">
-        <mark key="[" line="41" column="64" />
-        <mark key="]" line="41" column="63" />
-        <mark key="." line="41" column="63" />
-        <mark key="^" line="41" column="63" />
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" timestamp="1537769972033">
+        <mark key="[" line="52" column="40" />
+        <mark key="]" line="52" column="38" />
+        <mark key="." line="52" column="38" />
+        <mark key="^" line="52" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/TextMessageDetailViewController.kt" timestamp="1524647903875">
         <mark key="[" line="82" column="56" />
@@ -736,7 +736,7 @@
         <mark key="^" line="82" column="55" />
         <mark key="." line="82" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537764804445">
+      <file name="/Dummy.txt" timestamp="1537769728999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/mobile/build/generated/source/kapt/debug/com/google/samples/apps/iosched/databinding/FragmentScheduleFilterBindingImpl.java" timestamp="1536776736210">
@@ -989,13 +989,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>welcome_back</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfc3RhcnQiCg==</text>
+        <text encoding="base64">CiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dF9zaWduX2luX3RvX2NvbnRpbnVlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3dlbGNvbWVfYmFjayIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyNGRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3IvYmxhY2siCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjI0c3AiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9IkBpZC9pbWFnZV9sb2dvIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL2ltYWdlX2xvZ28iIC8+Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQ=</text>
@@ -1025,7 +1025,7 @@
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfc3RhcnQiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1055,11 +1055,11 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
