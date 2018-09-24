@@ -110,10 +110,11 @@
       <file name="$USER_HOME$/OSS/dashboard/lib/pages/item_reviews_page.dart" timestamp="1537285990358">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/values/styles.xml" timestamp="1537628584570">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/values/styles.xml" timestamp="1537774638748">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="83" />
+        <mark key="." line="15" column="83" />
+        <mark key="^" line="15" column="83" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/result/Event.kt" timestamp="1536771006787">
         <mark key="'" line="0" column="0" />
@@ -301,6 +302,12 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/values/colors.xml" timestamp="1537774630295">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+        <mark key="^" line="9" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values/strings.xml" timestamp="1536765924521">
         <mark key="[" line="3" column="39" />
         <mark key="]" line="3" column="44" />
@@ -358,11 +365,11 @@
         <mark key="." line="123" column="11" />
         <mark key="^" line="123" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/values/strings.xml" timestamp="1537628725288">
-        <mark key="[" line="4" column="54" />
-        <mark key="]" line="5" column="57" />
-        <mark key="^" line="5" column="57" />
-        <mark key="." line="5" column="57" />
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/values/strings.xml" timestamp="1537773321842">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/GithubMVI/app/src/main/java/com/itome/githubmvi/di/module/ApiModule.kt" timestamp="1535172805947">
         <mark key="[" line="20" column="0" />
@@ -724,11 +731,11 @@
         <mark key="^" line="52" column="55" />
         <mark key="." line="52" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" timestamp="1537769972033">
-        <mark key="[" line="52" column="40" />
-        <mark key="]" line="52" column="38" />
-        <mark key="." line="52" column="38" />
-        <mark key="^" line="52" column="38" />
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_login.xml" timestamp="1537774686892">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="52" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="135" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/TextMessageDetailViewController.kt" timestamp="1524647903875">
         <mark key="[" line="82" column="56" />
@@ -989,43 +996,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>welcome_back</text>
+        <text>darker_gray</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dF9zaWduX2luX3RvX2NvbnRpbnVlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3dlbGNvbWVfYmFjayIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyNGRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3IvYmxhY2siCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjI0c3AiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9IkBpZC9pbWFnZV9sb2dvIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL2ltYWdlX2xvZ28iIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL2JsYWNrIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQ=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvZ3VpZGVsaW5lX3N0YXJ0Igo=</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvckNvbnRyb2xIaWdobGlnaHQiPkBjb2xvci9jb2xvckFjY2VudDwvaXRlbT4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9IkBpZC9ndWlkZWxpbmVfZW5kIg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZWxpbmUK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9jdXN0b21pemU=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZG9pbmcK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9jdXN0b21pemUi</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nSG9yaXpvbnRhbD0iIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL2JlbmVmaXRzIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfc3RhcnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjEyZHAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQGlkL2d1aWRlbGluZV9lbmQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjEyZHAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfc3RhcnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTJkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjEyZHAiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1055,11 +1062,11 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
