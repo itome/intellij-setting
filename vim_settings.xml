@@ -10,10 +10,10 @@
         <mark key="." line="20" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.sdk.android/twitter-core/3.3.0/4586b8a0b1e5836642ed4e89b9381ef8de0ae606/twitter-core-3.3.0-sources.jar!/com/twitter/sdk/android/core/TwitterSession.java" timestamp="1537495612229" />
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" timestamp="1537839054364">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" timestamp="1537839611492">
         <mark key="'" line="114" column="50" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="71" column="31" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="58" column="4" />
         <mark key="." line="72" column="11" />
         <mark key="^" line="72" column="11" />
       </file>
@@ -142,12 +142,11 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopViewModel.kt" timestamp="1537524007942">
-        <mark key="j" line="30" column="0" />
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="29" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopViewModel.kt" timestamp="1537839936127">
+        <mark key="[" line="76" column="34" />
+        <mark key="]" line="76" column="33" />
+        <mark key="." line="76" column="33" />
+        <mark key="^" line="76" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/viewmodel/BaseViewModel.java" timestamp="1537513539451">
         <mark key="[" line="2" column="26" />
@@ -171,12 +170,12 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/viewmodel/BaseViewModel.kt" timestamp="1537839230654">
-        <mark key="'" line="36" column="8" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="16" />
-        <mark key="^" line="44" column="22" />
-        <mark key="." line="44" column="16" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/viewmodel/BaseViewModel.kt" timestamp="1537839883023">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="44" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/info/InfoFragment.kt" timestamp="1537504612570" />
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/AuthDataSource.kt" timestamp="1537524254971">
@@ -377,43 +376,45 @@
       <jump line="25" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/StatusException.java" />
       <jump line="35" column="8" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/viewmodel/BaseViewModel.kt" />
       <jump line="249" column="53" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetViewModel.kt" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/viewmodel/BaseViewModel.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/viewmodel/BaseViewModel.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJlYmFzZUF1dGguc2lnbkluV2l0aENyZWRlbnRpYWwoCiAgICAgICAgICAgIFR3aXR0ZXJBdXRoUHJvdmlkZXIuZ2V0Q3JlZGVudGlhbCh0b2tlbiwgc2VjcmV0KQogICAgICAgICkuYWRkT25TdWNjZXNzTGlzdGVuZXIgewo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZhbCB0d2l0dGVyQXV0aFRva2VuOiBUd2l0dGVyQXV0aFRva2VuIGJ5IGxhenkgewogICAgICAgIFR3aXR0ZXJDb3JlLmdldEluc3RhbmNlKCkuc2Vzc2lvbk1hbmFnZXIuYWN0aXZlU2Vzc2lvbi5hdXRoVG9rZW4KICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcCB7ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGlkVG9rZW5TdWJqZWN0LnppcFdpdGgoaXQudG9PYnNlcnZhYmxlKCkpCiAgICAgICAgICAgICAgICAudG9GbG93YWJsZShCYWNrcHJlc3N1cmVTdHJhdGVneS5MQVRFU1QpCiAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXQuc2Vjb25kIGlzIFN0YXR1c1J1bnRpbWVFeGNlcHRpb24gfQogICAgICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICAgICAgKGl0LnNlY29uZCBhcyBTdGF0dXNSdW50aW1lRXhjZXB0aW9uKS5zdGF0dXMuY29kZSA9PSBpby5ncnBjLlN0YXR1cy5Db2RlLlVOQVVUSEVOVElDQVRFRAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLmZsYXRNYXAgewogICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKGl0LmZpcnN0LnRva2VuKQogICAgICAgICAgICAgICAgICAgIGF1dGhSZXBvc2l0b3J5LmF1dGgoCiAgICAgICAgICAgICAgICAgICAgICAgIGl0LmZpcnN0LnRva2VuISEsCiAgICAgICAgICAgICAgICAgICAgICAgIEF1dGhQcm92aWRlclR5cGVQcm90by5BdXRoUHJvdmlkZXJUeXBlLlRXSVRURVIsCiAgICAgICAgICAgICAgICAgICAgICAgIHR3aXR0ZXJBdXRoVG9rZW4udG9rZW4sCiAgICAgICAgICAgICAgICAgICAgICAgIHR3aXR0ZXJBdXRoVG9rZW4uc2VjcmV0CiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuZG9Pbk5leHQgeyAgfQo=</text>
+        <text encoding="base64">cHJpdmF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJldHJ5QWZ0ZXJMb2dpbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VBdXRoLmdldEluc3RhbmNlKCkuc2lnbkluV2l0aENyZWRlbnRpYWwoCiAgICAgICAgICAgICAgICBUd2l0dGVyQXV0aFByb3ZpZGVyLmdldENyZWRlbnRpYWwodHdpdHRlckF1dGhUb2tlbi50b2tlbiwgdHdpdHRlckF1dGhUb2tlbi5zZWNyZXQpCiAgICAgICAgICAgICkuYWRkT25TdWNjZXNzTGlzdGVuZXIgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZFRva2VuU3ViamVjdC56aXBXaXRoKGl0LnRvT2JzZXJ2YWJsZSgpKQogICAgICAgICAgICAudG9GbG93YWJsZShCYWNrcHJlc3N1cmVTdHJhdGVneS5MQVRFU1QpCiAgICAgICAgICAgIC5maWx0ZXIgeyBpdC5zZWNvbmQgaXMgU3RhdHVzUnVudGltZUV4Y2VwdGlvbiB9CiAgICAgICAgICAgIC5maWx0ZXIgewogICAgICAgICAgICAgICAgKGl0LnNlY29uZCBhcyBTdGF0dXNSdW50aW1lRXhjZXB0aW9uKS5zdGF0dXMuY29kZSA9PSBpby5ncnBjLlN0YXR1cy5Db2RlLlVOQVVUSEVOVElDQVRFRAogICAgICAgICAgICB9CiAgICAgICAgICAgIC5mbGF0TWFwIHsKICAgICAgICAgICAgICAgIFRpbWJlci5kKGl0LmZpcnN0LnRva2VuKQogICAgICAgICAgICAgICAgYXV0aFJlcG9zaXRvcnkuYXV0aCgKICAgICAgICAgICAgICAgICAgICBpdC5maXJzdC50b2tlbiEhLAogICAgICAgICAgICAgICAgICAgIEF1dGhQcm92aWRlclR5cGVQcm90by5BdXRoUHJvdmlkZXJUeXBlLlRXSVRURVIsCiAgICAgICAgICAgICAgICAgICAgdHdpdHRlckF1dGhUb2tlbi50b2tlbiwKICAgICAgICAgICAgICAgICAgICB0d2l0dGVyQXV0aFRva2VuLnNlY3JldAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbGF0TWEK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>i</text>
       </register>
     </registers>
     <search>
@@ -424,21 +425,22 @@
       <history-search />
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action ParameterInfo</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action Debug</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
+        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Switcher</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
