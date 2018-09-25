@@ -867,6 +867,12 @@
         <mark key="^" line="85" column="11" />
         <mark key="." line="85" column="11" />
       </file>
+      <file name="$USER_HOME$/OSS/CollapsingToolbar/app/src/main/res/xml/collapsing_toolbar.xml" timestamp="1537861066864">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+        <mark key="^" line="31" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" timestamp="1524549286498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1205,34 +1211,34 @@
         <text>scroll_view</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IjE2ZHAiCg==</text>
+        <text encoding="base64">CiAgICA8S2V5RnJhbWVTZXQ+CiAgICAgIDxLZXlBdHRyaWJ1dGUKICAgICAgICBhcHA6ZnJhbWVQb3NpdGlvbj0iNjAiCiAgICAgICAgYXBwOnRhcmdldD0iQGlkL3Rvb2xiYXJfaW1hZ2UiPgogICAgICAgIDxDdXN0b21BdHRyaWJ1dGUKICAgICAgICAgIGFwcDphdHRyaWJ1dGVOYW1lPSJpbWFnZUFscGhhIgogICAgICAgICAgYXBwOmN1c3RvbUludGVnZXJWYWx1ZT0iMjU1IiAvPgogICAgICA8L0tleUF0dHJpYnV0ZT4KICAgICAgPEtleUF0dHJpYnV0ZQogICAgICAgIGFwcDpmcmFtZVBvc2l0aW9uPSI5MCIKICAgICAgICBhcHA6dGFyZ2V0PSJAaWQvdG9vbGJhcl9pbWFnZSI+CiAgICAgICAgPEN1c3RvbUF0dHJpYnV0ZQogICAgICAgICAgYXBwOmF0dHJpYnV0ZU5hbWU9ImltYWdlQWxwaGEiCiAgICAgICAgICBhcHA6Y3VzdG9tSW50ZWdlclZhbHVlPSIwIiAvPgogICAgICA8L0tleUF0dHJpYnV0ZT4KICAgICAgPEtleVBvc2l0aW9uCiAgICAgICAgYXBwOnR5cGU9InBhdGhSZWxhdGl2ZSIKICAgICAgICBhcHA6ZnJhbWVQb3NpdGlvbj0iNTAiCiAgICAgICAgYXBwOnRhcmdldD0iQGlkL3RpdGxlIgogICAgICAgIGFwcDpwZXJjZW50WD0iMC45IiAvPgogICAgPC9LZXlGcmFtZVNldD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIxNmRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IjE2ZHAiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIxNmRwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL3Njcm9sbF92aWV3Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIxNmRwIgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL3Njcm9sbF92aWV3Igo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNTZkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjU2ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIxNmRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b1RvcE9mPSJAaWQvc2Nyb2xsX3ZpZXciCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIG1vdGlvbjpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgICAgIG1vdGlvbjpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICAgICAgICAgIG1vdGlvbjpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiIA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIG1vdGlvbjpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50Ig==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbW90aW9uOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIG1vdGlvbjpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQi</text>
-      </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1254,17 +1260,17 @@
         <entry>action GotoImplementation</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action FindInPath</entry>
         <entry>action SplitVertically</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>.action GotoAction</entry>
         <entry>.,.+1action GotoAction</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
