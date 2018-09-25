@@ -192,12 +192,11 @@
         <mark key="^" line="77" column="7" />
         <mark key="." line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1537887988988">
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1537889115002">
         <mark key="'" line="70" column="19" />
-        <mark key="[" line="19" column="90" />
-        <mark key="]" line="19" column="89" />
-        <mark key="." line="19" column="89" />
-        <mark key="^" line="19" column="89" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values-21/styles.xml" timestamp="1526555899787">
         <mark key="[" line="3" column="0" />
@@ -1085,37 +1084,37 @@
         <text encoding="base64">ICAgICAgICBzaWduSW5CdXR0b24udGV4dENvbG9yID0KICAgICAgICAgICAgICAgIGlmIChsb2dpblR5cGUgPT0gTG9naW5WaWV3TW9kZWwuTG9naW5UeXBlLlNJR05fSU4pIGFjdGl2ZUNvbG9yIGVsc2UgZGlzYWJsZWRDb2xvcgo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CiAgICBmdW4gc2V0TG9naW5WaWV3TW9kZWwobG9naW5WaWV3TW9kZWw6IExvZ2luVmlld01vZGVsKSB7CiAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CiAgICAgICAgaWYgKGxvZ2luVHlwZSA9PSBMb2dpblZpZXdNb2RlbC5Mb2dpblR5cGUuU0lHTl9JTikgewogICAgICAgICAgICBzaWduSW5CdXR0b24udGV4dENvbG9yID0KICAgICAgICAgICAgICAgICAgICBzaWduVXBCdXR0b24udGV4dENvbG9yID0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzaWduSW5CdXR0b24udGV4dENvbG9yID0gc2lnbkluQnV0dG9uLmNvbnRleHQuZ2V0Q29tcGF0Q29sb3IoUi5jb2xvci50cmFuc3BhcmVudF9ibGFjaykKICAgICAgICAgICAgc2lnblVwQnV0dG9uLnRleHRDb2xvciA9IHNpZ25VcEJ1dHRvbi5jb250ZXh0LmdldENvbXBhdENvbG9yKFIuY29sb3IuYmxhY2spCiAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>}
  
 }
 i</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzaWduSW5CdXR0b24K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHZhciBsb2dpblR5cGU6IExvZ2luVmlld01vZGVsLkxvZ2luVHlwZSA9IExvZ2luVmlld01vZGVsLkxvZ2luVHlwZS5TSUdOX0lOCiAgICAgICAgc2V0KHZhbHVlKSB7CiAgICAgICAgICAgIGZpZWxkID0gdmFsdWUKICAgICAgICB9CiAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbHVlID09IExvZ2luVmlld01vZGVsLkxvZ2luVHlwZS5TSUdOX0lOKSB7CiAgICAgICAgICAgICAgICBzaWduSW5CdXR0b24udGV4dENvbG9yID0gc2lnbkluQnV0dG9uLmNvbnRleHQuZ2V0Q29tcGF0Q29sb3IoUi5jb2xvci5ibGFjaykKICAgICAgICAgICAgICAgIHNpZ25VcEJ1dHRvbi50ZXh0Q29sb3IgPSBzaWduVXBCdXR0b24uY29udGV4dC5nZXRDb21wYXRDb2xvcihSLmNvbG9yLnRyYW5zcGFyZW50X2JsYWNrKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgc2lnbkluQnV0dG9uLnRleHRDb2xvciA9IHNpZ25JbkJ1dHRvbi5jb250ZXh0LmdldENvbXBhdENvbG9yKFIuY29sb3IudHJhbnNwYXJlbnRfYmxhY2spCiAgICAgICAgICAgICAgICBzaWduVXBCdXR0b24udGV4dENvbG9yID0gc2lnblVwQnV0dG9uLmNvbnRleHQuZ2V0Q29tcGF0Q29sb3IoUi5jb2xvci5ibGFjaykKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2lnblVwQnV0dG9uLnRleHRDb2xvciA9IAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGdldCgpID0gCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBnZXQgcHJpdmF0ZQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -1148,8 +1147,8 @@ i</text>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
