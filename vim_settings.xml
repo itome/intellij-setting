@@ -179,11 +179,11 @@
         <mark key="^" line="77" column="7" />
         <mark key="." line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1537807583561">
-        <mark key="[" line="30" column="50" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
-        <mark key="^" line="31" column="39" />
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1537875202921">
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+        <mark key="^" line="38" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values-21/styles.xml" timestamp="1526555899787">
         <mark key="[" line="3" column="0" />
@@ -260,7 +260,6 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/prefs/PreferenceStorage.kt" timestamp="1537797730850" />
       <file name="$USER_HOME$/Projects/Pattaya/node_modules/react-native-twitter-signin/android/src/main/java/com/goldenowl/twittersignin/TwitterSigninModule.java" timestamp="1529030360394">
         <mark key="[" line="81" column="74" />
         <mark key="]" line="81" column="73" />
@@ -405,7 +404,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/ic_logo.xml" timestamp="1537625204668" />
       <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewController.kt" timestamp="1524734433871">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="36" />
@@ -714,7 +712,6 @@
         <mark key="." line="247" column="75" />
         <mark key="^" line="247" column="75" />
       </file>
-      <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/di/AppModule.kt" timestamp="1537797716279" />
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/team/itome/libra/ui/main/MainActivity.kt" timestamp="1536749906816">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -732,6 +729,12 @@
         <mark key="]" line="37" column="98" />
         <mark key="^" line="37" column="98" />
         <mark key="." line="37" column="98" />
+      </file>
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/values/ids.xml" timestamp="1537875417757">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/flux/Store.kt" timestamp="1526565831302">
         <mark key="[" line="2" column="23" />
@@ -1054,7 +1057,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>64</text>
+        <text encoding="base64">PC9pdGVtPg==</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1121,9 +1124,9 @@
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action SplitVertically</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
+        <entry>action NextSplitter</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
