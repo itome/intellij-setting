@@ -179,11 +179,12 @@
         <mark key="^" line="77" column="7" />
         <mark key="." line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1537877146549">
-        <mark key="[" line="111" column="51" />
-        <mark key="]" line="112" column="44" />
-        <mark key="^" line="112" column="44" />
-        <mark key="." line="112" column="44" />
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1537879464849">
+        <mark key="'" line="185" column="33" />
+        <mark key="[" line="197" column="55" />
+        <mark key="]" line="197" column="81" />
+        <mark key="." line="197" column="55" />
+        <mark key="^" line="197" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values-21/styles.xml" timestamp="1526555899787">
         <mark key="[" line="3" column="0" />
@@ -845,11 +846,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="76" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivity.kt" timestamp="1537799436032">
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivity.kt" timestamp="1537878734855">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/app/src/beta/res/values/strings.xml" timestamp="1530292210415">
         <mark key="[" line="1" column="36" />
@@ -906,6 +907,12 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/util/ContextExtension.kt" timestamp="1537879314665">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="79" />
+        <mark key="^" line="5" column="79" />
+        <mark key="." line="5" column="79" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/team/itome/libra/ui/main/download/DownloadFragment.kt" timestamp="1536774803346">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="12" column="0" />
@@ -954,7 +961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="183" column="70" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="169" column="4" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
       <jump line="98" column="0" filename="$USER_HOME$/Projects/Pattaya/android/app/build.gradle" />
@@ -1054,46 +1060,47 @@
       <jump line="11" column="24" filename="$USER_HOME$/Projects/Otaku/build.gradle" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/Otaku/build.gradle" />
       <jump line="78" column="39" filename="$USER_HOME$/OSS/iosched/mobile/src/main/res/layout/fragment_schedule.xml" />
+      <jump line="172" column="33" filename="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>login_slash</text>
+        <text>R.color.textColorSecondary</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRWaWV3KFIuc3RyaW5nLnNsYXNoKSB7CiAgICAgICAgICAgICAgICAgICAgdGV4dENvbG9yID0gUi5jb2xvci5ibGFjawogICAgICAgICAgICAgICAgICAgIHRleHRTaXplID0gMThGCiAgICAgICAgICAgICAgICB9LmxwYXJhbXMgewogICAgICAgICAgICAgICAgICAgIHdpZHRoID0gd3JhcENvbnRlbnQKICAgICAgICAgICAgICAgICAgICBoZWlnaHQgPSB3cmFwQ29udGVudAogICAgICAgICAgICAgICAgICAgIG1hcmdpblN0YXJ0ID0gZGlwKDEyKQogICAgICAgICAgICAgICAgICAgIGJhc2VsaW5lVG9CYXNlbGluZSA9IFIuaWQubG9naW5fYnV0dG9uX3NpZ25faW4KICAgICAgICAgICAgICAgICAgICBzdGFydFRvRW5kID0gUi5pZC5sb2dpbl9idXR0b25fc2lnbl9pbgogICAgICAgICAgICAgICAgICAgIGVuZFRvU3RhcnQgPSBSLmlkLmxvZ2luX2J1dHRvbl9zaWduX3VwCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0Q29sb3IgPSBSLmNvbG9yLmJsYWNrCiAgICAgICAgICAgICAgICAgICAgc2V0UGFkZGluZyhkaXAoNDgpLCAwLCBkaXAoNDgpLCAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydFRvRW5kID0gUi5pZC5sb2dpbl9idXR0b25fc2lnbl9pbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0ID0gY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcuZm9yZ2V0X3Bhc3N3b3JkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BUb0JvdHRvbSA9IFIuaWQubG9naW5fdGV4dF9zaWduX2luX3RvX2NvbnRpbnVlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdGhlbWVkQnV0dG9uKFIuc3RyaW5nLmZvcmdldF9wYXNzd29yZCwgUi5zdHlsZS5XaWRnZXRfQXBwQ29tcGF0X0J1dHRvbl9Cb3JkZXJsZXNzKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmRUb1N0YXJ0ID0gUi5pZC5sb2dpbl90ZXh0X3NlcGFyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRUaGUK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydFRvU3RhcnQgPSBSLmlkLmxvZ2luX2d1aWRlbGluZV9zdGFydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BNYXJnaW4gPSBkaXAoNTYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BNYXJnaW4gPSBkaXAoMzIpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludExheW91dCB7CiAgICAgICAgICAgICAgICBndWlkZWxpbmUgewogICAgICAgICAgICAgICAgICAgIGlkID0gUi5pZC5sb2dpbl9ndWlkZWxpbmVfc3RhcnQKICAgICAgICAgICAgICAgIH0ubHBhcmFtcyB7CiAgICAgICAgICAgICAgICAgICAgd2lkdGggPSB3cmFwQ29udGVudAogICAgICAgICAgICAgICAgICAgIGhlaWdodCA9IHdyYXBDb250ZW50CiAgICAgICAgICAgICAgICAgICAgb3JpZW50YXRpb24gPSBWRVJUSUNBTF9HVUlERUxJTkUKICAgICAgICAgICAgICAgICAgICBndWlkZUJlZ2luID0gZGlwKDQ4KQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZ3VpZGVsaW5lIHsKICAgICAgICAgICAgICAgICAgICBpZCA9IFIuaWQubG9naW5fZ3VpZGVsaW5lX2VuZAogICAgICAgICAgICAgICAgfS5scGFyYW1zIHsKICAgICAgICAgICAgICAgICAgICB3aWR0aCA9IHdyYXBDb250ZW50CiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0ID0gd3JhcENvbnRlbnQKICAgICAgICAgICAgICAgICAgICBvcmllbnRhdGlvbiA9IFZFUlRJQ0FMX0dVSURFTElORQogICAgICAgICAgICAgICAgICAgIGd1aWRlRW5kID0gZGlwKDQ4KQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaW1hZ2VWaWV3KFIuZHJhd2FibGUuaW1hZ2VfbG9nbykgewogICAgICAgICAgICAgICAgICAgIGlkID0gUi5pZC5sb2dpbl9pbWFnZV9sb2dvCiAgICAgICAgICAgICAgICAgICAgY29udGVudERlc2NyaXB0aW9uID0gbnVsbAogICAgICAgICAgICAgICAgfS5scGFyYW1zIHsKICAgICAgICAgICAgICAgICAgICB3aWR0aCA9IGRpcCg2NCkKICAgICAgICAgICAgICAgICAgICBoZWlnaHQgPSBkaXAoNjQpCiAgICAgICAgICAgICAgICAgICAgdG9wTWFyZ2luID0gZGlwKDMyKQogICAgICAgICAgICAgICAgICAgIGJvdHRvbVRvVG9wID0gUi5pZC5sb2dpbl90ZXh0X3dlbGNvbWVfYmFjawogICAgICAgICAgICAgICAgICAgIHN0YXJ0VG9TdGFydCA9IFIuaWQubG9naW5fZ3VpZGVsaW5lX3N0YXJ0CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB0ZXh0VmlldyhSLnN0cmluZy53ZWxjb21lX2JhY2spIHsKICAgICAgICAgICAgICAgICAgICB0ZXh0Q29sb3IgPSBSLmNvbG9yLmJsYWNrCiAgICAgICAgICAgICAgICAgICAgdGV4dFNpemUgPSAyNEYKICAgICAgICAgICAgICAgIH0ubHBhcmFtcyB7IAogICAgICAgICAgICAgICAgICAgIHdpZHRoID0gZGlwKDApCiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0ID0gd3JhcENvbnRlbnQKICAgICAgICAgICAgICAgICAgICB0b3BNYXJnaW4gPSBkaXAoMjQpCiAgICAgICAgICAgICAgICAgICAgc3RhcnRUb1N0YXJ0ID0gUi5pZC5sb2dpbl9ndWlkZWxpbmVfc3RhcnQKICAgICAgICAgICAgICAgICAgICB0b3BUb0JvdHRvbSA9IFIuaWQubG9naW5faW1hZ2VfbG9nbwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdGV4dFZpZXcoUi5zdHJpbmcuc2lnbl9pbl90b19jb250aW51ZSkgewogICAgICAgICAgICAgICAgICAgIHRleHRDb2xvciA9IFIuY29sb3IuYmxhY2sKICAgICAgICAgICAgICAgICAgICB0ZXh0U2l6ZSA9IDE4RgogICAgICAgICAgICAgICAgfS5scGFyYW1zIHsgCiAgICAgICAgICAgICAgICAgICAgd2lkdGggPSBkaXAoMCkKICAgICAgICAgICAgICAgICAgICBoZWlnaHQgPSB3cmFwQ29udGVudAogICAgICAgICAgICAgICAgICAgIHRvcE1hcmdpbiA9IGRpcCg4KQogICAgICAgICAgICAgICAgICAgIGJvdHRvbVRvVG9wID0gUi5pZC5sb2dpbl9idXR0b25fc2lnbl9pbgogICAgICAgICAgICAgICAgICAgIHN0YXJ0VG9TdGFydCA9IFIuaWQubG9naW5fZ3VpZGVsaW5lX3N0YXJ0CiAgICAgICAgICAgICAgICAgICAgdG9wVG9Cb3R0b20gPSBSLmlkLmxvZ2luX3RleHRfd2VsY29tZV9iYWNrCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB0ZXh0VmlldyhSLnN0cmluZy5zaWduX2luKSB7CiAgICAgICAgICAgICAgICAgICAgdGV4dENvbG9yID0gUi5jb2xvci5ibGFjawogICAgICAgICAgICAgICAgICAgIHRleHRTaXplID0gMThGCiAgICAgICAgICAgICAgICB9LmxwYXJhbXMgewogICAgICAgICAgICAgICAgICAgIHdpZHRoID0gd3JhcENvbnRlbnQKICAgICAgICAgICAgICAgICAgICBoZWlnaHQgPSB3cmFwQ29udGVudAogICAgICAgICAgICAgICAgICAgIHRvcE1hcmdpbiA9IGRpcCg1NikKICAgICAgICAgICAgICAgICAgICBzdGFydFRvU3RhcnQgPSBSLmlkLmxvZ2luX2d1aWRlbGluZV9zdGFydAogICAgICAgICAgICAgICAgICAgIGVuZFRvU3RhcnQgPSBSLmlkLmxvZ2luX3RleHRfc2VwYXJhdG9yCiAgICAgICAgICAgICAgICAgICAgdG9wVG9Cb3R0b20gPSBSLmlkLmxvZ2luX3RleHRfc2lnbl9pbl90b19jb250aW51ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdGV4dFZpZXcoUi5zdHJpbmcuc2lnbl9pbikgewogICAgICAgICAgICAgICAgICAgIHRleHRDb2xvciA9IFIuY29sb3IuYmxhY2sKICAgICAgICAgICAgICAgICAgICB0ZXh0U2l6ZSA9IDE4RgogICAgICAgICAgICAgICAgfS5scGFyYW1zIHsKICAgICAgICAgICAgICAgICAgICB3aWR0aCA9IHdyYXBDb250ZW50CiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0ID0gd3JhcENvbnRlbnQKICAgICAgICAgICAgICAgICAgICB0b3BNYXJnaW4gPSBkaXAoNTYpCiAgICAgICAgICAgICAgICAgICAgc3RhcnRUb1N0YXJ0ID0gUi5pZC5sb2dpbl9ndWlkZWxpbmVfc3RhcnQKICAgICAgICAgICAgICAgICAgICBlbmRUb1N0YXJ0ID0gUi5pZC5sb2dpbl90ZXh0X3NlcGFyYXRvcgogICAgICAgICAgICAgICAgICAgIHRvcFRvQm90dG9tID0gUi5pZC5sb2dpbl90ZXh0X3NpZ25faW5fdG9fY29udGludWUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmJ1dHRvblNpZ25VcC5zZXRPbkNsaWNrTGlzdGVuZXIgewogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRDb2xvcgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRfZW1haWwK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9naW5WaWV3TW9kZWwuc2V0TG9naW5UeXBlKExvZ2luVmlld01vZGVsLkxvZ2luVHlwZS5TSUdOX09VVCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmJ1dHRvblNpZ25Jbi5zZXRPbkNsaWNrTGlzdGVuZXIgewogICAgICAgIH0K</text>
+      </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1108,26 +1115,26 @@
         <entry>firebase-messaging</entry>
       </history-search>
       <history-cmd>
-        <entry>actions</entry>
         <entry>actionlist</entry>
         <entry>action ProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
-        <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
-        <entry>action Run</entry>
         <entry>action SplitVertically</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
+        <entry>action FindUsages</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
+        <entry>action SaveAll</entry>
         <entry>action NextSplitter</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1168,6 +1175,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
