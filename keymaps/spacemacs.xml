@@ -13,6 +13,9 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="Console.Execute">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -21,6 +24,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteToWordStart">
@@ -31,6 +37,9 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -61,6 +70,10 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="ReloadFromDisk">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
