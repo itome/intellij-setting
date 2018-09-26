@@ -52,10 +52,6 @@
         <mark key="^" line="54" column="7" />
         <mark key="." line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/OSS/android-ConstraintLayoutExamples/motionlayout/src/main/res/values/styles.xml" timestamp="1537858347109">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="56" />
-      </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/repository/EventStreaming.kt" timestamp="1537849349503">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="14" column="8" />
@@ -684,7 +680,7 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/repository/AuthRepository.kt" timestamp="1537838479652">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/repository/AuthRepository.kt" timestamp="1537941521799">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="7" />
@@ -703,7 +699,7 @@
         <mark key="." line="12" column="77" />
         <mark key="^" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/repository/Auth.kt" timestamp="1537838451423">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/repository/Auth.kt" timestamp="1537939980417">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="11" />
         <mark key="." line="15" column="11" />
@@ -819,10 +815,6 @@
         <mark key="]" line="38" column="15" />
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="15" />
-      </file>
-      <file name="$USER_HOME$/OSS/android-ConstraintLayoutExamples/motionlayout/src/main/res/xml/scene_02.xml" timestamp="1537859058964">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="50" column="13" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.60/e5c7258c893cd3fa12b85eb535dcc5d0961ba4c7/kotlin-stdlib-1.2.60-sources.jar!/kotlin/jvm/JvmClassMapping.kt" timestamp="1537422027204" />
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionBatteryData.java" timestamp="1534652719832">
@@ -1007,10 +999,11 @@
         <mark key="]" line="90" column="13" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" timestamp="1537939478926">
-        <mark key="[" line="409" column="0" />
-        <mark key="]" line="409" column="0" />
-        <mark key="." line="409" column="0" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" timestamp="1537941184050">
+        <mark key="[" line="410" column="49" />
+        <mark key="]" line="410" column="68" />
+        <mark key="." line="410" column="68" />
+        <mark key="^" line="410" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/BetDataSource.kt" timestamp="1537422636946">
         <mark key="[" line="52" column="121" />
@@ -1429,7 +1422,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>layout_collapsing</text>
+        <text>view_event_detail_refund</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1465,7 +1458,7 @@
         <text encoding="base64">ID86IHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1490,14 +1483,14 @@
         <entry>action SplitVertically</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Find</entry>
         <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action Find</entry>
+        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
