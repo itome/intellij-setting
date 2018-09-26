@@ -999,11 +999,11 @@
         <mark key="]" line="90" column="13" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" timestamp="1537945855497">
-        <mark key="[" line="411" column="1" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" timestamp="1537946618195">
+        <mark key="[" line="411" column="0" />
         <mark key="]" line="411" column="0" />
         <mark key="." line="411" column="0" />
-        <mark key="^" line="411" column="0" />
+        <mark key="^" line="451" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/BetDataSource.kt" timestamp="1537422636946">
         <mark key="[" line="52" column="121" />
@@ -1422,7 +1422,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>gone</text>
+        <text>visieble</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1434,28 +1434,28 @@
         <text encoding="base64">ICAgICAgICBiaW5kOnZpc2libGVHb25lPSJAe2V2ZW50LnRoZW1lQ291bnQgIT0gMH0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXBwOm1vdmVXaGVuU2Nyb2xsQXRUb3A9InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kOnZpc2libGVHb25lPSJAe2V2ZW50LnRoZW1lQ291bnQgIT0gMH0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXBwOnRvdWNoQW5jaG9yU2lkZT0idG9wIgo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kOnZpc2libGVHb25lPSJAe2V2ZW50LnRoZW1lQ291bnQgIT0gMH0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgYXBwOm1vdmVXaGVuU2Nyb2xsQXRUb3A9InRydWUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZHIK</text>
+        <text encoding="base64">ICAgICAgYXBwOnRvdWNoQW5jaG9yU2lkZT0idG9wIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9sYXlvdXRfY29sbGFwc2luZyIK</text>
+        <text encoding="base64">ICAgICAgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2xheW91dF9jb2xsYXBzaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgZHIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3RyYWludEJvdHRvbQo=</text>
+        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9sYXlvdXRfY29sbGFwc2luZyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2xheW91dF9jb2xsYXBzaW5nIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
