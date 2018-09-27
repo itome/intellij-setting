@@ -236,12 +236,12 @@
         <mark key="." line="247" column="75" />
         <mark key="^" line="247" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/build.gradle" timestamp="1537853632567">
+      <file name="$USER_HOME$/Projects/android/app/build.gradle" timestamp="1538015550485">
         <mark key="'" line="112" column="51" />
-        <mark key="[" line="151" column="2" />
-        <mark key="]" line="151" column="1" />
-        <mark key="^" line="151" column="1" />
-        <mark key="." line="151" column="1" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="57" column="3" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/res/values/strings.xml" timestamp="1530292288027">
         <mark key="[" line="1" column="28" />
@@ -690,11 +690,10 @@
         <mark key="^" line="60" column="3" />
         <mark key="." line="60" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/Result.kt" timestamp="1538014466145">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/Result.kt" timestamp="1538015630686">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/app/src/beta/res/values/strings.xml" timestamp="1530292210415">
         <mark key="[" line="1" column="36" />
@@ -1373,34 +1372,34 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfY2hlY2tlZAo=</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludAo=</text>
+        <text encoding="base64">ICBjb21waWxlU2RrVmVyc2lvbiBDT01QSUxFX1NES19WRVJTSU9OIGFzIGludAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJhZ0RpcmVjdGlvbj0iZHJhZ1JpZ2h0Igo=</text>
+        <text encoding="base64">ICAgICAgICBfY2hlY2tlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkAraWQvdGV4dF9ldmVudF9kZXRhaWxfZGVzY3JpcHRpb24iLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJhZ0RpcmVjdGlvbj0iZHJhZ1JpZ2h0Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpYmxlR29uZT0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkAraWQvdGV4dF9ldmVudF9kZXRhaWxfZGVzY3JpcHRpb24iLS0+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL3ZpZXdfZXZlbnRfZGV0YWlsX3JlZnVuZCIK</text>
+        <text encoding="base64">ICAgICAgICB2aXNpYmxlR29uZT0iZmFsc2UiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmxheW91dE1vdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1426,13 +1425,13 @@
         <entry>action GotoImplementation</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Find</entry>
         <entry>action NextSplitter</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
