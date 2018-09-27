@@ -267,6 +267,7 @@
         <mark key="^" line="104" column="11" />
         <mark key="." line="104" column="11" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.13/f60b1cb54da863cfb2078dd82bd4edb18e024974/rxjava-2.1.13-sources.jar!/io/reactivex/Completable.java" timestamp="1538017047857" />
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/di/UiModule.kt" timestamp="1525749842004">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="1" />
@@ -315,12 +316,11 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" timestamp="1538014854787">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="106" column="30" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" timestamp="1538017233869">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/Taskist/lib/ui/page_detail.dart" timestamp="1537332705788">
         <mark key="'" line="35" column="43" />
@@ -540,10 +540,10 @@
         <mark key="^" line="37" column="98" />
         <mark key="." line="37" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" timestamp="1537955761225">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" timestamp="1538016323209">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/UseCase.kt" timestamp="1537161763743">
         <mark key="'" line="13" column="0" />
@@ -1364,7 +1364,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>space_event_detail_separate_for_description</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1373,34 +1373,34 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9uTmV4dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZFRoZW48QXV0aFJlc3VsdD4oUHVibGlzaGVyIHsKICAgICAgICAgICAgICAgIHJldHVybkBQdWJsaXNoZXIgYXV0aFdpdGhGaXJlYmFzZSh0b2tlbiwgc2VjcmV0KQogICAgICAgICAgICB9KQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb21waWxlU2RrVmVyc2lvbiBDT01QSUxFX1NES19WRVJTSU9OIGFzIGludAoK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHsgCiAgICAgICAgICAgICAgICByZXR1cm5AYW5kVGhlbiBhdXRoV2l0aEZpcmViYXNlKHRva2VuLCBzZWNyZXQpCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBfY2hlY2tlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJhZ0RpcmVjdGlvbj0iZHJhZ1JpZ2h0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZFRoZW48QXV0aFJlc3VsdD4gewogICAgICAgICAgICAgICAgYXV0aFdpdGhGaXJlYmFzZSh0b2tlbiwgc2VjcmV0KQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkAraWQvdGV4dF9ldmVudF9kZXRhaWxfZGVzY3JpcHRpb24iLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZFRoZW4oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpYmxlR29uZT0iZmFsc2UiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1421,18 +1421,18 @@
         <entry>.action GotoAction</entry>
         <entry>.,.+1action GotoAction</entry>
         <entry>action SplitVertically</entry>
-        <entry>action Back</entry>
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action Back</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
