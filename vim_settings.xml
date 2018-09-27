@@ -321,12 +321,11 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" timestamp="1537937003139">
-        <mark key="'" line="112" column="50" />
-        <mark key="[" line="106" column="31" />
-        <mark key="]" line="106" column="30" />
-        <mark key="." line="106" column="30" />
-        <mark key="^" line="106" column="30" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" timestamp="1538014854787">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/Taskist/lib/ui/page_detail.dart" timestamp="1537332705788">
         <mark key="'" line="35" column="43" />
@@ -569,6 +568,12 @@
         <mark key="]" line="194" column="7" />
         <mark key="^" line="194" column="7" />
         <mark key="." line="194" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" timestamp="1538014825769">
+        <mark key="[" line="52" column="51" />
+        <mark key="]" line="52" column="50" />
+        <mark key="^" line="52" column="50" />
+        <mark key="." line="52" column="50" />
       </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/build.gradle" timestamp="1525745203226">
         <mark key="[" line="47" column="74" />
@@ -1256,7 +1261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/OSS/iosched/mobile/src/main/res/layout/fragment_schedule.xml" />
       <jump line="70" column="12" filename="$USER_HOME$/OSS/iosched/mobile/src/main/res/layout/fragment_schedule.xml" />
       <jump line="19" column="3" filename="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_main.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/Libra/app/src/main/res/layout/activity_main.xml" />
@@ -1356,6 +1360,7 @@
       <jump line="154" column="0" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="96" column="4" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="412" column="64" filename="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" />
+      <jump line="66" column="0" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1368,34 +1373,34 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludAo=</text>
+        <text encoding="base64">ICAgICAgICBfY2hlY2tlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJhZ0RpcmVjdGlvbj0iZHJhZ1JpZ2h0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkAraWQvdGV4dF9ldmVudF9kZXRhaWxfZGVzY3JpcHRpb24iLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJhZ0RpcmVjdGlvbj0iZHJhZ1JpZ2h0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkAraWQvdGV4dF9ldmVudF9kZXRhaWxfZGVzY3JpcHRpb24iLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpYmxlR29uZT0iZmFsc2UiCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2aXNpYmxlR29uZT0iZmFsc2UiCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL3ZpZXdfZXZlbnRfZGV0YWlsX3JlZnVuZCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmxheW91dE1vdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL3ZpZXdfZXZlbnRfZGV0YWlsX3JlZnVuZCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYmluZDpkaXZpZGVyPSJAe0BkcmF3YWJsZS9zaGFwZV9ncmF5XzIwX3NlcGFyYXRlX2xpbmVfNGRwfSItLT4KICAgICAgICA8IS0tYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Ii0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmxheW91dE1vdGlvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1408,7 +1413,6 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action Switcher</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ParameterInfo</entry>
@@ -1426,8 +1430,9 @@
         <entry>action NextSplitter</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
