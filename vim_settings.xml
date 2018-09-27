@@ -273,7 +273,6 @@
         <mark key="^" line="104" column="11" />
         <mark key="." line="104" column="11" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.13/f60b1cb54da863cfb2078dd82bd4edb18e024974/rxjava-2.1.13-sources.jar!/io/reactivex/Completable.java" timestamp="1538017047857" />
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/di/UiModule.kt" timestamp="1525749842004">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="1" />
@@ -515,6 +514,9 @@
         <mark key="^" line="382" column="1" />
         <mark key="." line="382" column="1" />
       </file>
+      <file name="/Dummy.txt" timestamp="1538041969342">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/UseCase.kt" timestamp="1537160139009">
         <mark key="[" line="39" column="8" />
         <mark key="]" line="39" column="7" />
@@ -539,8 +541,8 @@
         <mark key="^" line="37" column="98" />
         <mark key="." line="37" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" timestamp="1538036908976">
-        <mark key="'" line="54" column="17" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" timestamp="1538041064767">
+        <mark key="'" line="51" column="43" />
         <mark key="[" line="36" column="51" />
         <mark key="]" line="36" column="50" />
         <mark key="^" line="36" column="50" />
@@ -603,6 +605,7 @@
         <mark key="^" line="15" column="75" />
         <mark key="." line="15" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/widget/ForegroundImageView.kt" timestamp="1538041756145" />
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionDeviceId.java" timestamp="1534652790867">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="112" />
@@ -760,7 +763,6 @@
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopViewModel.kt" timestamp="1538037336130" />
       <file name="$USER_HOME$/OSS/android-ConstraintLayoutExamples/motionlayout/src/main/res/xml/scene_02.xml" timestamp="1538014165809">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -945,11 +947,10 @@
         <mark key="^" line="28" column="85" />
         <mark key="." line="28" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" timestamp="1538039127602">
-        <mark key="[" line="318" column="52" />
-        <mark key="]" line="318" column="94" />
-        <mark key="." line="318" column="94" />
-        <mark key="^" line="318" column="94" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" timestamp="1538041822320">
+        <mark key="[" line="409" column="0" />
+        <mark key="]" line="409" column="51" />
+        <mark key="." line="409" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/BetDataSource.kt" timestamp="1537422636946">
         <mark key="[" line="52" column="121" />
@@ -1261,7 +1262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/OSS/iosched/mobile/src/main/res/drawable/filters_sheet_background.xml" />
       <jump line="71" column="57" filename="$USER_HOME$/OSS/iosched/mobile/src/main/res/values/styles.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/Libra/app/src/main/res/values/styles.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/Libra/app/src/main/res/drawable/background_download_sheet.xml" />
@@ -1361,10 +1361,11 @@
       <jump line="155" column="22" filename="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" />
       <jump line="183" column="8" filename="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" />
       <jump line="54" column="17" filename="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" />
+      <jump line="51" column="43" filename="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>toolbar_event_detail</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1373,34 +1374,34 @@
         <text>android.view.View.GONE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Q29sb3IK</text>
+        <text encoding="base64">ICAgICAgYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0QWwK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kOnZpc2libGVHb25lPSJAe2V2ZW50LnRoZW1lQ291bnQgIT0gMH0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBWaXNpYmwK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Ii0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Ii0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxpbXBvcnQgdHlwZT0iIgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0Q29sb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmluZDp2aXNpYmxlR29uZT0iQHtyZXdhcmQudmFsaWR9Igo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0QWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Ii0tPgo=</text>
+        <text encoding="base64">ICAgIEBWaXNpYmwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmluZAo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Ii0tPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1421,18 +1422,18 @@
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SplitVertically</entry>
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action Debug</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Find</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
