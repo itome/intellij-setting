@@ -217,12 +217,6 @@
         <mark key="^" line="81" column="3" />
         <mark key="." line="81" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/OSS/iosched/build.gradle" timestamp="1536778817477">
         <mark key="'" line="57" column="28" />
         <mark key="[" line="64" column="0" />
@@ -326,6 +320,7 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+        <mark key="^" line="106" column="30" />
       </file>
       <file name="$USER_HOME$/OSS/Taskist/lib/ui/page_detail.dart" timestamp="1537332705788">
         <mark key="'" line="35" column="43" />
@@ -693,6 +688,7 @@
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/Result.kt" timestamp="1538015630686">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
+        <mark key="^" line="12" column="7" />
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/app/src/beta/res/values/strings.xml" timestamp="1530292210415">
@@ -984,6 +980,12 @@
         <mark key="]" line="7" column="71" />
         <mark key="." line="7" column="71" />
         <mark key="^" line="7" column="71" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1537938188780">
         <mark key="'" line="37" column="6" />
@@ -1399,7 +1401,7 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1412,6 +1414,7 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>action Switcher</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ParameterInfo</entry>
@@ -1425,13 +1428,12 @@
         <entry>action GotoImplementation</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
         <entry>action NextSplitter</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
-        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
