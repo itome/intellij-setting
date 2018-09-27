@@ -614,6 +614,12 @@
         <mark key="^" line="19" column="99" />
         <mark key="." line="19" column="99" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/flux/Dispatcher.kt" timestamp="1526537527741">
         <mark key="[" line="17" column="46" />
         <mark key="]" line="17" column="45" />
@@ -981,12 +987,6 @@
         <mark key="." line="7" column="71" />
         <mark key="^" line="7" column="71" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1524531152612">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1537938188780">
         <mark key="'" line="37" column="6" />
         <mark key="[" line="85" column="12" />
@@ -994,12 +994,11 @@
         <mark key="^" line="85" column="11" />
         <mark key="." line="85" column="11" />
       </file>
-      <file name="$USER_HOME$/OSS/CollapsingToolbar/app/src/main/res/xml/collapsing_toolbar.xml" timestamp="1537948782549">
+      <file name="$USER_HOME$/OSS/CollapsingToolbar/app/src/main/res/xml/collapsing_toolbar.xml" timestamp="1538016207830">
         <mark key="'" line="76" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="38" />
-        <mark key="." line="45" column="5" />
-        <mark key="^" line="45" column="5" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" timestamp="1524549286498">
         <mark key="[" line="0" column="0" />
@@ -1374,31 +1373,31 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21waWxlU2RrVmVyc2lvbiBDT01QSUxFX1NES19WRVJTSU9OIGFzIGludAoK</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfY2hlY2tlZAo=</text>
+        <text encoding="base64">ICBjb21waWxlU2RrVmVyc2lvbiBDT01QSUxFX1NES19WRVJTSU9OIGFzIGludAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludAo=</text>
+        <text encoding="base64">ICAgICAgICBfY2hlY2tlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJhZ0RpcmVjdGlvbj0iZHJhZ1JpZ2h0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkAraWQvdGV4dF9ldmVudF9kZXRhaWxfZGVzY3JpcHRpb24iLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJhZ0RpcmVjdGlvbj0iZHJhZ1JpZ2h0Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkAraWQvdGV4dF9ldmVudF9kZXRhaWxfZGVzY3JpcHRpb24iLS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpYmxlR29uZT0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICB2aXNpYmxlR29uZT0iZmFsc2UiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
