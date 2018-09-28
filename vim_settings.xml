@@ -142,6 +142,12 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/info/InfoFragment.kt" timestamp="1538120762832">
+        <mark key="[" line="133" column="8" />
+        <mark key="]" line="133" column="7" />
+        <mark key="^" line="133" column="7" />
+        <mark key="." line="133" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionPioPullUp.java" timestamp="1534653125724">
         <mark key="[" line="18" column="111" />
         <mark key="]" line="18" column="111" />
@@ -464,6 +470,12 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="37" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginActivity.kt" timestamp="1538121734149">
+        <mark key="[" line="149" column="8" />
+        <mark key="]" line="149" column="7" />
+        <mark key="." line="149" column="7" />
+        <mark key="^" line="149" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/core/searchlaw/SearchLawStore.kt" timestamp="1526644575351">
         <mark key="[" line="19" column="45" />
@@ -789,7 +801,7 @@
         <mark key="." line="7" column="71" />
         <mark key="^" line="7" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1538119252495">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1538120528420">
         <mark key="'" line="37" column="6" />
         <mark key="[" line="116" column="38" />
         <mark key="]" line="116" column="58" />
@@ -1117,7 +1129,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>@id/view_collapse</text>
+        <text>tion(binding.root.parent as ViewGroup, transition)</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1153,7 +1165,7 @@
         <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1175,17 +1187,17 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action Debug</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
-        <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action NextSplitter</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action Back</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
