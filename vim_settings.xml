@@ -1414,7 +1414,7 @@
         <text encoding="base64">ICAgICAgICA8IS0tYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Ii0tPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1442,11 +1442,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Find</entry>
         <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
