@@ -557,10 +557,11 @@
         <mark key="^" line="37" column="98" />
         <mark key="." line="37" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" timestamp="1538123359606">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" timestamp="1538129564978">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/UseCase.kt" timestamp="1537161763743">
         <mark key="'" line="13" column="0" />
@@ -1281,7 +1282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="29" filename="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/schedule/ScheduleViewModel.kt" />
       <jump line="30" column="31" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/MediatorUseCase.kt" />
       <jump line="57" column="28" filename="$USER_HOME$/OSS/iosched/build.gradle" />
       <jump line="16" column="11" filename="$USER_HOME$/Projects/Libra/app/build.gradle" />
@@ -1381,6 +1381,7 @@
       <jump line="110" column="8" filename="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" />
       <jump line="87" column="0" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/mypage/MyPageFragment.kt" />
       <jump line="462" column="0" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/4be5fa1735a0a1fc31089201f081b1c6/jars/classes.jar!/android/support/constraint/motion/MotionScene.class" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1393,34 +1394,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRpbmcudXNlciA9IGl0LmRhdGEudXNlcgogICAgICAgICAgICAgICAgYmluZGluZy5pc0xvZ2dlZEluID0gdXNlclZpZXdNb2RlbC5pc0xvZ2dlZEluCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpblZpZXdNb2RlbC5sb2dpbi5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgICAgICAgaWYgKGl0IGlzIFJlc3VsdC5TdWNjZXNzKSB7CiAgICAgICAgICAgICAgICBiaW5kaW5nLnVzZXIgPSBpdC5kYXRhLnVzZXIKICAgICAgICAgICAgICAgIGJpbmRpbmcuaXNMb2dnZWRJbiA9IHVzZXJWaWV3TW9kZWwuaXNMb2dnZWRJbgogICAgICAgICAgICB9CiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgPEtleQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBsb2dpblZpZXdNb2RlbC5sb2dpbi5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgICAgICAgaWYgKGl0IGlzIFJlc3VsdC5TdWNjZXNzKSB7CiAgICAgICAgICAgICAgICBiaW5kaW5nLnVzZXIgPSBpdC5kYXRhLnVzZXIKICAgICAgICAgICAgICAgIGJpbmRpbmcuaXNMb2dnZWRJbiA9IHVzZXJWaWV3TW9kZWwuaXNMb2dnZWRJbgogICAgICAgICAgICB9CiAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IiIK</text>
+        <text encoding="base64">ICAgICAgICBsb2dpblZpZXdNb2RlbC5sb2dpbi5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgICAgICAgaWYgKGl0IGlzIFJlc3VsdC5TdWNjZXNzKSB7CiAgICAgICAgICAgICAgICBiaW5kaW5nLnVzZXIgPSBpdC5kYXRhLnVzZXIKICAgICAgICAgICAgICAgIGJpbmRpbmcuaXNMb2dnZWRJbiA9IHVzZXJWaWV3TW9kZWwuaXNMb2dnZWRJbgogICAgICAgICAgICB9CiAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxDb25zdHJhaW4K</text>
+        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJsZUdvbmU9ImZsIgo=</text>
+        <text encoding="base64">ICAgIDxDb25zdHJhaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJpbGl0eQo=</text>
+        <text encoding="base64">ICAgICAgdmlzaWJsZUdvbmU9ImZsIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIDxTcGFjZQogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc3BhY2VfZXZlbnRfZGV0YWlsX3NlcGFyYXRlX2Zvcl90aW1lIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI3MmRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfZXZlbnRfZGV0YWlsX2VuZCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfZXZlbnRfZGV0YWlsX3N0YXJ0IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvdmlld19ldmVudF9kZXRhaWxfc2VwYXJhdGVfZm9yX3RpbWUiCiAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgdmlzaWJpbGl0eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Igo=</text>
+        <text encoding="base64">CiAgICAgIDxTcGFjZQogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc3BhY2VfZXZlbnRfZGV0YWlsX3NlcGFyYXRlX2Zvcl90aW1lIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI3MmRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfZXZlbnRfZGV0YWlsX2VuZCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfZXZlbnRfZGV0YWlsX3N0YXJ0IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvdmlld19ldmVudF9kZXRhaWxfc2VwYXJhdGVfZm9yX3RpbWUiCiAgICAgICAgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Ii0tPgo=</text>
+        <text encoding="base64">ICAgICAgYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1448,11 +1449,11 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
