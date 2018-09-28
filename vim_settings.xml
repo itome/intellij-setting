@@ -239,12 +239,12 @@
         <mark key="." line="247" column="75" />
         <mark key="^" line="247" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/build.gradle" timestamp="1538015550485">
+      <file name="$USER_HOME$/Projects/android/app/build.gradle" timestamp="1538127411534">
         <mark key="'" line="112" column="51" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+        <mark key="[" line="104" column="41" />
+        <mark key="]" line="104" column="41" />
         <mark key="^" line="57" column="3" />
-        <mark key="." line="10" column="0" />
+        <mark key="." line="104" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/app/src/main/res/values/strings.xml" timestamp="1530292288027">
         <mark key="[" line="1" column="28" />
@@ -252,11 +252,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/ext/MotionLayoutExt.kt" timestamp="1538117571567">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/ext/MotionLayoutExt.kt" timestamp="1538127495752">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="56" />
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
+        <mark key="o" line="13" column="10" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/mobile/build/generated/source/kapt/debug/com/google/samples/apps/iosched/databinding/ItemFilterChipBindingImpl.java" timestamp="1536740178313">
         <mark key="[" line="109" column="12" />
@@ -683,6 +684,7 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/4be5fa1735a0a1fc31089201f081b1c6/jars/classes.jar!/android/support/constraint/motion/MotionLayout.class" timestamp="1538128132300" />
       <file name="$USER_HOME$/OSS/inKino/lib/models/event.dart" timestamp="1537179959354">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1378,7 +1380,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>call</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1414,7 +1416,7 @@
         <text encoding="base64">ICAgICAgICA8IS0tYmluZDp2aXNpYmxlR29uZT0iQHtldmVudC50aGVtZUNvdW50ICE9IDB9Ii0tPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1427,7 +1429,6 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>.action GotoAction</entry>
         <entry>.,.+1action GotoAction</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
@@ -1441,12 +1442,13 @@
         <entry>action NextSplitter</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
