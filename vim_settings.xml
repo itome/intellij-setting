@@ -1128,7 +1128,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ2luVmlld01vZGVsOiBMb2dpblZpZXdNb2RlbCBieSBsYXp5IHsKICAgICAgICBWaWV3TW9kZWxQcm92aWRlcnMub2YodGhpcykuZ2V0KExvZ2luVmlld01vZGVsOjpjbGFzcy5qYXZhKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -1158,11 +1158,11 @@
         <entry>action GotoImplementation</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
