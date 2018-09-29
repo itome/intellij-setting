@@ -192,11 +192,12 @@
         <mark key="^" line="77" column="7" />
         <mark key="." line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1537889840601">
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1538218679638">
         <mark key="'" line="70" column="19" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values-21/styles.xml" timestamp="1526555899787">
         <mark key="[" line="3" column="0" />
@@ -1114,7 +1115,7 @@ i</text>
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGdldCgpID0gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -1147,8 +1148,8 @@ i</text>
         <entry>action RenameElement</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
