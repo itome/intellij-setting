@@ -1119,7 +1119,7 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBsb2dpblZpZXdNb2RlbC5sb2dpblR5cGUudmFsdWUK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1138,7 +1138,6 @@
         <entry>action ProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>action SplitVertically</entry>
         <entry>action FindUsages</entry>
@@ -1154,6 +1153,7 @@
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
