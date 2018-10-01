@@ -283,10 +283,8 @@
         <mark key="^" line="247" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/build.gradle" timestamp="1538379375382">
-        <mark key="'" line="112" column="51" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
-        <mark key="^" line="57" column="3" />
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/012f94cdecb1bf7ed5c4acfae5629cb3/jars/classes.jar!/android/support/constraint/motion/MotionLayout.class" timestamp="1538383718632" />
@@ -501,10 +499,10 @@
         <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/res/values/styles.xml" timestamp="1538109200170">
-        <mark key="[" line="200" column="49" />
-        <mark key="]" line="200" column="67" />
-        <mark key="^" line="200" column="67" />
-        <mark key="." line="200" column="67" />
+        <mark key="[" line="93" column="49" />
+        <mark key="]" line="93" column="67" />
+        <mark key="^" line="93" column="67" />
+        <mark key="." line="93" column="67" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/internal/TaskScheduler.kt" timestamp="1537157758494">
         <mark key="[" line="81" column="4" />
@@ -1676,7 +1674,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJCdXR0b24iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1706,9 +1704,9 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
