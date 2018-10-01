@@ -421,12 +421,12 @@
         <mark key="^" line="75" column="39" />
         <mark key="." line="75" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1538374846315">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1538376038468">
         <mark key="'" line="103" column="4" />
-        <mark key="[" line="220" column="46" />
-        <mark key="]" line="221" column="74" />
-        <mark key="." line="221" column="74" />
-        <mark key="^" line="221" column="74" />
+        <mark key="[" line="219" column="77" />
+        <mark key="]" line="219" column="76" />
+        <mark key="." line="219" column="76" />
+        <mark key="^" line="219" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image_drawable.xml" timestamp="1538299398886">
         <mark key="'" line="0" column="0" />
@@ -853,8 +853,8 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/4be5fa1735a0a1fc31089201f081b1c6/jars/classes.jar!/android/support/constraint/motion/MotionController.class" timestamp="1538369590613">
-        <mark key="'" line="798" column="34" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/4be5fa1735a0a1fc31089201f081b1c6/jars/classes.jar!/android/support/constraint/motion/MotionController.class" timestamp="1538375339655">
+        <mark key="'" line="678" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/app/src/beta/res/values/strings.xml" timestamp="1530292210415">
         <mark key="[" line="1" column="36" />
@@ -1140,11 +1140,11 @@
         <mark key="^" line="28" column="85" />
         <mark key="." line="28" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" timestamp="1538109760573">
+      <file name="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" timestamp="1538375993187">
         <mark key="'" line="62" column="6" />
-        <mark key="[" line="442" column="0" />
-        <mark key="]" line="442" column="52" />
-        <mark key="." line="442" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
         <mark key="^" line="324" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/BetDataSource.kt" timestamp="1537422636946">
@@ -1530,7 +1530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="8" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
       <jump line="21" column="0" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
       <jump line="42" column="0" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
       <jump line="123" column="0" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
@@ -1630,6 +1629,7 @@
       <jump line="72" column="38" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_home.xml" />
       <jump line="86" column="16" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_home.xml" />
       <jump line="54" column="3" filename="$USER_HOME$/OSS/android-ConstraintLayoutExamples/motionlayout/src/main/java/com/google/androidstudio/motionlayoutexample/MainActivity.kt" />
+      <jump line="678" column="40" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/4be5fa1735a0a1fc31089201f081b1c6/jars/classes.jar!/android/support/constraint/motion/MotionController.class" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1642,34 +1642,34 @@
         <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci93aGl0ZSI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmxheW91dE1vdGlvbi5sb2FkTGF5b3V0RGVzY3JpcHRpb24oUi54bWwuKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgICAgYXBwOmxheW91dERlc2NyaXB0aW9uPSJAeG1sL3NjZW5lX2V2ZW50X2RldGFpbCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YW4K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmxheW91dE1vdGlvbi5sb2FkTGF5b3V0RGVzY3JpcHRpb24oUi54bWwuc2NlbmVfZXZlbnRfZGV0YWlsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kVmlld0J5SWQ8TW90aW9uTGF5b3V0PihSLikK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmxheW91dE1vdGlvbi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1N0YXJ0PSIyMGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSI0ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjIwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjRkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9ySGludD0iIgo=</text>
+        <text encoding="base64">ICAgICAgICBjb250YW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRDb2xvckRyYQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5kVmlld0J5SWQ8TW90aW9uTGF5b3V0PihSLikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZHJhd2FibGVUaW50PSJAY29sb3Ivc2xhdGVHcmV5Igo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ToggleLineBreakpoint</text>
       </register>
     </registers>
     <search>
@@ -1692,16 +1692,16 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action SaveAll</entry>
         <entry>action Debug</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
-        <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ToggleLineBreakpoint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
