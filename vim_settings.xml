@@ -1674,7 +1674,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJCdXR0b24iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1705,8 +1705,8 @@
         <entry>action SearchEverywhere</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
