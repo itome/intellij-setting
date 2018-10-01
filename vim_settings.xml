@@ -171,11 +171,11 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/epoxy/package-info.java" timestamp="1538325707012">
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/epoxy/package-info.java" timestamp="1538401593298">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="62" />
-        <mark key="." line="0" column="62" />
-        <mark key="^" line="0" column="62" />
+        <mark key="]" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+        <mark key="^" line="0" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/values-21/styles.xml" timestamp="1526555899787">
         <mark key="[" line="3" column="0" />
@@ -318,12 +318,12 @@
         <mark key="^" line="54" column="7" />
         <mark key="." line="54" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/build.gradle" timestamp="1538325761092">
-        <mark key="'" line="60" column="22" />
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="60" column="22" />
-        <mark key="." line="60" column="22" />
-        <mark key="^" line="60" column="22" />
+      <file name="$USER_HOME$/Projects/Otaku/app/build.gradle" timestamp="1538402965782">
+        <mark key="'" line="45" column="29" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="36" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/di/StatusModule.kt" timestamp="1537850558489">
         <mark key="[" line="20" column="58" />
@@ -1235,11 +1235,10 @@
         <mark key="^" line="32" column="22" />
         <mark key="." line="32" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/home/HomeActivity.kt" timestamp="1538321279527">
-        <mark key="[" line="17" column="78" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="36" />
+      <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/home/HomeActivity.kt" timestamp="1538400324707">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/MainActivityUI.kt" timestamp="1537807114754">
         <mark key="[" line="11" column="0" />
@@ -1526,9 +1525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/OSS/inKino/lib/models/event.dart" />
-      <jump line="79" column="26" filename="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" />
       <jump line="281" column="0" filename="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" />
       <jump line="163" column="0" filename="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/MainActivity.kt" />
       <jump line="50" column="8" filename="$USER_HOME$/Projects/GIFSketch-android/app/src/main/java/com/itome/gifsketch/widget/HandwritingView.kt" />
@@ -1600,7 +1596,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_login_twitter.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_login_twitter.xml" />
       <jump line="9" column="36" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image.xml" />
-      <jump line="49" column="19" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
       <jump line="76" column="38" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_upload.xml" />
       <jump line="12" column="8" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image.xml" />
@@ -1626,10 +1621,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_add.xml" />
       <jump line="9" column="12" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/item_category.xml" />
       <jump line="60" column="22" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
+      <jump line="30" column="4" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
+      <jump line="49" column="29" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>kapt</text>
+        <text>$data_binding_version</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1638,34 +1637,34 @@
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNoYXBlIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6c2hhcGU9InJlY3RhbmdsZSI+CiAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3B1cnBlbGlzaEJsdWUiLz4KICAgIDxjb3JuZXJzIGFuZHJvaWQ6cmFkaXVzPSIyMmRwIiAvPgo8L3NoYXBlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVwb3h5RGF0YUJpbmRpbmdMYXlvdXRzKHtSLmxheW91dC5pdGVtX2NhdGVnb3J5fSkK</text>
+        <text encoding="base64">CmthcHQgewogICAgY29ycmVjdEVycm9yVHlwZXMgPSB0cnVlCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtQ2EK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDYXRlZ29yeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGthcHQgJ2NvbS5haXJibmIuYW5kcm9pZDplcG94eS1wcm9jZXNzb3I6Mi4yLjAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEVwb3h5RGF0YUJpbmRpbmdQYXR0ZXJuKHJDbGFzcyA9IFIuY2xhc3MsIGxheW91dFByZWZpeCA9ICJ2aWV3X2hvbGRlciIpCg==</text>
+        <text encoding="base64">QEVwb3h5RGF0YUJpbmRpbmdQYXR0ZXJuKHJDbGFzcyA9IFIuY2xhc3MsIGxheW91dFByZWZpeCA9ICJpdGVtIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVwb3h5RGF0YUJpbmRpbmdMYXlvdXRzKHtSLmxheW91dC5pdGVtX2NhdGVnb3J5fSkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBEYXRhQmluZGluZ0Vwb3h5TW9kZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVwb3h5RGF0YUJpbmRpbmdMYXlvdXRzKHtSLmxheW91dC5pdGVtX2NhdGVnb3J5fSkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBSZWN5Y2xlclYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtQ2F0ZWdvcnlCaW5kaW5nTW9kZQo=</text>
+        <text encoding="base64">QEVwb3h5RGF0YUJpbmRpbmdMYXlvdXRzKHtSLmxheW91dC5pdGVtX2NhdGVnb3J5fSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtQ2F0ZWdvcnlCaW5kaW5nTW9kZWxfCg==</text>
+        <text encoding="base64">ICAgICAgICBJdGVtQ2EK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1682,7 +1681,6 @@
       <history-cmd>
         <entry>action ProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>action SplitVertically</entry>
         <entry>action FindUsages</entry>
@@ -1693,13 +1691,14 @@
         <entry>action GotoImplementation</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
-        <entry>action SaveAll</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Run</entry>
+        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
