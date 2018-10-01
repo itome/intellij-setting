@@ -422,7 +422,7 @@
         <mark key="^" line="75" column="39" />
         <mark key="." line="75" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1538383216517">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1538384748174">
         <mark key="'" line="218" column="29" />
         <mark key="[" line="219" column="77" />
         <mark key="]" line="219" column="76" />
@@ -1676,7 +1676,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjE0N2RwIgogICAgICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iMjMwZHAiIC8+CiAgICAgICAgICAgIGFuZHJvaWQ6YWxwaGE9IjAiCiAgICAgICAgICAgIG1vdGlvbjpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJAaWQvc3BhY2VfZXZlbnRfZGV0YWlsX3NlcGFyYXRlX2Zvcl9kZXNjcmlwdGlvbiIKICAgICAgICAgICAgbW90aW9uOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICAgICAgbW90aW9uOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgICAgIG1vdGlvbjpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1689,7 +1689,6 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action RenameElement</entry>
         <entry>action SplitVertically</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action GotoImplementation</entry>
@@ -1703,12 +1702,13 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action NextSplitter</entry>
         <entry>action Find</entry>
-        <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
