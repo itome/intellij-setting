@@ -743,6 +743,12 @@
         <mark key="^" line="15" column="75" />
         <mark key="." line="15" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/res/values/strings.xml" timestamp="1538630154239">
+        <mark key="[" line="40" column="40" />
+        <mark key="]" line="40" column="40" />
+        <mark key="." line="40" column="40" />
+        <mark key="^" line="40" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionDeviceId.java" timestamp="1534652790867">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="112" />
@@ -1644,13 +1650,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>?android:attr/dialogCornerRadius</text>
+        <text encoding="base64">eCA=</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8U3RhdGUKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdGF0ZV9zdGFydCIKICAgICAgICAgICAgbW90aW9uOmNvbnN0cmFpbnRzPSJAaWQvc3RhcnQiIC8+Cg==</text>
+      <register name="0" type="4">
+        <text>x</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb250YWluZXIudHJhbnNpdGlvblRvU3RhdGUoUi5pZC5zdGF0ZV9oYWxmKQo=</text>
@@ -1709,9 +1715,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
