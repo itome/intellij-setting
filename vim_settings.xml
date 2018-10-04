@@ -394,6 +394,12 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="30" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" timestamp="1538635186255">
+        <mark key="[" line="45" column="74" />
+        <mark key="]" line="45" column="73" />
+        <mark key="^" line="45" column="73" />
+        <mark key="." line="45" column="73" />
+      </file>
       <file name="$USER_HOME$/Projects/line-android/test/jp/naver/line/android/activity/chathistory/list/SeeAllTextContentViewController.kt" timestamp="1524734433871">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="36" />
@@ -705,6 +711,12 @@
         <mark key="^" line="194" column="7" />
         <mark key="." line="194" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetViewModel.kt" timestamp="1538634884967">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="3" />
+        <mark key="^" line="47" column="3" />
+        <mark key="." line="47" column="3" />
+      </file>
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/build.gradle" timestamp="1525745203226">
         <mark key="[" line="47" column="74" />
         <mark key="]" line="47" column="73" />
@@ -743,11 +755,12 @@
         <mark key="^" line="15" column="75" />
         <mark key="." line="15" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/res/values/strings.xml" timestamp="1538630154239">
-        <mark key="[" line="40" column="40" />
-        <mark key="]" line="40" column="40" />
-        <mark key="." line="40" column="40" />
-        <mark key="^" line="40" column="40" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/res/values/strings.xml" timestamp="1538634551601">
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="52" />
+        <mark key="." line="1" column="52" />
+        <mark key="^" line="1" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/action/MaBeeeActionDeviceId.java" timestamp="1534652790867">
         <mark key="[" line="18" column="0" />
@@ -1470,11 +1483,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/SingleLiveEvent.kt" timestamp="1537423568893">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="7" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="29" column="7" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/SingleLiveEvent.kt" timestamp="1538634991584">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/ErrorHandler.kt" timestamp="1537511984684">
         <mark key="[" line="7" column="69" />
@@ -1547,11 +1560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/OSS/dashboard/lib/pages/item_reviews_page.dart" />
-      <jump line="101" column="51" filename="$USER_HOME$/OSS/dashboard/lib/pages/main_page.dart" />
-      <jump line="110" column="23" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_detail.dart" />
-      <jump line="35" column="43" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_detail.dart" />
-      <jump line="159" column="41" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_task.dart" />
       <jump line="40" column="0" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_task.dart" />
       <jump line="381" column="0" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_task.dart" />
       <jump line="73" column="0" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/ConferenceDataDownloader.kt" />
@@ -1647,10 +1655,15 @@
       <jump line="153" column="0" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="47" column="29" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="12" column="11" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/e2a24730c06811b5355ffd95a9594366/res/values-v28/values-v28.xml" />
+      <jump line="10" column="48" filename="$USER_HOME$/Projects/android/app/src/main/res/values/strings.xml" />
+      <jump line="47" column="0" filename="$USER_HOME$/Projects/android/app/src/main/res/values/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/android/app/src/main/res/values/strings.xml" />
+      <jump line="208" column="0" filename="$USER_HOME$/Projects/android/app/src/main/res/values/strings.xml" />
+      <jump line="29" column="36" filename="$USER_HOME$/Projects/android/app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">eCA=</text>
+        <text encoding="base64">OiBNdXRhYmxlTGl2ZURhdGE8Pg==</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1711,13 +1724,13 @@
         <entry>action FindInPath</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Back</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
