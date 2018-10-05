@@ -879,10 +879,12 @@
         <mark key="." line="16" column="62" />
         <mark key="^" line="16" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" timestamp="1538718559141">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" timestamp="1538723552982">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="14" />
+        <mark key="." line="43" column="14" />
+        <mark key="^" line="43" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/Result.kt" timestamp="1538015630686">
         <mark key="[" line="10" column="0" />
@@ -1091,10 +1093,11 @@
         <mark key="^" line="33" column="11" />
         <mark key="." line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopSection.kt" timestamp="1538718502696">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopSection.kt" timestamp="1538722524335">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/src/jp/naver/line/android/activity/chathistory/list/msg/MessageSourceViewController.kt" timestamp="1524554761914">
         <mark key="[" line="37" column="100" />
@@ -1220,12 +1223,12 @@
         <mark key="." line="7" column="71" />
         <mark key="^" line="7" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1538721349579">
-        <mark key="'" line="170" column="66" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="134" column="97" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1538723800256">
+        <mark key="'" line="140" column="9" />
+        <mark key="[" line="179" column="65" />
+        <mark key="]" line="179" column="64" />
+        <mark key="^" line="179" column="64" />
+        <mark key="." line="179" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1538218679638">
         <mark key="'" line="70" column="19" />
@@ -1556,8 +1559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="20" filename="$USER_HOME$/OSS/CollapsingToolbar/app/src/main/res/xml/collapsing_toolbar.xml" />
-      <jump line="14" column="43" filename="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/OSS/CollapsingToolbar/app/src/main/res/xml/collapsing_toolbar.xml" />
       <jump line="76" column="0" filename="$USER_HOME$/OSS/CollapsingToolbar/app/src/main/res/xml/collapsing_toolbar.xml" />
       <jump line="78" column="9" filename="$USER_HOME$/Projects/android/app/src/main/res/layout/activity_event_detail.xml" />
@@ -1656,46 +1657,48 @@
       <jump line="40" column="50" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/login/LoginViewModel.kt" />
       <jump line="63" column="50" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
       <jump line="170" column="66" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" />
+      <jump line="140" column="9" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" />
+      <jump line="110" column="0" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">UmVzdWx0PFBhaXI8R2V0VG9wUGFnZVByb3RvLkdldFRvcFBhZ2VSZXNwb25zZSwgQm9vbGVhbj4+</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBzaG91bGRBbmltYXRlID0gcmVzdWx0LnVzZXIuc3RhdHMuY29pbiA+IHJlc3VsdC51c2VyLnN0YXRzLnByZXZpb3VzQ29pbiAmJgovLyAgICAgICAgICAgIHJlc3VsdC51c2VyLnN0YXRzLmNvaW4gIT0gY3VycmVudENvaW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b3BWaWV3TW9kZWwudG9wLm9ic2VydmUodGhpcywgT2JzZXJ2ZXIgewogICAgICAgICAgICBpZiAoaXQgaXMgUmVzdWx0LlN1Y2Nlc3MpIHRvcFNlY3Rpb24udXBkYXRlVG9wKHVzZXJWaWV3TW9kZWwuaXNMb2dnZWRJbiwgcmVzdWx0LCBmYWxzZSkKICAgICAgICB9KQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgYW5pbWF0aW9uRW5hYmxlZCA9IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBmdW4gb24K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2hvdWxkQW5pbWF0ZSA9IGN1cnJlbnRTdGF0cy5jb2luID4gY3VycmVudFN0YXRzLnByZXZpb3VzQ29pbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICB2YXIgc2hvdWxkQW5pbWF0ZSA9IGZhbHNlCiAgICAgICAgcHJpdmF0ZSBzZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50Q29pbiA9IHJlc3VsdC51c2VyLnN0YXRzLmNvaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3VsZEFuaW1hdGUgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2hvdWxkQW5pbWF0ZSA9IHJlc3VsdC51c2VyLnN0YXRzLmNvaW4gPiByZXN1bAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB2YXIgc2hvdWxkQW5pbWF0ZSA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICB0b3BWaWV3TW9kZWwudG9wLm9ic2VydmUodGhpcywgT2JzZXJ2ZXIgewogICAgICAgICAgICBpZiAoaXQgaXMgUmVzdWx0LlN1Y2Nlc3MpIHRvcFNlY3Rpb24udXBkYXRlVG9wKHVzZXJWaWV3TW9kZWwuaXNMb2dnZWRJbiwgcmVzdWx0LCBmYWxzZSkKICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2YWwgCg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBmdW4gb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2YQo=</text>
+        <text encoding="base64">CiAgICB2YXIgc2hvdWxkQW5pbWF0ZSA9IGZhbHNlCiAgICAgICAgcHJpdmF0ZSBzZXQK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1713,21 +1716,21 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
-        <entry>action Debug</entry>
         <entry>action NextSplitter</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action Run</entry>
-        <entry>action Back</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
