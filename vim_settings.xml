@@ -424,6 +424,12 @@
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
       </file>
+      <file name="$USER_HOME$/OSS/android-ConstraintLayoutExamples/build.gradle" timestamp="1538746921493">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/core/searchlaw/SearchLawStore.kt" timestamp="1526644575351">
         <mark key="[" line="19" column="45" />
         <mark key="]" line="19" column="44" />
@@ -1664,7 +1670,7 @@
         <text encoding="base64">QEVwb3h5RGF0YUJpbmRpbmdQYXR0ZXJuKHJDbGFzcyA9IFIuY2xhc3MsIGxheW91dFByZWZpeCA9ICJpdGVtIikK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1694,11 +1700,11 @@
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
