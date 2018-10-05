@@ -667,6 +667,9 @@
         <mark key="^" line="185" column="3" />
         <mark key="." line="185" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/MotionLayoutDemo/app/src/main/java/team/itome/motionlayoutdemo/MainActivity.kt" timestamp="1538751466803">
+        <mark key="'" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Pattaya/android/app/src/beta/res/values/strings.xml" timestamp="1530292210415">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="39" />
@@ -1531,8 +1534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="25" filename="$USER_HOME$/OSS/dashboard/lib/pages/item_reviews_page.dart" />
-      <jump line="15" column="0" filename="$USER_HOME$/OSS/dashboard/lib/pages/item_reviews_page.dart" />
       <jump line="101" column="51" filename="$USER_HOME$/OSS/dashboard/lib/pages/main_page.dart" />
       <jump line="110" column="23" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_detail.dart" />
       <jump line="35" column="43" filename="$USER_HOME$/OSS/Taskist/lib/ui/page_detail.dart" />
@@ -1631,6 +1632,8 @@
       <jump line="33" column="8" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/item_category.xml" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/epoxy/package-info.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/MotionLayoutDemo/app/src/main/java/team/itome/motionlayoutdemo/MainActivity.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/MotionLayoutDemo/app/src/main/java/team/itome/motionlayoutdemo/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1670,7 +1673,7 @@
         <text encoding="base64">QEVwb3h5RGF0YUJpbmRpbmdQYXR0ZXJuKHJDbGFzcyA9IFIuY2xhc3MsIGxheW91dFByZWZpeCA9ICJpdGVtIikK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1697,14 +1700,14 @@
         <entry>action GotoImplementation</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
-        <entry>action Back</entry>
         <entry>action SaveAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
