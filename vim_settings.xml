@@ -287,11 +287,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/otaku/lib/view/playground.dart" timestamp="1539006544713">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Downloads/otaku/lib/view/playground.dart" timestamp="1539009967221">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/Otaku/otaku/lib/main.dart" timestamp="1538928829706">
         <mark key="[" line="61" column="0" />
@@ -579,6 +579,12 @@
       </file>
       <file name="$USER_HOME$/OSS/state_experiments/shared/lib/src/bloc_complex/services/cart.dart" timestamp="1538967092981">
         <mark key="'" line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/otaku/pubspec.yaml" timestamp="1539009550721">
+        <mark key="[" line="40" column="6" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
+        <mark key="^" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/otaku/lib/main.dart" timestamp="1539003380213">
         <mark key="'" line="25" column="0" />
@@ -1364,7 +1370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image_drawable.xml" />
       <jump line="183" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_upload.xml" />
       <jump line="9" column="44" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_upload.xml" />
       <jump line="201" column="16" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_upload.xml" />
@@ -1464,10 +1469,11 @@
       <jump line="30" column="9" filename="$USER_HOME$/Downloads/otaku/lib/view/playground.dart" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/otaku/lib/main.dart" />
       <jump line="17" column="0" filename="$USER_HOME$/Downloads/otaku/lib/main.dart" />
+      <jump line="10" column="11" filename="$USER_HOME$/Downloads/otaku/lib/view/playground.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>;</text>
+        <text>child</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1476,61 +1482,34 @@
         <text encoding="base64">ICAgIHJldHVybiBuZXcgU2NhZmZvbGQoCiAgICAgIGFwcEJhcjogbmV3IEFwcEJhcigKICAgICAgICB0aXRsZTogbmV3IFRleHQod2lkZ2V0LnRpdGxlKSwKICAgICAgKSwKICAgICAgYm9keTogbmV3IENlbnRlcigKICAgICAgICBjaGlsZDogbmV3IENvbHVtbigKICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5jZW50ZXIsCiAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgIG5ldyBUZXh0KAogICAgICAgICAgICAgICdZb3UgaGF2ZSBwdXNoZWQgdGhlIGJ1dHRvbiB0aGlzIG1hbnkgdGltZXM6JywKICAgICAgICAgICAgKSwKICAgICAgICAgICAgbmV3IFRleHQoCiAgICAgICAgICAgICAgJyRfY291bnRlcicsCiAgICAgICAgICAgICAgc3R5bGU6IFRoZW1lLm9mKGNvbnRleHQpLnRleHRUaGVtZS5kaXNwbGF5MSwKICAgICAgICAgICAgKSwKICAgICAgICAgIF0sCiAgICAgICAgKSwKICAgICAgKSwKICAgICAgZmxvYXRpbmdBY3Rpb25CdXR0b246IG5ldyBGbG9hdGluZ0FjdGlvbkJ1dHRvbigKICAgICAgICBvblByZXNzZWQ6IF9pbmNyZW1lbnRDb3VudGVyLAogICAgICAgIHRvb2x0aXA6ICdJbmNyZW1lbnQnLAogICAgICAgIGNoaWxkOiBuZXcgSWNvbihJY29ucy5hZGQpLAogICAgICApLCAvLyBUaGlzIHRyYWlsaW5nIGNvbW1hIG1ha2VzIGF1dG8tZm9ybWF0dGluZyBuaWNlciBmb3IgYnVpbGQgbWV0aG9kcy4KICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBCYXI6IEFwcEJhcigKICAgICAgICAgIHRpdGxlOiBUZXh0KCJob2dlIiksCiAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAxMDAuMCwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBCYXI6IEFwcEJhcigKICAgICAgICAgIHRpdGxlOiBUZXh0KCJob2dlIiksCiAgICAgICAgKSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">KAogICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNsYXNzIF9NeUhvbWVQYWdlU3RhdGUgZXh0ZW5kcyBTdGF0ZTxNeUhvbWVQYWdlPiB7CiAgaW50IF9jb3VudGVyID0gMDsKCiAgdm9pZCBfaW5jcmVtZW50Q291bnRlcigpIHsKICAgIHNldFN0YXRlKCgpIHsKICAgICAgX2NvdW50ZXIrKzsKICAgIH0pOwogIH0KCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gbmV3IFNjYWZmb2xkKAogICAgICBhcHBCYXI6IG5ldyBBcHBCYXIoCiAgICAgICAgdGl0bGU6IG5ldyBUZXh0KHdpZGdldC50aXRsZSksCiAgICAgICksCiAgICAgIGJvZHk6IG5ldyBDZW50ZXIoCiAgICAgICAgY2hpbGQ6IG5ldyBDb2x1bW4oCiAgICAgICAgICBtYWluQXhpc0FsaWdubWVudDogTWFpbkF4aXNBbGlnbm1lbnQuY2VudGVyLAogICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICBuZXcgVGV4dCgKICAgICAgICAgICAgICAnWW91IGhhdmUgcHVzaGVkIHRoZSBidXR0b24gdGhpcyBtYW55IHRpbWVzOicsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIG5ldyBUZXh0KAogICAgICAgICAgICAgICckX2NvdW50ZXInLAogICAgICAgICAgICAgIHN0eWxlOiBUaGVtZS5vZihjb250ZXh0KS50ZXh0VGhlbWUuZGlzcGxheTEsCiAgICAgICAgICAgICksCiAgICAgICAgICBdLAogICAgICAgICksCiAgICAgICksCiAgICAgIGZsb2F0aW5nQWN0aW9uQnV0dG9uOiBuZXcgRmxvYXRpbmdBY3Rpb25CdXR0b24oCiAgICAgICAgb25QcmVzc2VkOiBfaW5jcmVtZW50Q291bnRlciwKICAgICAgICB0b29sdGlwOiAnSW5jcmVtZW50JywKICAgICAgICBjaGlsZDogbmV3IEljb24oSWNvbnMuYWRkKSwKICAgICAgKSwgLy8gVGhpcyB0cmFpbGluZyBjb21tYSBtYWtlcyBhdXRvLWZvcm1hdHRpbmcgbmljZXIgZm9yIGJ1aWxkIG1ldGhvZHMuCiAgICApOwogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBib2R5OiBDb250YWluZXIoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5hbGwoMzIuMCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHdpZAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>Center(
-      ),</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIENvbnRhaW5lcigKICAgICAgICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5vbmx5KGJvdHRvbTogOC4wKSwKICAgICAgICAgICAgY2hpbGQ6IFRleHQoCiAgICAgICAgICAgICAgJ09lc2NoaW5lbiBMYWtlIENhbXBncm91bmQnLAogICAgICAgICAgICAgIHN0eWxlOiBUZXh0U3R5bGUoCiAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiBGb250V2VpZ2h0LmJvbGQsCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Container(
-      padding: const EdgeInsets.all(32.0),
-      child: Column(
-        children: [
-          Container(
-            padding: const EdgeInsets.only(bottom: 8.0),
-            child: Text(
-              'Oeschinen Lake Campground',
-              style: TextStyle(
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-          ),
-          Text(
-            'Kandersteg, Switzerland',
-            style: TextStyle(
-              color: Colors.grey[500],
-            ),
-          ),
-          Icon(
-            Icons.star,
-            color: Colors.red[500],
-          ),
-          Text('41'),
-        ],
-      ),
-    );</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgQW4gaW1hZ2UgYXNzZXQgY2FuIHJlZmVyIHRvIG9uZSBvciBtb3JlIHJlc29sdXRpb24tc3BlY2lmaWMgInZhcmlhbnRzIiwgc2VlCiAgIyBodHRwczovL2ZsdXR0ZXIuaW8vYXNzZXRzLWFuZC1pbWFnZXMvI3Jlc29sdXRpb24tYXdhcmUuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmxvYXRpbmdBY3Rpb25CdXR0b246IEZsb2F0aW5nQWN0aW9uQnV0dG9uKAogICAgICAgIG9uUHJlc3NlZDogKCkgPT4gKCksCiAgICAgICAgdG9vbHRpcDogJ0luY3JlbWVudCcsCiAgICAgICAgY2hpbGQ6IG5ldyBJY29uKEljb25zLmFkZCksCiAgICAgICksIC8vIFRoaXMgdHJhaWxpbmcgY29tbWEgbWFrZXMgYXV0by1mb3JtYXR0aW5nIG5pY2VyIGZvciBidWlsZCBtZXRob2RzLgo=</text>
+        <text encoding="base64">ICAgYXNzZXRzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvblByZXNzZWQ6ICwK</text>
+        <text encoding="base64">ICAgIC0gaW1hZ2VzL2FfZG90X2J1cnIuanBlZwogICAgLSBpbWFnZXMvYV9kb3RfaGFtLmpwZWcK</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1555,16 +1534,16 @@
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Find</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action NextSplitter</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
