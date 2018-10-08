@@ -505,6 +505,7 @@
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
+      <file name="$USER_HOME$/OSS/state_experiments/shared/lib/src/vanilla/main.dart" timestamp="1539004921699" />
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/flux/Store.kt" timestamp="1526565831302">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="21" />
@@ -1089,6 +1090,9 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
+      <file name="$USER_HOME$/OSS/state_experiments/shared/lib/src/scoped/start.dart" timestamp="1539004871753">
+        <mark key="'" line="38" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/ViewBindingAdapters.kt" timestamp="1538038441986">
         <mark key="[" line="9" column="63" />
         <mark key="]" line="9" column="62" />
@@ -1350,7 +1354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_login_twitter.xml" />
       <jump line="9" column="36" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image.xml" />
       <jump line="49" column="19" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
       <jump line="76" column="38" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_upload.xml" />
@@ -1450,6 +1453,7 @@
       <jump line="80" column="27" filename="$USER_HOME$/Projects/otaku_flutter/lib/main.dart" />
       <jump line="16" column="8" filename="$USER_HOME$/Projects/otaku_flutter/lib/main.dart" />
       <jump line="19" column="25" filename="$USER_HOME$/Downloads/otaku/lib/main.dart" />
+      <jump line="38" column="5" filename="$USER_HOME$/OSS/state_experiments/shared/lib/src/scoped/start.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1489,7 +1493,7 @@
         <text encoding="base64">ICAgIC8vIFRoaXMgbWV0aG9kIGlzIHJlcnVuIGV2ZXJ5IHRpbWUgc2V0U3RhdGUgaXMgY2FsbGVkLCBmb3IgaW5zdGFuY2UgYXMgZG9uZQogICAgLy8gYnkgdGhlIF9pbmNyZW1lbnRDb3VudGVyIG1ldGhvZCBhYm92ZS4KICAgIC8vCiAgICAvLyBUaGUgRmx1dHRlciBmcmFtZXdvcmsgaGFzIGJlZW4gb3B0aW1pemVkIHRvIG1ha2UgcmVydW5uaW5nIGJ1aWxkIG1ldGhvZHMKICAgIC8vIGZhc3QsIHNvIHRoYXQgeW91IGNhbiBqdXN0IHJlYnVpbGQgYW55dGhpbmcgdGhhdCBuZWVkcyB1cGRhdGluZyByYXRoZXIKICAgIC8vIHRoYW4gaGF2aW5nIHRvIGluZGl2aWR1YWxseSBjaGFuZ2UgaW5zdGFuY2VzIG9mIHdpZGdldHMuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1521,9 +1525,9 @@
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Run</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
