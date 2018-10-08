@@ -144,6 +144,12 @@
         <mark key="." line="111" column="26" />
         <mark key="^" line="78" column="24" />
       </file>
+      <file name="$USER_HOME$/Downloads/otaku/test/widget_test.dart" timestamp="1539005928504">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/BetDataSource.kt" timestamp="1537422636946">
         <mark key="[" line="52" column="121" />
         <mark key="]" line="52" column="120" />
@@ -281,6 +287,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/otaku/lib/view/playground.dart" timestamp="1539006544713">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Otaku/otaku/lib/main.dart" timestamp="1538928829706">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -315,12 +327,10 @@
         <mark key="." line="23" column="37" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/Downloads/otaku/lib/main.dart" timestamp="1539004466195">
-        <mark key="'" line="19" column="25" />
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="5" column="48" />
-        <mark key="^" line="5" column="48" />
-        <mark key="." line="5" column="48" />
+      <file name="$USER_HOME$/Downloads/otaku/lib/main.dart" timestamp="1539006470509">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/res/drawable/ic_add_white_24dp.xml" timestamp="1526557608709">
         <mark key="[" line="6" column="28" />
@@ -1354,12 +1364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="36" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image.xml" />
-      <jump line="49" column="19" filename="$USER_HOME$/Projects/Otaku/app/build.gradle" />
-      <jump line="76" column="38" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_upload.xml" />
-      <jump line="12" column="8" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image.xml" />
-      <jump line="5" column="7" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image_drawable.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image_drawable.xml" />
       <jump line="183" column="0" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_upload.xml" />
       <jump line="9" column="44" filename="$USER_HOME$/Projects/Otaku/app/src/main/res/layout/activity_upload.xml" />
@@ -1454,46 +1458,79 @@
       <jump line="16" column="8" filename="$USER_HOME$/Projects/otaku_flutter/lib/main.dart" />
       <jump line="19" column="25" filename="$USER_HOME$/Downloads/otaku/lib/main.dart" />
       <jump line="38" column="5" filename="$USER_HOME$/OSS/state_experiments/shared/lib/src/scoped/start.dart" />
+      <jump line="16" column="0" filename="$USER_HOME$/Downloads/otaku/lib/main.dart" />
+      <jump line="7" column="9" filename="$USER_HOME$/Downloads/otaku/lib/view/playground.dart" />
+      <jump line="41" column="0" filename="$USER_HOME$/Downloads/otaku/lib/view/playground.dart" />
+      <jump line="30" column="9" filename="$USER_HOME$/Downloads/otaku/lib/view/playground.dart" />
+      <jump line="14" column="0" filename="$USER_HOME$/Downloads/otaku/lib/main.dart" />
+      <jump line="17" column="0" filename="$USER_HOME$/Downloads/otaku/lib/main.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>OnPageChangeListener</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9idXR0b24iCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JBY2NlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjY0ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI2NGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iOGRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgoKPC9hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludC5Db25zdHJhaW50TGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgU2NhZmZvbGQoCiAgICAgIGFwcEJhcjogbmV3IEFwcEJhcigKICAgICAgICB0aXRsZTogbmV3IFRleHQod2lkZ2V0LnRpdGxlKSwKICAgICAgKSwKICAgICAgYm9keTogbmV3IENlbnRlcigKICAgICAgICBjaGlsZDogbmV3IENvbHVtbigKICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5jZW50ZXIsCiAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgIG5ldyBUZXh0KAogICAgICAgICAgICAgICdZb3UgaGF2ZSBwdXNoZWQgdGhlIGJ1dHRvbiB0aGlzIG1hbnkgdGltZXM6JywKICAgICAgICAgICAgKSwKICAgICAgICAgICAgbmV3IFRleHQoCiAgICAgICAgICAgICAgJyRfY291bnRlcicsCiAgICAgICAgICAgICAgc3R5bGU6IFRoZW1lLm9mKGNvbnRleHQpLnRleHRUaGVtZS5kaXNwbGF5MSwKICAgICAgICAgICAgKSwKICAgICAgICAgIF0sCiAgICAgICAgKSwKICAgICAgKSwKICAgICAgZmxvYXRpbmdBY3Rpb25CdXR0b246IG5ldyBGbG9hdGluZ0FjdGlvbkJ1dHRvbigKICAgICAgICBvblByZXNzZWQ6IF9pbmNyZW1lbnRDb3VudGVyLAogICAgICAgIHRvb2x0aXA6ICdJbmNyZW1lbnQnLAogICAgICAgIGNoaWxkOiBuZXcgSWNvbihJY29ucy5hZGQpLAogICAgICApLCAvLyBUaGlzIHRyYWlsaW5nIGNvbW1hIG1ha2VzIGF1dG8tZm9ybWF0dGluZyBuaWNlciBmb3IgYnVpbGQgbWV0aG9kcy4KICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW90aW9uTGF5b3V0IGFzIFZpZXdQYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBCYXI6IEFwcEJhcigKICAgICAgICAgIHRpdGxlOiBUZXh0KCJob2dlIiksCiAgICAgICAgKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGF5b3V0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBCYXI6IEFwcEJhcigKICAgICAgICAgIHRpdGxlOiBUZXh0KCJob2dlIiksCiAgICAgICAgKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW90aW9uCg==</text>
+        <text encoding="base64">CmNsYXNzIF9NeUhvbWVQYWdlU3RhdGUgZXh0ZW5kcyBTdGF0ZTxNeUhvbWVQYWdlPiB7CiAgaW50IF9jb3VudGVyID0gMDsKCiAgdm9pZCBfaW5jcmVtZW50Q291bnRlcigpIHsKICAgIHNldFN0YXRlKCgpIHsKICAgICAgX2NvdW50ZXIrKzsKICAgIH0pOwogIH0KCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gbmV3IFNjYWZmb2xkKAogICAgICBhcHBCYXI6IG5ldyBBcHBCYXIoCiAgICAgICAgdGl0bGU6IG5ldyBUZXh0KHdpZGdldC50aXRsZSksCiAgICAgICksCiAgICAgIGJvZHk6IG5ldyBDZW50ZXIoCiAgICAgICAgY2hpbGQ6IG5ldyBDb2x1bW4oCiAgICAgICAgICBtYWluQXhpc0FsaWdubWVudDogTWFpbkF4aXNBbGlnbm1lbnQuY2VudGVyLAogICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICBuZXcgVGV4dCgKICAgICAgICAgICAgICAnWW91IGhhdmUgcHVzaGVkIHRoZSBidXR0b24gdGhpcyBtYW55IHRpbWVzOicsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIG5ldyBUZXh0KAogICAgICAgICAgICAgICckX2NvdW50ZXInLAogICAgICAgICAgICAgIHN0eWxlOiBUaGVtZS5vZihjb250ZXh0KS50ZXh0VGhlbWUuZGlzcGxheTEsCiAgICAgICAgICAgICksCiAgICAgICAgICBdLAogICAgICAgICksCiAgICAgICksCiAgICAgIGZsb2F0aW5nQWN0aW9uQnV0dG9uOiBuZXcgRmxvYXRpbmdBY3Rpb25CdXR0b24oCiAgICAgICAgb25QcmVzc2VkOiBfaW5jcmVtZW50Q291bnRlciwKICAgICAgICB0b29sdGlwOiAnSW5jcmVtZW50JywKICAgICAgICBjaGlsZDogbmV3IEljb24oSWNvbnMuYWRkKSwKICAgICAgKSwgLy8gVGhpcyB0cmFpbGluZyBjb21tYSBtYWtlcyBhdXRvLWZvcm1hdHRpbmcgbmljZXIgZm9yIGJ1aWxkIG1ldGhvZHMuCiAgICApOwogIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhlbWUK</text>
+        <text encoding="base64">ICAgIHJldHVybiAKICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIENvbHVtbiBpcyBhbHNvIGxheW91dCB3aWRnZXQuIEl0IHRha2VzIGEgbGlzdCBvZiBjaGlsZHJlbiBhbmQKICAgICAgICAgIC8vIGFycmFuZ2VzIHRoZW0gdmVydGljYWxseS4gQnkgZGVmYXVsdCwgaXQgc2l6ZXMgaXRzZWxmIHRvIGZpdCBpdHMKICAgICAgICAgIC8vIGNoaWxkcmVuIGhvcml6b250YWxseSwgYW5kIHRyaWVzIHRvIGJlIGFzIHRhbGwgYXMgaXRzIHBhcmVudC4KICAgICAgICAgIC8vCiAgICAgICAgICAvLyBJbnZva2UgImRlYnVnIHBhaW50IiAocHJlc3MgInAiIGluIHRoZSBjb25zb2xlIHdoZXJlIHlvdSByYW4KICAgICAgICAgIC8vICJmbHV0dGVyIHJ1biIsIG9yIHNlbGVjdCAiVG9nZ2xlIERlYnVnIFBhaW50IiBmcm9tIHRoZSBGbHV0dGVyIHRvb2wKICAgICAgICAgIC8vIHdpbmRvdyBpbiBJbnRlbGxpSikgdG8gc2VlIHRoZSB3aXJlZnJhbWUgZm9yIGVhY2ggd2lkZ2V0LgogICAgICAgICAgLy8KICAgICAgICAgIC8vIENvbHVtbiBoYXMgdmFyaW91cyBwcm9wZXJ0aWVzIHRvIGNvbnRyb2wgaG93IGl0IHNpemVzIGl0c2VsZiBhbmQKICAgICAgICAgIC8vIGhvdyBpdCBwb3NpdGlvbnMgaXRzIGNoaWxkcmVuLiBIZXJlIHdlIHVzZSBtYWluQXhpc0FsaWdubWVudCB0bwogICAgICAgICAgLy8gY2VudGVyIHRoZSBjaGlsZHJlbiB2ZXJ0aWNhbGx5OyB0aGUgbWFpbiBheGlzIGhlcmUgaXMgdGhlIHZlcnRpY2FsCiAgICAgICAgICAvLyBheGlzIGJlY2F1c2UgQ29sdW1ucyBhcmUgdmVydGljYWwgKHRoZSBjcm9zcyBheGlzIHdvdWxkIGJlCiAgICAgICAgICAvLyBob3Jpem9udGFsKS4K</text>
+      <register name="6" type="4">
+        <text>Center(
+      ),</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDZW50ZXIgaXMgYSBsYXlvdXQgd2lkZ2V0LiBJdCB0YWtlcyBhIHNpbmdsZSBjaGlsZCBhbmQgcG9zaXRpb25zIGl0CiAgICAgICAgLy8gaW4gdGhlIG1pZGRsZSBvZiB0aGUgcGFyZW50Lgo=</text>
+      <register name="7" type="4">
+        <text>Container(
+      padding: const EdgeInsets.all(32.0),
+      child: Column(
+        children: [
+          Container(
+            padding: const EdgeInsets.only(bottom: 8.0),
+            child: Text(
+              'Oeschinen Lake Campground',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ),
+          Text(
+            'Kandersteg, Switzerland',
+            style: TextStyle(
+              color: Colors.grey[500],
+            ),
+          ),
+          Icon(
+            Icons.star,
+            color: Colors.red[500],
+          ),
+          Text('41'),
+        ],
+      ),
+    );</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBIZXJlIHdlIHRha2UgdGhlIHZhbHVlIGZyb20gdGhlIE15SG9tZVBhZ2Ugb2JqZWN0IHRoYXQgd2FzIGNyZWF0ZWQgYnkKICAgICAgICAvLyB0aGUgQXBwLmJ1aWxkIG1ldGhvZCwgYW5kIHVzZSBpdCB0byBzZXQgb3VyIGFwcGJhciB0aXRsZS4K</text>
+        <text encoding="base64">ICAgICAgZmxvYXRpbmdBY3Rpb25CdXR0b246IEZsb2F0aW5nQWN0aW9uQnV0dG9uKAogICAgICAgIG9uUHJlc3NlZDogKCkgPT4gKCksCiAgICAgICAgdG9vbHRpcDogJ0luY3JlbWVudCcsCiAgICAgICAgY2hpbGQ6IG5ldyBJY29uKEljb25zLmFkZCksCiAgICAgICksIC8vIFRoaXMgdHJhaWxpbmcgY29tbWEgbWFrZXMgYXV0by1mb3JtYXR0aW5nIG5pY2VyIGZvciBidWlsZCBtZXRob2RzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRoaXMgbWV0aG9kIGlzIHJlcnVuIGV2ZXJ5IHRpbWUgc2V0U3RhdGUgaXMgY2FsbGVkLCBmb3IgaW5zdGFuY2UgYXMgZG9uZQogICAgLy8gYnkgdGhlIF9pbmNyZW1lbnRDb3VudGVyIG1ldGhvZCBhYm92ZS4KICAgIC8vCiAgICAvLyBUaGUgRmx1dHRlciBmcmFtZXdvcmsgaGFzIGJlZW4gb3B0aW1pemVkIHRvIG1ha2UgcmVydW5uaW5nIGJ1aWxkIG1ldGhvZHMKICAgIC8vIGZhc3QsIHNvIHRoYXQgeW91IGNhbiBqdXN0IHJlYnVpbGQgYW55dGhpbmcgdGhhdCBuZWVkcyB1cGRhdGluZyByYXRoZXIKICAgIC8vIHRoYW4gaGF2aW5nIHRvIGluZGl2aWR1YWxseSBjaGFuZ2UgaW5zdGFuY2VzIG9mIHdpZGdldHMuCg==</text>
+        <text encoding="base64">ICAgICAgICBvblByZXNzZWQ6ICwK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1510,7 +1547,6 @@
       <history-cmd>
         <entry>action SplitVertically</entry>
         <entry>action FindUsages</entry>
-        <entry>action NextSplitter</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
@@ -1519,15 +1555,16 @@
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
