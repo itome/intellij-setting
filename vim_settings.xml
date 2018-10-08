@@ -562,8 +562,8 @@
       <file name="$USER_HOME$/OSS/state_experiments/shared/lib/src/bloc_complex/services/cart.dart" timestamp="1538967092981">
         <mark key="'" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/otaku/lib/main.dart" timestamp="1538966412418">
-        <mark key="'" line="108" column="0" />
+      <file name="$USER_HOME$/Projects/otaku/lib/main.dart" timestamp="1539002208824">
+        <mark key="'" line="84" column="28" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -1024,7 +1024,6 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/OSS/android-ConstraintLayoutExamples/motionlayout/src/main/java/com/google/androidstudio/motionlayoutexample/utils/ViewpagerHeader.kt" timestamp="1538999968230" />
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/data/api/GitHubService.kt" timestamp="1525751271495">
         <mark key="[" line="11" column="70" />
         <mark key="]" line="11" column="69" />
@@ -1315,7 +1314,6 @@
         <mark key="." line="7" column="68" />
         <mark key="^" line="7" column="68" />
       </file>
-      <file name="$USER_HOME$/OSS/state_experiments/shared/lib/src/bloc/bloc_cart_page.dart" timestamp="1538966814960" />
       <file name="$USER_HOME$/OSS/android-flux-architecture/flux-rxjava/app/src/main/java/jp/satorufujiwara/flux/ui/main/MainAdapter.kt" timestamp="1525746781490">
         <mark key="[" line="22" column="74" />
         <mark key="]" line="22" column="73" />
@@ -1342,7 +1340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="17" filename="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" />
       <jump line="51" column="43" filename="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" />
       <jump line="281" column="4" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="102" column="4" filename="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
@@ -1442,6 +1439,7 @@
       <jump line="15" column="42" filename="$USER_HOME$/OSS/state_experiments/shared/lib/src/redux/store.dart" />
       <jump line="80" column="0" filename="$USER_HOME$/OSS/state_experiments/shared/lib/src/scoped/complete.dart" />
       <jump line="30" column="42" filename="$USER_HOME$/OSS/android-ConstraintLayoutExamples/motionlayout/src/main/java/com/google/androidstudio/motionlayoutexample/viewpagerdemo/ViewPagerActivity.kt" />
+      <jump line="84" column="28" filename="$USER_HOME$/Projects/otaku/lib/main.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1481,7 +1479,7 @@
         <text encoding="base64">ICAgIC8vIFRoaXMgbWV0aG9kIGlzIHJlcnVuIGV2ZXJ5IHRpbWUgc2V0U3RhdGUgaXMgY2FsbGVkLCBmb3IgaW5zdGFuY2UgYXMgZG9uZQogICAgLy8gYnkgdGhlIF9pbmNyZW1lbnRDb3VudGVyIG1ldGhvZCBhYm92ZS4KICAgIC8vCiAgICAvLyBUaGUgRmx1dHRlciBmcmFtZXdvcmsgaGFzIGJlZW4gb3B0aW1pemVkIHRvIG1ha2UgcmVydW5uaW5nIGJ1aWxkIG1ldGhvZHMKICAgIC8vIGZhc3QsIHNvIHRoYXQgeW91IGNhbiBqdXN0IHJlYnVpbGQgYW55dGhpbmcgdGhhdCBuZWVkcyB1cGRhdGluZyByYXRoZXIKICAgIC8vIHRoYW4gaGF2aW5nIHRvIGluZGl2aWR1YWxseSBjaGFuZ2UgaW5zdGFuY2VzIG9mIHdpZGdldHMuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1507,15 +1505,15 @@
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
