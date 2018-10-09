@@ -426,12 +426,12 @@
         <mark key="^" line="75" column="39" />
         <mark key="." line="75" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1539053016058">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1539054425414">
         <mark key="'" line="47" column="29" />
-        <mark key="[" line="155" column="42" />
-        <mark key="]" line="156" column="15" />
-        <mark key="." line="156" column="15" />
-        <mark key="^" line="156" column="15" />
+        <mark key="[" line="213" column="32" />
+        <mark key="]" line="213" column="30" />
+        <mark key="." line="213" column="30" />
+        <mark key="^" line="213" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_upload_cover_image_drawable.xml" timestamp="1538299398886">
         <mark key="'" line="0" column="0" />
@@ -1414,11 +1414,10 @@
         <mark key="." line="30" column="86" />
         <mark key="^" line="30" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventViewModel.kt" timestamp="1539053410855">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="3" />
-        <mark key="^" line="38" column="3" />
-        <mark key="." line="38" column="3" />
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventViewModel.kt" timestamp="1539054345766">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Libra/app/src/main/java/com/itome/libra/data/datastore/remote/LawRemoteDataStore.kt" timestamp="1526574233746">
         <mark key="[" line="8" column="83" />
@@ -1649,7 +1648,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>betStats</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -1658,36 +1657,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbmltYXRvclNldCgpLnBsYXlTZXF1ZW50aWFsbHlFeHQoCiAgICAgICAgICAgICAgICAgICAgICAgIEFuaW1hdG9yU2V0KCkucGxheVRvZ2V0aGVyRXh0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50ZXh0VG9wTXlXYWxsZXRDb2luVmFsdWUuYW5pbWF0b3JUcmFuc2xhdGlvblkoMEYsIC0zMEYsIDBGKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmRpbmcudGV4dFRvcE15V2FsbGV0Q29pblVuaXQuYW5pbWF0b3JUcmFuc2xhdGlvblkoMEYsIC0zMEYsIDBGKS5zZXRTdGFydERlbGF5RXh0KDEwMEwpCiAgICAgICAgICAgICAgICAgICAgICAgICkuc2V0RHVyYXRpb24oNDAwTCksCiAgICAgICAgICAgICAgICAgICAgICAgIEFuaW1hdG9yU2V0KCkucGxheVRvZ2V0aGVyRXh0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50ZXh0VG9wTXlXYWxsZXRJbmNyZW1lbnRMYWJlbC5hbmltYXRvckFscGhhKDBGLCAxRiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5kaW5nLnRleHRUb3BNeVdhbGxldEluY3JlbWVudExhYmVsLmFuaW1hdG9yVHJhbnNsYXRpb25ZKDMwRiwgMEYpCiAgICAgICAgICAgICAgICAgICAgICAgICkuc2V0RHVyYXRpb24oMzAwTCkuc2V0U3RhcnREZWxheUV4dCgyMDBMKS5zZXRMaXN0ZW5lcihvblN0YXJ0ID0gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50ZXh0VG9wTXlXYWxsZXRJbmNyZW1lbnRMYWJlbC50b1Zpc2libGUoKQogICAgICAgICAgICAgICAgICAgICAgICB9KSwKICAgICAgICAgICAgICAgICAgICAgICAgQW5pbWF0b3JTZXQoKS5wbGF5VG9nZXRoZXJFeHQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5kaW5nLnRleHRUb3BNeVdhbGxldEluY3JlbWVudExhYmVsLmFuaW1hdG9yQWxwaGEoMUYsIDBGKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmRpbmcudGV4dFRvcE15V2FsbGV0SW5jcmVtZW50TGFiZWwuYW5pbWF0b3JUcmFuc2xhdGlvblkoMEYsIDMwRikKICAgICAgICAgICAgICAgICAgICAgICAgKS5zZXREdXJhdGlvbig4MDBMKS5zZXRTdGFydERlbGF5RXh0KDEwMDBMKS5zZXRMaXN0ZW5lcihvbkVuZCA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmRpbmcudGV4dFRvcE15V2FsbGV0SW5jcmVtZW50TGFiZWwudG9Hb25lKCkKICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oNDAwTCksCg==</text>
+        <text encoding="base64">ICAgIEBPbkxpZmVjeWNsZUV2ZW50KExpZmVjeWNsZS5FdmVudC5PTikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oMzAwTCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oNDAwTCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50ZXh0VG9wTXlXYWxsZXRDb2luVmFsdWUuYW5pbWF0b3JUcmFuc2xhdGlvblkoMEYsIC0zMEYsIDBGKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldER1cmF0aW9uKDQwMEwpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oMzAwTCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmRpbmcudGV4dFRvcE15V2FsbGV0Q29pblZhbHVlLmFuaW1hdG9yVHJhbnNsYXRpb25ZKDBGLCAtMzBGLCAwRikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oNDAwTCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50ZXh0VG9wTXlXYWxsZXRDb2luVmFsdWUuYW5pbWF0b3JUcmFuc2xhdGlvblkoMEYsIC0zMEYsIDBGKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldER1cmF0aW9uKDQwMEwpLAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmRpbmcudGV4dFRvcE15V2FsbGV0Q29pblZhbHVlLmFuaW1hdG9yVHJhbnNsYXRpb25ZKDBGLCAtMzBGLCAwRikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oNDAwTCksCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5pbWF0b3JTZXQoKS5wbAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.setListener(onEnd = {
                                     binding.textTopMyWalletIncrementLabel.toGone()
                                 })</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.setListener(onStart = {
                                     binding.textTopMyWalletIncrementLabel.toVisible()
                                 })</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>.setListener(onStart = 
                         )</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5wcm9ncmVzc1RvcE15V2FsbGV0U2VwYXJhdGVGb3JDb2luVmFsdWUuaXNJbmRldGVybWluYXRlID0gdHJ1ZQogICAgICAgICAgICBiaW5kaW5nLnRleHRUb3BNeVdhbGxldENvaW5WYWx1ZS5zZXRDdXJyZW50VGV4dFdpdGhGb3JtYXQoUi5zdHJpbmcubnVtYmVyX3RleHRfZm9ybWF0LCBjdXJyZW50U3RhdHMucHJldmlvdXNDb2luKQoK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
@@ -1716,11 +1715,11 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
         <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
       </history-cmd>
