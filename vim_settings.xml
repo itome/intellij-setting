@@ -270,12 +270,6 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/MainActivity.kt" timestamp="1538706530935">
-        <mark key="'" line="63" column="38" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/OSS/iosched/build.gradle" timestamp="1536778817477">
         <mark key="'" line="57" column="28" />
         <mark key="[" line="64" column="0" />
@@ -373,6 +367,12 @@
         <mark key="]" line="58" column="40" />
         <mark key="." line="58" column="40" />
         <mark key="^" line="57" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/.circleci/config.yml" timestamp="1539058542288">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_receive_msg_see_all.xml" timestamp="1524639948963">
         <mark key="[" line="5" column="61" />
@@ -680,12 +680,6 @@
         <mark key="^" line="37" column="98" />
         <mark key="." line="37" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/res/xml/scene_event_detail.xml" timestamp="1538383220283">
-        <mark key="'" line="39" column="10" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Libra/core/src/main/java/team/itome/core/domain/UseCase.kt" timestamp="1537161763743">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="0" column="30" />
@@ -774,6 +768,7 @@
         <mark key="^" line="19" column="99" />
         <mark key="." line="19" column="99" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/MainActivity.kt" timestamp="1539058658847" />
       <file name="$USER_HOME$/Projects/Otaku/app/src/main/res/drawable/background_add.xml" timestamp="1538313852173">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1689,7 +1684,7 @@
                         )</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1704,24 +1699,24 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action NextSplitter</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
-        <entry>action Find</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Find</entry>
+        <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
