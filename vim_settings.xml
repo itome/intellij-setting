@@ -426,7 +426,7 @@
         <mark key="^" line="75" column="39" />
         <mark key="." line="75" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1538389554863">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1539053016058">
         <mark key="'" line="47" column="29" />
         <mark key="[" line="155" column="42" />
         <mark key="]" line="156" column="15" />
@@ -575,6 +575,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/mybet/MyBetViewModel.kt" timestamp="1539053351317">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="3" />
+        <mark key="^" line="49" column="3" />
+        <mark key="." line="49" column="3" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/di/ViewModelModule.kt" timestamp="1537797325024">
         <mark key="[" line="30" column="4" />
@@ -870,12 +876,6 @@
         <mark key="." line="16" column="62" />
         <mark key="^" line="16" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" timestamp="1538731487558">
-        <mark key="[" line="111" column="20" />
-        <mark key="]" line="111" column="20" />
-        <mark key="." line="111" column="26" />
-        <mark key="^" line="78" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/Result.kt" timestamp="1538015630686">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1033,6 +1033,7 @@
         <mark key="^" line="93" column="7" />
         <mark key="." line="93" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/grpc/GetMyBetStatsByEventProto.java" timestamp="1539053239822" />
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/result/Result.kt" timestamp="1536775832982">
         <mark key="'" line="22" column="12" />
         <mark key="[" line="24" column="19" />
@@ -1090,10 +1091,10 @@
         <mark key="^" line="37" column="99" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopSection.kt" timestamp="1538731469087">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="11" />
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/data/remote/TopDataSource.kt" timestamp="1538037348817">
         <mark key="[" line="27" column="20" />
@@ -1211,13 +1212,6 @@
         <mark key="." line="7" column="71" />
         <mark key="^" line="7" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1539050228349">
-        <mark key="'" line="143" column="45" />
-        <mark key="[" line="87" column="71" />
-        <mark key="]" line="87" column="70" />
-        <mark key="." line="87" column="70" />
-        <mark key="^" line="87" column="70" />
-      </file>
       <file name="$USER_HOME$/Projects/Otaku/app/src/main/java/app/shotr/otaku/ui/login/LoginActivityUI.kt" timestamp="1538218679638">
         <mark key="'" line="70" column="19" />
         <mark key="[" line="17" column="4" />
@@ -1230,6 +1224,12 @@
         <mark key="]" line="19" column="31" />
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/util/ext/TextSwitcherExt.kt" timestamp="1539051672634">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/line-android/res/layout/chathistory_row_send_msg_show_all.xml" timestamp="1524549286498">
         <mark key="[" line="0" column="0" />
@@ -1414,7 +1414,7 @@
         <mark key="." line="30" column="86" />
         <mark key="^" line="30" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventViewModel.kt" timestamp="1537845108232">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/event/EventViewModel.kt" timestamp="1539053410855">
         <mark key="[" line="38" column="4" />
         <mark key="]" line="38" column="3" />
         <mark key="^" line="38" column="3" />
@@ -1505,12 +1505,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/mybet/MyBoxActivity.kt" timestamp="1537849957612">
+      <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/ui/mybet/MyBoxActivity.kt" timestamp="1539053001541">
         <mark key="'" line="117" column="30" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="48" />
-        <mark key="^" line="102" column="39" />
-        <mark key="." line="103" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android/app/src/main/kotlin/bet/superchoice/di/DatabaseModule.kt" timestamp="1537502954122">
         <mark key="[" line="25" column="4" />
@@ -1649,43 +1649,48 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBzaG91bGRBbmltYXRlID0gcmVzdWx0LnVzZXIuc3RhdHMuY29pbiA+IHJlc3VsdC51c2VyLnN0YXRzLnByZXZpb3VzQ29pbiAmJgovLyAgICAgICAgICAgIHJlc3VsdC51c2VyLnN0YXRzLmNvaW4gIT0gY3VycmVudENvaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbmltYXRvclNldCgpLnBsYXlTZXF1ZW50aWFsbHlFeHQoCiAgICAgICAgICAgICAgICAgICAgICAgIEFuaW1hdG9yU2V0KCkucGxheVRvZ2V0aGVyRXh0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50ZXh0VG9wTXlXYWxsZXRDb2luVmFsdWUuYW5pbWF0b3JUcmFuc2xhdGlvblkoMEYsIC0zMEYsIDBGKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmRpbmcudGV4dFRvcE15V2FsbGV0Q29pblVuaXQuYW5pbWF0b3JUcmFuc2xhdGlvblkoMEYsIC0zMEYsIDBGKS5zZXRTdGFydERlbGF5RXh0KDEwMEwpCiAgICAgICAgICAgICAgICAgICAgICAgICkuc2V0RHVyYXRpb24oNDAwTCksCiAgICAgICAgICAgICAgICAgICAgICAgIEFuaW1hdG9yU2V0KCkucGxheVRvZ2V0aGVyRXh0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50ZXh0VG9wTXlXYWxsZXRJbmNyZW1lbnRMYWJlbC5hbmltYXRvckFscGhhKDBGLCAxRiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5kaW5nLnRleHRUb3BNeVdhbGxldEluY3JlbWVudExhYmVsLmFuaW1hdG9yVHJhbnNsYXRpb25ZKDMwRiwgMEYpCiAgICAgICAgICAgICAgICAgICAgICAgICkuc2V0RHVyYXRpb24oMzAwTCkuc2V0U3RhcnREZWxheUV4dCgyMDBMKS5zZXRMaXN0ZW5lcihvblN0YXJ0ID0gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50ZXh0VG9wTXlXYWxsZXRJbmNyZW1lbnRMYWJlbC50b1Zpc2libGUoKQogICAgICAgICAgICAgICAgICAgICAgICB9KSwKICAgICAgICAgICAgICAgICAgICAgICAgQW5pbWF0b3JTZXQoKS5wbGF5VG9nZXRoZXJFeHQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5kaW5nLnRleHRUb3BNeVdhbGxldEluY3JlbWVudExhYmVsLmFuaW1hdG9yQWxwaGEoMUYsIDBGKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmRpbmcudGV4dFRvcE15V2FsbGV0SW5jcmVtZW50TGFiZWwuYW5pbWF0b3JUcmFuc2xhdGlvblkoMEYsIDMwRikKICAgICAgICAgICAgICAgICAgICAgICAgKS5zZXREdXJhdGlvbig4MDBMKS5zZXRTdGFydERlbGF5RXh0KDEwMDBMKS5zZXRMaXN0ZW5lcihvbkVuZCA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmRpbmcudGV4dFRvcE15V2FsbGV0SW5jcmVtZW50TGFiZWwudG9Hb25lKCkKICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2hvdWxkQW5pbWF0ZSA9IGN1cnJlbnRTdGF0cy5jb2luID4gY3VycmVudFN0YXRzLnByZXZpb3VzQ29pbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oNDAwTCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50Q29pbiA9IHJlc3VsdC51c2VyLnN0YXRzLmNvaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oMzAwTCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2hvdWxkQW5pbWF0ZSA9IHJlc3VsdC51c2VyLnN0YXRzLmNvaW4gIT0gY3VycmVudENvaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50ZXh0VG9wTXlXYWxsZXRDb2luVmFsdWUuYW5pbWF0b3JUcmFuc2xhdGlvblkoMEYsIC0zMEYsIDBGKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldER1cmF0aW9uKDQwMEwpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG9uTG9naW5TdGF0ZUNoYW5nZWQodXNlclZpZXdNb2RlbC5pc0xvZ2dlZEluKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmRpbmcudGV4dFRvcE15V2FsbGV0Q29pblZhbHVlLmFuaW1hdG9yVHJhbnNsYXRpb25ZKDBGLCAtMzBGLCAwRikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oNDAwTCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5pbWF0b3JTZXQoKS5wbAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzTG9nZ2VkaW46IEJvb2xlYW4gYnkgbGF6eSB7IHVzZXJWaWV3TW9kZWwuaXNMb2dnZWRJbiB9Cg==</text>
+      <register name="6" type="4">
+        <text>.setListener(onEnd = {
+                                    binding.textTopMyWalletIncrementLabel.toGone()
+                                })</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNhdmVkQ29pbiA9IC0xCg==</text>
+      <register name="7" type="4">
+        <text>.setListener(onStart = {
+                                    binding.textTopMyWalletIncrementLabel.toVisible()
+                                })</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIXVzZXJWaWV3TW9kZWwuaXNMb2dnZWRJbikgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5AT2JzZXJ2ZXIKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>.setListener(onStart = 
+                        )</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIXVzZXJWaWV3TW9kZWwuaXNMb2dnZWRJbikgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5AT2JzZXJ2ZXIKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5wcm9ncmVzc1RvcE15V2FsbGV0U2VwYXJhdGVGb3JDb2luVmFsdWUuaXNJbmRldGVybWluYXRlID0gdHJ1ZQogICAgICAgICAgICBiaW5kaW5nLnRleHRUb3BNeVdhbGxldENvaW5WYWx1ZS5zZXRDdXJyZW50VGV4dFdpdGhGb3JtYXQoUi5zdHJpbmcubnVtYmVyX3RleHRfZm9ybWF0LCBjdXJyZW50U3RhdHMucHJldmlvdXNDb2luKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1704,20 +1709,20 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action NextSplitter</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
-        <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
-        <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
+        <entry>action FindInPath</entry>
+        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
