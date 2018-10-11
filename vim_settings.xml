@@ -103,10 +103,11 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/MainActivity.kt" timestamp="1539242968308">
-        <mark key="[" line="93" column="53" />
-        <mark key="]" line="93" column="53" />
-        <mark key="." line="93" column="53" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/MainActivity.kt" timestamp="1539249948435">
+        <mark key="'" line="94" column="53" />
+        <mark key="[" line="94" column="53" />
+        <mark key="]" line="94" column="53" />
+        <mark key="." line="94" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdaptersTest.kt" timestamp="1539244483470">
         <mark key="[" line="33" column="21" />
@@ -194,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
       <jump line="106" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.musichin.reactivelivedata/reactivelivedata/0.14.0/48cf42ad1cefcdad375207eba177938d6ab3d482/reactivelivedata-0.14.0-sources.jar!/com/github/musichin/reactivelivedata/ReactiveLiveData.kt" />
       <jump line="98" column="16" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
       <jump line="4" column="25" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/LiveDataExt.kt" />
@@ -294,6 +294,7 @@
       <jump line="62" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/mywallet/MyWalletActivity.kt" />
       <jump line="385" column="28" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
       <jump line="9" column="24" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdapters.kt" />
+      <jump line="94" column="53" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -333,7 +334,7 @@
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24uaW50ZXJuYWwuQm90dG9tTmF2aWdhdGlvbkl0ZW1WaWV3CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQuZGVzaWduLmludGVybmFsLkJvdHRvbU5hdmlnYXRpb25NZW51Vmlldwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -359,13 +360,13 @@
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
