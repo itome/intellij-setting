@@ -304,8 +304,8 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1539236471394">
-        <mark key="'" line="71" column="4" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1539237330025">
+        <mark key="'" line="130" column="8" />
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
@@ -604,8 +604,8 @@
       <file name="$USER_HOME$/Projects/MotionLayoutDemo/app/src/main/java/team/itome/motionlayoutdemo/MainActivity.kt" timestamp="1538751466803">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/mywallet/MyWalletActivity.kt" timestamp="1539166180099">
-        <mark key="'" line="158" column="0" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/mywallet/MyWalletActivity.kt" timestamp="1539237363800">
+        <mark key="'" line="82" column="21" />
       </file>
       <file name="$USER_HOME$/OSS/MotionLayoutPlayground/app/src/main/java/team/itome/motionlayoutplayground/ChromeActivity.kt" timestamp="1538754983138">
         <mark key="[" line="11" column="71" />
@@ -1502,8 +1502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.wasabeef/glide-transformations/3.3.0/2a7171f8219e9fbae4d79a086d96b5b2005d6292/glide-transformations-3.3.0-sources.jar!/jp/wasabeef/glide/transformations/BlurTransformation.java" />
-      <jump line="32" column="19" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/ImageBindingAdapters.kt" />
       <jump line="24" column="14" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
       <jump line="73" column="52" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
       <jump line="153" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
@@ -1602,6 +1600,8 @@
       <jump line="71" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="60" column="16" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
       <jump line="134" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
+      <jump line="130" column="8" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
+      <jump line="82" column="21" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/mywallet/MyWalletActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1641,7 +1641,7 @@
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLmFwcEJhckV2ZW50RGV0YWlsLmFkZE9uT2Zmc2V0Q2hhbmdlZExpc3RlbmVyIHsgXywgb2Zmc2V0IC0+CiAgICAgICAgICAgIGJpbmRpbmcucmVmcmVzaEV2ZW50RGV0YWlsLmlzRW5hYmxlZCA9IG9mZnNldCA9PSAwCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1671,9 +1671,9 @@
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
