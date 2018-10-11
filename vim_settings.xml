@@ -39,8 +39,8 @@
         <mark key="]" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1539242828563">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1539250914176">
+        <mark key="'" line="189" column="4" />
         <mark key="[" line="52" column="44" />
         <mark key="]" line="52" column="44" />
         <mark key="." line="52" column="44" />
@@ -174,6 +174,11 @@
         <mark key="]" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/di/MyBoxModule.kt" timestamp="1539251080326">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/info/InfoFragment.kt" timestamp="1539243012080">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="49" column="33" />
@@ -195,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.musichin.reactivelivedata/reactivelivedata/0.14.0/48cf42ad1cefcdad375207eba177938d6ab3d482/reactivelivedata-0.14.0-sources.jar!/com/github/musichin/reactivelivedata/ReactiveLiveData.kt" />
       <jump line="98" column="16" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
       <jump line="4" column="25" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/LiveDataExt.kt" />
       <jump line="214" column="36" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.musichin.reactivelivedata/reactivelivedata/0.14.0/48cf42ad1cefcdad375207eba177938d6ab3d482/reactivelivedata-0.14.0-sources.jar!/com/github/musichin/reactivelivedata/ReactiveLiveData.kt" />
@@ -295,10 +299,11 @@
       <jump line="385" column="28" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
       <jump line="9" column="24" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdapters.kt" />
       <jump line="94" column="53" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/MainActivity.kt" />
+      <jump line="189" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ANDROI</text>
+        <text>androidx.fragment.app.</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -334,7 +339,7 @@
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24uaW50ZXJuYWwuQm90dG9tTmF2aWdhdGlvbkl0ZW1WaWV3CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQuZGVzaWduLmludGVybmFsLkJvdHRvbU5hdmlnYXRpb25NZW51Vmlldwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -361,12 +366,12 @@
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
