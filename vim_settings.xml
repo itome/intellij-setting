@@ -304,8 +304,8 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1539237330025">
-        <mark key="'" line="130" column="8" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1539241139107">
+        <mark key="'" line="130" column="0" />
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
@@ -1600,8 +1600,8 @@
       <jump line="71" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="60" column="16" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
       <jump line="134" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/activity/BaseActivity.kt" />
-      <jump line="130" column="8" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="82" column="21" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/mywallet/MyWalletActivity.kt" />
+      <jump line="130" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1641,7 +1641,7 @@
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLmFwcEJhckV2ZW50RGV0YWlsLmFkZE9uT2Zmc2V0Q2hhbmdlZExpc3RlbmVyIHsgXywgb2Zmc2V0IC0+CiAgICAgICAgICAgIGJpbmRpbmcucmVmcmVzaEV2ZW50RGV0YWlsLmlzRW5hYmxlZCA9IG9mZnNldCA9PSAwCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1668,12 +1668,12 @@
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
