@@ -25,11 +25,10 @@
         <mark key="." line="21" column="64" />
         <mark key="^" line="21" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/build.gradle" timestamp="1539319388606">
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="8" column="63" />
-        <mark key="^" line="8" column="63" />
-        <mark key="." line="8" column="63" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/build.gradle" timestamp="1539327957161">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/di/MyBoxModule.kt" timestamp="1539251080326">
         <mark key="[" line="14" column="51" />
@@ -124,12 +123,20 @@
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/gradle/wrapper/gradle-wrapper.properties" timestamp="1539329344447">
+        <mark key="[" line="2" column="80" />
+        <mark key="]" line="2" column="79" />
+        <mark key="^" line="2" column="79" />
+        <mark key="." line="2" column="79" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventThemeSection.kt" timestamp="1539242866278">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1539325729023" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1539327711994">
+        <mark key="'" line="37" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/fragment/ForceUpdateFragment.kt" timestamp="1539242714044">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="28" />
@@ -208,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="29" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/LiveDataExt.kt" />
       <jump line="39" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/LiveDataExt.kt" />
       <jump line="51" column="24" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/LiveDataExt.kt" />
@@ -308,10 +314,11 @@
       <jump line="75" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" />
       <jump line="21" column="12" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/drawable/layer_top_like_progress_line.xml" />
       <jump line="41" column="29" filename="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" />
+      <jump line="37" column="14" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">cmVzdWx0LnVzZXIuc3RhdHMuY29pbiA+IHJlc3VsdC51c2VyLnN0YXRzLnByZXZpb3VzQ29pbiAmJg==</text>
+        <text>bin</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -320,47 +327,45 @@
         <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5yZWZyZXNoRXZlbnREZXRhaWwuaXNFbmFibGVkID0gb2Zmc2V0ID09IDAK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgY2xhc3NwYXRoICdjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My4wLjEnCiAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIDwhLS0gUmVwbGFjZSB3aXRoICAtLT4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>.setListener(onStart = {
                                 binding.textTopMyWalletIncrementLabel.toVisible()
                             })</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>.setListener(onStart = {
                                 binding.textTopMyWalletIncrementLabel.toVisible()</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>.setListener(onStart = {
                             binding.textTopMyWalletIncrementLabel.toVisible()
                         })</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>.setListener(onStart = {
                             binding.textTopMyWalletIncrementLabel.toVisible()
                         }</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>.setListener(onEnd = {
                                     binding.textTopMyWalletIncrementLabel.toGone()
                                 })</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>.setListener(onStart = {
                                     binding.textTopMyWalletIncrementLabel.toVisible()
                                 })</text>
-      </register>
-      <register name="8" type="4">
-        <text>.setListener(onStart = {
-                                    binding.textTopMyWalletIncrementLabel.toVisible()
-                                })</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RHVyYXRpb24oMzAwTCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -384,15 +389,15 @@
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
         <entry>action Find</entry>
-        <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
