@@ -1505,7 +1505,7 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwgIEBvdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1537,9 +1537,9 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
