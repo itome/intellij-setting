@@ -28,12 +28,12 @@
         <mark key="." line="142" column="7" />
         <mark key="^" line="142" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera.java" timestamp="1539595346111">
-        <mark key="'" line="258" column="39" />
-        <mark key="[" line="56" column="35" />
-        <mark key="]" line="56" column="34" />
-        <mark key="^" line="56" column="34" />
-        <mark key="." line="56" column="34" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera.java" timestamp="1539597545273">
+        <mark key="'" line="259" column="39" />
+        <mark key="[" line="182" column="4" />
+        <mark key="]" line="182" column="3" />
+        <mark key="^" line="182" column="3" />
+        <mark key="." line="182" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/build.gradle" timestamp="1539332400395">
         <mark key="'" line="21" column="8" />
@@ -94,6 +94,7 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraHelper.java" timestamp="1539596778725" />
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageFilter.java" timestamp="1539582507461">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="90" column="8" />
@@ -101,16 +102,17 @@
         <mark key="^" line="90" column="7" />
         <mark key="." line="90" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1539595354504">
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1539596352512">
         <mark key="'" line="236" column="40" />
-        <mark key="[" line="42" column="68" />
-        <mark key="]" line="42" column="67" />
-        <mark key="." line="42" column="67" />
-        <mark key="^" line="42" column="67" />
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="48" />
+        <mark key="." line="42" column="48" />
+        <mark key="^" line="42" column="48" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" timestamp="1539581373471">
         <mark key="'" line="707" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraHelperBase.java" timestamp="1539596693662" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLES20.java" timestamp="1539336281194">
         <mark key="'" line="23" column="20" />
       </file>
@@ -244,7 +246,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>r</text>
+        <text>PreviewCallback</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -280,7 +282,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -302,17 +304,17 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
-        <entry>action Find</entry>
-        <entry>action Back</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
