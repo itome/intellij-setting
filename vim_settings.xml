@@ -233,8 +233,8 @@
         <mark key="^" line="90" column="7" />
         <mark key="." line="90" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1539570810266">
-        <mark key="'" line="41" column="29" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1539570892811">
+        <mark key="'" line="44" column="30" />
         <mark key="[" line="30" column="32" />
         <mark key="]" line="30" column="31" />
         <mark key="^" line="30" column="31" />
@@ -260,13 +260,12 @@
         <mark key="]" line="33" column="21" />
         <mark key="." line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityGallery.java" timestamp="1539570362410" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/ThemeChoiceItem.kt" timestamp="1539242901020">
         <mark key="[" line="33" column="26" />
         <mark key="]" line="33" column="26" />
         <mark key="." line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1539570462088">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1539571172987">
         <mark key="[" line="9" column="59" />
         <mark key="]" line="9" column="58" />
         <mark key="^" line="9" column="58" />
@@ -282,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/LiveDataExt.kt" />
       <jump line="60" column="23" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="98" column="17" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/mywallet/MyWalletActivity.kt" />
       <jump line="156" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/mywallet/MyWalletActivity.kt" />
@@ -382,6 +380,7 @@
       <jump line="46" column="22" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityMain.java" />
       <jump line="54" column="38" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityMain.java" />
       <jump line="121" column="39" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera.java" />
+      <jump line="44" column="30" filename="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -423,7 +422,7 @@
                             })</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -454,8 +453,8 @@
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
