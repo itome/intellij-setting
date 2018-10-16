@@ -93,7 +93,6 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraHelper.java" timestamp="1539596778725" />
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageFilter.java" timestamp="1539582507461">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="90" column="8" />
@@ -107,10 +106,12 @@
         <mark key="]" line="170" column="0" />
         <mark key="." line="170" column="0" />
       </file>
+      <file name="$USER_HOME$/OSS/CameraTestProject/app/build.gradle" timestamp="1539656392315">
+        <mark key="'" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" timestamp="1539581373471">
         <mark key="'" line="707" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraHelperBase.java" timestamp="1539596693662" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLES20.java" timestamp="1539336281194">
         <mark key="'" line="23" column="20" />
       </file>
@@ -141,8 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/reactivelivedata/build.gradle" />
-      <jump line="1299" column="44" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
       <jump line="851" column="8" filename="$USER_HOME$/Projects/reactivelivedata/reactivelivedata/src/main/java/com/github/musichin/reactivelivedata/ReactiveLiveData.kt" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
@@ -241,6 +240,8 @@
       <jump line="145" column="19" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera.java" />
       <jump line="125" column="5" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" />
       <jump line="140" column="47" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/OSS/CameraTestProject/app/build.gradle" />
+      <jump line="26" column="0" filename="$USER_HOME$/OSS/CameraTestProject/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -280,7 +281,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -304,15 +305,15 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
