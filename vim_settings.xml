@@ -6,11 +6,22 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/Camera.java" timestamp="1539595357646">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OSS/cameraview/build.gradle" timestamp="1539657466655">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1539323332936">
         <mark key="[" line="182" column="28" />
         <mark key="]" line="182" column="28" />
         <mark key="." line="182" column="28" />
         <mark key="^" line="182" column="7" />
+      </file>
+      <file name="$USER_HOME$/OSS/cameraview/library/src/main/java/com/google/android/cameraview/CameraView.java" timestamp="1539657708254">
+        <mark key="[" line="133" column="11" />
+        <mark key="]" line="133" column="11" />
+        <mark key="." line="133" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/AnimatorExt.kt" timestamp="1539322094838">
         <mark key="[" line="21" column="58" />
@@ -34,6 +45,9 @@
         <mark key="]" line="158" column="0" />
         <mark key="." line="135" column="55" />
       </file>
+      <file name="$USER_HOME$/OSS/cameraview/library/src/main/api14/com/google/android/cameraview/TextureViewPreview.java" timestamp="1539657343302">
+        <mark key="'" line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/build.gradle" timestamp="1539332400395">
         <mark key="'" line="21" column="8" />
       </file>
@@ -51,6 +65,12 @@
         <mark key="]" line="75" column="7" />
         <mark key="^" line="75" column="7" />
         <mark key="." line="75" column="7" />
+      </file>
+      <file name="$USER_HOME$/OSS/cameraview/demo/build.gradle" timestamp="1539657338498">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="3" />
+        <mark key="^" line="38" column="3" />
+        <mark key="." line="38" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/gradle/findbugs.gradle" timestamp="1539567071970">
         <mark key="'" line="24" column="0" />
@@ -75,6 +95,7 @@
         <mark key="^" line="327" column="7" />
         <mark key="." line="327" column="7" />
       </file>
+      <file name="$USER_HOME$/OSS/cameraview/library/src/main/api23/com/google/android/cameraview/Camera2Api23.java" timestamp="1539657658198" />
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageLaplacianFilter.java" timestamp="1539587739664">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="7" />
@@ -142,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
       <jump line="851" column="8" filename="$USER_HOME$/Projects/reactivelivedata/reactivelivedata/src/main/java/com/github/musichin/reactivelivedata/ReactiveLiveData.kt" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
       <jump line="68" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/widget/ViewPagerIndicator.kt" />
@@ -242,10 +262,11 @@
       <jump line="140" column="47" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" />
       <jump line="0" column="0" filename="$USER_HOME$/OSS/CameraTestProject/app/build.gradle" />
       <jump line="26" column="0" filename="$USER_HOME$/OSS/CameraTestProject/app/build.gradle" />
+      <jump line="3" column="1" filename="$USER_HOME$/OSS/cameraview/library/src/main/api14/com/google/android/cameraview/TextureViewPreview.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>PreviewCallback</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -281,7 +302,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -304,16 +325,16 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
+        <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
