@@ -12,16 +12,18 @@
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="19" />
       </file>
+      <file name="$USER_HOME$/OSS/cameraview/library/src/main/api14/com/google/android/cameraview/Camera1.java" timestamp="1539658403493" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/TopFragment.kt" timestamp="1539323332936">
         <mark key="[" line="182" column="28" />
         <mark key="]" line="182" column="28" />
         <mark key="." line="182" column="28" />
         <mark key="^" line="182" column="7" />
       </file>
-      <file name="$USER_HOME$/OSS/cameraview/library/src/main/java/com/google/android/cameraview/CameraView.java" timestamp="1539657708254">
-        <mark key="[" line="133" column="11" />
-        <mark key="]" line="133" column="11" />
-        <mark key="." line="133" column="11" />
+      <file name="$USER_HOME$/OSS/cameraview/library/src/main/java/com/google/android/cameraview/CameraView.java" timestamp="1539658993488">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="49" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="250" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/AnimatorExt.kt" timestamp="1539322094838">
         <mark key="[" line="21" column="58" />
@@ -266,43 +268,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPCAyMyk=</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRVFVRVNUX1BJQ0tfSU1BR0UgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUltcGwgPSBuZXcgQ2FtZXJhMShtQ2FsbGJhY2tzLCBwcmV2aWV3KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0YSA9IG51bGw7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBtSW1wbCA9IG5ldyBDYW1lcmEyQXBpMjMobUNhbGxiYWNrcywgcHJldmlldywgY29udGV4dCk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0YSA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHJlcXVlc3RDb2RlKSB7CiAgICAgICAgICAgIGNhc2UgUkVRVUVTVF9DQU1FUkE6CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAogICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShyZXF1ZXN0Q29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHJlcXVlc3RDb2RlKSB7CiAgICAgICAgICAgIGNhc2UgUkVRVUVTVF9DQU1FUkE6CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KHYuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShyZXF1ZXN0Q29kZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Rhcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KHYuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgc3RhcnRBY3Rpdml0eShpbnQgaWQpIHsKICAgICAgICBzd2l0Y2ggKGlkKSB7CiAgICAgICAgICAgIGNhc2UgUi5pZC5idXR0b25fZ2FsbGVyeToKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkobmV3IEludGVudCh0aGlzLCBBY3Rpdml0eUdhbGxlcnkuY2xhc3MpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFIuaWQuYnV0dG9uX2NhbWVyYToKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkobmV3IEludGVudCh0aGlzLCBBY3Rpdml0eUNhbWVyYS5jbGFzcykpOwogICAgICAgICAgICAgICAgYnJlYWs7CgogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Rhcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgc3RhcnRBY3Rpdml0eShpbnQgaWQpIHsKICAgICAgICBzd2l0Y2ggKGlkKSB7CiAgICAgICAgICAgIGNhc2UgUi5pZC5idXR0b25fZ2FsbGVyeToKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkobmV3IEludGVudCh0aGlzLCBBY3Rpdml0eUdhbGxlcnkuY2xhc3MpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFIuaWQuYnV0dG9uX2NhbWVyYToKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkobmV3IEludGVudCh0aGlzLCBBY3Rpdml0eUNhbWVyYS5jbGFzcykpOwogICAgICAgICAgICAgICAgYnJlYWs7CgogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -326,15 +328,15 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
