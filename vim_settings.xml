@@ -62,18 +62,18 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityMain.java" timestamp="1539743993954">
-        <mark key="[" line="61" column="71" />
-        <mark key="]" line="62" column="21" />
-        <mark key="." line="62" column="21" />
-        <mark key="^" line="62" column="21" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityMain.java" timestamp="1539745074626">
+        <mark key="[" line="40" column="66" />
+        <mark key="]" line="41" column="64" />
+        <mark key="^" line="41" column="64" />
+        <mark key="." line="41" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" timestamp="1539744228160">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="28" />
-        <mark key="^" line="234" column="18" />
-        <mark key="." line="24" column="28" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" timestamp="1539745392665">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="122" column="87" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageTwoPassTextureSamplingFilter.java" timestamp="1539579605067">
         <mark key="[" line="47" column="4" />
@@ -111,7 +111,7 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" timestamp="1539743618097">
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" timestamp="1539745297746">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -311,43 +311,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">PC9hY3Rpdml0eT4=</text>
+        <text>240</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
-      <register name="0" type="4">
-        <text>android:theme=&quot;@style/AppTheme.NoActionBar&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQodGhpcywgQWN0aXZpdHlDYW1lcmEuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuYWN0aXZpdHkuQWN0aXZpdHlDYW1lcmEyIgogICAgICAgICAgICBhbmRyb2lkOnNjcmVlbk9yaWVudGF0aW9uPSJwb3J0cmFpdCIKICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lLk5vQWN0aW9uQmFyIiAvPgo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIk1pc3NpbmdQZXJtaXNzaW9uIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBqcC5jby5jeWJlcmFnZW50LmFuZHJvaWQuZ3B1aW1hZ2Uuc2FtcGxlLmFjdGl2aXR5OwoKaW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7CgppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CgpwdWJsaWMgY2xhc3MgQWN0aXZpdHlDYW1lcmEyIGV4dGVuZHMgQXBwQ29tcGF0QWN0aXZpdHkgewoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICB9Cn0K</text>
+        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkobmV3IEludGVudCh0aGlzLCBBY3Rpdml0eUNhbWVyYTIuY2xhc3MpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuYWN0aXZpdHkuQWN0aXZpdHlDYW1lcmEyIgogICAgICAgICAgICBhbmRyb2lkOnNjcmVlbk9yaWVudGF0aW9uPSJwb3J0cmFpdCIKICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lLk5vQWN0aW9uQmFyIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNhbWVyYU1hbmFnZXIgIT0gbnVsbDsK</text>
+        <text encoding="base64">cGFja2FnZSBqcC5jby5jeWJlcmFnZW50LmFuZHJvaWQuZ3B1aW1hZ2Uuc2FtcGxlLmFjdGl2aXR5OwoKaW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7CgppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CgpwdWJsaWMgY2xhc3MgQWN0aXZpdHlDYW1lcmEyIGV4dGVuZHMgQXBwQ29tcGF0QWN0aXZpdHkgewoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICB9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNhbWVyYU1hbmFnZXIgIT0gbnVsbDsK</text>
+        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBObwo=</text>
+        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNhbWVyYU1hbmFnZXIgIT0gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgR0xTdXJmYWNlVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNhbWVyYU1hbmFnZXIgIT0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -366,20 +366,20 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action NextSplitter</entry>
         <entry>action SaveAll</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Back</entry>
-        <entry>action Find</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
+        <entry>action Debug</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Run</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
