@@ -68,12 +68,12 @@
         <mark key="." line="62" column="21" />
         <mark key="^" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" timestamp="1539744152725">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="105" column="18" />
-        <mark key="]" line="105" column="18" />
-        <mark key="^" line="105" column="18" />
-        <mark key="." line="105" column="18" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" timestamp="1539744228160">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="234" column="18" />
+        <mark key="." line="24" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageTwoPassTextureSamplingFilter.java" timestamp="1539579605067">
         <mark key="[" line="47" column="4" />
@@ -156,11 +156,10 @@
         <mark key="." line="174" column="3" />
         <mark key="^" line="174" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/AndroidManifest.xml" timestamp="1539744068062">
-        <mark key="[" line="38" column="50" />
-        <mark key="]" line="38" column="50" />
-        <mark key="." line="38" column="50" />
-        <mark key="^" line="38" column="50" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/AndroidManifest.xml" timestamp="1539744272190">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="39" column="58" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" timestamp="1539742310831">
         <mark key="'" line="0" column="0" />
@@ -169,7 +168,6 @@
         <mark key="^" line="505" column="70" />
         <mark key="." line="505" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraHelperBase.java" timestamp="1539681682328" />
       <file name="$USER_HOME$/OSS/cameraview/library/src/main/base/com/google/android/cameraview/PreviewImpl.java" timestamp="1539680656162">
         <mark key="[" line="42" column="22" />
         <mark key="]" line="42" column="21" />
@@ -178,6 +176,11 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLES20.java" timestamp="1539671879527">
         <mark key="'" line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera3.java" timestamp="1539744217588">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="140" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1539571172987">
         <mark key="[" line="9" column="59" />
@@ -205,9 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="28" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
-      <jump line="9" column="24" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdapters.kt" />
-      <jump line="94" column="53" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/MainActivity.kt" />
       <jump line="189" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" />
@@ -305,46 +305,49 @@
       <jump line="26" column="0" filename="$USER_HOME$/Projects/Camera2Sample/app/src/main/java/team/camera/camera2/MainActivity.java" />
       <jump line="97" column="51" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" />
       <jump line="125" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera3.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera3.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>GLTextureView</text>
+        <text encoding="base64">PC9hY3Rpdml0eT4=</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuYWN0aXZpdHkuQWN0aXZpdHlDYW1lcmEiCiAgICAgICAgICAgIGFuZHJvaWQ6c2NyZWVuT3JpZW50YXRpb249InBvcnRyYWl0IgogICAgICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvQXBwVGhlbWUuTm9BY3Rpb25CYXIiIC8+Cg==</text>
+      <register name="0" type="4">
+        <text>android:theme=&quot;@style/AppTheme.NoActionBar&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuYWN0aXZpdHkuQWN0aXZpdHlDYW1lcmEyIgogICAgICAgICAgICBhbmRyb2lkOnNjcmVlbk9yaWVudGF0aW9uPSJwb3J0cmFpdCIKICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lLk5vQWN0aW9uQmFyIiAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
+        <text encoding="base64">cGFja2FnZSBqcC5jby5jeWJlcmFnZW50LmFuZHJvaWQuZ3B1aW1hZ2Uuc2FtcGxlLmFjdGl2aXR5OwoKaW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7CgppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CgpwdWJsaWMgY2xhc3MgQWN0aXZpdHlDYW1lcmEyIGV4dGVuZHMgQXBwQ29tcGF0QWN0aXZpdHkgewoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICB9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNhbWVyYU1hbmFnZXIgIT0gbnVsbDsK</text>
+        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNhbWVyYU1hbmFnZXIgIT0gbnVsbDsK</text>
+        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBObwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNhbWVyYU1hbmFnZXIgIT0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBOb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNhbWVyYU1hbmFnZXIgIT0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgR0xTdXJmYWNlVmlldwo=</text>
+        <text encoding="base64">ICAgIEBObwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubWVkaWEuSW1hZ2VSZWFkZXI7Cg==</text>
+        <text encoding="base64">ICAgIEBOb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFRleHR1cmVWaWV3IG1UZXh0dXJlVmlldzsKICAgIHByaXZhdGUgQ2FwdHVyZVJlcXVlc3QgbUNhcHR1cmVSZXF1ZXN0OwogICAgcHJpdmF0ZSBDYW1lcmFDYXB0dXJlU2Vzc2lvbiBtQ2FwdHVyZVNlc3Npb247CiAgICBwcml2YXRlIENhbWVyYURldmljZSBtQ2FtZXJhRGV2aWNlOwogICAgcHJpdmF0ZSBIYW5kbGVyIG1CYWNrSGFuZGxlciA9IG5ldyBIYW5kbGVyKCk7CgogICAgcHJpdmF0ZSBmaW5hbCBUZXh0dXJlVmlldy5TdXJmYWNlVGV4dHVyZUxpc3RlbmVyIG1UZXh0dXJlTGlzdGVuZXIgPSBuZXcgVGV4dHVyZVZpZXcuU3VyZmFjZVRleHR1cmVMaXN0ZW5lcigpIHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvblN1cmZhY2VUZXh0dXJlQXZhaWxhYmxlKFN1cmZhY2VUZXh0dXJlIHN1cmZhY2VUZXh0dXJlLCBpbnQgaSwgaW50IGkxKSB7CiAgICAgICAgICAgIG9wZW5DYW1lcmEoKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uU3VyZmFjZVRleHR1cmVTaXplQ2hhbmdlZChTdXJmYWNlVGV4dHVyZSBzdXJmYWNlVGV4dHVyZSwgaW50IGksIGludCBpMSkgewogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIGJvb2xlYW4gb25TdXJmYWNlVGV4dHVyZURlc3Ryb3llZChTdXJmYWNlVGV4dHVyZSBzdXJmYWNlVGV4dHVyZSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvblN1cmZhY2VUZXh0dXJlVXBkYXRlZChTdXJmYWNlVGV4dHVyZSBzdXJmYWNlVGV4dHVyZSkgewogICAgICAgIH0KICAgIH07CgogICAgcHJpdmF0ZSBmaW5hbCBDYW1lcmFEZXZpY2UuU3RhdGVDYWxsYmFjayBtU3RhdGVDYWxsYmFjayA9IG5ldyBDYW1lcmFEZXZpY2UuU3RhdGVDYWxsYmFjaygpIHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvbk9wZW5lZChATm9uTnVsbCBDYW1lcmFEZXZpY2UgY2FtZXJhRGV2aWNlKSB7CiAgICAgICAgICAgIG1DYW1lcmFEZXZpY2UgPSBjYW1lcmFEZXZpY2U7CiAgICAgICAgICAgIGNyZWF0ZUNhbWVyYVByZXZpZXdTZXNzaW9uKCk7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvbkRpc2Nvbm5lY3RlZChATm9uTnVsbCBDYW1lcmFEZXZpY2UgY2FtZXJhRGV2aWNlKSB7CiAgICAgICAgICAgIG1DYW1lcmFEZXZpY2UuY2xvc2UoKTsKICAgICAgICAgICAgbUNhbWVyYURldmljZSA9IG51bGw7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKEBOb25OdWxsIENhbWVyYURldmljZSBjYW1lcmFEZXZpY2UsIGludCBpKSB7CiAgICAgICAgICAgIG1DYW1lcmFEZXZpY2UuY2xvc2UoKTsKICAgICAgICAgICAgbUNhbWVyYURldmljZSA9IG51bGw7CiAgICAgICAgfQogICAgfTsKCiAgICBwcml2YXRlIGZpbmFsIENhbWVyYUNhcHR1cmVTZXNzaW9uLlN0YXRlQ2FsbGJhY2sgbUNhcHR1cmVTdGF0ZUNhbGxiYWNrID0gbmV3IENhbWVyYUNhcHR1cmVTZXNzaW9uLlN0YXRlQ2FsbGJhY2soKSB7CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25Db25maWd1cmVkKEBOb25OdWxsIENhbWVyYUNhcHR1cmVTZXNzaW9uIGNhbWVyYUNhcHR1cmVTZXNzaW9uKSB7CiAgICAgICAgICAgIGlmIChtQ2FtZXJhRGV2aWNlID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQogICAgICAgICAgICBtQ2FwdHVyZVNlc3Npb24gPSBjYW1lcmFDYXB0dXJlU2Vzc2lvbjsKCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBjYW1lcmFDYXB0dXJlU2Vzc2lvbi5zZXRSZXBlYXRpbmdSZXF1ZXN0KG1DYXB0dXJlUmVxdWVzdCwgbnVsbCwgbnVsbCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKENhbWVyYUFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbmZpZ3VyZUZhaWxlZChATm9uTnVsbCBDYW1lcmFDYXB0dXJlU2Vzc2lvbiBjYW1lcmFDYXB0dXJlU2Vzc2lvbikgewogICAgICAgIH0KICAgIH07CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvbkNyZWF0ZShCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSB7CiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKTsKICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsKCiAgICAgICAgbVRleHR1cmVWaWV3ID0gZmluZFZpZXdCeUlkKFIuaWQudGV4dHVyZV92aWV3KTsKICAgICAgICBtVGV4dHVyZVZpZXcuc2V0U3VyZmFjZVRleHR1cmVMaXN0ZW5lcihtVGV4dHVyZUxpc3RlbmVyKTsKICAgIH0KCiAgICBAU3VwcHJlc3NMaW50KCJNaXNzaW5nUGVybWlzc2lvbiIpCiAgICBwcml2YXRlIHZvaWQgb3BlbkNhbWVyYSgpIHsKICAgICAgICBDYW1lcmFNYW5hZ2VyIGNhbWVyYU1hbmFnZXIgPSAoQ2FtZXJhTWFuYWdlcikgZ2V0U3lzdGVtU2VydmljZShDQU1FUkFfU0VSVklDRSk7CiAgICAgICAgU3RyaW5nIGNhbWVyYUlkID0gIiI7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgY2FtZXJhSWQgPSBjYW1lcmFNYW5hZ2VyLmdldENhbWVyYUlkTGlzdCgpWzBdOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgICAgICB0cnkgewogICAgICAgICAgICBjYW1lcmFNYW5hZ2VyLm9wZW5DYW1lcmEoY2FtZXJhSWQsIG1TdGF0ZUNhbGxiYWNrLCBtQmFja0hhbmRsZXIpOwogICAgICAgIH0gY2F0Y2ggKENhbWVyYUFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgdm9pZCBjcmVhdGVDYW1lcmFQcmV2aWV3U2Vzc2lvbigpIHsKICAgICAgICBTdXJmYWNlVGV4dHVyZSB0ZXh0dXJlID0gbVRleHR1cmVWaWV3LmdldFN1cmZhY2VUZXh0dXJlKCk7CiAgICAgICAgdGV4dHVyZS5zZXREZWZhdWx0QnVmZmVyU2l6ZSgzMjAsIDI0MCk7CiAgICAgICAgU3VyZmFjZSBzdXJmYWNlID0gbmV3IFN1cmZhY2UodGV4dHVyZSk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIENhcHR1cmVSZXF1ZXN0LkJ1aWxkZXIgcmVxdWVzdEJ1aWxkZXIgPSBtQ2FtZXJhRGV2aWNlLmNyZWF0ZUNhcHR1cmVSZXF1ZXN0KENhbWVyYURldmljZS5URU1QTEFURV9QUkVWSUVXKTsKICAgICAgICAgICAgcmVxdWVzdEJ1aWxkZXIuYWRkVGFyZ2V0KHN1cmZhY2UpOwogICAgICAgICAgICBtQ2FwdHVyZVJlcXVlc3QgPSByZXF1ZXN0QnVpbGRlci5idWlsZCgpOwogICAgICAgIH0gY2F0Y2ggKENhbWVyYUFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgICAgICB0cnkgewogICAgICAgICAgICBtQ2FtZXJhRGV2aWNlLmNyZWF0ZUNhcHR1cmVTZXNzaW9uKENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3Qoc3VyZmFjZSksIG1DYXB0dXJlU3RhdGVDYWxsYmFjaywgbnVsbCk7CiAgICAgICAgfSBjYXRjaCAoQ2FtZXJhQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgR0xTdXJmYWNlVmlldwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -371,12 +374,12 @@
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
