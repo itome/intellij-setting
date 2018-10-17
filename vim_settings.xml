@@ -131,6 +131,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1539755920696">
+        <mark key="[" line="136" column="26" />
+        <mark key="]" line="136" column="26" />
+        <mark key="." line="136" column="26" />
+        <mark key="^" line="136" column="26" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/SurfaceTexture.java" timestamp="1539674375754">
         <mark key="[" line="60" column="1" />
         <mark key="]" line="60" column="0" />
@@ -223,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="47" filename="$USER_HOME$/Projects/android-gpuimage/library/build.gradle" />
-      <jump line="21" column="8" filename="$USER_HOME$/Projects/android-gpuimage/library/build.gradle" />
       <jump line="133" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="312" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/item/EventCanceledItem.kt" />
@@ -323,43 +327,45 @@
       <jump line="16" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/build.gradle" />
       <jump line="39" column="50" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/MainActivity.kt" />
       <jump line="71" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/GalleryActivity.kt" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.java" />
+      <jump line="268" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>VISIBLE</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZWtCYXIudmlzaWJpbGl0eSA9IFZpZXcuVklTSUJMRQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBtb2RlID0gbUNhbWVyYSEhLm1DYW1lcmFJbnN0YW5jZSEhLnBhcmFtZXRlcnMuZm9jdXNNb2RlCiAgICAgICAgICAgICAgICBpZiAoUGFyYW1ldGVycy5GT0NVU19NT0RFX0ZJWEVEID09IG1vZGUpIHsKICAgICAgICAgICAgICAgICAgICB0YWtlUGljdHVyZSgpCiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKFBhcmFtZXRlcnMuRk9DVVNfTU9ERV9DT05USU5VT1VTX1BJQ1RVUkUgPT0gbW9kZSkgewogICAgICAgICAgICAgICAgICAgIHRha2VQaWN0dXJlKCkKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbUNhbWVyYSEhLm1DYW1lcmFJbnN0YW5jZSEhLmF1dG9Gb2N1cyB7IHN1Y2Nlc3MsIGNhbWVyYSAtPiB0YWtlUGljdHVyZSgpIH0KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyQWRqdXN0ZXI/LmFkanVzdChzZWVrQmFyLnByb2dyZXNzKQogICAgICAgICAgICBzZWVrQmFyLnZpc2liaWxpdHkgPSBpZiAoZmlsdGVyQWRqdXN0ZXIhIS5jYW5BZGp1c3QoKSkgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5HT05FCg==</text>
+        <text encoding="base64">ICAgICAgICBjYW1lcmFMb2FkZXIuY2FtZXJhSW5zdGFuY2UhIS5wYXJhbWV0ZXJzLmFwcGx5IHsgCiAgICAgICAgICAgIGl0LgogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBmdW4gc2hvdwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0Um90YXRpb24oOTApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGhvdG9QaWNrZXJJbnRlbnQgPSBJbnRlbnQoSW50ZW50LkFDVElPTl9QSUNLKQogICAgICAgIHBob3RvUGlja2VySW50ZW50LnR5cGUgPSAiaW1hZ2UvKiIKICAgICAgICBzdGFydEFjdGl2aXR5Rm9yUmVzdWx0KHBob3RvUGlja2VySW50ZW50LCBSRVFVRVNUX1BJQ0tfSU1BR0UpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0Um90YXRpb24oOTApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGhhbmRsZUltYWdlKHNlbGVjdGVkSW1hZ2U6IFVyaT8pIHsKICAgICAgICBncHVJbWFnZVZpZXcuc2V0SW1hZ2Uoc2VsZWN0ZWRJbWFnZSkKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBjYW1lcmFMb2FkZXIuY2FtZXJhSW5zdGFuY2UhIS5wYXJhbWV0ZXJzLmFwcGx5IHsgCiAgICAgICAgICAgIGl0LgogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGdwdUltYWdlVmlldy5maWx0ZXIgPT0gZmlsdGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYW1lcmFMb2FkZXIuY2FtZXJhSW5zdGFuY2UhIS5wYXJhbWV0ZXJzLmFwcGx5IHsgc2V0TG9hIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3B1SW1hZ2VWaWV3LmZpbHQK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygiREVQUkVDQVRJT04iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygiREVQUkVDQVRJT04iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygiREVQUkVDQVRJT04iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmaWx0ZXJBZGp1c3RlciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgZmlsdGVyQWRqdXN0ZXIhIS5hZGp1c3QocHJvZ3Jlc3MpCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -379,21 +385,21 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action NextSplitter</entry>
-        <entry>action SaveAll</entry>
         <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoSuperMethod</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
