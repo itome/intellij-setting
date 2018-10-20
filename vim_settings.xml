@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/Camera.java" timestamp="1539927020365">
-        <mark key="'" line="149" column="13" />
-      </file>
       <file name="$USER_HOME$/OSS/cameraview/library/src/main/api14/com/google/android/cameraview/Camera1.java" timestamp="1539933223946">
         <mark key="'" line="349" column="23" />
         <mark key="[" line="121" column="89" />
@@ -13,10 +10,10 @@
         <mark key="." line="121" column="88" />
         <mark key="^" line="121" column="88" />
       </file>
-      <file name="$USER_HOME$/OSS/cameraview/library/src/main/java/com/google/android/cameraview/CameraView.java" timestamp="1539943769648">
+      <file name="$USER_HOME$/OSS/cameraview/library/src/main/java/com/google/android/cameraview/CameraView.java" timestamp="1540027968102">
         <mark key="'" line="123" column="10" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="123" column="8" />
+        <mark key="[" line="117" column="12" />
+        <mark key="]" line="117" column="37" />
         <mark key="." line="124" column="3" />
         <mark key="^" line="124" column="3" />
       </file>
@@ -38,19 +35,19 @@
         <mark key="^" line="12" column="76" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/MainActivity.kt" timestamp="1539930925161">
-        <mark key="'" line="39" column="50" />
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="51" column="54" />
-        <mark key="." line="51" column="54" />
-        <mark key="^" line="51" column="54" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/MainActivity.kt" timestamp="1540025968258">
+        <mark key="'" line="47" column="49" />
+        <mark key="[" line="47" column="49" />
+        <mark key="]" line="47" column="49" />
+        <mark key="." line="47" column="49" />
+        <mark key="^" line="57" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" timestamp="1539939767561">
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" timestamp="1540028369139">
         <mark key="'" line="122" column="4" />
-        <mark key="[" line="220" column="21" />
-        <mark key="]" line="220" column="33" />
-        <mark key="." line="220" column="33" />
-        <mark key="^" line="220" column="33" />
+        <mark key="[" line="223" column="33" />
+        <mark key="]" line="223" column="36" />
+        <mark key="." line="223" column="36" />
+        <mark key="^" line="223" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera.java" timestamp="1539750274498">
         <mark key="'" line="93" column="0" />
@@ -96,12 +93,6 @@
       <file name="/LLDB" timestamp="1539943229801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/MainActivity.java" timestamp="1539752294113">
-        <mark key="'" line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageFilterTools.java" timestamp="1539760657538">
-        <mark key="'" line="731" column="8" />
-      </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageTwoPassTextureSamplingFilter.java" timestamp="1539579605067">
         <mark key="[" line="47" column="4" />
         <mark key="]" line="47" column="4" />
@@ -127,9 +118,6 @@
         <mark key="^" line="456" column="7" />
         <mark key="." line="456" column="7" />
       </file>
-      <file name="$USER_HOME$/OSS/cameraview/library/src/main/base/com/google/android/cameraview/AspectRatio.java" timestamp="1539764369596">
-        <mark key="'" line="113" column="13" />
-      </file>
       <file name="/fragment.kt" timestamp="1539943242732">
         <mark key="[" line="0" column="0" />
         <mark key="." line="3" column="0" />
@@ -152,20 +140,17 @@
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="61" />
       </file>
-      <file name="$USER_HOME$/OSS/cameraview/demo/src/main/java/com/google/android/cameraview/demo/MainActivity.java" timestamp="1539678885916">
-        <mark key="'" line="181" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraHelper.kt" timestamp="1539940452028">
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraHelper.kt" timestamp="1540025914340">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="72" column="51" />
         <mark key="^" line="25" column="65" />
         <mark key="." line="25" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/AndroidManifest.xml" timestamp="1539930907389">
-        <mark key="[" line="22" column="59" />
-        <mark key="]" line="22" column="60" />
-        <mark key="." line="22" column="60" />
-        <mark key="^" line="22" column="60" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/AndroidManifest.xml" timestamp="1540028960283">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" timestamp="1539845431893">
         <mark key="'" line="118" column="54" />
@@ -180,19 +165,20 @@
         <mark key="^" line="42" column="21" />
         <mark key="." line="42" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" timestamp="1539925757461">
-        <mark key="[" line="126" column="19" />
-        <mark key="]" line="126" column="19" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" timestamp="1540026105284">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="170" column="1" />
         <mark key="." line="126" column="19" />
         <mark key="^" line="126" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader.kt" timestamp="1539943638415">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="19" column="44" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader.kt" timestamp="1540025666855">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera12Activity.kt" timestamp="1540021967260">
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera12Activity.kt" timestamp="1540025841220">
         <mark key="]" line="43" column="13" />
         <mark key="^" line="43" column="13" />
         <mark key="." line="43" column="13" />
@@ -203,12 +189,10 @@
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/res/layout/activity_main.xml" timestamp="1539764623734">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="30" column="42" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/res/layout/activity_main.xml" timestamp="1540028122837">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/cameraview/build.gradle" timestamp="1539657466655">
         <mark key="[" line="18" column="25" />
@@ -249,15 +233,10 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageFilterTools.kt" timestamp="1539760881080">
-        <mark key="'" line="409" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1539941132573">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="71" column="12" />
-        <mark key="." line="100" column="51" />
-        <mark key="^" line="100" column="51" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1540028506451">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/SurfaceTexture.java" timestamp="1539674375754">
         <mark key="[" line="60" column="1" />
@@ -265,11 +244,10 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" timestamp="1539935672925">
-        <mark key="[" line="127" column="19" />
-        <mark key="]" line="127" column="18" />
-        <mark key="^" line="127" column="18" />
-        <mark key="." line="127" column="18" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" timestamp="1540028409067">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/gradle/wrapper/gradle-wrapper.properties" timestamp="1539329344447">
         <mark key="[" line="2" column="80" />
@@ -297,15 +275,12 @@
         <mark key="." line="326" column="7" />
         <mark key="^" line="326" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader1.kt" timestamp="1539943691384">
-        <mark key="'" line="91" column="34" />
-        <mark key="[" line="81" column="47" />
-        <mark key="]" line="82" column="45" />
-        <mark key="." line="82" column="45" />
-        <mark key="^" line="82" column="45" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLES20.java" timestamp="1539671879527">
-        <mark key="'" line="23" column="20" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader1.kt" timestamp="1540026812072">
+        <mark key="'" line="81" column="34" />
+        <mark key="[" line="63" column="62" />
+        <mark key="]" line="64" column="15" />
+        <mark key="." line="66" column="56" />
+        <mark key="^" line="64" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1539571172987">
         <mark key="[" line="9" column="59" />
@@ -321,14 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="4" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" />
-      <jump line="21" column="48" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" />
-      <jump line="1678" column="25" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GLTextureView.java" />
-      <jump line="1807" column="25" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GLTextureView.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GLTextureView.java" />
-      <jump line="592" column="5" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GLTextureView.java" />
-      <jump line="423" column="16" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
       <jump line="117" column="31" filename="$USER_HOME$/Projects/Camera2Sample/app/src/main/java/team/camera/camera2/MainActivity.java" />
       <jump line="111" column="0" filename="$USER_HOME$/Projects/Camera2Sample/app/src/main/java/team/camera/camera2/MainActivity.java" />
       <jump line="76" column="12" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera.java" />
@@ -388,7 +355,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Test.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Test.kt" />
       <jump line="23" column="6" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
       <jump line="106" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
       <jump line="76" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
       <jump line="61" column="29" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
@@ -421,43 +387,52 @@
       <jump line="49" column="31" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader1.kt" />
       <jump line="81" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader1.kt" />
       <jump line="84" column="34" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader1.kt" />
+      <jump line="118" column="12" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" />
+      <jump line="47" column="49" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/MainActivity.kt" />
+      <jump line="68" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" />
+      <jump line="50" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" />
+      <jump line="22" column="6" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" />
+      <jump line="54" column="29" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" />
+      <jump line="87" column="49" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbmV3IA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UIDwgMjEpIHsKICAgICAgICAgICAgbUltcGwgPSBuZXcgQ2FtZXJhMShtQ2FsbGJhY2tzLCBwcmV2aWV3KTsKICAgICAgICB9IGVsc2UgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA8IDIzKSB7CiAgICAgICAgICAgIG1JbXBsID0gbmV3IENhbWVyYTIobUNhbGxiYWNrcywgcHJldmlldywgY29udGV4dCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgbUltcGwgPSBuZXcgQ2FtZXJhMkFwaTIzKG1DYWxsYmFja3MsIHByZXZpZXcsIGNvbnRleHQpOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">QnVpbGQuVkVSU0lPTi5TREtfSU5UIDwgMjE=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDYW1lcmFMb2FkZXIxKHRoaXMpCg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA8IDIzKSB7Cg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUltcGwgPSBuZXcgQ2FtZXJhMkFwaTIzIChtQ2FsbGJhY2tzLCBwcmV2aWV3LCBjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQ0FNRVJBIiAvPiA8IS0tIEZvciBpbWFnZXMgZnJvbSBwaWNhc2EgLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUltcGwgPSBuZXcgQ2FtZXJhMiAobUNhbGxiYWNrcywgcHJldmlldywgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChncHVJbWFnZVZpZXcuc3VyZmFjZVZpZXcgYXMgR0xUZXh0dXJlVmlldykucmVuZGVyTW9kZSA9CiAgICAgICAgICAgICAgICAgICAgICAgIEdMVGV4dHVyZVZpZXcuUkVOREVSTU9ERV9XSEVOX0RJUlRZCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FtZXJhMShtQ2FsbGJhY2tzLCBwcmV2aWV3KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGdwdUltYWdlVmlldy5zdXJmYWNlVmlldyBhcyBHTFRleHR1cmVWaWV3KS5yZW5kZXJNb2RlID0KICAgICAgICAgICAgICAgICAgICBHTFRleHR1cmVWaWV3LlJFTkRFUk1PREVfV0hFTl9ESVJUWQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChncHVJbWFnZVZpZXcuc3VyZmFjZVZpZXcgYXMgR0xUZXh0dXJlVmlldykucmVuZGVyTW9kZSA9CiAgICAgICAgICAgICAgICAgICAgICAgIEdMVGV4dHVyZVZpZXcuUkVOREVSTU9ERV9XSEVOX0RJUlRZCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVmVyKQogICAgICAgIENhbWVyYUxvYWRlcjEodGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGdwdUltYWdlVmlldy5zdXJmYWNlVmlldyBhcyBHTFRleHR1cmVWaWV3KS5yZW5kZXJNb2RlID0KICAgICAgICAgICAgICAgICAgICBHTFRleHR1cmVWaWV3LlJFTkRFUk1PREVfV0hFTl9ESVJUWQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAoZ3B1SW1hZ2VWaWV3LnN1cmZhY2VWaWV3IGFzIEdMVGV4dHVyZVZpZXcpLnJlbmRlck1vZGUgPQogICAgICAgICAgICAgICAgR0xUZXh0dXJlVmlldy5SRU5ERVJNT0RFX0NPTlRJTlVPVVNMWQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBoYXNNdWx0aXBsZUNhbWVyYSgpOiBCb29sZWFuIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmV0cmlldmUgdGhlIHN1cmZhY2Ugdmlldy4KICAgICAqIFN1cmZhY2VWaWV3IGNhbiBiZSBHTFN1cmZhY2VWaWV3IG9yIEdMVGV4dHVyZVZpZXcKICAgICAqCiAgICAgKiBAcmV0dXJuIHVzZWQgU3VyZmFjZVZpZXcKICAgICAqLwogICAgcHVibGljIFZpZXcgZ2V0U3VyZmFjZVZpZXcoKSB7CiAgICAgICAgcmV0dXJuIHN1cmZhY2VWaWV3OwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -477,21 +452,21 @@
         <entry>action ParameterInfo</entry>
         <entry>action SplitVertically</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoSuperMethod</entry>
-        <entry>action GotoImplementation</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
-        <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoAction</entry>
+        <entry>action GotoSuperMethod</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
+        <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
