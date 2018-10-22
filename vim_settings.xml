@@ -153,8 +153,8 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" timestamp="1540172455917">
-        <mark key="'" line="118" column="54" />
+      <file name="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" timestamp="1540173000897">
+        <mark key="'" line="187" column="0" />
         <mark key="[" line="435" column="12" />
         <mark key="]" line="435" column="11" />
         <mark key="^" line="435" column="11" />
@@ -253,7 +253,6 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/OSS/cameraview/library/src/main/api23/com/google/android/cameraview/Camera2Api23.java" timestamp="1540172595177" />
       <file name="$USER_HOME$/Projects/android-gpuimage/gradle/wrapper/gradle-wrapper.properties" timestamp="1539329344447">
         <mark key="[" line="2" column="80" />
         <mark key="]" line="2" column="79" />
@@ -301,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera3.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera3.java" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" />
       <jump line="102" column="4" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" />
@@ -401,6 +399,7 @@
       <jump line="70" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader1.kt" />
       <jump line="4" column="5" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
+      <jump line="187" column="0" filename="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -440,7 +439,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action ToggleLineBreakpoint</text>
       </register>
     </registers>
     <search>
@@ -470,9 +469,9 @@
         <entry>action GotoImplementation</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
         <entry>action Debug</entry>
+        <entry>action ToggleLineBreakpoint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
