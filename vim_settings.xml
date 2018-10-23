@@ -283,8 +283,8 @@
         <mark key="^" line="90" column="7" />
         <mark key="." line="90" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1539939697689">
-        <mark key="'" line="183" column="0" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1540277336631">
+        <mark key="'" line="341" column="4" />
         <mark key="[" line="326" column="8" />
         <mark key="]" line="326" column="7" />
         <mark key="." line="326" column="7" />
@@ -310,7 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" />
       <jump line="22" column="21" filename="$USER_HOME$/OSS/cameraview/library/src/main/base/com/google/android/cameraview/CameraViewImpl.java" />
       <jump line="113" column="13" filename="$USER_HOME$/OSS/cameraview/library/src/main/base/com/google/android/cameraview/AspectRatio.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraImpl.kt" />
@@ -410,6 +409,7 @@
       <jump line="561" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
       <jump line="178" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" />
       <jump line="183" column="27" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" />
+      <jump line="341" column="4" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -458,7 +458,7 @@
                 ) == PackageManager.PERMISSION_DENIED</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -479,18 +479,18 @@
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
