@@ -74,11 +74,12 @@
       <file name="/LLDB" timestamp="1540283679452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/build.gradle" timestamp="1540282100237">
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/build.gradle" timestamp="1540285759070">
         <mark key="'" line="51" column="13" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+        <mark key="^" line="30" column="4" />
       </file>
       <file name="$USER_HOME$/OSS/android-Camera2Basic/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java" timestamp="1540174172254">
         <mark key="'" line="92" column="6" />
@@ -169,10 +170,10 @@
         <mark key="^" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera1Loader.kt" timestamp="1540284312094">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="48" />
-        <mark key="." line="14" column="48" />
-        <mark key="^" line="14" column="48" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="48" />
+        <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.kt" timestamp="1539767823199">
         <mark key="'" line="21" column="0" />
@@ -181,21 +182,8 @@
         <mark key="." line="86" column="36" />
         <mark key="^" line="86" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1540284708070">
-        <mark key="'" line="38" column="53" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="85" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" timestamp="1540270824604">
         <mark key="'" line="561" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt" timestamp="1540284335795">
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="48" />
-        <mark key="^" line="27" column="48" />
-        <mark key="." line="27" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageFilter.java" timestamp="1539672744493">
         <mark key="'" line="0" column="0" />
@@ -358,7 +346,7 @@
         <text encoding="base64">ICAgICAgICA4Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -381,16 +369,16 @@
         <entry>action ParameterInfo</entry>
         <entry>action Run</entry>
         <entry>action Find</entry>
-        <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
