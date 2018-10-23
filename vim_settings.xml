@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/Camera.java" timestamp="1540186928647">
-        <mark key="[" line="788" column="64" />
-        <mark key="]" line="788" column="75" />
-      </file>
       <file name="$USER_HOME$/OSS/cameraview/library/src/main/api14/com/google/android/cameraview/Camera1.java" timestamp="1539933223946">
         <mark key="'" line="349" column="23" />
         <mark key="[" line="121" column="89" />
@@ -32,11 +28,11 @@
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera13Activity.kt" timestamp="1540021959237">
         <mark key="[" line="43" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/build.gradle" timestamp="1539757232514">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="12" column="76" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/build.gradle" timestamp="1540279519498">
+        <mark key="[" line="10" column="70" />
+        <mark key="]" line="10" column="74" />
+        <mark key="^" line="10" column="74" />
+        <mark key="." line="10" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" timestamp="1540273505707">
         <mark key="'" line="289" column="4" />
@@ -87,7 +83,6 @@
         <mark key="." line="116" column="27" />
         <mark key="^" line="131" column="7" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/ImageReader.java" timestamp="1540185969300" />
       <file name="/LLDB" timestamp="1540274929562">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,6 +91,12 @@
         <mark key="]" line="47" column="4" />
         <mark key="." line="47" column="4" />
         <mark key="^" line="47" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/build.gradle" timestamp="1540282100237">
+        <mark key="'" line="51" column="13" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/util/OpenGlUtils.java" timestamp="1539939710822">
         <mark key="[" line="78" column="20" />
@@ -132,6 +133,12 @@
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/gradle.properties" timestamp="1540282110934">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageLaplacianFilter.java" timestamp="1539587739664">
         <mark key="[" line="74" column="8" />
@@ -197,6 +204,11 @@
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/res/layout/activity_main.xml" timestamp="1540028122837">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/OSS/cameraview/build.gradle" timestamp="1539657466655">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="19" />
@@ -208,6 +220,11 @@
         <mark key="]" line="182" column="28" />
         <mark key="." line="182" column="28" />
         <mark key="^" line="182" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/local.properties" timestamp="1540282117685">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera.java" timestamp="1539679435956">
         <mark key="'" line="3" column="0" />
@@ -264,6 +281,12 @@
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" timestamp="1540270824604">
         <mark key="'" line="561" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt" timestamp="1540280935676">
+        <mark key="[" line="97" column="17" />
+        <mark key="]" line="97" column="17" />
+        <mark key="^" line="97" column="15" />
+        <mark key="." line="99" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/gradle/wrapper/gradle-wrapper.properties" timestamp="1539329344447">
         <mark key="[" line="2" column="80" />
         <mark key="]" line="2" column="79" />
@@ -310,11 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="21" filename="$USER_HOME$/OSS/cameraview/library/src/main/base/com/google/android/cameraview/CameraViewImpl.java" />
-      <jump line="113" column="13" filename="$USER_HOME$/OSS/cameraview/library/src/main/base/com/google/android/cameraview/AspectRatio.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraImpl.kt" />
-      <jump line="30" column="4" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/res/layout/activity_main.xml" />
-      <jump line="2" column="28" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.java" />
       <jump line="86" column="36" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera2.kt" />
@@ -410,52 +428,48 @@
       <jump line="178" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" />
       <jump line="183" column="27" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" />
       <jump line="341" column="4" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" />
+      <jump line="186" column="83" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt" />
+      <jump line="26" column="15" filename="$USER_HOME$/Projects/android-gpuimage/gradle.properties" />
+      <jump line="32" column="27" filename="$USER_HOME$/Projects/android-gpuimage/library/build.gradle" />
+      <jump line="51" column="13" filename="$USER_HOME$/Projects/android-gpuimage/library/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29udGV4dENvbXBhdC5jaGVja1NlbGZQZXJtaXNzaW9uKHRoaXMsIE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKSA9PQogICAgICAgICAgICAgICAgUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9ERU5JRUQK</text>
+      <register name="0" type="4">
+        <text>https://gist.githubusercontent.com/wasabeef/cf14805bee509baf7461974582f17d26/raw/bintray-v1.gradle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kSGFuZGxlci5sb29wZXIucXVpdFNhZmVseSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kSGFuZGxlci5yZW1vdmVkZAo=</text>
+        <text encoding="base64">CmJpbnRyYXlVc2VyID0gJycKYmludHJheUtleSA9ICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kSGFuZGxlci4K</text>
+        <text encoding="base64">ICAgIGJpbnRyYXlVc2VyID0gJycKICAgIGJpbnRyYXlLZXkgPSAnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVyCg==</text>
+        <text encoding="base64">ZXh0IHsKICBiaW50cmF5VXNlcj0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEhhbmRsZXJUaHJlYWQgdGhyZWFkID0gbmV3IEhhbmRsZXJUaHJlYWQoIkNhbWVyYVByZXZpZXciKTsKICAgICAgICB0aHJlYWQuc3RhcnQoKTsKICAgICAgICBIYW5kbGVyIGJhY2tncm91bmRIYW5kbGVyID0gbmV3IEhhbmRsZXIodGhyZWFkLmdldExvb3BlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2l6ZSA9IGNob29zZU9wdGltYWxTaXplKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNoZWNrUGVybWlzc2lvbigpOiBCb29sZWFuIHsKICAgIH0KCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBjaG9vc2VPcHRpbWFsU2l6ZSgpOiBTaXplIHsKICAgICAgICB2YWwgYmFja0NhbWVyYUlkID0gZ2V0Q2FtZXJhSWQoQ2FtZXJhQ2hhcmFjdGVyaXN0aWNzLkxFTlNfRkFDSU5HX0JBQ0spID86IHJldHVybiBTaXplKDAsIDApCiAgICAgICAgdmFsIGZyb250Q2FtZXJhSWQgPQogICAgICAgICAgICBnZXRDYW1lcmFJZChDYW1lcmFDaGFyYWN0ZXJpc3RpY3MuTEVOU19GQUNJTkdfRlJPTlQpID86IHJldHVybiBTaXplKDAsIDApCiAgICAgICAgdmFsIGJhY2tTaXplcyA9CiAgICAgICAgICAgIGNhbWVyYU1hbmFnZXIuZ2V0Q2FtZXJhQ2hhcmFjdGVyaXN0aWNzKGJhY2tDYW1lcmFJZCkKICAgICAgICAgICAgICAgIC5nZXQoQ2FtZXJhQ2hhcmFjdGVyaXN0aWNzLlNDQUxFUl9TVFJFQU1fQ09ORklHVVJBVElPTl9NQVApCiAgICAgICAgICAgICAgICA/LmdldE91dHB1dFNpemVzKEltYWdlRm9ybWF0LllVVl80MjBfODg4KQogICAgICAgIHZhbCBmcm9udFNpemVzID0KICAgICAgICAgICAgY2FtZXJhTWFuYWdlci5nZXRDYW1lcmFDaGFyYWN0ZXJpc3RpY3MoZnJvbnRDYW1lcmFJZCkKICAgICAgICAgICAgICAgIC5nZXQoQ2FtZXJhQ2hhcmFjdGVyaXN0aWNzLlNDQUxFUl9TVFJFQU1fQ09ORklHVVJBVElPTl9NQVApCiAgICAgICAgICAgICAgICA/LmdldE91dHB1dFNpemVzKEltYWdlRm9ybWF0LllVVl80MjBfODg4KQoKICAgICAgICByZXR1cm4gYmFja1NpemVzPy5maWx0ZXIgewogICAgICAgICAgICBmcm9udFNpemVzPy5jb250YWlucyhpdCkgPzogdHJ1ZQogICAgICAgIH0/Lm1heEJ5IHsKICAgICAgICAgICAgaXQud2lkdGggKiBpdC5oZWlnaHQKICAgICAgICB9ID86IFNpemUoMCwgMCkKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgICAgICAgICAgICAgIHx8CiAgICAgICAgICAgICAgICBDb250ZXh0Q29tcGF0LmNoZWNrU2VsZlBlcm1pc3Npb24oCiAgICAgICAgICAgICAgICAgICAgdGhpcywKICAgICAgICAgICAgICAgICAgICBNYW5pZmVzdC5wZXJtaXNzaW9uLldSSVRFX0VYVEVSTkFMX1NUT1JBR0UKICAgICAgICAgICAgICAgICkgPT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9ERU5JRUQK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBwcmV2aWV3U2l6ZSA9IFNpemUoNDgwLCA2NDApCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>ContextCompat.checkSelfPermission(
-            this, Manifest.permission.CAMERA
-        ) == PackageManager.PERMISSION_DENIED</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>ContextCompat.checkSelfPermission(
-                    this,
-                    Manifest.permission.CAMERA
-                ) == PackageManager.PERMISSION_DENIED ||
-                ContextCompat.checkSelfPermission(
-                    this,
-                    Manifest.permission.WRITE_EXTERNAL_STORAGE
-                ) == PackageManager.PERMISSION_DENIED</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kSGFuZGxlciA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
@@ -483,13 +497,13 @@
         <entry>action Debug</entry>
         <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Find</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
