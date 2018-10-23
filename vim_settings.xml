@@ -38,14 +38,7 @@
         <mark key="^" line="12" column="76" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/MainActivity.kt" timestamp="1540025968258">
-        <mark key="'" line="47" column="49" />
-        <mark key="[" line="47" column="49" />
-        <mark key="]" line="47" column="49" />
-        <mark key="." line="47" column="49" />
-        <mark key="^" line="57" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" timestamp="1540264035489">
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" timestamp="1540273505707">
         <mark key="'" line="289" column="4" />
         <mark key="[" line="228" column="0" />
         <mark key="]" line="234" column="6" />
@@ -95,7 +88,7 @@
         <mark key="^" line="131" column="7" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/ImageReader.java" timestamp="1540185969300" />
-      <file name="/LLDB" timestamp="1540260963054">
+      <file name="/LLDB" timestamp="1540274929562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageTwoPassTextureSamplingFilter.java" timestamp="1539579605067">
@@ -193,7 +186,8 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" timestamp="1540194377110">
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" timestamp="1540273447666">
+        <mark key="'" line="183" column="27" />
         <mark key="[" line="178" column="0" />
         <mark key="]" line="186" column="55" />
       </file>
@@ -316,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="26" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" />
-      <jump line="250" column="8" filename="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" />
       <jump line="0" column="0" filename="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" />
       <jump line="22" column="21" filename="$USER_HOME$/OSS/cameraview/library/src/main/base/com/google/android/cameraview/CameraViewImpl.java" />
       <jump line="113" column="13" filename="$USER_HOME$/OSS/cameraview/library/src/main/base/com/google/android/cameraview/AspectRatio.java" />
@@ -416,46 +408,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
       <jump line="584" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
       <jump line="561" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
+      <jump line="178" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" />
+      <jump line="183" column="27" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>?</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoVEFHLCAiQ2FtZXJhIG5vdCBmb3VuZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29udGV4dENvbXBhdC5jaGVja1NlbGZQZXJtaXNzaW9uKHRoaXMsIE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKSA9PQogICAgICAgICAgICAgICAgUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9ERU5JRUQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FtZXJhSW5zdGFuY2UgPT0gbnVsbCkgewogICAgICAgICAgICBMb2cuZShUQUcsICJDYW1lcmEgbm90IGZvdW5kIikKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kSGFuZGxlci5sb29wZXIucXVpdFNhZmVseSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kSGFuZGxlci5yZW1vdmVkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kSGFuZGxlci4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYW1lcmFJbnN0YW5jZSA9IGdldENhbWVyYUluc3RhbmNlKGlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBoYW5kbGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoVEFHLCAiQ2FtZXJhIG5vdCBmb3VuZCIsIGUpCg==</text>
+        <text encoding="base64">ICAgIEhhbmRsZXJUaHJlYWQgdGhyZWFkID0gbmV3IEhhbmRsZXJUaHJlYWQoIkNhbWVyYVByZXZpZXciKTsKICAgICAgICB0aHJlYWQuc3RhcnQoKTsKICAgICAgICBIYW5kbGVyIGJhY2tncm91bmRIYW5kbGVyID0gbmV3IEhhbmRsZXIodGhyZWFkLmdldExvb3BlcigpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVsbAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNoZWNrUGVybWlzc2lvbigpOiBCb29sZWFuIHsKICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFjYW1lcmFMb2FkZXIuaGFzTXVsdGlwbGVDYW1lcmEoKSkgewogICAgICAgICAgICAgICAgdmlzaWJpbGl0eSA9IFZpZXcuR09ORQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgICAgICAgICAgICAgIHx8CiAgICAgICAgICAgICAgICBDb250ZXh0Q29tcGF0LmNoZWNrU2VsZlBlcm1pc3Npb24oCiAgICAgICAgICAgICAgICAgICAgdGhpcywKICAgICAgICAgICAgICAgICAgICBNYW5pZmVzdC5wZXJtaXNzaW9uLldSSVRFX0VYVEVSTkFMX1NUT1JBR0UKICAgICAgICAgICAgICAgICkgPT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9ERU5JRUQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBncHVJbWFnZVZpZXcuc2V0Um90YXRpb24oZ2V0Um90YXRpb24oY2FtZXJhTG9hZGVyLmdldENhbWVyYU9yaWVudGF0aW9uKCkpKQo=</text>
+      <register name="8" type="4">
+        <text>ContextCompat.checkSelfPermission(
+            this, Manifest.permission.CAMERA
+        ) == PackageManager.PERMISSION_DENIED</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIHtAbGluayBHUFVJbWFnZSN1cGRhdGVQcmV2aWV3RnJhbWUoYnl0ZVtdLCBpbnQsIGludCl9IGZyYW1lIGJ5IGZyYW1lCg==</text>
+      <register name="9" type="4">
+        <text>ContextCompat.checkSelfPermission(
+                    this,
+                    Manifest.permission.CAMERA
+                ) == PackageManager.PERMISSION_DENIED ||
+                ContextCompat.checkSelfPermission(
+                    this,
+                    Manifest.permission.WRITE_EXTERNAL_STORAGE
+                ) == PackageManager.PERMISSION_DENIED</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -468,26 +471,26 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Debug</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Back</entry>
-        <entry>action Run</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SaveAll</entry>
+        <entry>action Debug</entry>
+        <entry>action Back</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
