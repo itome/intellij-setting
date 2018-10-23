@@ -87,15 +87,15 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" timestamp="1540258836482">
-        <mark key="'" line="59" column="8" />
-        <mark key="[" line="54" column="99" />
-        <mark key="]" line="54" column="15" />
-        <mark key="." line="54" column="15" />
-        <mark key="^" line="54" column="15" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" timestamp="1540261688676">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="130" column="32" />
+        <mark key="]" line="131" column="7" />
+        <mark key="." line="116" column="27" />
+        <mark key="^" line="131" column="7" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/ImageReader.java" timestamp="1540185969300" />
-      <file name="/LLDB" timestamp="1540193533503">
+      <file name="/LLDB" timestamp="1540260963054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageTwoPassTextureSamplingFilter.java" timestamp="1539579605067">
@@ -130,7 +130,7 @@
         <mark key="^" line="456" column="7" />
         <mark key="." line="359" column="36" />
       </file>
-      <file name="/fragment.kt" timestamp="1540193556680">
+      <file name="/fragment.kt" timestamp="1540260988291">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="74" />
       </file>
@@ -166,10 +166,10 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" timestamp="1540203552925">
+      <file name="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" timestamp="1540260376040">
         <mark key="'" line="126" column="8" />
-        <mark key="[" line="419" column="0" />
-        <mark key="]" line="425" column="8" />
+        <mark key="[" line="413" column="0" />
+        <mark key="]" line="414" column="70" />
         <mark key="^" line="449" column="38" />
         <mark key="." line="449" column="38" />
       </file>
@@ -410,43 +410,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>use</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIERlcHJlY2F0ZWQ6IFBsZWFzZSBjYWxsCiAgICAgKiB7QGxpbmsgR1BVSW1hZ2UjdXBkYXRlUHJldmlld0ZyYW1lKGJ5dGVbXSwgaW50LCBpbnQpfSBmcmFtZSBieSBmcmFtZQo=</text>
+      <register name="0" type="4">
+        <text>CameraCharacteristics.SCALER_STREAM_CONFIGURATION_MAP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0icG9ydHJhaXQiCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGJhY2tDb25maWd1cmF0aW9uPy5nZXRPdXRwdXRTaXplcyhJbWFnZUZvcm1hdC5ZVVZfNDIwXzg4OCkKICAgICAgICByZXR1cm4gY29uZmlndXJhdGlvbk1hcD8uZ2V0T3V0cHV0U2l6ZXMoSW1hZ2VGb3JtYXQuWVVWXzQyMF84ODgpCiAgICAgICAgICAgID8ubWF4QnkgeyBpdC53aWR0aCAqIGl0LmhlaWdodCB9CiAgICAgICAgICAgID86IHJldHVybiBTaXplKDAsIDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9udFNpemVzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmFja0NhbWVyYUlkID09IG51bGwgJiYgZnJvbnRDYW1lcmFJZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBTaXplKDAsIDApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBEdXBsaQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZnJvbnRDYW1lcmFJZCA9IGdldENhbWVyYUlkKENhbWVyYSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIHJlbmRlcmVyIGlzIGNhbGxlZAogICAgICogY29udGludW91c2x5IHRvIHJlLXJlbmRlciB0aGUgc2NlbmUuCiAgICAgKgogICAgICogQHNlZSAjZ2V0UmVuZGVyTW9kZSgpCiAgICAgKiBAc2VlICNzZXRSZW5kZXJNb2RlKGludCkKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIGNvbmZpZ3VyYXRpb25NYXA/LmdldE91dHB1dFNpemVzKEltYWdlRm9ybWF0LllVVl80MjBfODg4KT8udG9TdHJpbmcoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIDxwPgogICAgICogVXNpbmcgUkVOREVSTU9ERV9XSEVOX0RJUlRZIGNhbiBpbXByb3ZlIGJhdHRlcnkgbGlmZSBhbmQgb3ZlcmFsbCBzeXN0ZW0gcGVyZm9ybWFuY2UKICAgICAqIGJ5IGFsbG93aW5nIHRoZSBHUFUgYW5kIENQVSB0byBpZGxlIHdoZW4gdGhlIHZpZXcgZG9lcyBub3QgbmVlZCB0byBiZSB1cGRhdGVkLgogICAgICogPHA+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIFRoaXMgbWV0aG9kIGNhbiBvbmx5IGJlIGNhbGxlZCBhZnRlciB7QGxpbmsgI3NldFJlbmRlcmVyKFJlbmRlcmVyKX0K</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBjb2xsZWN0UGljdHVyZVNpemUoKSB7CiAgICAgICAgdmFsIGNhbWVyYUlkID0gZ2V0Q3VycmVudENhbWVyYUlkKCkgPzogcmV0dXJuCiAgICAgICAgdmFsIGNoYXJhY3RlcmlzdGljcyA9IGNhbWVyYU1hbmFnZXIuZ2V0Q2FtZXJhQ2hhcmFjdGVyaXN0aWNzKGNhbWVyYUlkKQogICAgICAgIHZhbCBjb25maWd1cmF0aW9uTWFwID0KICAgICAgICAgICAgY2hhcmFjdGVyaXN0aWNzLmdldChDYW1lcmFDaGFyYWN0ZXJpc3RpY3MuU0NBTEVSX1NUUkVBTV9DT05GSUdVUkFUSU9OX01BUCkKICAgICAgICBMb2cuZChUQUcsIGNvbmZpZ3VyYXRpb25NYXA/LmdldE91dHB1dFNpemVzKEltYWdlRm9ybWF0LllVVl80MjBfODg4KT8udG9TdHJpbmcoKSkKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -465,20 +465,20 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
-        <entry>action RenameElement</entry>
-        <entry>action Debug</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action ParameterInfo</entry>
+        <entry>action Debug</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
