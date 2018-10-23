@@ -87,12 +87,12 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" timestamp="1540200874686">
-        <mark key="'" line="131" column="58" />
-        <mark key="[" line="150" column="94" />
-        <mark key="]" line="150" column="93" />
-        <mark key="." line="150" column="93" />
-        <mark key="^" line="150" column="93" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" timestamp="1540258836482">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="54" column="99" />
+        <mark key="]" line="54" column="15" />
+        <mark key="." line="54" column="15" />
+        <mark key="^" line="54" column="15" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/ImageReader.java" timestamp="1540185969300" />
       <file name="/LLDB" timestamp="1540193533503">
@@ -159,11 +159,12 @@
         <mark key="^" line="25" column="65" />
         <mark key="." line="25" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/AndroidManifest.xml" timestamp="1540028960283">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/AndroidManifest.xml" timestamp="1540258014546">
+        <mark key="'" line="35" column="47" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
         <mark key="^" line="7" column="3" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" timestamp="1540203552925">
         <mark key="'" line="126" column="8" />
@@ -306,9 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="26" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraHelperBase.kt" />
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/build.gradle" />
-      <jump line="159" column="12" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageFilterTools.kt" />
       <jump line="731" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageFilterTools.java" />
       <jump line="409" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageFilterTools.kt" />
       <jump line="120" column="4" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" />
@@ -406,6 +404,9 @@
       <jump line="289" column="4" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" />
       <jump line="9" column="6" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader1.kt" />
       <jump line="131" column="58" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
+      <jump line="51" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
+      <jump line="35" column="47" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/AndroidManifest.xml" />
+      <jump line="59" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -418,34 +419,34 @@
         <text encoding="base64">ICAgICAqIERlcHJlY2F0ZWQ6IFBsZWFzZSBjYWxsCiAgICAgKiB7QGxpbmsgR1BVSW1hZ2UjdXBkYXRlUHJldmlld0ZyYW1lKGJ5dGVbXSwgaW50LCBpbnQpfSBmcmFtZSBieSBmcmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0icG9ydHJhaXQiCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBEdXBsaQo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBEdXBsaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIHJlbmRlcmVyIGlzIGNhbGxlZAogICAgICogY29udGludW91c2x5IHRvIHJlLXJlbmRlciB0aGUgc2NlbmUuCiAgICAgKgogICAgICogQHNlZSAjZ2V0UmVuZGVyTW9kZSgpCiAgICAgKiBAc2VlICNzZXRSZW5kZXJNb2RlKGludCkKICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIDxwPgogICAgICogVXNpbmcgUkVOREVSTU9ERV9XSEVOX0RJUlRZIGNhbiBpbXByb3ZlIGJhdHRlcnkgbGlmZSBhbmQgb3ZlcmFsbCBzeXN0ZW0gcGVyZm9ybWFuY2UKICAgICAqIGJ5IGFsbG93aW5nIHRoZSBHUFUgYW5kIENQVSB0byBpZGxlIHdoZW4gdGhlIHZpZXcgZG9lcyBub3QgbmVlZCB0byBiZSB1cGRhdGVkLgogICAgICogPHA+Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIHJlbmRlcmVyIGlzIGNhbGxlZAogICAgICogY29udGludW91c2x5IHRvIHJlLXJlbmRlciB0aGUgc2NlbmUuCiAgICAgKgogICAgICogQHNlZSAjZ2V0UmVuZGVyTW9kZSgpCiAgICAgKiBAc2VlICNzZXRSZW5kZXJNb2RlKGludCkKICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIFRoaXMgbWV0aG9kIGNhbiBvbmx5IGJlIGNhbGxlZCBhZnRlciB7QGxpbmsgI3NldFJlbmRlcmVyKFJlbmRlcmVyKX0K</text>
+        <text encoding="base64">ICAgICAqIDxwPgogICAgICogVXNpbmcgUkVOREVSTU9ERV9XSEVOX0RJUlRZIGNhbiBpbXByb3ZlIGJhdHRlcnkgbGlmZSBhbmQgb3ZlcmFsbCBzeXN0ZW0gcGVyZm9ybWFuY2UKICAgICAqIGJ5IGFsbG93aW5nIHRoZSBHUFUgYW5kIENQVSB0byBpZGxlIHdoZW4gdGhlIHZpZXcgZG9lcyBub3QgbmVlZCB0byBiZSB1cGRhdGVkLgogICAgICogPHA+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqIFRoaXMgbWV0aG9kIGNhbiBvbmx5IGJlIGNhbGxlZCBhZnRlciB7QGxpbmsgI3NldFJlbmRlcmVyKFJlbmRlcmVyKX0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -465,19 +466,19 @@
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Debug</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Run</entry>
-        <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
