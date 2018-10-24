@@ -96,7 +96,7 @@
         <mark key="." line="116" column="27" />
         <mark key="^" line="131" column="7" />
       </file>
-      <file name="/LLDB" timestamp="1540345862772">
+      <file name="/LLDB" timestamp="1540349678278">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera1Loader.kt" timestamp="1540284312094">
@@ -133,15 +133,15 @@
         <mark key="^" line="456" column="7" />
         <mark key="." line="359" column="36" />
       </file>
-      <file name="/fragment.kt" timestamp="1540345227194">
+      <file name="/fragment.kt" timestamp="1540349690934">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1540345839555">
-        <mark key="[" line="87" column="44" />
-        <mark key="]" line="87" column="45" />
-        <mark key="^" line="87" column="45" />
-        <mark key="." line="87" column="45" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1540349230241">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/gradle.properties" timestamp="1540282110934">
         <mark key="'" line="26" column="15" />
@@ -152,11 +152,11 @@
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" timestamp="1540270824604">
         <mark key="'" line="561" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt" timestamp="1540345917891">
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="32" column="19" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="32" column="19" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt" timestamp="1540349603937">
+        <mark key="[" line="128" column="66" />
+        <mark key="]" line="129" column="7" />
+        <mark key="." line="129" column="7" />
+        <mark key="^" line="129" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraHelper.kt" timestamp="1540035388693">
         <mark key="'" line="29" column="0" />
@@ -328,7 +328,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>width, height</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -337,34 +337,34 @@
         <text>https://gist.githubusercontent.com/wasabeef/cf14805bee509baf7461974582f17d26/raw/bintray-v1.gradle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCiAgICBwcml2YXRlCiAgICBpbmxpbmUgZnVuIFZpZXcuZG9PblByZURyYXcoY3Jvc3NpbmxpbmUgYWN0aW9uOiAodmlldzogVmlldykgLT4gVW5pdCkgewogICAgICAgIHZhbCB2dG8gPSB2aWV3VHJlZU9ic2VydmVyCiAgICAgICAgdnRvLmFkZE9uUHJlRHJhd0xpc3RlbmVyKG9iamVjdCA6IFZpZXdUcmVlT2JzZXJ2ZXIuT25QcmVEcmF3TGlzdGVuZXIgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25QcmVEcmF3KCk6IEJvb2xlYW4gewogICAgICAgICAgICAgICAgYWN0aW9uKHRoaXNAZG9PblByZURyYXcpCiAgICAgICAgICAgICAgICB3aGVuIHsKICAgICAgICAgICAgICAgICAgICB2dG8uaXNBbGl2ZSAtPiB2dG8ucmVtb3ZlT25QcmVEcmF3TGlzdGVuZXIodGhpcykKICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHZpZXdUcmVlT2JzZXJ2ZXIucmVtb3ZlT25QcmVEcmF3TGlzdGVuZXIodGhpcykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9KQogICAgfQo=</text>
+        <text encoding="base64">CiAgICBAU3VwcHJlc3MoIkRFUFJFQ0FUSU9OIikKICAgIHByaXZhdGUgaW5saW5lIGZ1biBWaWV3LmRvT25QcmVEcmF3KGNyb3NzaW5saW5lIGFjdGlvbjogKHZpZXc6IFZpZXcpIC0+IFVuaXQpIHsKICAgICAgICB2YWwgdnRvID0gdmlld1RyZWVPYnNlcnZlcgogICAgICAgIHZ0by5hZGRPblByZURyYXdMaXN0ZW5lcihvYmplY3QgOiBWaWV3VHJlZU9ic2VydmVyLk9uUHJlRHJhd0xpc3RlbmVyIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUHJlRHJhdygpOiBCb29sZWFuIHsKICAgICAgICAgICAgICAgIGFjdGlvbih0aGlzQGRvT25QcmVEcmF3KQogICAgICAgICAgICAgICAgd2hlbiB7CiAgICAgICAgICAgICAgICAgICAgdnRvLmlzQWxpdmUgLT4gdnRvLnJlbW92ZU9uUHJlRHJhd0xpc3RlbmVyKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiB2aWV3VHJlZU9ic2VydmVyLnJlbW92ZU9uUHJlRHJhd0xpc3RlbmVyKHRoaXMpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZQogICAgICAgICAgICB9CiAgICAgICAgfSkKICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYXNwZWN0UmF0aW8gPSB3aWR0aCAvIGhlaWdodAoK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGlubGluZSBmdW4gVmlldy53YWl0Rm9yTGF5b3V0KGNyb3NzaW5saW5lIGY6ICgpIC0+IFVuaXQpID0gd2l0aCh2aWV3VHJlZU9ic2VydmVyKSB7CiAgICAgICAgYWRkT25HbG9iYWxMYXlvdXRMaXN0ZW5lcihvYmplY3QgOiBWaWV3VHJlZU9ic2VydmVyLk9uR2xvYmFsTGF5b3V0TGlzdGVuZXIgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25HbG9iYWxMYXlvdXQoKSB7Ci8vICAgICAgICAgICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPiAxNSkgewovLyAgICAgICAgICAgICAgICAgICAgcmVtb3ZlT25HbG9iYWxMYXlvdXRMaXN0ZW5lcih0aGlzKQovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgcmVtb3ZlR2xvYmFsT25MYXlvdXRMaXN0ZW5lcih0aGlzKQovLyAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBmKCkKICAgICAgICAgICAgfQogICAgICAgIH0pCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG91dHB1dFNpemVzPy5tYXhCeSB7IGl0LndpZHRoICogaXQuaGVpZ2h0IH0gPzogU2l6ZSgwLCAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2xvYmEK</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3B0aW1hbFNpemU/LndpZHRoID4gd2lkdGgpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB2YWwgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXh0PXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPy5tYXhCeSB7IGl0LndpZHRoICogaXQuaGVpZ2h0IH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgZ3B1SW1hZ2VWaWV3LnZpZXdUcmVlT2JzZXJ2ZXIuYWRkT25HbG9iYWxMYXlvdXRMaXN0ZW5lciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBobwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhTG9hZGVyLm9uUmVzdW1lKGdwdUltYWdlVmlldy53aWR0aCwgZ3B1SW1hZ2VWaWV3LmhlaWdodCkK</text>
+        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCiAgICBwcml2YXRlCiAgICBpbmxpbmUgZnVuIFZpZXcuZG9PblByZURyYXcoY3Jvc3NpbmxpbmUgYWN0aW9uOiAodmlldzogVmlldykgLT4gVW5pdCkgewogICAgICAgIHZhbCB2dG8gPSB2aWV3VHJlZU9ic2VydmVyCiAgICAgICAgdnRvLmFkZE9uUHJlRHJhd0xpc3RlbmVyKG9iamVjdCA6IFZpZXdUcmVlT2JzZXJ2ZXIuT25QcmVEcmF3TGlzdGVuZXIgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25QcmVEcmF3KCk6IEJvb2xlYW4gewogICAgICAgICAgICAgICAgYWN0aW9uKHRoaXNAZG9PblByZURyYXcpCiAgICAgICAgICAgICAgICB3aGVuIHsKICAgICAgICAgICAgICAgICAgICB2dG8uaXNBbGl2ZSAtPiB2dG8ucmVtb3ZlT25QcmVEcmF3TGlzdGVuZXIodGhpcykKICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHZpZXdUcmVlT2JzZXJ2ZXIucmVtb3ZlT25QcmVEcmF3TGlzdGVuZXIodGhpcykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9KQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ToggleLineBreakpoint</text>
       </register>
     </registers>
     <search>
@@ -382,21 +382,21 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action Run</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Find</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Find</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
