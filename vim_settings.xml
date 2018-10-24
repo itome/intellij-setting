@@ -368,7 +368,7 @@
         <text encoding="base64">ICAgIEBEZXByZWNhdGVkCiAgICBwcml2YXRlCiAgICBpbmxpbmUgZnVuIFZpZXcuZG9PblByZURyYXcoY3Jvc3NpbmxpbmUgYWN0aW9uOiAodmlldzogVmlldykgLT4gVW5pdCkgewogICAgICAgIHZhbCB2dG8gPSB2aWV3VHJlZU9ic2VydmVyCiAgICAgICAgdnRvLmFkZE9uUHJlRHJhd0xpc3RlbmVyKG9iamVjdCA6IFZpZXdUcmVlT2JzZXJ2ZXIuT25QcmVEcmF3TGlzdGVuZXIgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25QcmVEcmF3KCk6IEJvb2xlYW4gewogICAgICAgICAgICAgICAgYWN0aW9uKHRoaXNAZG9PblByZURyYXcpCiAgICAgICAgICAgICAgICB3aGVuIHsKICAgICAgICAgICAgICAgICAgICB2dG8uaXNBbGl2ZSAtPiB2dG8ucmVtb3ZlT25QcmVEcmF3TGlzdGVuZXIodGhpcykKICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHZpZXdUcmVlT2JzZXJ2ZXIucmVtb3ZlT25QcmVEcmF3TGlzdGVuZXIodGhpcykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9KQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -399,8 +399,8 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
