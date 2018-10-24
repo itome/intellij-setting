@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_registration_confirm.xml" timestamp="1540364744365">
+        <mark key="'" line="73" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/MainActivity.kt" timestamp="1540358860720">
         <mark key="'" line="54" column="26" />
         <mark key="[" line="35" column="2" />
@@ -203,6 +206,11 @@
         <mark key="^" line="86" column="36" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.71/ff62b6a76e3200cac3d7df0859d7665fe6d54955/kotlin-stdlib-common-1.2.71-sources.jar!/generated/_Collections.kt" timestamp="1540363329359" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/login/LoginFragment.kt" timestamp="1540365112116">
+        <mark key="[" line="20" column="109" />
+        <mark key="]" line="20" column="162" />
+        <mark key="." line="36" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/schedule/model/ScheduleCupModel.kt" timestamp="1540363765417">
         <mark key="'" line="0" column="0" />
       </file>
@@ -250,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="4" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
       <jump line="116" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
       <jump line="118" column="54" filename="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" />
       <jump line="93" column="19" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
@@ -350,6 +357,7 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/schedule/model/ScheduleVenueModel.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/schedule/model/ScheduleVenueModel.kt" />
       <jump line="23" column="1" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/venue/model/VenueModel.kt" />
+      <jump line="73" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_registration_confirm.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -389,7 +397,7 @@
         <text encoding="base64">ICAgICAgICBwcml2YXQK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -413,15 +421,15 @@
         <entry>action GotoImplementation</entry>
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
