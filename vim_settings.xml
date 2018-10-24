@@ -203,6 +203,9 @@
         <mark key="." line="326" column="7" />
         <mark key="^" line="326" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/RegistrationConfirmFragment.kt" timestamp="1540359491473">
+        <mark key="'" line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" timestamp="1540260376040">
         <mark key="'" line="126" column="8" />
         <mark key="[" line="413" column="0" />
@@ -230,11 +233,6 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" timestamp="1540273447666">
-        <mark key="'" line="183" column="27" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="186" column="55" />
-      </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/res/layout/activity_main.xml" timestamp="1540028122837">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -242,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="31" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
-      <jump line="156" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Camera2Activity.kt" />
       <jump line="99" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Test.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Test.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/Test.kt" />
@@ -342,6 +338,8 @@
       <jump line="136" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/chrome/CustomTabsHelper.java" />
       <jump line="54" column="26" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/MainActivity.kt" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/MainViewModel.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/RegistrationConfirmFragment.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/RegistrationConfirmFragment.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -381,7 +379,7 @@
         <text encoding="base64">ICAgIEBEZXByZWNhdGVkCiAgICBwcml2YXRlCiAgICBpbmxpbmUgZnVuIFZpZXcuZG9PblByZURyYXcoY3Jvc3NpbmxpbmUgYWN0aW9uOiAodmlldzogVmlldykgLT4gVW5pdCkgewogICAgICAgIHZhbCB2dG8gPSB2aWV3VHJlZU9ic2VydmVyCiAgICAgICAgdnRvLmFkZE9uUHJlRHJhd0xpc3RlbmVyKG9iamVjdCA6IFZpZXdUcmVlT2JzZXJ2ZXIuT25QcmVEcmF3TGlzdGVuZXIgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25QcmVEcmF3KCk6IEJvb2xlYW4gewogICAgICAgICAgICAgICAgYWN0aW9uKHRoaXNAZG9PblByZURyYXcpCiAgICAgICAgICAgICAgICB3aGVuIHsKICAgICAgICAgICAgICAgICAgICB2dG8uaXNBbGl2ZSAtPiB2dG8ucmVtb3ZlT25QcmVEcmF3TGlzdGVuZXIodGhpcykKICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHZpZXdUcmVlT2JzZXJ2ZXIucmVtb3ZlT25QcmVEcmF3TGlzdGVuZXIodGhpcykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9KQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -409,11 +407,11 @@
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
