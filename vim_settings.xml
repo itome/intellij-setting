@@ -71,6 +71,12 @@
         <mark key="^" line="207" column="3" />
         <mark key="." line="91" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/background_check_box_primary_green.xml" timestamp="1540543855700">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_jade_outline_radius_16.xml" timestamp="1540445390610">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -218,6 +224,7 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/vector_badge_g2.xml" timestamp="1540543957883" />
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/ViewExt.kt" timestamp="1540360162933">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -262,12 +269,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" timestamp="1540542513117">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" timestamp="1540543317255">
         <mark key="'" line="495" column="14" />
-        <mark key="[" line="385" column="29" />
-        <mark key="]" line="385" column="32" />
-        <mark key="." line="385" column="32" />
-        <mark key="^" line="385" column="32" />
+        <mark key="[" line="599" column="32" />
+        <mark key="]" line="599" column="43" />
+        <mark key="." line="599" column="43" />
+        <mark key="^" line="599" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/DateBindingAdapters.kt" timestamp="1540536153839">
         <mark key="[" line="17" column="2" />
@@ -310,7 +317,7 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up_confirm.xml" timestamp="1540542588624">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up_confirm.xml" timestamp="1540543278053">
         <mark key="'" line="213" column="0" />
         <mark key="[" line="298" column="32" />
         <mark key="]" line="298" column="60" />
@@ -349,6 +356,9 @@
         <mark key="]" line="25" column="21" />
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540543626432">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpConfirmFragment.kt" timestamp="1540529724107">
         <mark key="[" line="24" column="12" />
@@ -531,7 +541,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>email_address</text>
+        <text>24dp</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -540,34 +550,34 @@
         <text encoding="base64">ICAgICAgICAgIGJpbmQ6bWFzaz0iQHstfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluCg==</text>
+        <text encoding="base64">ICA8IS0tIOODgeOCp+ODg+OCr09OIOOBi+OBpCDpgbjmip7jgZXjgozjgabjgYTjgovnirbmhYsgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmQ6bWFzaz0iQHstfSIK</text>
+        <text encoding="base64">ICA8IS0tIOODgeOCp+ODg+OCr09O44CA44GL44GkIOmBuOaKnuOBleOCjOOBpuOBhOOBquOBhOeKtuaFiy0tPgogIDxpdGVtCiAgICBhbmRyb2lkOmRyYXdhYmxlPSJAZHJhd2FibGUvY2hlY2tib3hfY2hlY2tlZCIKICAgIGFuZHJvaWQ6c3RhdGVfY2hlY2tlZD0idHJ1ZSIvPgogIDwhLS0g44OB44Kn44OD44KvT0ZGIOOBi+OBpCDpgbjmip7jgZXjgozjgabjgYTjgovnirbmhYstLT4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmQ6bWFzaz0iQHstfSIK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICA8IS0tIOODgeOCp+ODg+OCr09GRiDjgYvjgaQg6YG45oqe44GV44KM44Gm44GE44Gq44GE54q25oWLLS0+CiAgPGl0ZW0KICAgIGFuZHJvaWQ6ZHJhd2FibGU9IkBkcmF3YWJsZS9jaGVja2JveF91bmNoZWNrZWQiCiAgICBhbmRyb2lkOnN0YXRlX2NoZWNrZWQ9ImZhbHNlIi8+</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmQ6bWFzaz0iLSIK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBhbmRyb2lkOnN0YXRlX3ByZXNzZWQ9InRydWUi</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcyA9IFNwYW5uYWJsZVN0cmluZyh1cmwpCiAgICBzcy5zZXRTcGFuKENocm9tZVVSTFNwYW4odXJsKSwgMCwgdXJsLmxlbmd0aCwgU3Bhbm5lZC5TUEFOX0VYQ0xVU0lWRV9FWENMVVNJVkUpCiAgICB2aWV3LnRleHQgPSBzcwogICAgdmlldy5tb3ZlbWVudE1ldGhvZCA9IExpbmtNb3ZlbWVudE1ldGhvZC5nZXRJbnN0YW5jZSgpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBhbmRyb2lkOnN0YXRlX3ByZXNzZWQ9InRydWUi</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c3RhdGVfY2hlY2tlZD0idHJ1ZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBASnZtU3RhdGljCg==</text>
+        <text encoding="base64">PC9zZWxlY3Rvcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmQK</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmQ6bWFzaz0iLSIK</text>
+        <text encoding="base64">ICAgIFN0cmluCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -595,11 +605,11 @@
         <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
