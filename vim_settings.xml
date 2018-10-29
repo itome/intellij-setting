@@ -15,21 +15,11 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_cup_race.xml" timestamp="1540550653604">
-        <mark key="'" line="109" column="11" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="57" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_input_account_info.xml" timestamp="1540522270194">
         <mark key="[" line="578" column="36" />
         <mark key="]" line="578" column="36" />
         <mark key="." line="578" column="40" />
         <mark key="^" line="195" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_schedule_cup.xml" timestamp="1540549323195">
-        <mark key="'" line="151" column="6" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/InputAccountInfoFragment.kt" timestamp="1540522670812">
         <mark key="[" line="33" column="0" />
@@ -55,6 +45,11 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_jade_outline_radius_16.xml" timestamp="1540445390610">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_primary_green_check_box.xml" timestamp="1540547951885">
         <mark key="[" line="14" column="51" />
         <mark key="]" line="15" column="26" />
@@ -67,23 +62,21 @@
         <mark key="." line="16" column="83" />
         <mark key="^" line="16" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupFragment.kt" timestamp="1540781647071">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/SignUpModule.kt" timestamp="1540787105184">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="47" />
+        <mark key="^" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupFragment.kt" timestamp="1540787608039">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="36" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_registration.xml" timestamp="1540369293346">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="35" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" timestamp="1540461790410">
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
         <mark key="^" line="154" column="49" />
         <mark key="." line="211" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_cup.xml" timestamp="1540533914109">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1540549273259">
         <mark key="[" line="19" column="55" />
@@ -98,6 +91,7 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/DatePickerDialog.java" timestamp="1540778478197">
         <mark key="'" line="71" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/venue/VenueInfoFragment.kt" timestamp="1540541411204" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" timestamp="1540781474537">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="41" />
@@ -120,19 +114,30 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/res/values/strings.xml" timestamp="1540778674220">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="47" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/res/values/strings.xml" timestamp="1540790051702">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="52" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_login.xml" timestamp="1540379620304">
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="205" column="11" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/CupModule.kt" timestamp="1540787083388">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/EditTextBindingAdapters.kt" timestamp="1540536945691">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_jade_oval_outline.xml" timestamp="1540522038559">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="38" />
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/res/layout/activity_main.xml" timestamp="1540028122837">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/TextBindingAdapters.kt" timestamp="1540551472012">
         <mark key="[" line="68" column="34" />
@@ -146,22 +151,19 @@
         <mark key="." line="41" column="81" />
         <mark key="^" line="41" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" timestamp="1540782287147">
-        <mark key="'" line="81" column="29" />
-        <mark key="[" line="81" column="45" />
-        <mark key="]" line="81" column="53" />
-        <mark key="." line="81" column="53" />
-        <mark key="^" line="81" column="53" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/ImageBindingAdapters.kt" timestamp="1540536554872">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_cup_header.xml" timestamp="1540780416403">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/DateBindingAdapters.kt" timestamp="1540782029573">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="29" />
-        <mark key="^" line="44" column="36" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/DateBindingAdapters.kt" timestamp="1540790430694">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_home.xml" timestamp="1540367399441">
         <mark key="[" line="70" column="30" />
@@ -169,13 +171,14 @@
         <mark key="." line="70" column="28" />
         <mark key="^" line="70" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_black_corner_radius12.xml" timestamp="1540445444901">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_background_white.xml" timestamp="1540544954336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/android-gpuimage/local.properties" timestamp="1540282117685">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1540287200692">
         <mark key="[" line="1" column="52" />
@@ -190,8 +193,15 @@
         <mark key="." line="298" column="60" />
         <mark key="^" line="298" column="60" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Calendar.java" timestamp="1540790295840" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/time/LocalDate.java" timestamp="1540781286053">
         <mark key="'" line="88" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ActivityBuilder.kt" timestamp="1540791023674">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera1Loader.kt" timestamp="1540284312094">
         <mark key="[" line="9" column="26" />
@@ -202,6 +212,7 @@
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/MainViewModel.kt" timestamp="1540358599998">
         <mark key="'" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build/generated/source/kapt/developDebug/jp/co/cyberagent/winticket/mobile/databinding/FragmentSignUpBindingImpl.java" timestamp="1540788302027" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/widget/Stepper.kt" timestamp="1540450462496">
         <mark key="[" line="56" column="17" />
         <mark key="]" line="56" column="18" />
@@ -245,12 +256,17 @@
         <mark key="." line="86" column="2" />
         <mark key="^" line="86" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540781850528">
-        <mark key="'" line="50" column="44" />
-        <mark key="[" line="46" column="89" />
-        <mark key="]" line="46" column="88" />
-        <mark key="." line="46" column="88" />
-        <mark key="^" line="46" column="88" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/ConfirmAccountInfoFragment.kt" timestamp="1540452657074">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540791196615">
+        <mark key="'" line="67" column="34" />
+        <mark key="[" line="70" column="46" />
+        <mark key="]" line="70" column="67" />
+        <mark key="." line="70" column="67" />
+        <mark key="^" line="70" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/venue/model/VenueModel.kt" timestamp="1540363792404">
         <mark key="'" line="23" column="1" />
@@ -261,16 +277,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/ViewBindingAdapters.kt" timestamp="1540534149506">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="2" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/.circleci/config.yml" timestamp="1540775867109">
         <mark key="'" line="88" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="0" filename="$USER_HOME$/OSS/cameraview/library/src/main/api21/com/google/android/cameraview/Camera2.java" />
       <jump line="92" column="6" filename="$USER_HOME$/OSS/android-Camera2Basic/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
@@ -370,46 +381,47 @@
       <jump line="88" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/java/time/LocalDate.java" />
       <jump line="50" column="44" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
       <jump line="81" column="29" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" />
+      <jump line="67" column="34" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>view</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="4">
-        <text>signUpViewModel</text>
+        <text>date_yyyyMd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmQ6ZGF0ZV95eXl5TWQ9IkB7c2luZ1VwVmlld01vZGVsLmJpcnRoZGF5fSIK</text>
+        <text encoding="base64">ICAgIGRhdGVQaWNrZXJEaWFsb2cubWF4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcuY2hlY2tCb3hTaWduVXBBZ3JlZVRlcm1PZlNlcnZpY2Uuc2V0T25DaGVja2VkQ2hhbmdlTGlzdGVuZXIgeyBfLCBpc0NoZWNrZWQgLT4KICAgICAgYmluZGluZy5idXR0b25TaWduVXBUb0NvbmZpcm0uaXNFbmFibGVkID0gaXNDaGVja2VkCiAgICB9Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgU2lnblVwVmlld01vZGVsIGFuZCBzZXR1cCBESSBtb2R1bGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcuc2lnblVwVmlld01vZGVsID0gc2lnblVwVmlld01vZGVsCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uRG9uZSIK</text>
+        <text encoding="base64">CiAgQEp2bVN0YXRpYwogIEBCaW5kaW5nQWRhcHRlcigiZGF0ZV95eXl5TWQiKQogIGZ1biBiaW5kRGF0ZSh2aWV3OiBUZXh0VmlldywgZGF0ZTogTG9jYWxEYXRlPykgewogICAgaWYgKGRhdGUgPT0gbnVsbCkgewogICAgICByZXR1cm4KICAgIH0KICAgIHZhbCByZXNvdXJjZXMgPSB2aWV3LmNvbnRleHQucmVzb3VyY2VzCiAgICB2YWwgZm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuZGF0ZV95eXl5TWRfc2xhc2gpKQogICAgdmlldy50ZXh0ID0gZm9ybWF0dGVyLmZvcm1hdChkYXRlKQogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uQXR0YWNoKGNvbnRleHQ6IENvbnRleHQpIHsKICAgIEFuZHJvaWRTdXBwb3J0SW5qZWN0aW9uLmluamVjdCh0aGlzKQogICAgc3VwZXIub25BdHRhY2goY29udGV4dCkKICB9Cg==</text>
+        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImRhdGVfeXl5eU1kX3NsYXNoIj55eXl5L00vZDwvc3RyaW5nPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUK</text>
+        <text encoding="base64">ICAgICAgdmFsIGNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKQogICAgICB2YWwgZGF0ZVBpY2tlckRpYWxvZyA9IERhdGVQaWNrZXJEaWFsb2coCiAgICAgICAgcmVxdWlyZUNvbnRleHQoKSwKICAgICAgICBEYXRlUGlja2VyRGlhbG9nLk9uRGF0ZVNldExpc3RlbmVyIHsgXywgeWVhciwgbW9udGgsIGRheU9mTW9udGggLT4KICAgICAgICAgIHNpZ25VcFZpZXdNb2RlbC5zZXRCaXJ0aGRheShMb2NhbERhdGUub2YoeWVhciwgbW9udGggKyAxLCBkYXlPZk1vbnRoKSkKICAgICAgICB9LAogICAgICAgIGNhbGVuZGFyLmdldChDYWxlbmRhci5ZRUFSKSwKICAgICAgICBjYWxlbmRhci5nZXQoQ2FsZW5kYXIuTU9OVEgpLAogICAgICAgIGNhbGVuZGFyLmdldChDYWxlbmRhci5EQVlfT0ZfTU9OVEgpCiAgICAgICkKICAgICAgZGF0ZVBpY2tlckRpYWxvZy5zaG93KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUK</text>
+        <text encoding="base64">ICAgIGRhdGUgPzogcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -425,23 +437,23 @@
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVuYW1lRWxlbWVudA==</entry>
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoAction</entry>
+        <entry>action GotoImplementation</entry>
         <entry>action CloseEditor</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
-        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
