@@ -92,12 +92,12 @@
         <mark key="'" line="71" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/venue/VenueInfoFragment.kt" timestamp="1540541411204" />
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" timestamp="1540781474537">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="41" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" timestamp="1540794407100">
+        <mark key="[" line="49" column="49" />
         <mark key="m" line="0" column="63" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="41" />
+        <mark key="]" line="49" column="55" />
+        <mark key="." line="49" column="55" />
+        <mark key="^" line="49" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_light_gray_check_box.xml" timestamp="1540547941159">
         <mark key="[" line="5" column="0" />
@@ -118,6 +118,13 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="52" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/RegistrationFragment.kt" timestamp="1540793406671">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/CupModule.kt" timestamp="1540787083388">
         <mark key="[" line="1" column="0" />
@@ -219,11 +226,10 @@
         <mark key="." line="56" column="18" />
         <mark key="^" line="54" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupViewModel.kt" timestamp="1540781434748">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupViewModel.kt" timestamp="1540792925459">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpConfirmFragment.kt" timestamp="1540529724107">
         <mark key="[" line="24" column="12" />
@@ -261,7 +267,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540791196615">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540791480350">
         <mark key="'" line="67" column="34" />
         <mark key="[" line="70" column="46" />
         <mark key="]" line="70" column="67" />
@@ -385,7 +391,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>LocalDate</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -394,34 +400,34 @@
         <text>date_yyyyMd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGVQaWNrZXJEaWFsb2cubWF4Cg==</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIHZhbCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgU2lnblVwVmlld01vZGVsIGFuZCBzZXR1cCBESSBtb2R1bGUK</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIHZhbCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICB2YWwgcGFzc3dvcmQ6IExpdmVEYXRhPFN0cmluZz4gZ2V0KCkgPSBfcGFzc3dvcmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBrZWlyaW5DdXBSZXNwb25zZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQEp2bVN0YXRpYwogIEBCaW5kaW5nQWRhcHRlcigiZGF0ZV95eXl5TWQiKQogIGZ1biBiaW5kRGF0ZSh2aWV3OiBUZXh0VmlldywgZGF0ZTogTG9jYWxEYXRlPykgewogICAgaWYgKGRhdGUgPT0gbnVsbCkgewogICAgICByZXR1cm4KICAgIH0KICAgIHZhbCByZXNvdXJjZXMgPSB2aWV3LmNvbnRleHQucmVzb3VyY2VzCiAgICB2YWwgZm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuZGF0ZV95eXl5TWRfc2xhc2gpKQogICAgdmlldy50ZXh0ID0gZm9ybWF0dGVyLmZvcm1hdChkYXRlKQogIH0K</text>
+        <text encoding="base64">ICAKICBmdW4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImRhdGVfeXl5eU1kX3NsYXNoIj55eXl5L00vZDwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAKICBmdW4gc2V0Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKQogICAgICB2YWwgZGF0ZVBpY2tlckRpYWxvZyA9IERhdGVQaWNrZXJEaWFsb2coCiAgICAgICAgcmVxdWlyZUNvbnRleHQoKSwKICAgICAgICBEYXRlUGlja2VyRGlhbG9nLk9uRGF0ZVNldExpc3RlbmVyIHsgXywgeWVhciwgbW9udGgsIGRheU9mTW9udGggLT4KICAgICAgICAgIHNpZ25VcFZpZXdNb2RlbC5zZXRCaXJ0aGRheShMb2NhbERhdGUub2YoeWVhciwgbW9udGggKyAxLCBkYXlPZk1vbnRoKSkKICAgICAgICB9LAogICAgICAgIGNhbGVuZGFyLmdldChDYWxlbmRhci5ZRUFSKSwKICAgICAgICBjYWxlbmRhci5nZXQoQ2FsZW5kYXIuTU9OVEgpLAogICAgICAgIGNhbGVuZGFyLmdldChDYWxlbmRhci5EQVlfT0ZfTU9OVEgpCiAgICAgICkKICAgICAgZGF0ZVBpY2tlckRpYWxvZy5zaG93KCkK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBfCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGUgPzogcmV0dXJuCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBfYmlydGhkYXkgPSBNdXRhYmxlTGl2ZURhdGE8TG9jYWxEYXRlPigpCiAgdmFsIGJpcnRoZGF5OiBMaXZlRGF0YTxMb2NhbERhdGU+IGdldCgpID0gX2JpcnRoZGF5Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -434,26 +440,26 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVuYW1lRWxlbWVudA==</entry>
-        <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action CloseEditor</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
+        <entry>action CloseEditor</entry>
+        <entry>action Switcher</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
