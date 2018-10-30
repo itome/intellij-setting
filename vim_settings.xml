@@ -308,11 +308,12 @@
         <mark key="]" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540889250091">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540892156430">
         <mark key="'" line="157" column="66" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="170" column="16" />
+        <mark key="]" line="170" column="42" />
+        <mark key="." line="170" column="42" />
+        <mark key="^" line="170" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SingUpViewModel.kt" timestamp="1540520510465">
         <mark key="[" line="6" column="19" />
@@ -435,13 +436,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>edit_text_sign_up_first_name_kana</text>
+        <text>editTextSignUpPassword</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uTmV4dCIKICAgICAgICAgIGFuZHJvaWQ6bmV4dEZvY3VzRG93bj0iQGlkL2VkaXRfdGV4dF9zaWduX3VwX3Bhc3N3b3JkIgogICAgICAgICAgYW5kcm9pZDpuZXh0Rm9jdXNGb3J3YXJkPSJAaWQvZWRpdF90ZXh0X3NpZ25fdXBfcGFzc3dvcmQiCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFpc1Bhc3N3b3JkVmFsaWQpIHsKICAgICAgICBiaW5kaW5nLmVkaXRUZXh0U2lnblVwUGFzc3dvcmQudGV4dCA9IG51bGwKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uRG9uZSIK</text>
