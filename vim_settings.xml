@@ -273,12 +273,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540873907854">
-        <mark key="'" line="179" column="22" />
-        <mark key="[" line="180" column="8" />
-        <mark key="]" line="180" column="26" />
-        <mark key="^" line="180" column="26" />
-        <mark key="." line="180" column="26" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540875613392">
+        <mark key="'" line="129" column="4" />
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="64" column="3" />
+        <mark key="^" line="64" column="3" />
+        <mark key="." line="64" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SingUpViewModel.kt" timestamp="1540520510465">
         <mark key="[" line="6" column="19" />
@@ -291,8 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="58" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
-      <jump line="51" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
       <jump line="35" column="47" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/AndroidManifest.xml" />
       <jump line="59" column="8" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader2.kt" />
       <jump line="511" column="26" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
@@ -391,6 +389,8 @@
       <jump line="55" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/SingleLiveEvent.kt" />
       <jump line="75" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/SingleLiveEvent.kt" />
       <jump line="180" column="22" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
+      <jump line="128" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -430,7 +430,7 @@
         <text encoding="base64">ICAgIHN1cGVyLm9ic2VydmUob3duZXIsIG9ic2VydmVyKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -454,15 +454,15 @@
         <entry>action Switcher</entry>
         <entry>action RenameElement</entry>
         <entry>action CloseEditor</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
