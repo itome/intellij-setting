@@ -100,13 +100,13 @@
         <mark key="^" line="0" column="69" />
         <mark key="." line="0" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" timestamp="1540882254923">
-        <mark key="'" line="152" column="23" />
-        <mark key="[" line="32" column="55" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" timestamp="1540890142882">
+        <mark key="'" line="131" column="4" />
+        <mark key="[" line="169" column="9" />
         <mark key="m" line="0" column="63" />
-        <mark key="]" line="33" column="57" />
-        <mark key="." line="33" column="57" />
-        <mark key="^" line="33" column="57" />
+        <mark key="]" line="169" column="10" />
+        <mark key="." line="169" column="10" />
+        <mark key="^" line="169" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1540881391983">
         <mark key="'" line="7" column="0" />
@@ -183,12 +183,12 @@
         <mark key="." line="41" column="81" />
         <mark key="^" line="41" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" timestamp="1540877145855">
-        <mark key="'" line="318" column="10" />
-        <mark key="[" line="428" column="0" />
-        <mark key="]" line="429" column="56" />
-        <mark key="." line="429" column="38" />
-        <mark key="^" line="429" column="37" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" timestamp="1540891149580">
+        <mark key="'" line="444" column="0" />
+        <mark key="[" line="585" column="40" />
+        <mark key="]" line="585" column="39" />
+        <mark key="^" line="585" column="39" />
+        <mark key="." line="585" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/DateBindingAdapters.kt" timestamp="1540877063983">
         <mark key="[" line="45" column="0" />
@@ -271,8 +271,9 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" timestamp="1540888400551">
-        <mark key="'" line="23" column="0" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/text/TextWatcher.java" timestamp="1540889615355" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" timestamp="1540888999277">
+        <mark key="'" line="25" column="12" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="33" column="4" />
       </file>
@@ -307,8 +308,8 @@
         <mark key="]" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540888719469">
-        <mark key="'" line="129" column="4" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" timestamp="1540889250091">
+        <mark key="'" line="157" column="66" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -331,11 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/schedule/model/ScheduleCupModel.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/schedule/model/ScheduleCupModel.kt" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/schedule/model/ScheduleVenueModel.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/schedule/model/ScheduleVenueModel.kt" />
-      <jump line="23" column="1" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/venue/model/VenueModel.kt" />
       <jump line="73" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_registration_confirm.xml" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/RegistrationFragment.kt" />
       <jump line="505" column="11" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_input_account_info.xml" />
@@ -431,46 +427,51 @@
       <jump line="33" column="44" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
       <jump line="27" column="21" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
+      <jump line="25" column="12" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
+      <jump line="157" column="66" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
+      <jump line="161" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" />
+      <jump line="131" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" />
+      <jump line="433" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>r</text>
+        <text>edit_text_sign_up_first_name_kana</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIDxBLCBCPiBSZWFjdGl2ZUxpdmVEYXRhLkNvbXBhbmlvbi56aXAoYTogTGl2ZURhdGE8QT4sIGI6IExpdmVEYXRhPEI+KTogTGl2ZURhdGE8UGFpcjxBLCBCPj4gPQogICAgTWVkaWF0b3JMaXZlRGF0YTxQYWlyPEEsIEI+PigpLmFwcGx5IHsKICAgICAgICB2YXIgbGFzdEE6IEE/ID0gbnVsbAogICAgICAgIHZhciBsYXN0QjogQj8gPSBudWxsCgogICAgICAgIGZ1biB1cGRhdGUoKSB7CiAgICAgICAgICAgIHZhbCBsb2NhbExhc3RBID0gbGFzdEEKICAgICAgICAgICAgdmFsIGxvY2FsTGFzdEIgPSBsYXN0QgogICAgICAgICAgICBpZiAobG9jYWxMYXN0QSAhPSBudWxsICYmIGxvY2FsTGFzdEIgIT0gbnVsbCkKICAgICAgICAgICAgICAgIHRoaXMudmFsdWUgPSBQYWlyKGxvY2FsTGFzdEEsIGxvY2FsTGFzdEIpCiAgICAgICAgfQoKICAgICAgICBhZGRTb3VyY2UoYSkgewogICAgICAgICAgICBpZiAobGFzdEEgIT0gaXQpIHsKICAgICAgICAgICAgICAgIGxhc3RBID0gaXQKICAgICAgICAgICAgICAgIHVwZGF0ZSgpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgYWRkU291cmNlKGIpIHsKICAgICAgICAgICAgaWYgKGxhc3RCICE9IGl0KSB7CiAgICAgICAgICAgICAgICBsYXN0QiA9IGl0CiAgICAgICAgICAgICAgICB1cGRhdGUoKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uTmV4dCIKICAgICAgICAgIGFuZHJvaWQ6bmV4dEZvY3VzRG93bj0iQGlkL2VkaXRfdGV4dF9zaWduX3VwX3Bhc3N3b3JkIgogICAgICAgICAgYW5kcm9pZDpuZXh0Rm9jdXNGb3J3YXJkPSJAaWQvZWRpdF90ZXh0X3NpZ25fdXBfcGFzc3dvcmQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgbGF1bmNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uRG9uZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGVQaWNrZXJEaWFsb2cuZGF0ZVBpY2tlci50b3VjaGFibGVzWzBdLnBlcmZvcm1DbGljaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uRG9uZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpZ25VcFZpZXdNb2RlbC5iaXJ0aGRheS5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgYmluZGluZy5iaXJ0aGRheSA9IGl0CiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uRG9uZSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uRG9uZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcudGV4dFNpZ25VcENvbmZpcm1FbWFpbEFkZHJlc3MudGV4dCA9IHNpZ25VcFZpZXdNb2RlbC5lbWFpbEFkZHJlc3MudmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uRG9uZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICA9IHNpZ25VcFZpZXdNb2RlbC5iaXJ0aGRheS52YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJ0ZXh0Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2dpblUK</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uTmV4dCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2lnblVwVmlld01vZGVsLmxhc3ROYW1lLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uTmV4dCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNpZ25VcFZpZXdNb2RlbC5iaXJ0aGRheS5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgYmluZGluZy5iaXJ0aGRheSA9IGl0CiAgICB9KQogICAgc2lnblVwVmlld01vZGVsLmVtYWlsQWRkcmVzcy5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIAogICAgbGF1bmNoCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -484,7 +485,6 @@
       <history-search />
       <history-cmd>
         <entry>action ParameterInfo</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action Find</entry>
@@ -495,14 +495,15 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
