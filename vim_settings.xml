@@ -25,8 +25,8 @@
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/venue/VenueScheduleViewModel.kt" timestamp="1540962153110" />
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/agenda/LoadAgendaUseCase.kt" timestamp="1540966666917" />
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" timestamp="1540969787142">
-        <mark key="'" line="126" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" timestamp="1540970539190">
+        <mark key="'" line="58" column="0" />
         <mark key="[" line="82" column="6" />
         <mark key="m" line="0" column="63" />
         <mark key="]" line="82" column="6" />
@@ -175,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="639" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" />
       <jump line="43" column="10" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" />
       <jump line="75" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" />
       <jump line="492" column="24" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" />
@@ -275,6 +274,7 @@
       <jump line="32" column="0" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/logistics/LoadWifiInfoUseCase.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/logistics/LoadWifiInfoUseCase.kt" />
       <jump line="40" column="12" filename="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/UseCase.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
