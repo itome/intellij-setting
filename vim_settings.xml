@@ -57,12 +57,18 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="289" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1540882171193">
-        <mark key="'" line="123" column="2" />
-        <mark key="[" line="88" column="55" />
-        <mark key="]" line="88" column="63" />
-        <mark key="^" line="88" column="63" />
-        <mark key="." line="88" column="63" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ActivityBuilder.kt" timestamp="1540976750843">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1540976317061">
+        <mark key="'" line="124" column="2" />
+        <mark key="[" line="88" column="47" />
+        <mark key="]" line="88" column="47" />
+        <mark key="^" line="88" column="47" />
+        <mark key="." line="88" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/test/kotlin/jp/co/cyberagent/winticket/core/util/ext/StringExtKtTest.kt" timestamp="1540808413964">
         <mark key="'" line="7" column="6" />
@@ -94,11 +100,16 @@
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/UseCase.kt" timestamp="1540967189605">
         <mark key="'" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpConfirmFragment.kt" timestamp="1540975482352">
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="3" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpConfirmFragment.kt" timestamp="1540976471674">
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+        <mark key="^" line="39" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ViewModelModule.kt" timestamp="1540976764267">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" timestamp="1540972316032">
         <mark key="[" line="29" column="0" />
@@ -273,7 +284,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_slash</text>
+        <text>signUpViewModel.firstName + signUpViewModel.lastName</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -282,31 +293,31 @@
         <text encoding="base64">ICB4bWxuczpiaW5kPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgQEJpbmRzCiAgQEludG9NYXAKICBAVmlld01vZGVsS2V5KFNpZ25VcFZpZXdNb2RlbDo6Y2xhc3MpCiAgZnVuIGJpbmRTaWduVXAodmlld01vZGVsOiBTaWduVXBWaWV3TW9kZWwpOiBWaWV3TW9kZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcudGV4dFNpZ25VcENvbmZpcm1CaXJ0aGRheQo=</text>
+        <text encoding="base64">ICAgIFNpZ25VcE1vZHVsZTo6Y2xhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uQXR0YWNoKGNvbnRleHQ6IENvbnRleHQpIHsKICAgIEFuZHJvaWRTdXBwb3J0SW5qZWN0aW9uLmluamVjdCh0aGlzKQogICAgc3VwZXIub25BdHRhY2goY29udGV4dCkKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcudGV4dFNpZ25VcENvbmZpcm1CaXJ0aGRheQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASW5qZWN0CiAgbGF0ZWluaXQgdmFyIHZpZXdtb2RlbEZhY3Rvcnk6IFZpZXdNb2RlbFByb3ZpZGVyCg==</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uQXR0YWNoKGNvbnRleHQ6IENvbnRleHQpIHsKICAgIEFuZHJvaWRTdXBwb3J0SW5qZWN0aW9uLmluamVjdCh0aGlzKQogICAgc3VwZXIub25BdHRhY2goY29udGV4dCkKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxPYmplY3RpdmUtQy1leHRlbnNpb25zPgogICAgICA8ZmlsZT4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJJbXBvcnQiIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uamV0YnJhaW5zLmNpZHIubGFuZy51dGlsLk9DRGVjbGFyYXRpb25LaW5kIiB2YWx1ZT0iTWFjcm8iIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uamV0YnJhaW5zLmNpZHIubGFuZy51dGlsLk9DRGVjbGFyYXRpb25LaW5kIiB2YWx1ZT0iVHlwZWRlZiIgLz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJFbnVtIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9IkNvbnN0YW50IiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9Ikdsb2JhbCIgLz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJTdHJ1Y3QiIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uamV0YnJhaW5zLmNpZHIubGFuZy51dGlsLk9DRGVjbGFyYXRpb25LaW5kIiB2YWx1ZT0iRnVuY3Rpb25QcmVkZWNsIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9IkZ1bmN0aW9uIiAvPgogICAgICA8L2ZpbGU+CiAgICAgIDxjbGFzcz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJQcm9wZXJ0eSIgLz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJTeW50aGVzaXplIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9IkluaXRNZXRob2QiIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uamV0YnJhaW5zLmNpZHIubGFuZy51dGlsLk9DRGVjbGFyYXRpb25LaW5kIiB2YWx1ZT0iU3RhdGljTWV0aG9kIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9Ikluc3RhbmNlTWV0aG9kIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9IkRlYWxsb2NNZXRob2QiIC8+CiAgICAgIDwvY2xhc3M+CiAgICAgIDxleHRlbnNpb25zPgogICAgICAgIDxwYWlyIHNvdXJjZT0iY3BwIiBoZWFkZXI9ImgiIGZpbGVOYW1pbmdDb252ZW50aW9uPSJOT05FIiAvPgogICAgICAgIDxwYWlyIHNvdXJjZT0iYyIgaGVhZGVyPSJoIiBmaWxlTmFtaW5nQ29udmVudGlvbj0iTk9ORSIgLz4KICAgICAgPC9leHRlbnNpb25zPgogICAgPC9PYmplY3RpdmUtQy1leHRlbnNpb25zPgo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWRkT25UZXh0Q2hhbmdlZExpc3RlbmVyIHsgc2lnblVwVmlld01vZGVsLnBhc3N3b3JkQWdhaW4gPSBpdC50b1N0cmluZygpIH0K</text>
+        <text encoding="base64">ICBASW5qZWN0CiAgbGF0ZWluaXQgdmFyIHZpZXdtb2RlbEZhY3Rvcnk6IFZpZXdNb2RlbFByb3ZpZGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWRkT25UZXh0Q2hhbmdlZExpc3RlbmVyIHsgc2lnblVwVmlld01vZGVsLnBhc3N3b3JkID0gaXQudG9TdHJpbmcoKSB9Cg==</text>
+        <text encoding="base64">ICAgIDxPYmplY3RpdmUtQy1leHRlbnNpb25zPgogICAgICA8ZmlsZT4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJJbXBvcnQiIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uamV0YnJhaW5zLmNpZHIubGFuZy51dGlsLk9DRGVjbGFyYXRpb25LaW5kIiB2YWx1ZT0iTWFjcm8iIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uamV0YnJhaW5zLmNpZHIubGFuZy51dGlsLk9DRGVjbGFyYXRpb25LaW5kIiB2YWx1ZT0iVHlwZWRlZiIgLz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJFbnVtIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9IkNvbnN0YW50IiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9Ikdsb2JhbCIgLz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJTdHJ1Y3QiIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uamV0YnJhaW5zLmNpZHIubGFuZy51dGlsLk9DRGVjbGFyYXRpb25LaW5kIiB2YWx1ZT0iRnVuY3Rpb25QcmVkZWNsIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9IkZ1bmN0aW9uIiAvPgogICAgICA8L2ZpbGU+CiAgICAgIDxjbGFzcz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJQcm9wZXJ0eSIgLz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5qZXRicmFpbnMuY2lkci5sYW5nLnV0aWwuT0NEZWNsYXJhdGlvbktpbmQiIHZhbHVlPSJTeW50aGVzaXplIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9IkluaXRNZXRob2QiIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uamV0YnJhaW5zLmNpZHIubGFuZy51dGlsLk9DRGVjbGFyYXRpb25LaW5kIiB2YWx1ZT0iU3RhdGljTWV0aG9kIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9Ikluc3RhbmNlTWV0aG9kIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmpldGJyYWlucy5jaWRyLmxhbmcudXRpbC5PQ0RlY2xhcmF0aW9uS2luZCIgdmFsdWU9IkRlYWxsb2NNZXRob2QiIC8+CiAgICAgIDwvY2xhc3M+CiAgICAgIDxleHRlbnNpb25zPgogICAgICAgIDxwYWlyIHNvdXJjZT0iY3BwIiBoZWFkZXI9ImgiIGZpbGVOYW1pbmdDb252ZW50aW9uPSJOT05FIiAvPgogICAgICAgIDxwYWlyIHNvdXJjZT0iYyIgaGVhZGVyPSJoIiBmaWxlTmFtaW5nQ29udmVudGlvbj0iTk9ORSIgLz4KICAgICAgPC9leHRlbnNpb25zPgogICAgPC9PYmplY3RpdmUtQy1leHRlbnNpb25zPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBiaW5kaW5nLmVkaXRUZXh0U2lnblVwRW1haWxBZGRyZXNzLmFkZE9uVGV4dENoYW5nZWRMaXN0ZW5lciB7CiAgICAgIHNpZ25VcFZpZXdNb2RlbC5lbWFpbEFkZHJlc3MgPSBpdC50b1N0cmluZygpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkT25UZXh0Q2hhbmdlZExpc3RlbmVyIHsgc2lnblVwVmlld01vZGVsLnBhc3N3b3JkQWdhaW4gPSBpdC50b1N0cmluZygpIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -333,14 +344,14 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>action CloseEditor</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
