@@ -372,7 +372,7 @@ and</text>
         <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUudmlldy5MYXlvdXRJbmZsYXRlckNvbXBhdC5zZXRGYWN0b3J5Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -400,11 +400,11 @@ and</text>
         <entry>action CloseEditor</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
