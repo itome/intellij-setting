@@ -26,8 +26,8 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" timestamp="1541050293202">
-        <mark key="'" line="66" column="20" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" timestamp="1541051305195">
+        <mark key="'" line="225" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" timestamp="1541047229184">
         <mark key="'" line="131" column="0" />
@@ -70,12 +70,12 @@
         <mark key="^" line="34" column="3" />
         <mark key="." line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" timestamp="1540880467762">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="66" column="125" />
-        <mark key="]" line="66" column="124" />
-        <mark key="." line="66" column="124" />
-        <mark key="^" line="66" column="124" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" timestamp="1541051377759">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" timestamp="1540974476474">
         <mark key="'" line="438" column="0" />
@@ -216,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="22" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageFilter.java" />
-      <jump line="72" column="24" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageFilter.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupViewModel.kt" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" />
       <jump line="108" column="49" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
@@ -316,6 +314,8 @@
       <jump line="180" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
       <jump line="27" column="21" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="66" column="20" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
+      <jump line="272" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
+      <jump line="225" column="16" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -328,31 +328,31 @@
         <text encoding="base64">ICB4bWxuczpiaW5kPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgYmluZGluZy5lZGl0VGV4dFNpZ25VcEJpcnRoZGF5LmFwcGx5IHsgCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnRBY3Rpdml0eQppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LnY0LndpZGdldC5UZXh0Vmlld0NvbXBhdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2V0T25DbGlja0xpc3RlbmVyIHsgc2hvd0RhdGVQYyB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuT2JzZXJ2ZXIKaW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuVmlld01vZGVsUHJvdmlkZXIKaW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuVmlld01vZGVsUHJvdmlkZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgQEJpbmRzCiAgQEludG9NYXAKICBAVmlld01vZGVsS2V5KFNpZ25VcFZpZXdNb2RlbDo6Y2xhc3MpCiAgZnVuIGJpbmRTaWduVXAodmlld01vZGVsOiBTaWduVXBWaWV3TW9kZWwpOiBWaWV3TW9kZWwK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNpZ25VcE1vZHVsZTo6Y2xhc3MK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBNaWdyYXRlIHRvIGFuZHJvaWR4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcudGV4dFNpZ25VcENvbmZpcm1CaXJ0aGRheQo=</text>
+        <text encoding="base64">ICAgIAogICAgYmluZGluZy5lZGl0VGV4dFNpZ25VcEJpcnRoZGF5LmFwcGx5IHsgCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uQXR0YWNoKGNvbnRleHQ6IENvbnRleHQpIHsKICAgIEFuZHJvaWRTdXBwb3J0SW5qZWN0aW9uLmluamVjdCh0aGlzKQogICAgc3VwZXIub25BdHRhY2goY29udGV4dCkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0T25DbGlja0xpc3RlbmVyIHsgc2hvd0RhdGVQYyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgCg==</text>
+        <text encoding="base64">CiAgQEJpbmRzCiAgQEludG9NYXAKICBAVmlld01vZGVsS2V5KFNpZ25VcFZpZXdNb2RlbDo6Y2xhc3MpCiAgZnVuIGJpbmRTaWduVXAodmlld01vZGVsOiBTaWduVXBWaWV3TW9kZWwpOiBWaWV3TW9kZWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASW5qZWN0CiAgbGF0ZWluaXQgdmFyIHZpZXdtb2RlbEZhY3Rvcnk6IFZpZXdNb2RlbFByb3ZpZGVyCg==</text>
+        <text encoding="base64">ICAgIFNpZ25VcE1vZHVsZTo6Y2xhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -381,12 +381,12 @@
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
         <entry>action CloseEditor</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
