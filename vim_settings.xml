@@ -136,6 +136,12 @@
         <mark key="^" line="44" column="3" />
         <mark key="." line="44" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build/generated/data_binding_base_class_source_out/developDebug/dataBindingGenBaseClassesDevelopDebug/out/bet/superchoice/databinding/ActivityAboutBinding.java" timestamp="1541058041219">
+        <mark key="'" line="113" column="34" />
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="51" column="33" />
+        <mark key="." line="51" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" timestamp="1541049819709">
         <mark key="'" line="27" column="21" />
       </file>
@@ -195,9 +201,6 @@
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1541057121736">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/RegistrationFragment.kt" timestamp="1540793406671">
         <mark key="'" line="62" column="0" />
@@ -213,12 +216,12 @@
         <mark key="." line="35" column="93" />
         <mark key="^" line="35" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1541057094006">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1541058007050">
         <mark key="'" line="33" column="44" />
-        <mark key="[" line="9" column="59" />
-        <mark key="]" line="9" column="58" />
-        <mark key="^" line="9" column="58" />
-        <mark key="." line="9" column="58" />
+        <mark key="[" line="0" column="99" />
+        <mark key="]" line="0" column="98" />
+        <mark key="^" line="0" column="98" />
+        <mark key="." line="0" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" timestamp="1541057245829">
         <mark key="'" line="94" column="25" />
@@ -229,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="55" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" />
       <jump line="145" column="23" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" />
       <jump line="63" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
       <jump line="153" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
@@ -329,10 +331,11 @@
       <jump line="86" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" />
       <jump line="94" column="25" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" />
+      <jump line="113" column="34" filename="$USER_HOME$/Projects/SuperChoice/android/app/build/generated/data_binding_base_class_source_out/developDebug/dataBindingGenBaseClassesDevelopDebug/out/bet/superchoice/databinding/ActivityAboutBinding.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>lateinit</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -394,13 +397,13 @@ and</text>
         <entry>action GotoImplementation</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
         <entry>action Find</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
