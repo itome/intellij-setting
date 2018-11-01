@@ -73,7 +73,7 @@
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ActivityBuilder.kt" timestamp="1540976750843">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ActivityBuilder.kt" timestamp="1541060731685">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
@@ -84,6 +84,9 @@
         <mark key="]" line="21" column="59" />
         <mark key="^" line="21" column="59" />
         <mark key="." line="21" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build/generated/data_binding_base_class_source_out/developDebug/dataBindingGenBaseClassesDevelopDebug/out/bet/superchoice/databinding/LayoutEventDetailThemeChoiceFinishedBinding.java" timestamp="1541060378758">
+        <mark key="'" line="33" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1541054345569">
         <mark key="'" line="125" column="2" />
@@ -216,27 +219,15 @@
         <mark key="." line="35" column="93" />
         <mark key="^" line="35" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1541058007050">
-        <mark key="'" line="33" column="44" />
-        <mark key="[" line="0" column="99" />
-        <mark key="]" line="0" column="98" />
-        <mark key="^" line="0" column="98" />
-        <mark key="." line="0" column="98" />
-      </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" timestamp="1541057245829">
-        <mark key="'" line="94" column="25" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1541060019225">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="23" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" />
-      <jump line="63" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
-      <jump line="153" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
-      <jump line="137" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/test/kotlin/jp/co/cyberagent/winticket/util/ext/StringExtKtTest.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/SingleLiveEvent.kt" />
       <jump line="75" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/SingleLiveEvent.kt" />
@@ -264,7 +255,6 @@
       <jump line="192" column="48" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
       <jump line="125" column="54" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
-      <jump line="33" column="44" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="25" column="12" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="157" column="66" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
@@ -332,6 +322,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" />
       <jump line="94" column="25" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" />
       <jump line="113" column="34" filename="$USER_HOME$/Projects/SuperChoice/android/app/build/generated/data_binding_base_class_source_out/developDebug/dataBindingGenBaseClassesDevelopDebug/out/bet/superchoice/databinding/ActivityAboutBinding.java" />
+      <jump line="8" column="12" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
+      <jump line="124" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" />
+      <jump line="71" column="65" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" />
+      <jump line="33" column="60" filename="$USER_HOME$/Projects/SuperChoice/android/app/build/generated/data_binding_base_class_source_out/developDebug/dataBindingGenBaseClassesDevelopDebug/out/bet/superchoice/databinding/LayoutEventDetailThemeChoiceFinishedBinding.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -344,32 +340,32 @@
         <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uQXR0YWNoKGNvbnRleHQ6IENvbnRleHQpIHsKICAgIEFuZHJvaWRTdXBwb3J0SW5qZWN0aW9uLmluamVjdCh0aGlzKQogICAgc3VwZXIub25BdHRhY2goY29udGV4dCkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBNaWdyYXRlIHRvIGFuZHJvaWR4Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">YW5yb2lkLmVuYWJsZUpldGlmaWVyPXRydWUK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>droid.useAndroidX=true
 and</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuVmlld01vZGVsUHJvdmlkZXIKaW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuVmlld01vZGVsUHJvdmlkZXJzCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuT2JzZXJ2ZXIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnRBY3Rpdml0eQppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LnY0LndpZGdldC5UZXh0Vmlld0NvbXBhdAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBNaWdyYXRlIHRvIGFuZHJvaWR4Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUudmlldy5MYXlvdXRJbmZsYXRlckNvbXBhdC5zZXRGYWN0b3J5Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -396,14 +392,14 @@ and</text>
         <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action CloseEditor</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
