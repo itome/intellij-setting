@@ -16,7 +16,7 @@
         <mark key="." line="54" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1541134730445">
-        <mark key="'" line="131" column="2" />
+        <mark key="'" line="126" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" timestamp="1541055597556">
         <mark key="'" line="85" column="28" />
@@ -30,6 +30,9 @@
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1541138188169">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventThemeSection.kt" timestamp="1541142287201">
+        <mark key="'" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/model/CupFilterModel.kt" timestamp="1541133168831" />
       <file name="$USER_HOME$/Projects/WinTicket/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1541064899395" />
@@ -94,8 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
       <jump line="18" column="2" filename="$USER_HOME$/Projects/SuperChoice/android/build.gradle" />
       <jump line="66" column="65" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" />
       <jump line="64" column="28" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" />
@@ -194,6 +195,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/adapter/DummyRecyclerAdapter.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/remote/ImageTest.kt" />
       <jump line="104" column="39" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyBetRepositoryTest.kt" />
+      <jump line="0" column="31" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventThemeSection.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventThemeSection.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
