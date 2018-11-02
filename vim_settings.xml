@@ -36,6 +36,9 @@
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/model/CupFilterModel.kt" timestamp="1541133168831" />
       <file name="$USER_HOME$/Projects/WinTicket/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1541064899395" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" timestamp="1541144833272">
+        <mark key="^" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/Result.kt" timestamp="1540961230275">
         <mark key="'" line="23" column="0" />
       </file>
@@ -79,7 +82,7 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/adapter/DummyRecyclerAdapter.kt" timestamp="1541138230843">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1541064526339">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1541144704280">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1541137985454">
@@ -209,34 +212,34 @@
         <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uQXR0YWNoKGNvbnRleHQ6IENvbnRleHQpIHsKICAgIEFuZHJvaWRTdXBwb3J0SW5qZWN0aW9uLmluamVjdCh0aGlzKQogICAgc3VwZXIub25BdHRhY2goY29udGV4dCkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucmVjeWNsZXJQbGF5ZXJzTGlzdC5hZGFwdGVyID0gY29udHJvbGxlci5hZGFwdGVyCg==</text>
+        <text encoding="base64">U1VQUE9SVF9QQUNLQUdFX1ZFUlNJT04gPSAyNy4xLjEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGxheQo=</text>
+        <text encoding="base64">S09UTElOX1ZFUlNJT04gICAgICAgICAgPSAxLjIuNjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgY29tcGFuaW9uIG9iamVjdCB7CiAgICBwcml2YXRlIGNvbnN0IHZhbCBNSU5fVkFMSURfQUdFID0gMjAKICAgIHByaXZhdGUgY29uc3QgdmFsIFBBU1NXT1JEX0xFTkdUSCA9IDQKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBSZWZhY3RvciBncmFkbGUgZmlsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">S09UTElOX1ZFUlNJT04gICAgICAgICAgPSAxLjIuNjAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBNaWdyYXRlIHRvIGFuZHJvaWR4Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnRBY3Rpdml0eQppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LnY0LndpZGdldC5UZXh0Vmlld0NvbXBhdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuT2JzZXJ2ZXIKaW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuVmlld01vZGVsUHJvdmlkZXIKaW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuVmlld01vZGVsUHJvdmlkZXJzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -258,17 +261,17 @@
         <entry>action RenameElement</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoAction</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action CloseEditor</entry>
         <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
