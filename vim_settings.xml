@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/remote/Image.kt" timestamp="1540980688595">
         <mark key="'" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyBetRepositoryTest.kt" timestamp="1541139542946" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/players/PlayersFragment.kt" timestamp="1541133592150">
         <mark key="[" line="54" column="4" />
         <mark key="]" line="54" column="3" />
@@ -27,10 +28,6 @@
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1541138188169">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="243" column="4" />
-        <mark key="]" line="243" column="28" />
-        <mark key="." line="243" column="28" />
-        <mark key="^" line="243" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/model/CupFilterModel.kt" timestamp="1541133168831" />
       <file name="$USER_HOME$/Projects/WinTicket/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1541064899395" />
@@ -234,7 +231,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -264,9 +261,9 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action CloseEditor</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
