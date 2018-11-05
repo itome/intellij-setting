@@ -44,8 +44,8 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" timestamp="1541402479673">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" timestamp="1541403766241">
+        <mark key="'" line="1297" column="22" />
         <mark key="[" line="20" column="3" />
         <mark key="]" line="20" column="3" />
         <mark key="^" line="1162" column="25" />
@@ -65,6 +65,12 @@
         <mark key="]" line="13" column="59" />
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ActivityExt.kt" timestamp="1541406344395">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="85" />
+        <mark key="^" line="21" column="85" />
+        <mark key="." line="21" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyBetRepositoryTest.kt" timestamp="1541140290006">
         <mark key="'" line="104" column="39" />
@@ -122,6 +128,9 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" timestamp="1541055597556">
         <mark key="'" line="85" column="28" />
       </file>
+      <file name="/Dummy.txt" timestamp="1541404445687">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/domain/UseCase.kt" timestamp="1540967189605">
         <mark key="'" line="40" column="12" />
       </file>
@@ -140,11 +149,11 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/adapter/DummyRecyclerAdapter.kt" timestamp="1541138230843">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1541402280432">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1541403843016">
+        <mark key="[" line="112" column="71" />
+        <mark key="]" line="112" column="72" />
         <mark key="^" line="139" column="7" />
-        <mark key="." line="139" column="0" />
+        <mark key="." line="112" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventThemeSection.kt" timestamp="1541142904081">
         <mark key="'" line="19" column="0" />
@@ -155,6 +164,7 @@
         <mark key="^" line="263" column="7" />
         <mark key="." line="263" column="7" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/FragmentTransaction.java" timestamp="1541406399664" />
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/di/CoreModule.kt" timestamp="1540980720660">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="2" />
@@ -169,6 +179,11 @@
         <mark key="]" line="49" column="32" />
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/MainActivity.kt" timestamp="1541406334938">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/TextViewExtKtTest.kt" timestamp="1541386361376">
         <mark key="[" line="17" column="0" />
@@ -195,6 +210,9 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1541404497020">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" timestamp="1541399403324">
         <mark key="'" line="51" column="1" />
         <mark key="[" line="29" column="99" />
@@ -211,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="25" column="12" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="157" column="66" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
@@ -311,10 +328,11 @@
       <jump line="51" column="1" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
       <jump line="1029" column="10" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" />
+      <jump line="1297" column="22" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>https://github.com/airbnb/DeepLinkDispatch/blob/master/deeplinkdispatch/src/main/java/com/airbnb/deeplinkdispatch/DeepLinkUri.java</text>
+        <text>commit</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -323,34 +341,34 @@
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8taW5saW5lOiRNT0NLSVRPX1ZFUlNJT04iCiAgdGVzdEltcGxlbWVudGF0aW9uICdjb20ubmhhYXJtYW46bW9ja2l0by1rb3RsaW46MS41LjAnCiAgdGVzdEltcGxlbWVudGF0aW9uICJvcmcubW9ja2l0bzptb2NraXRvLWFuZHJvaWQ6JE1PQ0tJVE9fVkVSU0lPTiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBVc2UK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobGlmZWN5Y2xlLmN1cnJlbnRTdGF0ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZnJhZ21lbnQgPSBmaW5kRnJhZ21lbnQocG9zaXRpb24pCiAgICAgICAgaWYgKGZyYWdtZW50LmlzQWRkZWQpIHJldHVybiBmYWxzZQogICAgICAgIGRldGFjaEZyYWdtZW50KFIuaWQuZnJhbWVfbWFpbl9jb250ZW50KQogICAgICAgIGF0dGFjaEZyYWdtZW50KFIuaWQuZnJhbWVfbWFpbl9jb250ZW50LCBmcmFnbWVudCwgcG9zaXRpb24udGFnKQogICAgICAgIHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuZXhlY3V0ZVBlbmRpbmdUcmFuc2FjdGlvbnMoKQogICAgICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLmp1bml0Lk1vY2tpdAo=</text>
+        <text encoding="base64">ICAvLyBVc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDorIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLmp1bml0Lk1vY2tpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
+        <text encoding="base64">Ly8gIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDorIgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYWxsOiRNT0NLSVRPX1ZFUlNJT04iCg==</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tYWxsOjEuOS41JyAK</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -372,17 +390,17 @@
         <entry>action GotoImplementation</entry>
         <entry>q</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
+        <entry>action Switcher</entry>
         <entry>action FindInPath</entry>
-        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
-        <entry>action Switcher</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action CloseEditor</entry>
-        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
