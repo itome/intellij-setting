@@ -18,12 +18,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadows-multidex/3.8/e5715b03b8b38ffc2dabbda6683329638ae26b7e/shadows-multidex-3.8-sources.jar!/org/robolectric/shadows/multidex/ShadowMultiDex.java" timestamp="1541152317386" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/data/local/room/AppDatabase.kt" timestamp="1541148873778" />
-      <file name="$USER_HOME$/Projects/WinTicket/android/.idea/codeStyles/Project.xml" timestamp="1540974039346">
-        <mark key="'" line="54" column="15" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/local/VersionTest.kt" timestamp="1541150611469">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="34" />
@@ -38,6 +32,12 @@
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/players/PlayersFragment.kt" timestamp="1541133592150">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="3" />
+        <mark key="^" line="54" column="3" />
+        <mark key="." line="54" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1541134730445">
         <mark key="'" line="126" column="2" />
       </file>
@@ -50,14 +50,7 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" timestamp="1541055597556">
         <mark key="'" line="85" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build/generated/data_binding_base_class_source_out/developDebug/dataBindingGenBaseClassesDevelopDebug/out/bet/superchoice/databinding/ActivityAboutBinding.java" timestamp="1541058041219">
-        <mark key="'" line="113" column="34" />
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="51" column="33" />
-        <mark key="." line="51" column="33" />
-      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/debug/kotlin/bet/superchoice/DebugApp.kt" timestamp="1541150804303" />
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/service/SCFirebaseMessageService.kt" timestamp="1541153860019" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1541151743653">
         <mark key="'" line="0" column="0" />
       </file>
@@ -75,10 +68,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/TextViewExtKtTest.kt" timestamp="1541154661702">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="52" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/TextViewExtKtTest.kt" timestamp="1541382224611">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/main/top/MyWalletItem.kt" timestamp="1541145912805">
         <mark key="[" line="5" column="0" />
@@ -119,6 +113,18 @@
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/di/NetworkModule.kt" timestamp="1540981203183">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/di/AppComponent.kt" timestamp="1541064817558">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ActivityBuilder.kt" timestamp="1541063301634">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/remote/KeirinDataSource.kt" timestamp="1540980624868">
         <mark key="[" line="21" column="60" />
@@ -163,12 +169,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java" timestamp="1541149960273">
         <mark key="'" line="142" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1541146862897">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/build.gradle" timestamp="1541137985454">
         <mark key="'" line="6" column="0" />
@@ -325,7 +325,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -338,14 +338,11 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Run</entry>
         <entry>action FindInPath</entry>
         <entry>action SaveAll</entry>
         <entry>action Find</entry>
@@ -358,6 +355,9 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>q</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
