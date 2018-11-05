@@ -44,6 +44,13 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" timestamp="1541402479673">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="1162" column="25" />
+        <mark key="." line="20" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/remote/Image.kt" timestamp="1540980688595">
         <mark key="'" line="6" column="29" />
       </file>
@@ -133,6 +140,12 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/adapter/DummyRecyclerAdapter.kt" timestamp="1541138230843">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1541402280432">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="139" column="7" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventThemeSection.kt" timestamp="1541142904081">
         <mark key="'" line="19" column="0" />
       </file>
@@ -198,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="48" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
-      <jump line="125" column="54" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="25" column="12" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
@@ -298,10 +309,12 @@
       <jump line="2991" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
       <jump line="11" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/internal/exceptions/stacktrace/ConditionalStackTraceFilter.java" />
       <jump line="51" column="1" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
+      <jump line="1029" column="10" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>testImplementation</text>
+        <text>https://github.com/airbnb/DeepLinkDispatch/blob/master/deeplinkdispatch/src/main/java/com/airbnb/deeplinkdispatch/DeepLinkUri.java</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -310,31 +323,31 @@
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8taW5saW5lOiRNT0NLSVRPX1ZFUlNJT04iCiAgdGVzdEltcGxlbWVudGF0aW9uICdjb20ubmhhYXJtYW46bW9ja2l0by1rb3RsaW46MS41LjAnCiAgdGVzdEltcGxlbWVudGF0aW9uICJvcmcubW9ja2l0bzptb2NraXRvLWFuZHJvaWQ6JE1PQ0tJVE9fVkVSU0lPTiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBVc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLmp1bml0Lk1vY2tpdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDorIgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLmp1bml0Lk1vY2tpdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
+        <text encoding="base64">Ly8gIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDorIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYWxsOiRNT0NLSVRPX1ZFUlNJT04iCg==</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tYWxsOjEuOS41JyAK</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYWxsOiRNT0NLSVRPX1ZFUlNJT04iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB1bnJlZ2lzdGVyVmlld01vZGVsLgo=</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tYWxsOjEuOS41JyAK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -355,20 +368,20 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Switcher</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>q</entry>
-        <entry>action FindInPath</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action CloseEditor</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Back</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
+        <entry>action Switcher</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action CloseEditor</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
