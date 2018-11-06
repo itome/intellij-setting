@@ -123,7 +123,11 @@
         <mark key="^" line="44" column="3" />
         <mark key="." line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/OSS/state_experiments/shared/lib/src/bloc_complex/cart/bloc_cart_page.dart" timestamp="1541424186409" />
+      <file name="$USER_HOME$/OSS/state_experiments/shared/lib/src/bloc_complex/cart/bloc_cart_page.dart" timestamp="1541487216085">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/OSS/iosched/tv/src/main/java/com/google/samples/apps/iosched/tv/ui/search/SearchableViewModel.kt" timestamp="1540961937665">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="3" />
@@ -315,34 +319,34 @@
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8taW5saW5lOiRNT0NLSVRPX1ZFUlNJT04iCiAgdGVzdEltcGxlbWVudGF0aW9uICdjb20ubmhhYXJtYW46bW9ja2l0by1rb3RsaW46MS41LjAnCiAgdGVzdEltcGxlbWVudGF0aW9uICJvcmcubW9ja2l0bzptb2NraXRvLWFuZHJvaWQ6JE1PQ0tJVE9fVkVSU0lPTiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIGNhcnQgPSBDYXJ0UHJvdmlkZXIub2YoY29udGV4dCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLmp1bml0Lk1vY2tpdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDorIgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLmp1bml0Lk1vY2tpdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
+        <text encoding="base64">Ly8gIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDorIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYWxsOiRNT0NLSVRPX1ZFUlNJT04iCg==</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tYWxsOjEuOS41JyAK</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYWxsOiRNT0NLSVRPX1ZFUlNJT04iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB1bnJlZ2lzdGVyVmlld01vZGVsLgo=</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tYWxsOjEuOS41JyAK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -371,10 +375,10 @@
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Back</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
