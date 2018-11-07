@@ -14,7 +14,12 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/OSS/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" timestamp="1541558949436" />
+      <file name="$USER_HOME$/OSS/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" timestamp="1541569032237">
+        <mark key="[" line="380" column="16" />
+        <mark key="]" line="381" column="15" />
+        <mark key="." line="381" column="15" />
+        <mark key="^" line="381" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/remote/Image.kt" timestamp="1540980688595">
         <mark key="'" line="6" column="29" />
       </file>
@@ -36,7 +41,7 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyBetRepositoryTest.kt" timestamp="1541140290006">
         <mark key="'" line="104" column="39" />
       </file>
-      <file name="/LLDB" timestamp="1541557240843">
+      <file name="/LLDB" timestamp="1541567435246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/players/PlayersFragment.kt" timestamp="1541133592150">
@@ -65,8 +70,14 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1541557346508">
+      <file name="/fragment.kt" timestamp="1541567452318">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OSS/android-Camera2Basic/kotlinApp/build.gradle" timestamp="1541568518286">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Message.java" timestamp="1541413227419" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1541407492730">
@@ -188,7 +199,7 @@
         <mark key="." line="18" column="52" />
         <mark key="^" line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1541565019583">
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1541566392549">
         <mark key="'" line="73" column="46" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -200,10 +211,11 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/adapter/DummyRecyclerAdapter.kt" timestamp="1541138230843">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt" timestamp="1541558611548">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt" timestamp="1541568334420">
+        <mark key="[" line="129" column="10" />
+        <mark key="]" line="129" column="9" />
+        <mark key="." line="129" column="9" />
+        <mark key="^" line="129" column="9" />
       </file>
       <file name="$USER_HOME$/OSS/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/sessiondetail/SessionDetailViewModel.kt" timestamp="1540962610751">
         <mark key="[" line="263" column="8" />
@@ -336,7 +348,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>testImplementation</text>
+        <text>java.util.</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -345,34 +357,35 @@
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8taW5saW5lOiRNT0NLSVRPX1ZFUlNJT04iCiAgdGVzdEltcGxlbWVudGF0aW9uICdjb20ubmhhYXJtYW46bW9ja2l0by1rb3RsaW46MS41LjAnCiAgdGVzdEltcGxlbWVudGF0aW9uICJvcmcubW9ja2l0bzptb2NraXRvLWFuZHJvaWQ6JE1PQ0tJVE9fVkVSU0lPTiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGNhcnQgPSBDYXJ0UHJvdmlkZXIub2YoY29udGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpZXdTaXplID0gQ29sbGVjdGlvbnMubWluKAogICAgICAgICAgICAgICAgICAgIGphdmEudXRpbC5BcnJheXMuYXNMaXN0KCptYXAuZ2V0T3V0cHV0U2l6ZXMoSW1hZ2VGb3JtYXQuSlBFRykpLAogICAgICAgICAgICAgICAgICAgIENvbXBhcmVTaXplc0J5QXJlYSgpCiAgICAgICAgICAgICAgICApCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBwcmV2aWV3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLmp1bml0Lk1vY2tpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpZXdTaXplID0gY29tLnN1bi54bWwuaW50ZXJuYWwud3MucG9saWN5LnByaXZhdGV1dGlsLlBvbGljeVV0aWxzLkNvbGxlY3Rpb25zLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDorIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpZXdTaXplID0gU2l6ZSgxMjgsIDM2MCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
+      <register name="5" type="4">
+        <text>.filter {
+        }?</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Py5maWx0ZXIgewogICAgICAgICAgICBpdC53aWR0aCA8IHZpZXdXaWR0aCAvIDIgJiYgaXQuaGVpZ2h0IDwgdmlld0hlaWdodCAvIDIKICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokTU9DS0lUT19WRVJTSU9OIgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Py5maWx0ZXIgewogICAgICAgICAgICBpdC53aWR0aCA8IHZpZXdXaWR0aCAvIDIgJiYgaXQuaGVpZ2h0IDwgdmlld0hlaWdodCAvIDIKICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYWxsOiRNT0NLSVRPX1ZFUlNJT04iCg==</text>
+        <text encoding="base64">ICAgICAgICB9Py5maWx0ZXIgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tYWxsOjEuOS41JyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQud2lkdGggPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -394,17 +407,17 @@
         <entry>action FindInPath</entry>
         <entry>action CloseEditor</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Debug</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
