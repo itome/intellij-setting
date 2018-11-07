@@ -188,7 +188,7 @@
         <mark key="." line="18" column="52" />
         <mark key="^" line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1541559339742">
+      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1541565019583">
         <mark key="'" line="73" column="46" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -212,7 +212,7 @@
         <mark key="." line="263" column="7" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/FragmentTransaction.java" timestamp="1541406399664" />
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1541559133371" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1541565040493" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java" timestamp="1541149960273">
         <mark key="'" line="142" column="23" />
       </file>
@@ -372,7 +372,7 @@
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tYWxsOjEuOS41JyAK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -396,15 +396,15 @@
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
         <entry>action Debug</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
