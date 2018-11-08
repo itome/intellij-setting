@@ -104,12 +104,12 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.kt" timestamp="1541661940119">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.kt" timestamp="1541663771423">
         <mark key="'" line="105" column="0" />
-        <mark key="[" line="47" column="28" />
-        <mark key="]" line="47" column="46" />
-        <mark key="." line="47" column="46" />
-        <mark key="^" line="47" column="46" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="40" />
+        <mark key="^" line="43" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/ImageUtils.kt" timestamp="1541584531580">
         <mark key="[" line="8" column="30" />
@@ -395,34 +395,34 @@
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiZXRWaWV3TW9kZWwubWludXNVbml0Q291bnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYW5kbGVyLnJlbW92ZU1lc3NhZ2VzKFdIQVQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcmVjdDogUmVjdD8gPSBudWxsCiAgICAgICAgaWYgKGV2ZW50LmFjdGlvbiA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewogICAgICAgIH0KICAgICAgICBpZiAoZXZlbnQuYWN0aW9uID09IE1vdGlvbkV2ZW50LkFDVElPTl9NT1ZFKSB7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmVjdDogUmVjdD8gPSBudWxsCiAgICAgICAgaWYgKGV2ZW50LmFjdGlvbiA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewogICAgICAgIH0KICAgICAgICBpZiAoZXZlbnQuYWN0aW9uID09IE1vdGlvbkV2ZW50LkFDVElPTl9NT1ZFKSB7CiAgICAgICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlY3QgIT0gbnVsbCAmJiAhcmVjdC5jb250YWlucyh2LmxlZnQgKyBldmVudC54LnRvSW50KCksIHYudG9wICsgZXZlbnQueS50b0ludCgpKSkgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4gewogICAgICAgICAgICAgICAgcmVjdCA9IFJlY3Qodi5sZWZ0LCB2LnRvcCwgdi5yaWdodCwgdi5ib3R0b20pCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlY3QgIT0gbnVsbCAmJiAhcmVjdC5jb250YWlucyh2LmxlZnQgKyBldmVudC54LnRvSW50KCksIHYudG9wICsgZXZlbnQueS50b0ludCgpKSkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmFsdGUgdmFyIHZpZXdSZWN0OiBSZWN0PyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4gewogICAgICAgICAgICAgICAgcmVjdCA9IFJlY3Qodi5sZWZ0LCB2LnRvcCwgdi5yaWdodCwgdi5ib3R0b20pCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjdCA9IFJlY3Qodi5sZWZ0LCB2LnRvcCwgdi5yaWdodCwgdi5ib3R0b20pCg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmFsdGUgdmFyIHZpZXdSZWN0OiBSZWN0PyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuYWN0aW9uID09ICkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjdCA9IFJlY3Qodi5sZWZ0LCB2LnRvcCwgdi5yaWdodCwgdi5ib3R0b20pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlci5yZW1vdmVNZXNzYWdlcyhXSEFUKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuYWN0aW9uID09ICkgewogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlci5yZW1vdmVNZXNzYWdlcyhXSEFUKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -455,8 +455,8 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
