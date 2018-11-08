@@ -21,6 +21,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/internal/exceptions/stacktrace/ConditionalStackTraceFilter.java" timestamp="1541392103049">
         <mark key="'" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1541655630018" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/SignUpModule.kt" timestamp="1541054150430">
         <mark key="[" line="10" column="48" />
         <mark key="]" line="13" column="59" />
@@ -32,6 +33,11 @@
         <mark key="]" line="21" column="66" />
         <mark key="^" line="21" column="66" />
         <mark key="." line="21" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_point.xml" timestamp="1541659083641">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/ImageUtils.java" timestamp="1541584437002">
         <mark key="'" line="66" column="0" />
@@ -63,12 +69,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" timestamp="1541652971845">
-        <mark key="'" line="85" column="28" />
-        <mark key="[" line="178" column="23" />
-        <mark key="]" line="178" column="21" />
-        <mark key="." line="175" column="89" />
-        <mark key="^" line="178" column="21" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" timestamp="1541661103373">
+        <mark key="'" line="163" column="8" />
+        <mark key="[" line="183" column="74" />
+        <mark key="]" line="184" column="93" />
+        <mark key="." line="184" column="93" />
+        <mark key="^" line="184" column="93" />
       </file>
       <file name="/fragment.kt" timestamp="1541582125350">
         <mark key="[" line="0" column="0" />
@@ -82,6 +88,7 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Message.java" timestamp="1541660082164" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1541407492730">
         <mark key="[" line="232" column="71" />
         <mark key="]" line="232" column="70" />
@@ -97,12 +104,12 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.kt" timestamp="1541652833890">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="3" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.kt" timestamp="1541661940119">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="46" />
+        <mark key="." line="47" column="46" />
+        <mark key="^" line="47" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/ImageUtils.kt" timestamp="1541584531580">
         <mark key="[" line="8" column="30" />
@@ -143,6 +150,18 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/OnContinuousClickListener.kt" timestamp="1541656029721">
+        <mark key="[" line="11" column="51" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/ViewBindingAdapters.kt" timestamp="1541660881149">
+        <mark key="[" line="16" column="79" />
+        <mark key="]" line="16" column="98" />
+        <mark key="." line="16" column="98" />
+        <mark key="^" line="16" column="98" />
+      </file>
       <file name="$USER_HOME$/OSS/iosched/tv/src/main/java/com/google/samples/apps/iosched/tv/ui/search/SearchableViewModel.kt" timestamp="1540961937665">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="3" />
@@ -181,6 +200,13 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/remote/ImageTest.kt" timestamp="1541138306973">
         <mark key="'" line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ViewExt.kt" timestamp="1541660414015">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/OSS/iosched/shared/src/main/java/com/google/samples/apps/iosched/shared/data/session/SessionRepository.kt" timestamp="1540966852103">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -202,12 +228,21 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" timestamp="1541391878005">
         <mark key="'" line="2991" column="20" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/MotionEvent.java" timestamp="1541661434759" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/nio/Buffer.java" timestamp="1541583313472" />
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_bet.xml" timestamp="1541408821417">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="55" />
-        <mark key="." line="18" column="52" />
-        <mark key="^" line="18" column="52" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ContinuousClickListener.kt" timestamp="1541658236165">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="46" column="1" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_bet.xml" timestamp="1541660692603">
+        <mark key="'" line="112" column="48" />
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="74" />
+        <mark key="." line="28" column="74" />
+        <mark key="^" line="28" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" timestamp="1541049819709">
         <mark key="'" line="27" column="21" />
@@ -246,18 +281,11 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1541652302868">
+      <file name="/fragment.java" timestamp="1541656145810">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpViewModel.kt" />
-      <jump line="112" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupViewModel.kt" />
-      <jump line="0" column="47" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupViewModel.kt" />
-      <jump line="186" column="48" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/SingleLiveEvent.kt" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/SingleLiveEvent.kt" />
-      <jump line="44" column="2" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/SingleLiveEvent.kt" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/SingleLiveEvent.kt" />
       <jump line="76" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/SingleLiveEvent.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/SingleLiveEvent.kt" />
@@ -351,47 +379,53 @@
       <jump line="47" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.kt" />
       <jump line="50" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ContinuousClickListener.kt" />
+      <jump line="26" column="6" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_point.xml" />
+      <jump line="257" column="22" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_bet.xml" />
+      <jump line="48" column="35" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ViewExt.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ViewExt.kt" />
+      <jump line="112" column="48" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_bet.xml" />
+      <jump line="163" column="8" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ContinuousClickListener</text>
+        <text>removeCallbacks</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuS0lUS0FUKQo=</text>
+        <text encoding="base64">ICAgICAgICBiZXRWaWV3TW9kZWwubWludXNVbml0Q291bnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmVjdDogUmVjdD8gPSBudWxsCiAgICAgICAgaWYgKGV2ZW50LmFjdGlvbiA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewogICAgICAgIH0KICAgICAgICBpZiAoZXZlbnQuYWN0aW9uID09IE1vdGlvbkV2ZW50LkFDVElPTl9NT1ZFKSB7CiAgICAgICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQodGhpczo6IGNsYXNzLmphdmEuc2ltcGxlTmFtZSwgImNvbnRpbnVvdXMgY2xpY2siKSByZXR1cm5AQ29udGludW91c0NsaWNrTGlzdGVuZXIgZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlY3QgIT0gbnVsbCAmJiAhcmVjdC5jb250YWlucyh2LmxlZnQgKyBldmVudC54LnRvSW50KCksIHYudG9wICsgZXZlbnQueS50b0ludCgpKSkgewogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4gewogICAgICAgICAgICAgICAgcmVjdCA9IFJlY3Qodi5sZWZ0LCB2LnRvcCwgdi5yaWdodCwgdi5ib3R0b20pCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQodGhpczo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lLCAiY29udGludW91cyBjbGljayIpCiAgICAgICAgICAgIHJldHVybkBDb250aW51b3VzQ2xpY2tMaXN0ZW5lciBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmFsdGUgdmFyIHZpZXdSZWN0OiBSZWN0PyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBXSEFUID0gMjY0Nzc2MjU3CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjdCA9IFJlY3Qodi5sZWZ0LCB2LnRvcCwgdi5yaWdodCwgdi5ib3R0b20pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGJldC5zdXBlcmNob2ljZS51aS5jb21wb25lbnQuY2FsbGJhY2suc2V0T25Db250aW51b3VzQ2xpY2tMaXN0ZW5lcgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuYWN0aW9uID09ICkgewogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmJ1dHRvbkJldEFkZC5zZXRPbkNvbnRpbnVvdXNDbGlja0xpc3RlbmVyKDEwMCkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlci5yZW1vdmVNZXNzYWdlcyhXSEFUKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQodGhpczo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lLCAiY29udGludW91cyBjbGljayIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -405,25 +439,25 @@
       <history-search />
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>q</entry>
         <entry>action Switcher</entry>
-        <entry>action FindInPath</entry>
-        <entry>action Find</entry>
-        <entry>action CloseEditor</entry>
-        <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Back</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action RenameElement</entry>
+        <entry>action FindInPath</entry>
+        <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action CloseEditor</entry>
+        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
