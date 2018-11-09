@@ -132,7 +132,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="379" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1541755132130">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" timestamp="1541756202311">
+        <mark key="'" line="215" column="4" />
         <mark key="[" line="129" column="8" />
         <mark key="]" line="129" column="7" />
         <mark key="^" line="129" column="7" />
@@ -171,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
       <jump line="27" column="21" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ReactiveLiveDataExt.kt" />
       <jump line="66" column="20" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
       <jump line="272" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
@@ -271,6 +271,7 @@
       <jump line="31" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/RecyclerViewBindingAdapters.kt" />
       <jump line="459" column="47" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_event_detail.xml" />
       <jump line="461" column="11" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_event_detail.xml" />
+      <jump line="215" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -310,7 +311,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action CloseEditor</text>
       </register>
     </registers>
     <search>
@@ -337,12 +338,12 @@
         <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action CloseEditor</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action CloseEditor</entry>
       </history-cmd>
       <history-expr />
       <history-input />
