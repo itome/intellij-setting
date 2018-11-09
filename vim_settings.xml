@@ -56,8 +56,12 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_bet.xml" timestamp="1541731401880">
-        <mark key="'" line="136" column="8" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_bet.xml" timestamp="1541738682916">
+        <mark key="'" line="111" column="8" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="54" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="39" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetViewModel.kt" timestamp="1541726620034" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_about.xml" timestamp="1541735468247">
@@ -96,6 +100,12 @@
         <mark key="^" line="87" column="3" />
         <mark key="." line="87" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/ViewBindingAdapters.kt" timestamp="1541738492449">
+        <mark key="[" line="16" column="84" />
+        <mark key="]" line="16" column="84" />
+        <mark key="^" line="16" column="84" />
+        <mark key="." line="16" column="84" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/MainViewModel.kt" timestamp="1541665034804">
         <mark key="'" line="23" column="24" />
         <mark key="[" line="20" column="2" />
@@ -103,11 +113,11 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout-land/activity_bet.xml" timestamp="1541730999946">
-        <mark key="'" line="42" column="51" />
-        <mark key="[" line="379" column="3" />
-        <mark key="]" line="379" column="53" />
-        <mark key="." line="379" column="53" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout-land/activity_bet.xml" timestamp="1541738793076">
+        <mark key="'" line="117" column="9" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="54" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="379" column="53" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/library/3.1.0/942229d60196640d66cd7be35464c0ce17491dc5/library-3.1.0-sources.jar!/android/databinding/BaseObservable.java" timestamp="1541737777790" />
@@ -123,10 +133,6 @@
       <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/components/fragment/FeedFragment.java" timestamp="1541737157883" />
     </filemarks>
     <jumps>
-      <jump line="54" column="2" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/registration/signup/SignUpFragment.kt" />
-      <jump line="97" column="4" filename="$USER_HOME$/Projects/WinTicket/android/.idea/codeStyles/Project.xml" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/WinTicket/android/.idea/codeStyles/Project.xml" />
-      <jump line="54" column="15" filename="$USER_HOME$/Projects/WinTicket/android/.idea/codeStyles/Project.xml" />
       <jump line="420" column="24" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" />
       <jump line="438" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" />
       <jump line="287" column="32" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up_confirm.xml" />
@@ -223,6 +229,10 @@
       <jump line="460" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_event_detail.xml" />
       <jump line="125" column="8" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_bet.xml" />
       <jump line="154" column="0" filename="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/components/fragment/DailyHighlightFragment.java" />
+      <jump line="80" column="9" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout-land/activity_bet.xml" />
+      <jump line="111" column="8" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_bet.xml" />
+      <jump line="112" column="8" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout-land/activity_bet.xml" />
+      <jump line="117" column="9" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout-land/activity_bet.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -231,8 +241,8 @@
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
-      <register name="0" type="4">
-        <text>androidx.recyclerview.widget.LinearLayoutManager</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB4bWxuczpiaW5kPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBmaXggcG9wdXAgcG9zaXRpb24gb24gbGFuZHNjYXBlCg==</text>
@@ -262,7 +272,7 @@
         <text encoding="base64">ICAgICAgICAgIHRvb2xzOmlnbm9yZT0iTWlzc2luZ0NvbnN0cmFpbnRzIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
     </registers>
     <search>
@@ -285,16 +295,16 @@
         <entry>action GotoImplementation</entry>
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
-        <entry>action Run</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action CloseEditor</entry>
-        <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
