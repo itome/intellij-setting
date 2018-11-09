@@ -11,11 +11,6 @@
         <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1541655630018" />
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_point.xml" timestamp="1541659083641">
-        <mark key="'" line="26" column="6" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="54" />
-      </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/ImageUtils.java" timestamp="1541584437002">
         <mark key="'" line="66" column="0" />
       </file>
@@ -46,11 +41,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/stores/CommentStore.java" timestamp="1541669042529">
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="21" column="55" />
-        <mark key="^" line="21" column="55" />
-        <mark key="." line="21" column="55" />
+      <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/stores/CommentStore.java" timestamp="1541726923512">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="3" />
+        <mark key="^" line="47" column="3" />
+        <mark key="." line="47" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/components/fragment/CommentFragment.java" timestamp="1541667775901">
         <mark key="[" line="135" column="72" />
@@ -91,11 +86,7 @@
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/di/NetworkModule.kt" timestamp="1540981203183">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/Image.java" timestamp="1541580989835">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="20" />
-      </file>
+      <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/components/activity/CommentActivity.java" timestamp="1541726892643" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/build/generated/data_binding_base_class_source_out/developDebug/dataBindingGenBaseClassesDevelopDebug/out/bet/superchoice/databinding/LayoutEventDetailThemeChoiceFinishedBinding.java" timestamp="1541060378758">
         <mark key="'" line="33" column="60" />
       </file>
@@ -150,6 +141,7 @@
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" timestamp="1541574302960">
         <mark key="'" line="163" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetViewModel.kt" timestamp="1541726620034" />
       <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/db/DownloadDB.kt" timestamp="1541667095551" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java" timestamp="1541149960273">
         <mark key="'" line="142" column="23" />
@@ -295,7 +287,7 @@
         <text encoding="base64">ICAgIHZhbCBsaXN0ZW5lciA9IG9iamVjdCA6Q29udGludW91c0NsaWNrTGlzdGVuZXIoaW50ZXJ2YWwpIHsKICAgICAgICBvdmVycmlkZSBmdW4gb25DbGljayh2aWV3OiBWaWV3PykgewogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -319,15 +311,15 @@
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action CloseEditor</entry>
-        <entry>action Find</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
+        <entry>action CloseEditor</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
