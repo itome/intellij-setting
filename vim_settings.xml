@@ -67,6 +67,13 @@
         <mark key="." line="92" column="7" />
         <mark key="^" line="92" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseProcessorHolder.kt" timestamp="1541994529839">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="45" />
+      </file>
       <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/stores/CommentStore.java" timestamp="1541737945265">
         <mark key="[" line="28" column="2" />
         <mark key="]" line="28" column="1" />
@@ -109,6 +116,11 @@
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseAction.kt" timestamp="1541994134186">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/actions/CommentAction.java" timestamp="1541667885244">
         <mark key="[" line="87" column="4" />
         <mark key="]" line="87" column="3" />
@@ -139,14 +151,16 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseIntent.kt" timestamp="1541994184595">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" timestamp="1541989606435">
         <mark key="[" line="29" column="32" />
         <mark key="]" line="29" column="32" />
         <mark key="." line="29" column="32" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values/colors.xml" timestamp="1541989652187">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/MainViewModel.kt" timestamp="1541990905841">
         <mark key="'" line="23" column="24" />
@@ -202,6 +216,19 @@
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseState.kt" timestamp="1541994216923">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseViewModel.kt" timestamp="1541994692751">
+        <mark key="'" line="5" column="32" />
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="54" />
+        <mark key="^" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/adapter/CenteringItemDecoration.kt" timestamp="1541754212213">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -214,11 +241,14 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseResult.kt" timestamp="1541994203528">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
-      <jump line="225" column="16" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
-      <jump line="208" column="20" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
       <jump line="85" column="28" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/bet/BetActivity.kt" />
       <jump line="288" column="50" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up_confirm.xml" />
       <jump line="337" column="10" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up_confirm.xml" />
@@ -316,6 +346,9 @@
       <jump line="215" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventDetailActivity.kt" />
       <jump line="458" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_event_detail.xml" />
       <jump line="350" column="45" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_event_detail.xml" />
+      <jump line="10" column="4" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseViewModel.kt" />
+      <jump line="5" column="32" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseViewModel.kt" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseProcessorHolder.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -324,38 +357,38 @@
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
-      <register name="0" type="4">
-        <text>32251E</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW50ZXJmYWNlIE12aVZpZXdNb2RlbDxJIDogTXZpSW50ZW50LCBTIDogTXZpVmlld1N0YXRlPiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgPFMKICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9jb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwuYXBwYmFyLkFwcEJhckxheW91dD4K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTY3JvbGxWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIgogICAgICAgICAgICA+PC9TY3JvbGxWaWV3Pgo=</text>
+        <text encoding="base64">ICAgIGludGVyZmFjZSBNdmlWaWV3TW9kZWw8SSA6IE12aUludGVudCwgUyA6IE12aVZpZXdTdGF0ZT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICA8IS0tIEZyZW1vIEN1c3RvbSBDb2xvcnMgLS0+Cg==</text>
+        <text encoding="base64">ICAgIGludGVyZmFjZSBNdmlWaWV3TW9kZWw8SSA6IE12aUludGVudCwgUyA6IE12aVZpZXdTdGF0ZT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJmcmVtb19yZWQyIj4jQTk0OTMzPC9jb2xvcj4K</text>
+        <text encoding="base64">cGFja2FnZSBjb20uaXRvbWUuZ2l0aHVibXZpLm12aWJhc2UKCmltcG9ydCBpby5yZWFjdGl2ZXguT2JzZXJ2YWJsZQoKaW50ZXJmYWNlIE12aVZpZXdNb2RlbDxJIDogTXZpSW50ZW50LCBTIDogTXZpVmlld1N0YXRlPiB7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ3aGl0ZV9zbW9rZSI+I0Y1RjVGNTwvY29sb3I+Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uaXRvbWUuZ2l0aHVibXZpLm12aWJhc2UKCmltcG9ydCBpby5yZWFjdGl2ZXguT2JzZXJ2YWJsZQoKaW50ZXJmYWNlIE12aVZpZXdNb2RlbDxJIDogTXZpSW50ZW50LCBTIDogTXZpVmlld1N0YXRlPiB7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJmcmVtb193aGl0ZTIiPiNGNUY1RjU8L2NvbG9yPgo=</text>
+        <text encoding="base64">ICAgIGZ1biBwcm9jZXNzSW50ZW50cyhpbnRlbnRzOiBPYnNlcnZhYmxlPEk+KQoKICAgIGZ1biBzdGF0ZXMoKTogT2JzZXJ2YWJsZTxTPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJmcmVtb193aGl0ZSI+I0ZGRkZGRjwvY29sb3I+Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHsKfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJmcmVtb19ncmF5MyI+I0MzQzNDMzwvY29sb3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgPFMKICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -379,15 +412,15 @@
         <entry>action CloseEditor</entry>
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
