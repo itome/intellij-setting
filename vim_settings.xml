@@ -74,11 +74,11 @@
         <mark key="^" line="61" column="7" />
         <mark key="." line="61" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1542088014385">
-        <mark key="[" line="133" column="44" />
-        <mark key="]" line="134" column="33" />
-        <mark key="^" line="134" column="33" />
-        <mark key="." line="134" column="33" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1542091349891">
+        <mark key="[" line="132" column="17" />
+        <mark key="]" line="133" column="37" />
+        <mark key="^" line="133" column="37" />
+        <mark key="." line="133" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/vector_search_player.xml" timestamp="1542085021746">
         <mark key="'" line="34" column="0" />
@@ -131,11 +131,11 @@
         <mark key="." line="31" column="7" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_home.xml" timestamp="1542090034303">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="30" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="99" column="28" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_home.xml" timestamp="1542091360665">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_light_gray_rounded_corner_radius22.xml" timestamp="1542087740555">
         <mark key="[" line="0" column="0" />
@@ -410,7 +410,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">PC9jbGlwLXBhdGg+</text>
+        <text>search_player</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -446,7 +446,7 @@
         <text encoding="base64">ICAgIGFuZHJvaWQ6c3Ryb2tlV2lkdGg9IjIiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -465,7 +465,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action NextSplitter</entry>
@@ -473,12 +472,13 @@
         <entry>action ParameterInfo</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
