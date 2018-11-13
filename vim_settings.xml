@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/vector_search_race.xml" timestamp="1542098600676">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="1" />
-        <mark key="." line="23" column="1" />
-        <mark key="^" line="23" column="1" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+        <mark key="^" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/styles.xml" timestamp="1542099223479">
         <mark key="[" line="27" column="26" />
@@ -276,12 +276,12 @@
         <mark key="." line="23" column="83" />
         <mark key="^" line="23" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_conditions.xml" timestamp="1542099495072">
-        <mark key="'" line="350" column="0" />
-        <mark key="[" line="333" column="41" />
-        <mark key="]" line="333" column="41" />
-        <mark key="." line="333" column="41" />
-        <mark key="^" line="333" column="49" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_conditions.xml" timestamp="1542102408581">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="377" column="56" />
+        <mark key="]" line="378" column="16" />
+        <mark key="." line="378" column="16" />
+        <mark key="^" line="378" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/App.kt" timestamp="1542008356995">
         <mark key="[" line="15" column="5" />
@@ -345,8 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/event/EventThemeSection.kt" />
-      <jump line="142" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/ImageBindingAdaptersTest.kt" />
       <jump line="38" column="8" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/ImageBindingAdaptersTest.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ApiLevelKtTest.kt" />
@@ -445,10 +443,12 @@
       <jump line="279" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_sign_up.xml" />
       <jump line="350" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_conditions.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_primary_green_rounded_corner_radius22.xml" />
+      <jump line="280" column="33" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_conditions.xml" />
+      <jump line="26" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_conditions.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.Disabled</text>
+        <text encoding="base64">PC9TY3JvbGxWaWV3Pg==</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
@@ -457,34 +457,34 @@
         <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6c3RhdGVfZW5hYmxlZCI+ZmFsc2U8L2l0ZW0+CiAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmVuYWJsZWQiPmZhbHNlPC9pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6ZW5hYmxlZD0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0idHJ1ZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6ZW5hYmxlZD0iZmFsc2UiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICA8c3R5bGUgbmFtZT0iUHJpbWFyeUJ1dHRvbi5MaWdodCI+CiAgICA8aXRlbSBuYW1lPSJiYWNrIgogIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbQogICAgICAK</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAKICA8c3R5bGUgbmFtZT0iUHJpbWFyeUJ1dHRvbi5MaWdodCI+CiAgICA8aXRlbSBuYW1lPSJiYWNrIgogIDwvc3R5bGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVuYWJsZWQ9ImZhIgo=</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbQogICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVuYWJsZWQ9ImZhIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -506,17 +506,17 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action NextSplitter</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
         <entry>action CloseEditor</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
