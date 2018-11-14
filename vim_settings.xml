@@ -117,16 +117,9 @@
         <mark key="." line="187" column="69" />
         <mark key="^" line="187" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_design_mock.xml" timestamp="1542095861280">
-        <mark key="[" line="384" column="0" />
-        <mark key="]" line="399" column="10" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1542182285680">
         <mark key="'" line="133" column="24" />
         <mark key="[" line="163" column="57" />
-        <mark key="]" line="164" column="57" />
-        <mark key="^" line="164" column="57" />
-        <mark key="." line="164" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_primary_green_light_rounded_corner_radius22.xml" timestamp="1542099059232">
         <mark key="[" line="14" column="39" />
@@ -185,10 +178,6 @@
         <mark key="]" line="6" column="76" />
         <mark key="^" line="6" column="76" />
         <mark key="." line="6" column="76" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/venue/model/VenueScheduleHeaderModel.kt" timestamp="1542171760768">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="36" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/stores/CommentStore.java" timestamp="1541737945265">
         <mark key="[" line="28" column="2" />
@@ -253,10 +242,6 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_light_gray_rounded_corner_radius22.xml" timestamp="1542087740555">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_race_conditions.xml" timestamp="1542175870840">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -297,16 +282,12 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/fragment_my_page.xml" timestamp="1542078020479">
         <mark key="'" line="270" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultFragment.kt" timestamp="1542180718741">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultFragment.kt" timestamp="1542187515715">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_background_white.xml" timestamp="1542087834084">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/actions/CommentAction.java" timestamp="1541667885244">
         <mark key="[" line="87" column="4" />
@@ -422,7 +403,7 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/SearchHomeFragment.kt" timestamp="1542093196180">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/SearchHomeFragment.kt" timestamp="1542186620659">
         <mark key="[" line="25" column="54" />
         <mark key="]" line="26" column="89" />
         <mark key="." line="26" column="89" />
@@ -642,7 +623,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -664,7 +645,6 @@
         <entry>action NextSplitter</entry>
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
@@ -672,9 +652,10 @@
         <entry>action CloseEditor</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
