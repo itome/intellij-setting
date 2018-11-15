@@ -669,7 +669,7 @@
         <text encoding="base64">ICAgIAogICAgQFRlc3QKICAgIGZ1biBmZXRjaEZhdm9yaXRlUHJvY2Vzc29yVGVzdF9GYWlsdXJlKCkgewogICAgICAgIE9ic2VydmFibGUuanVzdChGYXZvcml0ZUFjdGlvbi5GZXRjaEZhdm9yaXRlQWN0aW9uKQogICAgICAgICAgICAuY29tcG9zZShwcm9jZXNzb3JIb2xkZXIuYWN0aW9uUHJvY2Vzc29yKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -694,14 +694,14 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
-        <entry>action Run</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action CloseEditor</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
