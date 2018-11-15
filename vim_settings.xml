@@ -21,11 +21,10 @@
         <mark key="^" line="27" column="31" />
         <mark key="." line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/MainActivity.kt" timestamp="1542269917367">
-        <mark key="[" line="20" column="89" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="21" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/MainActivity.kt" timestamp="1542281676187">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/values/strings.xml" timestamp="1541997703812">
         <mark key="[" line="25" column="45" />
@@ -173,7 +172,7 @@
         <mark key="^" line="53" column="55" />
         <mark key="." line="53" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolder.kt" timestamp="1542268165233">
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolder.kt" timestamp="1542283252673">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="43" />
         <mark key="." line="10" column="43" />
@@ -364,6 +363,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.3/5c1c1f28ad4157b9f169417fa6ac883880b771c3/rxjava-2.2.3-sources.jar!/io/reactivex/observers/BaseTestConsumer.java" timestamp="1542282281043" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/values/colors.xml" timestamp="1541990519790">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -388,11 +388,12 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/test/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolderTest.kt" timestamp="1542277951291">
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="37" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/test/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolderTest.kt" timestamp="1542283577289">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="61" column="86" />
+        <mark key="]" line="61" column="85" />
+        <mark key="." line="61" column="85" />
+        <mark key="^" line="61" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/java/jp/co/cyberagent/winticket/core/data/proto/KeirinProto.java" timestamp="1542183610146">
         <mark key="[" line="4840" column="8" />
@@ -425,9 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.kt" />
-      <jump line="47" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.kt" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ContinuousClickListener.kt" />
       <jump line="26" column="6" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_point.xml" />
@@ -525,48 +523,49 @@
       <jump line="33" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-test/1.0.1/3a223537ebd90e540cb904b91dc4d472e3c5329a/koin-test-1.0.1-sources.jar!/org/koin/test/KoinTest.kt" />
       <jump line="124" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-core/1.0.1/86b9fde2424128f070b2bad9c705f53430f8a914/koin-core-1.0.1-sources.jar!/org/koin/standalone/KoinComponent.kt" />
       <jump line="628" column="14" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/Intent.java" />
+      <jump line="34" column="41" filename="$USER_HOME$/Projects/fremo-android/app/src/test/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolderTest.kt" />
+      <jump line="35" column="24" filename="$USER_HOME$/Projects/fremo-android/app/src/test/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolderTest.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/test/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolderTest.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IHsgIH0=</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgSW1tZWRpYXRlU2NoZWR1bGVyUHJvdmlkZXIgOiBTY2hlZHVsZXJQcm92aWRlciB7CiAgICBvdmVycmlkZSBmdW4gdWkoKTogU2NoZWR1bGVyID0gU2NoZWR1bGVycy50cmFtcG9saW5lKCkKCiAgICBvdmVycmlkZSBmdW4gaW8oKTogU2NoZWR1bGVyID0gU2NoZWR1bGVycy50cmFtcG9saW5lKCkKfQo=</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLmp1c3QoRmF2b3JpdGVBY3Rpb24uRmV0Y2hGYXZvcml0ZUFjdGlvbikKICAgICAgICAgICAgLmNvbXBvc2UocHJvY2Vzc29ySG9sZGVyLmFjdGlvblByb2Nlc3NvcikKICAgICAgICAgICAgLnRlc3QoKQogICAgICAgICAgICAuYXNzZXJ0VmFsdWVBdCgwLCBGZXRjaEZhdm9yaXRlUmVzdWx0LkxvYWRpbmcpCiAgICAgICAgICAgIC5hc3NlcnRWYWx1ZUF0KDEsIEZldGNoRmF2b3JpdGVSZXN1bHQuU3VjY2VzcyhTdWNjZXNzRmF2b3JpdGVSZXBvc2l0b3J5Lk1PQ0tfUFJPRFVDVFMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlbnQK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzb3JIb2xkZXIuYWN0aW9uUHJvY2Vzc29yLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFzc2VydEVycm9yKEV4Y2VwdGlvbjo6Y2xhc3MuamF2YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5TY2hlZHVsZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFzc2VydFZhbHVlQXQoMSwgRmV0Y2hGYXZvcml0ZVJlc3VsdC5TdWNjZXNzKFN1Y2Nlc3NGYXZvcml0ZVJlcG9zaXRvcnkuTU9DS19QUk9EVUNUUykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5zY2hlZHVsZXJzLlNjaGVkdWxlcnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFzc2VydFZhbHVlQXQoMCwgRmV0Y2hGYXZvcml0ZVJlc3VsdC5Mb2FkaW5nKQogICAgICAgICAgICAuYXNzZXJ0VmFsdWVBdCgxLCBGZXRjaEZhdm9yaXRlUmVzdWx0LlN1Y2Nlc3MoU3VjY2Vzc0Zhdm9yaXRlUmVwb3NpdG9yeS5NT0NLX1BST0RVQ1RTKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIGZ1biBiZWZvcmUoKSB7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAQWZ0ZXIKICAgIGZ1biBhZnRlcigpIHsKICAgICAgICBzdG9wCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEtvaW4obGlzdE9mKG1vZHVsZSB7CiAgICAgICAgICAgIHNpbmdsZSB7IFN1Y2Nlc3NGYXZvcml0ZVJlcG9zaXRvcnkoKSB9IGJpbmQgRmF2b3JpdGU6OmNsYXNzCiAgICAgICAgICAgIHNpbmdsZSB7IEltbWVkaWF0ZVNjaGVkdWxlclByb3ZpZGVyKCkgfSBiaW5kIFNjaGVkdWxlclByb3ZpZGVyOjpjbGFzcwogICAgICAgICAgICBzaW5nbGUgeyBGYXZvcml0ZVByb2Nlc3NvckhvbGRlcihnZXQoKSwgZ2V0KCkpIH0KICAgICAgICB9KSkK</text>
       </register>
-      <register name="8" type="4">
-        <text>module { 
-            single {  }
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBjbGFzcyBUZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNsYXJlKG1vZHVsZSB7ICB9KQo=</text>
+        <text encoding="base64">ICAgIAogICAgQFRlc3QKICAgIGZ1biBmZXRjaEZhdm9yaXRlUHJvY2Vzc29yVGVzdF9GYWlsdXJlKCkgewogICAgICAgIE9ic2VydmFibGUuanVzdChGYXZvcml0ZUFjdGlvbi5GZXRjaEZhdm9yaXRlQWN0aW9uKQogICAgICAgICAgICAuY29tcG9zZShwcm9jZXNzb3JIb2xkZXIuYWN0aW9uUHJvY2Vzc29yKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
     </registers>
     <search>
@@ -589,16 +588,16 @@
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
-        <entry>action GotoAction</entry>
-        <entry>action RenameElement</entry>
         <entry>action Run</entry>
-        <entry>action Back</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
