@@ -565,7 +565,7 @@
         <text encoding="base64">ICAgICAgICBkZWNsYXJlKG1vZHVsZSB7ICB9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -592,12 +592,12 @@
         <entry>action RenameElement</entry>
         <entry>action Run</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
