@@ -63,11 +63,11 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1542604839557">
-        <mark key="[" line="186" column="30" />
-        <mark key="]" line="186" column="39" />
-        <mark key="." line="186" column="49" />
-        <mark key="^" line="186" column="49" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1542681725996">
+        <mark key="[" line="160" column="17" />
+        <mark key="]" line="160" column="38" />
+        <mark key="." line="160" column="38" />
+        <mark key="^" line="160" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerResultModel.kt" timestamp="1542612788193">
         <mark key="'" line="0" column="0" />
@@ -89,6 +89,11 @@
         <mark key="]" line="2" column="22" />
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerSortHeaderModel.kt" timestamp="1542681330218">
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/SearchPlayerModule.kt" timestamp="1542618403596">
         <mark key="[" line="10" column="72" />
@@ -180,15 +185,15 @@
         <mark key="^" line="44" column="82" />
         <mark key="." line="44" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultController.kt" timestamp="1542612336846">
-        <mark key="'" line="37" column="42" />
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="43" />
-        <mark key="." line="38" column="43" />
-        <mark key="^" line="38" column="43" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultController.kt" timestamp="1542682436059">
+        <mark key="'" line="48" column="42" />
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerResultHeaderModel.kt" timestamp="1542611272443">
-        <mark key="[" line="40" column="59" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerResultHeaderModel.kt" timestamp="1542681307087">
+        <mark key="[" line="15" column="33" />
         <mark key="]" line="40" column="74" />
         <mark key="^" line="40" column="74" />
         <mark key="." line="40" column="74" />
@@ -276,13 +281,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ViewModelModule.kt" timestamp="1542618921036">
-        <mark key="'" line="52" column="2" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="72" column="9" />
-        <mark key="." line="72" column="9" />
-        <mark key="^" line="72" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/playground/PlaygroundFragment.kt" timestamp="1542371172110">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="37" column="78" />
@@ -325,13 +323,6 @@
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendProcessorHolder.kt" timestamp="1542268146360">
-        <mark key="'" line="10" column="29" />
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseResult.kt" timestamp="1541994203528">
         <mark key="[" line="2" column="0" />
@@ -414,6 +405,7 @@
         <mark key="^" line="380" column="114" />
         <mark key="." line="380" column="114" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchEmptyModel.kt" timestamp="1542679126543" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_primary_green_light_rounded_corner_radius22.xml" timestamp="1542099059232">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="42" />
@@ -433,8 +425,8 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_search_player_result.xml" timestamp="1542612164193">
-        <mark key="'" line="232" column="77" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_search_player_result.xml" timestamp="1542681208143">
+        <mark key="'" line="119" column="36" />
         <mark key="[" line="229" column="22" />
         <mark key="]" line="229" column="22" />
         <mark key="." line="229" column="29" />
@@ -446,7 +438,7 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="/fragment.kt" timestamp="1542624534426">
+      <file name="/fragment.kt" timestamp="1542680154614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/RecyclerViewBindingAdapters.kt" timestamp="1542592695607">
@@ -456,12 +448,12 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" timestamp="1542625135676">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="113" column="72" />
-        <mark key="]" line="113" column="71" />
-        <mark key="." line="113" column="71" />
-        <mark key="^" line="113" column="71" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" timestamp="1542679948036">
+        <mark key="'" line="111" column="35" />
+        <mark key="[" line="108" column="8" />
+        <mark key="]" line="108" column="8" />
+        <mark key="." line="108" column="8" />
+        <mark key="^" line="108" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/di/RepositoryModule.kt" timestamp="1542622830297">
         <mark key="[" line="15" column="50" />
@@ -621,7 +613,7 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542596033887">
+      <file name="/Dummy.txt" timestamp="1542678227334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerConditionsFragment.kt" timestamp="1542624325783">
@@ -630,6 +622,12 @@
         <mark key="]" line="56" column="87" />
         <mark key="." line="56" column="0" />
         <mark key="^" line="53" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerHeaderModel.kt" timestamp="1542682058088">
+        <mark key="[" line="21" column="84" />
+        <mark key="]" line="22" column="83" />
+        <mark key="." line="22" column="83" />
+        <mark key="^" line="22" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/repository/Recommend.kt" timestamp="1542268091296">
         <mark key="[" line="6" column="78" />
@@ -677,6 +675,12 @@
         <mark key="^" line="26" column="94" />
         <mark key="." line="17" column="121" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_search_empty.xml" timestamp="1542678734886">
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/top/TopState.kt" timestamp="1541995741427">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="34" />
@@ -709,8 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_home.xml" />
-      <jump line="218" column="10" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_conditions.xml" />
       <jump line="133" column="24" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" />
       <jump line="9" column="42" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerConditionsFragment.kt" />
       <jump line="13" column="45" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/venue/VenueScheduleController.kt" />
@@ -809,43 +811,45 @@
       <jump line="118" column="8" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" />
       <jump line="144" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" />
+      <jump line="111" column="35" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" />
+      <jump line="119" column="36" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_search_player_result.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>onStart</text>
+        <text>ui.component.adapter.DataBindingModel</text>
       </register>
       <register name="/" type="4">
         <text>firebase-messaging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBrZWlyaW5SZXBvOiBLZWlyaW4K</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNvLmN5YmVyYWdlbnQud2ludGlja2V0Lm1vYmlsZS51aS5jb21wb25lbnQuYWRhcHRlci5EYXRhQmluZGluZ01vZGVsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICBAQXV0b01vZGVsCiAgbGF0ZWluaXQgdmFyIHNlYXJjaFBsYXllckhlYWRlcjogU2VhcmNoUGxheWVySGVhZGVyTW9kZWxfCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBsYXRlaW5pdCB2YXIgc2VhcmNoUGxheWVySGVhZGVyOiBTZWFyY2hQbGF5ZXJIZWFkZXJNb2RlbF8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgc3VwZXIub25SZXN1bWUoKQo=</text>
+        <text encoding="base64">ICAgIAogICAgc2VhcmNoUGxheWVySGVhZGVyIHsgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uUmVzdW1lKCkgewogICAgc3VwZXIub25SZXN1bWUoKQogICAgc2VhcmNoUGxheWVyVmlld01vZGVsLmdldFNlYXJjaFBsYXllclJlc3BvbnNlKCkKICB9Cg==</text>
+        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9InNlYXJjaF9uYW1lIj7msI/lkI08L3N0cmluZz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uUmVzdW1lKCkgewogICAgc3VwZXIub25SZXN1bWUoKQogICAgc2VhcmNoUGxheWVyVmlld01vZGVsLmdldFNlYXJjaFBsYXllclJlc3BvbnNlKCkKICB9Cg==</text>
+        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9InNlYXJjaF9wbGF5ZXJfbmFtZV9lbXB0eSI+6YG45omL5ZCNPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KCkgewogICAgc3VwZXIub25TdGFydCgpCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcudGV4dFNlYXJjaFBsYXllclJhY2VQb2ludCA9IGNvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLm9uUmVzdW1lKCkK</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgUHJvZmlsZU5vdGhpbmdNb2RlbCA6IEVwb3h5TW9kZWxXaXRoSG9sZGVyPFByb2ZpbGVOb3RoaW5nTW9kZWwuSG9sZGVyPigpLCBOb0RpdmlkZXIgewogIGNsYXNzIEhvbGRlciA6IEVwb3h5SG9sZGVyKCkgewogICAgb3ZlcnJpZGUgZnVuIGJpbmRWaWV3KGl0ZW1WaWV3OiBWaWV3KSB7CiAgICAgIC8vIG5vLW9wCiAgICB9CiAgfQp9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBzZWFyY2hQbGF5ZXJWaWV3TW9kZWwuZ2V0U2VhcmNoUGxheWVyUmVzcG9uc2UoKQo=</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgU2VhcmNoRW1wdHlNb2RlbCA6IERhdGFCaW5kaW5nTW9kZWw8TW9kZWxTZWFyY2hFbXB0eUJpbmRpbmc+KCkgewogIG92ZXJyaWRlIGZ1biBiaW5kKGJpbmRpbmc6IE1vZGVsU2VhcmNoRW1wdHlCaW5kaW5nKSB7IH0KCiAgb3ZlcnJpZGUgZnVuIHVuYmluZChiaW5kaW5nOiBNb2RlbFNlYXJjaEVtcHR5QmluZGluZykgeyB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -861,25 +865,25 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action Find</entry>
         <entry>action GoToLastTab</entry>
-        <entry>action Switcher</entry>
         <entry>action Debug</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action RenameElement</entry>
-        <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action CloseEditor</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action FindInPath</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Switcher</entry>
+        <entry>action Back</entry>
+        <entry>action Find</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
+        <entry>action SaveAll</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
