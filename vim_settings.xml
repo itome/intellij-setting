@@ -66,12 +66,12 @@
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerResultModel.kt" timestamp="1542698127712">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerResultModel.kt" timestamp="1542777901890">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="27" />
-        <mark key="." line="21" column="27" />
-        <mark key="^" line="21" column="27" />
+        <mark key="[" line="19" column="59" />
+        <mark key="]" line="19" column="58" />
+        <mark key="." line="19" column="58" />
+        <mark key="^" line="19" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/venue/VenueListViewModel.kt" timestamp="1542346396927">
         <mark key="[" line="62" column="0" />
@@ -933,7 +933,7 @@
         <text encoding="base64">ICAgICAgICBzaWduVQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -959,13 +959,13 @@
         <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Switcher</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
