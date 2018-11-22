@@ -290,6 +290,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-core/1.0.1/86b9fde2424128f070b2bad9c705f53430f8a914/koin-core-1.0.1-sources.jar!/org/koin/standalone/KoinComponent.kt" timestamp="1542267136633">
         <mark key="'" line="124" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/fragment_my_page.xml" timestamp="1542861622347">
+        <mark key="'" line="54" column="6" />
+      </file>
       <file name="$USER_HOME$/Downloads/abema-android/abema/src/main/java/tv/abema/actions/CommentAction.java" timestamp="1541667885244">
         <mark key="[" line="87" column="4" />
         <mark key="]" line="87" column="3" />
@@ -499,8 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/callback/ContinuousClickListener.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ContinuousClickListener.kt" />
       <jump line="26" column="6" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_point.xml" />
       <jump line="257" column="22" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/activity_bet.xml" />
       <jump line="48" column="35" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/ViewExt.kt" />
@@ -599,6 +600,8 @@
       <jump line="34" column="41" filename="$USER_HOME$/Projects/fremo-android/app/src/test/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolderTest.kt" />
       <jump line="35" column="24" filename="$USER_HOME$/Projects/fremo-android/app/src/test/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolderTest.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/test/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolderTest.kt" />
+      <jump line="31" column="14" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/fragment_my_page.xml" />
+      <jump line="54" column="6" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/main/res/layout/fragment_my_page.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -638,7 +641,7 @@
         <text encoding="base64">ICAgIAogICAgQFRlc3QKICAgIGZ1biBmZXRjaEZhdm9yaXRlUHJvY2Vzc29yVGVzdF9GYWlsdXJlKCkgewogICAgICAgIE9ic2VydmFibGUuanVzdChGYXZvcml0ZUFjdGlvbi5GZXRjaEZhdm9yaXRlQWN0aW9uKQogICAgICAgICAgICAuY29tcG9zZShwcm9jZXNzb3JIb2xkZXIuYWN0aW9uUHJvY2Vzc29yKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -667,10 +670,10 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action CloseEditor</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
