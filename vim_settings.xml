@@ -12,6 +12,7 @@
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerConditionsFragment.kt" timestamp="1543199814488">
         <mark key="'" line="50" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/util/ext/TryExt.kt" timestamp="1543206796410" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultController.kt" timestamp="1543204616850">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -23,54 +24,67 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" timestamp="1543205650346">
-        <mark key="[" line="102" column="66" />
-        <mark key="]" line="102" column="65" />
-        <mark key="." line="102" column="65" />
-        <mark key="^" line="102" column="65" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" timestamp="1543208074842">
+        <mark key="'" line="119" column="37" />
+        <mark key="[" line="119" column="35" />
+        <mark key="]" line="119" column="40" />
+        <mark key="." line="119" column="40" />
+        <mark key="^" line="119" column="40" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.0.0/c158207594782b42f3a2e08a5a029eb3319e4404/lifecycle-livedata-core-2.0.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1543207826929" />
     </filemarks>
     <jumps>
       <jump line="133" column="12" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerConditionsFragment.kt" />
       <jump line="50" column="34" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerConditionsFragment.kt" />
       <jump line="64" column="2" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultFragment.kt" />
+      <jump line="76" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" />
+      <jump line="118" column="37" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcodGhpczo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lKS5kKCJvblNvcnRUeXBlU2VsZWN0ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmVzZXQgdmFsdWUgdG8gYXBwbHkgc29ydCB0eXBlLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2V0U2VsZWN0aW9uKFNlYXJjaFBsYXllclZpZXdNb2RlbC5Tb3J0T3B0aW9uLnZhbHVlcygpLmluZGV4T2Yoc29ydE9wdGlvbikpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2V0U2VsZWN0aW9uKFNlYXJjaFBsYXllclZpZXdNb2RlbC5Tb3J0VHlwZS52YWx1ZXMoKS5pbmRleE9mKHNvcnRUeXBlKSkK</text>
+      <register name="2" type="4">
+        <text>= null
+    set(value) {
+      field = value
+      _searchConditionsEmpty.postValue(isConditionsEmpty())
+    }
+  var sortType: SortType = SortType.RACE_POINT
+    set(value) {
+      field = value
+      _searchPlayerResponse.postalue(_searchPlayerResponse.value)
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgQEVwb3h5QXR0cmlidXRlCiAgbGF0ZWluaXQgdmFyIHNvcnRUeXBlOiBTZWFyY2hQbGF5ZXJWaWV3TW9kZWwuU29ydFR5cGUKCiAgQEVwb3h5QXR0cmlidXRlCiAgbGF0ZWluaXQgdmFyIHNvcnRPcHRpb246IFNlYXJjaFBsYXllclZpZXdNb2RlbC5Tb3J0T3B0aW9uCg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNvLmN5YmVyYWdlbnQud2ludGlja2V0LmNvcmUudXRpbC5leHQuaWZTdWNjZXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQEVwb3h5QXR0cmlidXRlCiAgbGF0ZWluaXQgdmFyIHNvcnRUeXBlOiBTZWFyY2hQbGF5ZXJWaWV3TW9kZWwuU29ydFR5cGUKCiAgQEVwb3h5QXR0cmlidXRlCiAgbGF0ZWluaXQgdmFyIHNvcnRPcHRpb246IFNlYXJjaFBsYXllclZpZXdNb2RlbC5Tb3J0T3B0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgZ2V0U2VhcmNoUGxheWVyUmVzcG9uc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnNvcnRUeXBlKHNvcnRUeXBlKQogICAgICAuc29ydE9wdGlvbihzb3J0T3B0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgX3NlYXJjaFBsYXllclJlc3BvbnNlLnZhbHVlPy5pZlN1Y2Nlc3MgeyBwcmV2aW91c1Jlc3BvbnNlIC0+CiAgICAgICAgX3NlYXJjaFBsYXllclJlc3BvbnNlLnBvc3RWYWx1ZShUcnkuanVzdChwcmV2aW91c1Jlc3BvbnNlLmNvcHkoCiAgICAgICAgICBwbGF5ZXJzID0gcHJldmlvdXNSZXNwb25zZS5wbGF5ZXJzLnNvcnRlZFdpdGgoU29ydFBsYXllckNvbXBhcmF0b3IodmFsdWUsIHNvcnRPcHRpb24pKQogICAgICAgICkpKQogICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhciBzb3J0VHlwZTogU2VhcmNoUGxheWVyVmlld01vZGVsLlNvcnRUeXBlID0gU2VhcmNoUGxheWVyVmlld01vZGVsLlNvcnRUeXBlLlJBQ0VfUE9JTlQKICBwcml2YXRlIHZhciBzb3J0T3B0aW9uOiBTZWFyY2hQbGF5ZXJWaWV3TW9kZWwuU29ydE9wdGlvbiA9IFNlYXJjaFBsYXllclZpZXdNb2RlbC5Tb3J0T3B0aW9uLkFTQ0VORElORwo=</text>
+        <text encoding="base64">ICAgIGdldCgpID0gVHJhbnNmb3JtYXRpb25zLm1hcChfc2VhcmNoUGxheWVyUmVzcG9uc2UpIHsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZnVuIHVwZGF0ZVNvcnRUeXBlKHR5cGU6IFNlYXJjaFBsYXllclZpZXdNb2RlbC5Tb3J0VHlwZSkgewogICAgdGhpcy5zb3J0VHlwZSA9IHR5cGUKICAgIHJlcXVlc3RNb2RlbEJ1aWxkKCkKICB9CgogIGZ1biB1cGRhdGVTb3J0T3B0aW9uKG9wdGlvbjogU2VhcmNoUGxheWVyVmlld01vZGVsLlNvcnRPcHRpb24pIHsKICAgIHRoaXMuc29ydE9wdGlvbiA9IG9wdGlvbgogICAgcmVxdWVzdE1vZGVsQnVpbGQoKQogIH0K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuQG1hcCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXIudXBkYXRlU29ydE9wdGlvbihvcHRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgaXQuaWZTdWNjZXNzIHsgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXIudXBkYXRlU29ydE9wdGlvbihvcHRpb24pCg==</text>
+        <text encoding="base64">ICAgIF9zZWFyY2hQbGF5ZXJSZXNwb25zZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>type</text>
       </register>
     </registers>
     <search>
@@ -82,12 +96,15 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action Find</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
