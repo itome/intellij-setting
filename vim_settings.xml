@@ -61,7 +61,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerSortHeaderModel.kt" timestamp="1543309543181">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerSortHeaderModel.kt" timestamp="1543311985430">
         <mark key="'" line="45" column="68" />
         <mark key="[" line="23" column="46" />
         <mark key="]" line="23" column="51" />
@@ -231,7 +231,7 @@
         <text encoding="base64">ICAgIAogICAgc2VhcmNoUGxheWVyUmVzcG9uc2UucGxheWVycy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -247,7 +247,6 @@
         <entry>action Inline</entry>
         <entry>action Debug</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action ParameterInfo</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
@@ -261,6 +260,7 @@
         <entry>action Run</entry>
         <entry>action FindInPath</entry>
         <entry>action CloseEditor</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
