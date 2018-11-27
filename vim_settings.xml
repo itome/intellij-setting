@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultController.kt" timestamp="1543306729337">
-        <mark key="'" line="22" column="2" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultController.kt" timestamp="1543309432035">
+        <mark key="'" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/layout/simple_spinner_item.xml" timestamp="1543221990239">
         <mark key="'" line="0" column="0" />
@@ -28,6 +25,12 @@
         <mark key="]" line="15" column="48" />
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/adapter/DataBindingModel.kt" timestamp="1543309301290">
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="6" />
+        <mark key="^" line="33" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/deeplink/DeepLinkUri.java" timestamp="1543217182922" />
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/di/NetworkModule.kt" timestamp="1543296592630">
@@ -58,12 +61,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerSortHeaderModel.kt" timestamp="1543305930761">
-        <mark key="'" line="51" column="68" />
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="86" />
-        <mark key="." line="39" column="6" />
-        <mark key="^" line="39" column="5" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerSortHeaderModel.kt" timestamp="1543309543181">
+        <mark key="'" line="45" column="68" />
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="23" column="51" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1543297822924">
         <mark key="[" line="0" column="0" />
@@ -102,6 +105,9 @@
         <mark key="]" line="13" column="33" />
         <mark key="^" line="13" column="33" />
         <mark key="." line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.0.0/9c6c7c8bbd467de0f9ac6fc30bf3c28f2afeed49/epoxy-3.0.0-sources.jar!/com/airbnb/epoxy/EpoxyModelWithHolder.java" timestamp="1543309267618">
+        <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_search_player_header.xml" timestamp="1543220260467">
         <mark key="'" line="193" column="12" />
@@ -190,43 +196,45 @@
       <jump line="76" column="1" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultController.kt" />
       <jump line="22" column="2" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultController.kt" />
       <jump line="78" column="25" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/annotation/Target.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultController.kt" />
+      <jump line="78" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.0.0/9c6c7c8bbd467de0f9ac6fc30bf3c28f2afeed49/epoxy-3.0.0-sources.jar!/com/airbnb/epoxy/EpoxyModelWithHolder.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJpcHBsZSB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3JpcHBsZV9kYXJrIgogID4KICA8aXRlbSBhbmRyb2lkOmlkPSJAYW5kcm9pZDppZC9tYXNrIj4KICAgIDxzaGFwZSBhbmRyb2lkOnNoYXBlPSJyZWN0YW5nbGUiPgogICAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3doaXRlIi8+CiAgICAgIDxjb3JuZXJzIGFuZHJvaWQ6cmFkaXVzPSIyMmRwIi8+CiAgICA8L3NoYXBlPgogIDwvaXRlbT4KICA8aXRlbT4KICAgIDxsYXllci1saXN0PgogICAgICA8aXRlbT4KICAgICAgICA8c2hhcGUgYW5kcm9pZDpzaGFwZT0icmVjdGFuZ2xlIj4KICAgICAgICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivd2hpdGUiLz4KICAgICAgICAgIDxjb3JuZXJzIGFuZHJvaWQ6cmFkaXVzPSIyMmRwIi8+CiAgICAgICAgPC9zaGFwZT4KICAgICAgPC9pdGVtPgogICAgICA8aXRlbQogICAgICAgIGFuZHJvaWQ6Ym90dG9tPSIxMGRwIgogICAgICAgIGFuZHJvaWQ6cmlnaHQ9IjE2ZHAiCiAgICAgICAgYW5kcm9pZDp0b3A9IjEwZHAiCiAgICAgICAgPgogICAgICAgIDxiaXRtYXAKICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0icmlnaHR8Y2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19wdXNoX2Rvd24iCiAgICAgICAgICAvPgogICAgICA8L2l0ZW0+CiAgICA8L2xheWVyLWxpc3Q+CiAgPC9pdGVtPgo8L3JpcHBsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgc2VhcmNoUGxheWVyUmVzcG9uc2UucGxheWVycy4K</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5zaG91bGRTYXZlVmlld1N0YXRlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBARXBveHlBdHRyaWJ1dGUKICBsYXRlaW5pdCB2YXIgc29ydFR5cGU6IFNvcnRUeXBlCgogIEBFcG94eUF0dHJpYnV0ZQogIGxhdGVpbml0IHZhciBzb3J0T3B0aW9uOiBTb3J0T3B0aW9uCgo=</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIHNob3VsZFNhdmVWaWV3U3RhdGUoKTogQm9vbGVhbiA9IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2V0U2wK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5zaG91bGRTYXZlVmlld1N0YXRlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgPC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBzaG91Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8YW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dAogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgPgo=</text>
+        <text encoding="base64">ICAgICAgICByZWN5Y2xhYmxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjZkcCIK</text>
+        <text encoding="base64">ICAgICAgaXRlbVZpZXcuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbmRyb2lkOnBhZGRpbmdUb3A9IjZkcCIK</text>
+        <text encoding="base64">ICAgICAgLnJlY3ljbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9InNlY29uZCI+U0VDT05EPC9zdHJpbmc+CiAgPHN0cmluZyBuYW1lPSJ0aGlyZCI+VEhJUkQ8L3N0cmluZz4KICA8c3RyaW5nIG5hbWU9ImZvdXJ0aCI+Rk9VUlRIPC9zdHJpbmc+CiAgPHN0cmluZyBuYW1lPSJmaWZ0aCI+RklGVEg8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIAogICAgc2VhcmNoUGxheWVyUmVzcG9uc2UucGxheWVycy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action CloseEditor</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
     </registers>
     <search>
@@ -242,15 +250,17 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action ParameterInfo</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoAction</entry>
-        <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoSuperMethod</entry>
         <entry>action Back</entry>
+        <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action FindInPath</entry>
+        <entry>action CloseEditor</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
