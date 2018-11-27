@@ -231,7 +231,7 @@
         <text encoding="base64">ICAgIAogICAgc2VhcmNoUGxheWVyUmVzcG9uc2UucGxheWVycy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Find</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -243,14 +243,12 @@
     </search>
     <history>
       <history-cmd>
-        <entry>action Find</entry>
         <entry>action Inline</entry>
         <entry>action Debug</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ParameterInfo</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
@@ -261,6 +259,8 @@
         <entry>action FindInPath</entry>
         <entry>action CloseEditor</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
