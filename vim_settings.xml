@@ -159,9 +159,9 @@
       <file name="$USER_HOME$/Projects/WinTicket/android/.circleci/config.yml" timestamp="1543368237374" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" timestamp="1543368486829">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="57" />
-        <mark key="." line="11" column="30" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="57" />
+        <mark key="." line="10" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -247,7 +247,7 @@
         <text encoding="base64">ICAgIAogICAgc2VhcmNoUGxheWVyUmVzcG9uc2UucGxheWVycy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action FindInPath</text>
       </register>
       <register name="-" type="4">
         <text>android.applicationVariants</text>
@@ -273,10 +273,10 @@
         <entry>action Run</entry>
         <entry>action CloseEditor</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
