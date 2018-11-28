@@ -27,6 +27,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" timestamp="1543209844882">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1543301395406">
         <mark key="'" line="19" column="2" />
         <mark key="[" line="224" column="0" />
@@ -58,7 +63,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1543387892504" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1543388508161">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerViewModel.kt" timestamp="1543384877199">
         <mark key="'" line="166" column="0" />
         <mark key="[" line="126" column="23" />
@@ -151,6 +160,11 @@
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" timestamp="1543296527379">
         <mark key="'" line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/layout/simple_spinner_dropdown_item.xml" timestamp="1543221704413">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_search_player_result_header.xml" timestamp="1543298057191">
         <mark key="'" line="32" column="29" />
@@ -256,10 +270,10 @@
         <text encoding="base64">ICAgICAgdGhpcy5pcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>-rc-5</text>
       </register>
     </registers>
     <search>
@@ -276,7 +290,6 @@
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action Run</entry>
         <entry>action CloseEditor</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
@@ -286,6 +299,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
