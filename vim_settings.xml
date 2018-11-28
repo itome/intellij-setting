@@ -149,11 +149,11 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/annotation/Target.java" timestamp="1543306636549">
         <mark key="'" line="78" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/.circleci/config.yml" timestamp="1543373446114">
-        <mark key="[" line="92" column="56" />
-        <mark key="]" line="92" column="81" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/.circleci/config.yml" timestamp="1543380547035">
+        <mark key="[" line="95" column="19" />
+        <mark key="]" line="95" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" timestamp="1543368486829">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" timestamp="1543379895311">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="57" />
@@ -212,7 +212,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>jacocoDevelopReleaseReport</text>
+        <text encoding="base64">YmFzaCA8KGN1cmwgLXMgaHR0cHM6Ly9jb2RlY292LmlvL2Jhc2gpIC10IGE2YTM3YTEyLWM5NDktNDdjZC05NWRjLTk1NDIxMmIzOTg2OQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBzdXBlci5zaG91bGRTYXZlVmlld1N0YXRlKCkK</text>
@@ -242,7 +242,7 @@
         <text encoding="base64">ICAgIAogICAgc2VhcmNoUGxheWVyUmVzcG9uc2UucGxheWVycy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>android.applicationVariants</text>
@@ -267,11 +267,11 @@
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
         <entry>action CloseEditor</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action FindInPath</entry>
-        <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Find</entry>
+        <entry>action FindInPath</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
