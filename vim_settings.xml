@@ -20,6 +20,11 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.5.0/5c17035548a41ec60f00291163d36596a23ddd1a/retrofit-2.5.0-sources.jar!/retrofit2/Retrofit.java" timestamp="1543297114178" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.0.0/c158207594782b42f3a2e08a5a029eb3319e4404/lifecycle-livedata-core-2.0.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1543207826929" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/gradle/jacoco.gradle" timestamp="1543368479136">
+        <mark key="'" line="25" column="39" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/remote/KeirinService.kt" timestamp="1543295118945">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="48" />
@@ -68,9 +73,6 @@
         <mark key="." line="23" column="51" />
         <mark key="^" line="23" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543297822924">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerConditionsFragment.kt" timestamp="1543300026090">
         <mark key="'" line="21" column="6" />
         <mark key="[" line="116" column="26" />
@@ -83,9 +85,6 @@
         <mark key="]" line="61" column="34" />
         <mark key="." line="61" column="34" />
         <mark key="^" line="61" column="34" />
-      </file>
-      <file name="/fragment.kt" timestamp="1543295671208">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_spinner_background_white.xml" timestamp="1543297860161">
         <mark key="'" line="0" column="10" />
@@ -126,6 +125,12 @@
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" timestamp="1543296527379">
         <mark key="'" line="22" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1543368396392">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="31" />
+        <mark key="^" line="38" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_result.xml" timestamp="1543305405344">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="59" column="0" />
@@ -150,6 +155,13 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/annotation/Target.java" timestamp="1543306636549">
         <mark key="'" line="78" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/.circleci/config.yml" timestamp="1543368237374" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" timestamp="1543368486829">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="57" />
+        <mark key="." line="11" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -198,10 +210,14 @@
       <jump line="78" column="25" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/annotation/Target.java" />
       <jump line="6" column="13" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/SearchPlayerResultController.kt" />
       <jump line="78" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.0.0/9c6c7c8bbd467de0f9ac6fc30bf3c28f2afeed49/epoxy-3.0.0-sources.jar!/com/airbnb/epoxy/EpoxyModelWithHolder.java" />
+      <jump line="25" column="39" filename="$USER_HOME$/Projects/WinTicket/android/gradle/jacoco.gradle" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJpcHBsZSB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3JpcHBsZV9kYXJrIgogID4KICA8aXRlbSBhbmRyb2lkOmlkPSJAYW5kcm9pZDppZC9tYXNrIj4KICAgIDxzaGFwZSBhbmRyb2lkOnNoYXBlPSJyZWN0YW5nbGUiPgogICAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3doaXRlIi8+CiAgICAgIDxjb3JuZXJzIGFuZHJvaWQ6cmFkaXVzPSIyMmRwIi8+CiAgICA8L3NoYXBlPgogIDwvaXRlbT4KICA8aXRlbT4KICAgIDxsYXllci1saXN0PgogICAgICA8aXRlbT4KICAgICAgICA8c2hhcGUgYW5kcm9pZDpzaGFwZT0icmVjdGFuZ2xlIj4KICAgICAgICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivd2hpdGUiLz4KICAgICAgICAgIDxjb3JuZXJzIGFuZHJvaWQ6cmFkaXVzPSIyMmRwIi8+CiAgICAgICAgPC9zaGFwZT4KICAgICAgPC9pdGVtPgogICAgICA8aXRlbQogICAgICAgIGFuZHJvaWQ6Ym90dG9tPSIxMGRwIgogICAgICAgIGFuZHJvaWQ6cmlnaHQ9IjE2ZHAiCiAgICAgICAgYW5kcm9pZDp0b3A9IjEwZHAiCiAgICAgICAgPgogICAgICAgIDxiaXRtYXAKICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0icmlnaHR8Y2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19wdXNoX2Rvd24iCiAgICAgICAgICAvPgogICAgICA8L2l0ZW0+CiAgICA8L2xheWVyLWxpc3Q+CiAgPC9pdGVtPgo8L3JpcHBsZT4K</text>
+      <register name="0" type="4">
+        <text>(android.hasProperty('applicationVariants') ? android.'applicationVariants' :
+    android.'libraryVariants')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBzdXBlci5zaG91bGRTYXZlVmlld1N0YXRlKCkK</text>
@@ -231,10 +247,10 @@
         <text encoding="base64">ICAgIAogICAgc2VhcmNoUGxheWVyUmVzcG9uc2UucGxheWVycy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>android.applicationVariants</text>
       </register>
     </registers>
     <search>
@@ -250,17 +266,17 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
-        <entry>action FindInPath</entry>
         <entry>action CloseEditor</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
