@@ -3,17 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_race_conditions.xml" timestamp="1543477118207">
-        <mark key="'" line="46" column="12" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_race_conditions.xml" timestamp="1543478661452">
+        <mark key="'" line="151" column="12" />
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/styles.xml" timestamp="1543476455712">
-        <mark key="[" line="284" column="46" />
-        <mark key="]" line="285" column="37" />
-        <mark key="." line="285" column="37" />
-        <mark key="^" line="285" column="37" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/gradle.properties" timestamp="1543479319126">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/identification/IdentificationState.kt" timestamp="1543398809960">
         <mark key="[" line="18" column="11" />
@@ -65,16 +68,11 @@
         <mark key="." line="55" column="100" />
         <mark key="^" line="55" column="100" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/values/strings.xml" timestamp="1543399458392">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="78" column="78" />
-        <mark key="]" line="78" column="92" />
-        <mark key="." line="78" column="92" />
-        <mark key="^" line="78" column="92" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/exhibit/ExhibitFragment.kt" timestamp="1543397785474">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="136" column="3" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/RecyclerViewBindingAdaptersTest.kt" timestamp="1543478657396">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/exhibit/ExhibitAction.kt" timestamp="1543401312768">
         <mark key="[" line="24" column="0" />
@@ -100,6 +98,7 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/test/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/DateBindingAdaptersTest.kt" timestamp="1543479868492" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/identification/IdentificationProcessorHolder.kt" timestamp="1543398956440">
         <mark key="[" line="40" column="47" />
         <mark key="]" line="40" column="46" />
@@ -108,12 +107,20 @@
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseProcessorHolder.kt" timestamp="1543398979856" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_schedule_header.xml" timestamp="1543476315364" />
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1543468069801">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1543480271496">
+        <mark key="'" line="246" column="71" />
         <mark key="^" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" timestamp="1543468046201">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" timestamp="1543480258076">
+        <mark key="'" line="53" column="7" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="66" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1543479339535">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/identification/IdentificationAction.kt" timestamp="1543398833254">
         <mark key="[" line="17" column="18" />
@@ -162,13 +169,17 @@
       <jump line="51" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
       <jump line="73" column="2" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
       <jump line="46" column="12" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_race_conditions.xml" />
+      <jump line="151" column="12" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_race_conditions.xml" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" />
+      <jump line="53" column="7" filename="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" />
+      <jump line="246" column="71" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI0NGRwIgo=</text>
+        <text encoding="base64">YW5kcm9pZC5lbmFibGVVbml0VGVzdEJpbmFyeVJlc291cmNlcz10cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMmRwIgo=</text>
+        <text encoding="base64">CmFuZHJvaWQuZW5hYmxlVW5pdFRlc3RCaW5hcnlSZXNvdXJjZXM9dHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMmRwIgo=</text>
@@ -180,7 +191,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMmRwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX3NwaW5uZXJfYmFja2dyb3VuZF93aGl0ZV9yb3VuZGVkX2Nvcm5lcl9yYWRpdXMyMiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMmRwIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX3NwaW5uZXJfYmFja2dyb3VuZF93aGl0ZV9yb3VuZGVkX2Nvcm5lcl9yYWRpdXMyMiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIK</text>
@@ -192,13 +203,13 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX3NwaW5uZXJfYmFja2dyb3VuZF93aGl0ZV9yb3VuZGVkX2Nvcm5lcl9yYWRpdXMyMiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3JpcHBsZV9zcGlubmVyX2JhY2tncm91bmRfd2hpdGVfcm91bmRlZF9jb3JuZXJfcmFkaXVzMjIiCiAgICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIKICAgICAgICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJ0cnVlIgogICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX3NwaW5uZXJfYmFja2dyb3VuZF93aGl0ZV9yb3VuZGVkX2Nvcm5lcl9yYWRpdXMyMiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>DateSelectableSpinner.White</text>
+        <text>RuntimeEnvironment</text>
       </register>
     </registers>
     <search>
@@ -211,16 +222,16 @@
         <entry>action ParameterInfo</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Find</entry>
-        <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action FindInPath</entry>
+        <entry>action Find</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
