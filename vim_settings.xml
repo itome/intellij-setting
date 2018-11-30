@@ -23,12 +23,12 @@
         <mark key="." line="55" column="100" />
         <mark key="^" line="55" column="100" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/RecyclerViewBindingAdaptersTest.kt" timestamp="1543559689561">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/RecyclerViewBindingAdaptersTest.kt" timestamp="1543565957122">
         <mark key="'" line="34" column="26" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="23" column="31" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="35" column="61" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/ServerStatusRepositoryTest.kt" timestamp="1543544559172">
         <mark key="'" line="71" column="0" />
@@ -76,12 +76,12 @@
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/TextViewExt.kt" timestamp="1543545670940" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseProcessorHolder.kt" timestamp="1543398979856" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_schedule_header.xml" timestamp="1543476315364" />
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1543542085554">
-        <mark key="'" line="257" column="45" />
-        <mark key="[" line="237" column="38" />
-        <mark key="]" line="237" column="50" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1543566216555">
+        <mark key="'" line="237" column="50" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
         <mark key="^" line="237" column="50" />
-        <mark key="." line="237" column="50" />
+        <mark key="." line="237" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/UserRepositoryTest.kt" timestamp="1543544909938">
         <mark key="'" line="81" column="8" />
@@ -202,10 +202,10 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdaptersTest.kt" timestamp="1543560928893">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdaptersTest.kt" timestamp="1543564688472">
         <mark key="'" line="40" column="11" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="86" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="28" column="5" />
         <mark key="^" line="27" column="54" />
         <mark key="." line="27" column="54" />
       </file>
@@ -287,46 +287,44 @@
       <jump line="34" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/TextBindingAdaptersTest.kt" />
       <jump line="99" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/TextBindingAdaptersTest.kt" />
       <jump line="48" column="29" filename="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" />
+      <jump line="237" column="50" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTcHlLCiAgICBwcml2YXRlIHZhciBtb2NrR3VpZGVsaW5lID0gR3VpZGVsaW5lKEFwcGxpY2F0aW9uUHJvdmlkZXIuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVyeSB7IG1vY2tSZWN5Y2xlclZpZXcuY29udGV4dCB9IHJldHVybnMgbW9ja0NvbnRleHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTcHlLCiAgICBwcml2YXRlIHZhciBtb2NrUmVjeWNsZXJWaWV3ID0gUmVjeWNsZXJWaWV3KEFwcGxpY2F0aW9uUHJvdmlkZXIuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpCg==</text>
+        <text encoding="base64">CiAgLy8gTW9ja2l0bwogIHRlc3RJbXBsZW1lbnRhdGlvbiAib3JnLm1vY2tpdG86bW9ja2l0by1pbmxpbmU6JE1PQ0tJVE9fVkVSU0lPTiIKICB0ZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5uaGFhcm1hbjptb2NraXRvLWtvdGxpbjoxLjUuMCcKICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>ContextCompat.getDrawable(
-        ApplicationProvider.getApplicationContext(),
-        android.R.drawable.divider_horizontal_textfield
-    )</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5zcXVhcmV1cC5va2h0dHAzOm1vY2t3ZWJzZXJ2ZXI6My4xMS4wJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrR3VpZGVsaW5lLmxheW91dFBhcmFtcyA9IHBhcmFtcwo=</text>
+        <text encoding="base64">ICAgICAgICBldmVyeSB7IG1vY2tSZWN5Y2xlclZpZXcuY29udGV4dCB9IHJldHVybnMgbW9ja0NvbnRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTcHlLCg==</text>
+        <text encoding="base64">CiAgICBAU3B5SwogICAgcHJpdmF0ZSB2YXIgbW9ja0RyYXdhYmxlID0gQ29udGV4dENvbXBhdC5nZXREcmF3YWJsZShtb2NrQ29udGV4dCwgYW5kcm9pZC5SLmRyYXdhYmxlLmRpdmlkZXJfaG9yaXpvbnRhbF90ZXh0ZmllbGQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBldmVyeSB7IG1vY2tHdWlkZWxpbmUubGF5b3V0UGFyYW1zIH0gcmV0dXJucyBwYXJhbXMK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1vY2tSZWN5Y2xlclZpZXcgPSBSZWN5Y2xlclZpZXcobW9ja0NvbnRleHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBldmVyeSB7IG1vY2tHdWlkZWxpbmUuY29udGV4dCB9IHJldHVybnMgQXBwbGljYXRpb25Qcm92aWRlci5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZXhhY3RseSA9IDEpIHsgbW9ja0d1aWRlbGluZS5sYXlvdXRQYXJhbXMgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIEBTcHlLCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBSdWxlCiAgICBASnZtRmllbGQKICAgIHZhbCBtb2NraXRvUnVsZSA9IE1vY2tpdG9KVW5pdC5ydWxlKCkKCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIGZ1biBzZXR1cCgpIHsKICAgIH0KCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKG1vY2tSZWN5Y2xlclZpZXcuaXRlbURlY29yYXRpb24pCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZlcmlmeShtb2NrUmVjeWNsZXJWaWV3KS5hZGRJdGVtRGVjb3JhdGlvbihBcmd1bWVudE1hdGNoZXJzLmFueShPdmVybGFwSXRlbURlY29yYXRpb246OmNsYXNzLmphdmEpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action FindInPath</text>
       </register>
       <register name="-" type="4">
-        <text>mockGuideline</text>
+        <text>mockDrawable!!</text>
       </register>
     </registers>
     <search>
@@ -337,19 +335,19 @@
       <history-search />
       <history-cmd>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action RenameElement</entry>
         <entry>action CloseEditor</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
