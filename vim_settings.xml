@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/ImageBindingAdaptersTest.kt" timestamp="1543546192254">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/ImageBindingAdaptersTest.kt" timestamp="1543554819713">
         <mark key="'" line="49" column="4" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/MemoryTest.kt" timestamp="1543547147553">
         <mark key="[" line="26" column="68" />
@@ -23,12 +23,12 @@
         <mark key="." line="55" column="100" />
         <mark key="^" line="55" column="100" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/RecyclerViewBindingAdaptersTest.kt" timestamp="1543551672663">
-        <mark key="'" line="35" column="26" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="15" />
-        <mark key="^" line="22" column="14" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/RecyclerViewBindingAdaptersTest.kt" timestamp="1543559689561">
+        <mark key="'" line="34" column="26" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/ServerStatusRepositoryTest.kt" timestamp="1543544559172">
         <mark key="'" line="71" column="0" />
@@ -97,11 +97,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/TextViewExtKtTest.kt" timestamp="1543547114133">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="43" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/RecyclerViewBindingAdapters.kt" timestamp="1543554771825" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/TextViewExtKtTest.kt" timestamp="1543554737703">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+        <mark key="^" line="24" column="78" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.9.5/46f703fb4266140c544d48a189cb25947eb6333e/mockito-core-1.9.5-sources.jar!/org/mockito/Mockito.java" timestamp="1543486038428" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" timestamp="1543466433274">
@@ -159,6 +160,7 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdapters.kt" timestamp="1543556697079" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_conditions.xml" timestamp="1543476632337">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="48" />
@@ -187,25 +189,25 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.9.5/46f703fb4266140c544d48a189cb25947eb6333e/mockito-core-1.9.5-sources.jar!/org/mockito/Spy.java" timestamp="1543486927962">
         <mark key="'" line="93" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/DateBindingAdaptersTest.kt" timestamp="1543545960585">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="36" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/DateBindingAdaptersTest.kt" timestamp="1543554563913">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="24" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1543542120212">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1543556093453">
+        <mark key="'" line="48" column="29" />
         <mark key="[" line="47" column="26" />
         <mark key="]" line="47" column="41" />
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdaptersTest.kt" timestamp="1543551728434">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdaptersTest.kt" timestamp="1543559674367">
         <mark key="'" line="40" column="11" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="41" column="25" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="86" />
+        <mark key="^" line="27" column="54" />
+        <mark key="." line="27" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/identification/IdentificationAction.kt" timestamp="1543398833254">
         <mark key="[" line="17" column="18" />
@@ -284,43 +286,47 @@
       <jump line="41" column="26" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/RecyclerViewBindingAdaptersTest.kt" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/TextBindingAdaptersTest.kt" />
       <jump line="99" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/TextBindingAdaptersTest.kt" />
+      <jump line="48" column="29" filename="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>10000000 SC</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBTcHlLCiAgICBwcml2YXRlIHZhciBtb2NrR3VpZGVsaW5lID0gR3VpZGVsaW5lKEFwcGxpY2F0aW9uUHJvdmlkZXIuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTcHlLCg==</text>
+        <text encoding="base64">ICAgIEBTcHlLCiAgICBwcml2YXRlIHZhciBtb2NrUmVjeWNsZXJWaWV3ID0gUmVjeWNsZXJWaWV3KEFwcGxpY2F0aW9uUHJvdmlkZXIuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTcHlLCg==</text>
+      <register name="2" type="4">
+        <text>ContextCompat.getDrawable(
+        ApplicationProvider.getApplicationContext(),
+        android.R.drawable.divider_horizontal_textfield
+    )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIGZ1biBzZXR1cCgpIHsKICAgICAgICBNb2NrS0Fubm90YXRpb25zLmluaXQodGhpcywgcmVsYXhVbml0RnVuID0gdHJ1ZSkKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrR3VpZGVsaW5lLmxheW91dFBhcmFtcyA9IHBhcmFtcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLnZlcmlmeShtb2NrVGV4dFZpZXcpLnRleHQgPSAiMTAwMDAwMDAgU0MiCg==</text>
+        <text encoding="base64">ICAgIEBTcHlLCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLnZlcmlmeShtb2NrVGV4dFZpZXcpLnRleHQgPSAiMTAwMCBTQyIK</text>
+        <text encoding="base64">ICAgICAgICBldmVyeSB7IG1vY2tHdWlkZWxpbmUubGF5b3V0UGFyYW1zIH0gcmV0dXJucyBwYXJhbXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLnZlcmlmeShtb2NrVGV4dFZpZXcpLnRleHQgPSAiMSBTQyIK</text>
+        <text encoding="base64">ICAgICAgICBldmVyeSB7IG1vY2tHdWlkZWxpbmUuY29udGV4dCB9IHJldHVybnMgQXBwbGljYXRpb25Qcm92aWRlci5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLnZlcmlmeShtb2NrVGV4dFZpZXcpLnRleHQgPSAiMTAuNSIK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZXhhY3RseSA9IDEpIHsgbW9ja0d1aWRlbGluZS5sYXlvdXRQYXJhbXMgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLnZlcmlmeShtb2NrVGV4dFZpZXcpLnRleHQgPSAiMTAwMC4wIgo=</text>
+        <text encoding="base64">ICAgIEBTcHlLCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCIxMDAwMDAwMCIsIG1vY2tUZXh0Vmlldy50ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKG1vY2tSZWN5Y2xlclZpZXcuaXRlbURlY29yYXRpb24pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mockGuideline</text>
       </register>
     </registers>
     <search>
@@ -332,18 +338,18 @@
       <history-cmd>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action CloseEditor</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Back</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Run</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
