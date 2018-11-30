@@ -52,8 +52,11 @@
         <mark key="[" line="133" column="0" />
         <mark key="]" line="136" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyBetRepositoryTest.kt" timestamp="1543481033384">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyBetRepositoryTest.kt" timestamp="1543541047311">
         <mark key="'" line="30" column="30" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/versions.gradle" timestamp="1543481451834">
         <mark key="[" line="59" column="13" />
@@ -61,7 +64,7 @@
         <mark key="." line="59" column="14" />
         <mark key="^" line="59" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyWalletRepositoryTest.kt" timestamp="1543488047304">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyWalletRepositoryTest.kt" timestamp="1543540863114">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="3" />
         <mark key="." line="22" column="3" />
@@ -248,34 +251,34 @@
         <text encoding="base64">QXBwbGljYXRpb25Qcm92aWRlci5nZXRBcHBsaWNhdGlvbkNvbnRleHQ8Q29udGV4dD4oKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSdWxlCiAgICBASnZtRmllbGQKICAgIHZhbCBtb2NraXRvUnVsZSA9IE1vY2tpdG9KVW5pdC5ydWxlKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBjbGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgIEBSdWxlCiAgICBASnZtRmllbGQKICAgIHZhbCBtb2NraXRvUnVsZSA9IE1vY2tpdG9KVW5pdC5ydWxlKCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tY29yZToyLjguOScK</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tY29yZToyLjguOScK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5tb2NraXRvOm1vY2tpdG8tY29yZToyLjguOScK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXN0Q29tcGlsZSAnb3JnLm1vY2tpdG86bW9ja2l0by1jb3JlOjIuOC45Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAxCg==</text>
+        <text encoding="base64">ICB0ZXN0Q29tcGlsZSAnb3JnLm1vY2tpdG86bW9ja2l0by1jb3JlOjIuOC45Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>lateinit var</text>
@@ -293,7 +296,6 @@
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
@@ -301,6 +303,7 @@
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
