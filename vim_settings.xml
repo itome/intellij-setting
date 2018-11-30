@@ -21,7 +21,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/junit/MockitoJUnit.java" timestamp="1543481712744" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_favorite_history.xml" timestamp="1543576315439">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/identification/IdentificationInputFragment.kt" timestamp="1543400826322">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="54" column="104" />
@@ -49,12 +53,24 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="56" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_purchase_history.xml" timestamp="1543576256145">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/TextBindingAdaptersTest.kt" timestamp="1543546905303">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="49" column="47" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/history/PurchaseHistoryFragment.kt" timestamp="1543577560052">
+        <mark key="[" line="16" column="101" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyBetRepositoryTest.kt" timestamp="1543572619080">
         <mark key="'" line="72" column="53" />
@@ -88,9 +104,6 @@
         <mark key="." line="16" column="85" />
         <mark key="^" line="16" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/util/ext/TextViewExt.kt" timestamp="1543545670940" />
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/base/BaseProcessorHolder.kt" timestamp="1543398979856" />
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_schedule_header.xml" timestamp="1543476315364" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1543574828288">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="221" column="51" />
@@ -118,28 +131,38 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/RecyclerViewBindingAdapters.kt" timestamp="1543561385332" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/TextViewExtKtTest.kt" timestamp="1543554737703">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="24" column="23" />
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="78" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.9.5/46f703fb4266140c544d48a189cb25947eb6333e/mockito-core-1.9.5-sources.jar!/org/mockito/Mockito.java" timestamp="1543486038428" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/navigation/mobile_navigation.xml" timestamp="1543577093504">
+        <mark key="'" line="17" column="10" />
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="55" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_race_conditions.xml" timestamp="1543478661452">
         <mark key="'" line="151" column="12" />
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/core/1.0.0/6406894ea7a0bc3887f6ccf47bf58a56e9217cb6/core-1.0.0-sources.jar!/androidx/test/core/app/ApplicationProvider.java" timestamp="1543545161627" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/SwipeRefreshLayoutExtKtTest.kt" timestamp="1543545410395">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="88" />
         <mark key="." line="13" column="88" />
         <mark key="^" line="13" column="88" />
       </file>
-      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-rc-5-all/261rmnuwthg8zobxwjtuhzm31/gradle-5.0-rc-5/src/jacoco/org/gradle/testing/jacoco/tasks/JacocoReportBase.java" timestamp="1543465136491" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_exhibit_history.xml" timestamp="1543576312304">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/identification/IdentificationResult.kt" timestamp="1543398871515">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
@@ -165,11 +188,24 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/history/FavoriteHistoryFragment.kt" timestamp="1543577509762">
+        <mark key="[" line="16" column="101" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/exhibit/ExhibitIntent.kt" timestamp="1543401191198">
         <mark key="[" line="11" column="54" />
         <mark key="]" line="11" column="53" />
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" timestamp="1543576585499">
+        <mark key="'" line="107" column="10" />
+        <mark key="[" line="123" column="48" />
+        <mark key="]" line="123" column="48" />
+        <mark key="." line="123" column="56" />
+        <mark key="^" line="133" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/remote/ImageTest.kt" timestamp="1543542555262">
         <mark key="'" line="32" column="4" />
@@ -177,19 +213,26 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.71/ff62b6a76e3200cac3d7df0859d7665fe6d54955/kotlin-stdlib-common-1.2.71-sources.jar!/kotlin/util/Standard.kt" timestamp="1543397389906" />
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/ViewExtKtTest.kt" timestamp="1543545855431">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="3" />
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/main/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdapters.kt" timestamp="1543556697079" />
+      <file name="/Dummy.txt" timestamp="1543576300620">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_conditions.xml" timestamp="1543476632337">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="48" />
         <mark key="." line="308" column="0" />
         <mark key="^" line="235" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/playground/PlaygroundFragment.kt" timestamp="1543577632183">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="52" column="82" />
+        <mark key="^" line="52" column="82" />
+        <mark key="." line="52" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/identification/IdentificationException.kt" timestamp="1543395575003">
         <mark key="[" line="9" column="35" />
@@ -226,6 +269,12 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/history/ExhibitHistoryFragment.kt" timestamp="1543577456999">
+        <mark key="[" line="16" column="100" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/GuidelineBindingAdaptersTest.kt" timestamp="1543564688472">
         <mark key="'" line="40" column="11" />
@@ -315,43 +364,54 @@
       <jump line="187" column="20" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
       <jump line="135" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_exhibit_history.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_exhibit_history.xml" />
+      <jump line="4" column="14" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_favorite_history.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_favorite_history.xml" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
+      <jump line="128" column="36" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
+      <jump line="30" column="12" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
+      <jump line="114" column="74" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
+      <jump line="107" column="10" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
+      <jump line="17" column="10" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/navigation/mobile_navigation.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBldmVyeSB7IG1vY2tSZWN5Y2xlclZpZXcuY29udGV4dCB9IHJldHVybnMgbW9ja0NvbnRleHQK</text>
+        <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuZnJlbW8uZGF0YWJpbmRpbmcuRnJhZ21lbnRQdXJjaGFzZUhpc3RvcnlCaW5kaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBNb2NraXRvCiAgdGVzdEltcGxlbWVudGF0aW9uICJvcmcubW9ja2l0bzptb2NraXRvLWlubGluZTokTU9DS0lUT19WRVJTSU9OIgoK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcoaW5mbGF0ZXIsIGNvbnRhaW5lciwgc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcoaW5mbGF0ZXIsIGNvbnRhaW5lciwgc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5uaGFhcm1hbjptb2NraXRvLWtvdGxpbjoxLjUuMCcK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcoaW5mbGF0ZXIsIGNvbnRhaW5lciwgc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LWRvbnR3YXJuIG9yZy5tb2NraXRvLioqCg==</text>
+        <text encoding="base64">ICBvbkMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LWRvbnR3YXJuIG9yZy5tb2NraXRvLioqCg==</text>
+        <text encoding="base64">ICBvbkNyZWF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TU9DS0lUT19WRVJTSU9OICAgICAgICAgPSAyLjIzLjAK</text>
+        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9idXR0b25fcGxheWdyb3VuZF90b19pZGVudGlmaWNhdGlvbiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgLy8gTW9ja2l0bwogIHRlc3RJbXBsZW1lbnRhdGlvbiAib3JnLm1vY2tpdG86bW9ja2l0by1pbmxpbmU6JE1PQ0tJVE9fVkVSU0lPTiIKICB0ZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5uaGFhcm1hbjptb2NraXRvLWtvdGxpbjoxLjUuMCcKICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
+        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90ZXh0X3BsYXlncm91bmRfdGl0bGUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TU9DS0lUT19WRVJTSU9OICAgICAgICAgPSAyLjIzLjAK</text>
+        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvZ3VpZGVsaW5lX3BsYXlncm91bmRfc3RhcnQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LWRvbnR3YXJuIG9yZy5tb2NraXRvLioqCg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDp0ZXh0PSJIT01FIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>Mockito</text>
+        <text>databinding.FragmentPurchaseHistoryBinding</text>
       </register>
     </registers>
     <search>
@@ -364,18 +424,20 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ParameterInfo</entry>
         <entry>action RenameElement</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
-        <entry>action Run</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
