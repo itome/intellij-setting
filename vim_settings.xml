@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/ImageBindingAdaptersTest.kt" timestamp="1543554819713">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/MemoryTest.kt" timestamp="1543547147553">
         <mark key="[" line="26" column="68" />
         <mark key="]" line="26" column="78" />
@@ -72,6 +66,10 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/camera2/CameraDevice.java" timestamp="1543821807802">
+        <mark key="[" line="145" column="28" />
+        <mark key="]" line="145" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyBetRepositoryTest.kt" timestamp="1543572619080">
         <mark key="'" line="72" column="53" />
         <mark key="[" line="34" column="0" />
@@ -92,8 +90,15 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="57" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" timestamp="1543810672361">
-        <mark key="'" line="98" column="16" />
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" timestamp="1543821858935">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="91" column="78" />
+        <mark key="]" line="90" column="35" />
+        <mark key="." line="90" column="35" />
+        <mark key="^" line="90" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" timestamp="1543814256784">
+        <mark key="'" line="102" column="0" />
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="16" />
         <mark key="." line="69" column="16" />
@@ -105,12 +110,29 @@
         <mark key="." line="16" column="85" />
         <mark key="^" line="16" column="85" />
       </file>
+      <file name="/fragment.kt" timestamp="1543820396297">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" timestamp="1543815348580">
+        <mark key="'" line="46" column="16" />
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="46" />
+        <mark key="^" line="25" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" timestamp="1543574828288">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="221" column="51" />
         <mark key="]" line="221" column="52" />
         <mark key="^" line="237" column="50" />
         <mark key="." line="221" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_preview.xml" timestamp="1543816621555">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/UserRepositoryTest.kt" timestamp="1543571835559">
         <mark key="'" line="81" column="8" />
@@ -145,11 +167,11 @@
         <mark key="^" line="37" column="55" />
         <mark key="." line="37" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_race_conditions.xml" timestamp="1543478661452">
-        <mark key="'" line="151" column="12" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1543817326202">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="18" column="55" />
+        <mark key="." line="18" column="55" />
+        <mark key="^" line="18" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/SwipeRefreshLayoutExtKtTest.kt" timestamp="1543545410395">
         <mark key="[" line="13" column="46" />
@@ -189,6 +211,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_rotation.xml" timestamp="1543816623676">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/AndroidManifest.xml" timestamp="1543815977563" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/history/FavoriteHistoryFragment.kt" timestamp="1543577509762">
         <mark key="[" line="16" column="101" />
         <mark key="]" line="17" column="22" />
@@ -201,6 +229,13 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/PreviewActivity.kt" timestamp="1543815380917">
+        <mark key="'" line="60" column="16" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" timestamp="1543576585499">
         <mark key="'" line="107" column="10" />
         <mark key="[" line="123" column="48" />
@@ -208,11 +243,8 @@
         <mark key="." line="123" column="56" />
         <mark key="^" line="133" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/remote/ImageTest.kt" timestamp="1543542555262">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/content_preview.xml" timestamp="1543814957634">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/ViewExtKtTest.kt" timestamp="1543545855431">
         <mark key="[" line="18" column="4" />
@@ -222,6 +254,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1543576300620">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" timestamp="1543820570361">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_search_player_conditions.xml" timestamp="1543476632337">
         <mark key="[" line="147" column="0" />
@@ -235,6 +272,13 @@
         <mark key="]" line="52" column="82" />
         <mark key="^" line="52" column="82" />
         <mark key="." line="52" column="82" />
+      </file>
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/MainActivity.kt" timestamp="1543820043572">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/identification/IdentificationException.kt" timestamp="1543395575003">
         <mark key="[" line="9" column="35" />
@@ -260,17 +304,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="24" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" timestamp="1543572794560">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/gradle.properties" timestamp="1543569087833">
-        <mark key="'" line="48" column="29" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/history/ExhibitHistoryFragment.kt" timestamp="1543577456999">
         <mark key="[" line="16" column="100" />
@@ -304,13 +337,11 @@
         <mark key="^" line="48" column="44" />
         <mark key="." line="48" column="44" />
       </file>
+      <file name="/fragment.java" timestamp="1543816581233">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="50" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
-      <jump line="101" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
-      <jump line="48" column="110" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/identification/IdentificationViewModel.kt" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/values/strings.xml" />
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/WinTicket/android/gradle/jacoco.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/gradle/jacoco.gradle" />
       <jump line="10" column="43" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
@@ -379,43 +410,75 @@
       <jump line="17" column="10" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/navigation/mobile_navigation.xml" />
       <jump line="0" column="37" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/playground/PlaygroundFragment.kt" />
       <jump line="98" column="16" filename="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" />
+      <jump line="102" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" />
+      <jump line="17" column="26" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_main.xml" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
+      <jump line="22" column="3" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
+      <jump line="55" column="25" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
+      <jump line="98" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
+      <jump line="0" column="1" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_main.xml" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/content_preview.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/content_preview.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_preview.xml" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_preview.xml" />
+      <jump line="14" column="4" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/PreviewActivity.kt" />
+      <jump line="60" column="16" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/PreviewActivity.kt" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
+      <jump line="46" column="16" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
+      <jump line="85" column="4" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
+      <jump line="100" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_preview.xml" />
+      <jump line="5" column="17" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_rotation.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_rotation.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
+      <jump line="5" column="6" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" />
+      <jump line="41" column="8" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/MainActivity.kt" />
+      <jump line="83" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
+      <jump line="14" column="39" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
+      <jump line="107" column="27" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
+      <jump line="101" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" />
+      <jump line="102" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHRlYW0uaXRvbWUuZnJlbW8uZGF0YWJpbmRpbmcuRnJhZ21lbnRQdXJjaGFzZUhpc3RvcnlCaW5kaW5nCg==</text>
+      <register name="0" type="4">
+        <text>TEMPLATE_MANUAL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcoaW5mbGF0ZXIsIGNvbnRhaW5lciwgc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICByb3RhdGVUZXh0dXJlVmlldygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcoaW5mbGF0ZXIsIGNvbnRhaW5lciwgc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICByb3RhdGVUZXh0dXJlVmlldygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcoaW5mbGF0ZXIsIGNvbnRhaW5lciwgc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJvdGF0ZVRleHR1cmVWaWV3KCkgewogICAgICAgIHZhbCBvcmllbnRhdGlvbiA9IGdldEFwcGxpY2F0aW9uT3JpZW50YXRpb24oKQogICAgICAgIHZhbCB2aWV3V2lkdGggPSB0ZXh0dXJlVmlldy53aWR0aAogICAgICAgIHZhbCB2aWV3SGVpZ2h0ID0gdGV4dHVyZVZpZXcuaGVpZ2h0CiAgICAgICAgdmFsIG1hdHJpeCA9IE1hdHJpeCgpCiAgICAgICAgbWF0cml4LnBvc3RSb3RhdGUoLSBvcmllbnRhdGlvbi50b0Zsb2F0KCksIHZpZXdIZWlnaHQgKiAwLjVGLCB2aWV3V2lkdGggKiAwLjVGKQogICAgICAgIHRleHR1cmVWaWV3LnNldFRyYW5zZm9ybShtYXRyaXgpCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0T3JpZW50YXRpb24oY2FtZXJhSWQ6IFN0cmluZyk6IEludCB7CiAgICAgICAgdmFsIGNhbWVyYU9yaWVudGF0aW9uID0gZ2V0Q2FtZXJhT3JpZW50YXRpb24oY2FtZXJhSWQpCiAgICAgICAgdmFsIGFwcGxpY2F0aW9uT3JpZW50YXRpb24gPSBnZXRBcHBsaWNhdGlvbk9yaWVudGF0aW9uKCkKICAgICAgICByZXR1cm4gY2FtZXJhT3JpZW50YXRpb24gLSBhcHBsaWNhdGlvbk9yaWVudGF0aW9uCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0Q2FtZXJhT3JpZW50YXRpb24oY2FtZXJhSWQ6IFN0cmluZyk6IEludCB7CiAgICAgICAgdmFsIGNoYXJhY3RlcmlzdGljID0gY2FtZXJhTWFuYWdlci5nZXRDYW1lcmFDaGFyYWN0ZXJpc3RpY3MoY2FtZXJhSWQpCiAgICAgICAgcmV0dXJuIGNoYXJhY3RlcmlzdGljLmdldChDYW1lcmFDaGFyYWN0ZXJpc3RpY3MuU0VOU09SX09SSUVOVEFUSU9OKSA/OiAwCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0QXBwbGljYXRpb25PcmllbnRhdGlvbigpOiBJbnQgewogICAgICAgIHZhbCB3aW5kb3dNYW5hZ2VyID0gZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LldJTkRPV19TRVJWSUNFKSBhcyBXaW5kb3dNYW5hZ2VyCiAgICAgICAgdmFsIHJvdGF0aW9uID0gd2luZG93TWFuYWdlci5kZWZhdWx0RGlzcGxheS5yb3RhdGlvbgogICAgICAgIHJldHVybiB3aGVuIChyb3RhdGlvbikgewogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzAgLT4gMAogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzkwIC0+IDkwCiAgICAgICAgICAgIFN1cmZhY2UuUk9UQVRJT05fMTgwIC0+IDE4MAogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzI3MCAtPiAyNzAKICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvbkMK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSBnZXRBcHBsaWNhdGlvbk9yaWVudGF0aW9uKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvbkNyZWF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9idXR0b25fcGxheWdyb3VuZF90b19pZGVudGlmaWNhdGlvbiIK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSBnZXRPcmllbnRhdGlvbigiMCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90ZXh0X3BsYXlncm91bmRfdGl0bGUiCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0dXJlVmlldy50cmFucwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvZ3VpZGVsaW5lX3BsYXlncm91bmRfc3RhcnQiCg==</text>
+        <text encoding="base64">aW50IHJvdGF0aW9uID0gd2luZG93TWFuYWdlci5nZXREZWZhdWx0RGlzcGxheSgpLmdldFJvdGF0aW9uKCk7CmludCB2aWV3V2lkdGggPSB0ZXh0dXJlVmlldy5nZXRXaWR0aCgpOwppbnQgdmlld0hlaWdodCA9IHRleHR1cmVWaWV3LmdldEhlaWdodCgpOwpNYXRyaXggbWF0cml4ID0gbmV3IE1hdHJpeCgpOwptYXRyaXgucG9zdFJvdGF0ZSgtIHJvdGF0aW9uLCB2aWV3V2lkdGggKiAwLjVmLCB2aWV3SGVpZ2h0ICogMC41Zik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDp0ZXh0PSJIT01FIgo=</text>
+        <text encoding="base64">ICAgICAgICBtYXRyaXgucwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>databinding.FragmentPurchaseHistoryBinding</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -425,20 +488,21 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action RenameElement</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
-        <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action RenameElement</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Debug</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -464,6 +528,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
