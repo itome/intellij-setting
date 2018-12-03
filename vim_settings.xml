@@ -92,7 +92,8 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="57" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" timestamp="1543574837317">
+      <file name="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" timestamp="1543810672361">
+        <mark key="'" line="98" column="16" />
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="16" />
         <mark key="." line="69" column="16" />
@@ -377,6 +378,7 @@
       <jump line="107" column="10" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
       <jump line="17" column="10" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/navigation/mobile_navigation.xml" />
       <jump line="0" column="37" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/playground/PlaygroundFragment.kt" />
+      <jump line="98" column="16" filename="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -410,7 +412,7 @@
         <text encoding="base64">ICAgICAgYW5kcm9pZDp0ZXh0PSJIT01FIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>databinding.FragmentPurchaseHistoryBinding</text>
@@ -433,10 +435,10 @@
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
         <entry>action Run</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
