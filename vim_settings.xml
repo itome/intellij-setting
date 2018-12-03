@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1543828642348">
-        <mark key="[" line="16" column="95" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1543830055586">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="58" />
+        <mark key="." line="23" column="58" />
+        <mark key="^" line="23" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/MemoryTest.kt" timestamp="1543547147553">
         <mark key="[" line="26" column="68" />
@@ -48,6 +49,12 @@
         <mark key="[" line="145" column="28" />
         <mark key="]" line="145" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionController.kt" timestamp="1543830007898">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/versions.gradle" timestamp="1543542099632">
         <mark key="[" line="60" column="18" />
         <mark key="]" line="60" column="32" />
@@ -61,11 +68,15 @@
         <mark key="^" line="68" column="7" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" timestamp="1543827922570">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" timestamp="1543830081146">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="72" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_message_list.xml" timestamp="1543830077750">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" timestamp="1543822854386">
         <mark key="'" line="107" column="0" />
@@ -198,9 +209,6 @@
         <mark key="." line="123" column="56" />
         <mark key="^" line="133" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/content_preview.xml" timestamp="1543814957634">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/util/ext/ViewExtKtTest.kt" timestamp="1543545855431">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="3" />
@@ -274,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_identification_input.xml" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/identification/IdentificationInputFragment.kt" />
       <jump line="44" column="24" filename="$USER_HOME$/Projects/SuperChoice/android/gradle/jacoco.gradle" />
@@ -374,43 +381,44 @@
       <jump line="22" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_home.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNvLmN5YmVyYWdlbnQud2ludGlja2V0Lm1vYmlsZS51aS5CYXNlRnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgICAgYXBwOmxheW91dE1hbmFnZXI9ImFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcoaW5mbGF0ZXIsIGNvbnRhaW5lciwgc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9idXR0b25fdG9fc2lnbl91cCIK</text>
+        <text encoding="base64">ICAgIHN1cGVyLm9uVmlld0NyZWF0ZWQodmlldywgc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgYW5kcm9pZDppZD0iQCtpZC9idXR0b25fdG9fcHJlZGljdGlvbiIKICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSIyNGRwIgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRIb3Jpem9udGFsX2JpYXM9IjAuMCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvYnV0dG9uX3RvX3NlYXJjaCIKICAgICAgLz4K</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PExpbmVhckxheW91dAogIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKPC9MaW5lYXJMYXlvdXQ+Cg==</text>
+        <text encoding="base64">ICAgIAogIDwvYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXc+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2aWV3UmVxdWVzdEJ1aWxkZXIuCg==</text>
+        <text encoding="base64">ICA8YW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dAogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgPgogICAKICA8L2FuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb3RhdGVUZXh0dXJlVmlldygpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcoaW5mbGF0ZXIsIGNvbnRhaW5lciwgc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb3RhdGVUZXh0dXJlVmlldygpCg==</text>
+        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9idXR0b25fdG9fc2lnbl91cCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJvdGF0ZVRleHR1cmVWaWV3KCkgewogICAgICAgIHZhbCBvcmllbnRhdGlvbiA9IGdldEFwcGxpY2F0aW9uT3JpZW50YXRpb24oKQogICAgICAgIHZhbCB2aWV3V2lkdGggPSB0ZXh0dXJlVmlldy53aWR0aAogICAgICAgIHZhbCB2aWV3SGVpZ2h0ID0gdGV4dHVyZVZpZXcuaGVpZ2h0CiAgICAgICAgdmFsIG1hdHJpeCA9IE1hdHJpeCgpCiAgICAgICAgbWF0cml4LnBvc3RSb3RhdGUoLSBvcmllbnRhdGlvbi50b0Zsb2F0KCksIHZpZXdIZWlnaHQgKiAwLjVGLCB2aWV3V2lkdGggKiAwLjVGKQogICAgICAgIHRleHR1cmVWaWV3LnNldFRyYW5zZm9ybShtYXRyaXgpCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0T3JpZW50YXRpb24oY2FtZXJhSWQ6IFN0cmluZyk6IEludCB7CiAgICAgICAgdmFsIGNhbWVyYU9yaWVudGF0aW9uID0gZ2V0Q2FtZXJhT3JpZW50YXRpb24oY2FtZXJhSWQpCiAgICAgICAgdmFsIGFwcGxpY2F0aW9uT3JpZW50YXRpb24gPSBnZXRBcHBsaWNhdGlvbk9yaWVudGF0aW9uKCkKICAgICAgICByZXR1cm4gY2FtZXJhT3JpZW50YXRpb24gLSBhcHBsaWNhdGlvbk9yaWVudGF0aW9uCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0Q2FtZXJhT3JpZW50YXRpb24oY2FtZXJhSWQ6IFN0cmluZyk6IEludCB7CiAgICAgICAgdmFsIGNoYXJhY3RlcmlzdGljID0gY2FtZXJhTWFuYWdlci5nZXRDYW1lcmFDaGFyYWN0ZXJpc3RpY3MoY2FtZXJhSWQpCiAgICAgICAgcmV0dXJuIGNoYXJhY3RlcmlzdGljLmdldChDYW1lcmFDaGFyYWN0ZXJpc3RpY3MuU0VOU09SX09SSUVOVEFUSU9OKSA/OiAwCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0QXBwbGljYXRpb25PcmllbnRhdGlvbigpOiBJbnQgewogICAgICAgIHZhbCB3aW5kb3dNYW5hZ2VyID0gZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LldJTkRPV19TRVJWSUNFKSBhcyBXaW5kb3dNYW5hZ2VyCiAgICAgICAgdmFsIHJvdGF0aW9uID0gd2luZG93TWFuYWdlci5kZWZhdWx0RGlzcGxheS5yb3RhdGlvbgogICAgICAgIHJldHVybiB3aGVuIChyb3RhdGlvbikgewogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzAgLT4gMAogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzkwIC0+IDkwCiAgICAgICAgICAgIFN1cmZhY2UuUk9UQVRJT05fMTgwIC0+IDE4MAogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzI3MCAtPiAyNzAKICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oKQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgYW5kcm9pZDppZD0iQCtpZC9idXR0b25fdG9fcHJlZGljdGlvbiIKICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSIyNGRwIgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRIb3Jpem9udGFsX2JpYXM9IjAuMCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvYnV0dG9uX3RvX3NlYXJjaCIKICAgICAgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSBnZXRBcHBsaWNhdGlvbk9yaWVudGF0aW9uKCkK</text>
+        <text encoding="base64">PExpbmVhckxheW91dAogIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKPC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action FindInPath</text>
       </register>
       <register name="-" type="4">
-        <text>ui.BaseFragment</text>
+        <text>wrap_content</text>
       </register>
     </registers>
     <search>
@@ -422,19 +430,19 @@
       <history-cmd>
         <entry>action CloseEditor</entry>
         <entry>action Find</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
