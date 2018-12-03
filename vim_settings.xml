@@ -90,12 +90,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="57" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" timestamp="1543821858935">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="91" column="78" />
-        <mark key="]" line="90" column="35" />
-        <mark key="." line="90" column="35" />
-        <mark key="^" line="90" column="35" />
+      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" timestamp="1543822854386">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="109" column="26" />
+        <mark key="]" line="109" column="52" />
+        <mark key="." line="109" column="52" />
+        <mark key="^" line="109" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" timestamp="1543814256784">
         <mark key="'" line="102" column="0" />
@@ -444,41 +444,41 @@
       <jump line="102" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>TEMPLATE_MANUAL</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJvdGF0ZVRleHR1cmVWaWV3KCkgewogICAgICAgIHZhbCBvcmllbnRhdGlvbiA9IGdldE9yaWVudGF0aW9uKCIwIikKICAgICAgICB2YWwgdmlld1dpZHRoID0gdGV4dHVyZVZpZXcud2lkdGgKICAgICAgICB2YWwgdmlld0hlaWdodCA9IHRleHR1cmVWaWV3LmhlaWdodAogICAgICAgIHZhbCBtYXRyaXggPSBNYXRyaXgoKQogICAgICAgIG1hdHJpeC5wb3N0Um90YXRlKC0gb3JpZW50YXRpb24udG9GbG9hdCgpLCB2aWV3V2lkdGggKiAwLjVGLCB2aWV3SGVpZ2h0ICogMC41RikKICAgICAgICB0ZXh0dXJlVmlldy5zZXRUcmFuc2Zvcm0obWF0cml4KQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb3RhdGVUZXh0dXJlVmlldygpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmV2aWV3UmVxdWVzdEJ1aWxkZXIuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByb3RhdGVUZXh0dXJlVmlldygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJvdGF0ZVRleHR1cmVWaWV3KCkgewogICAgICAgIHZhbCBvcmllbnRhdGlvbiA9IGdldEFwcGxpY2F0aW9uT3JpZW50YXRpb24oKQogICAgICAgIHZhbCB2aWV3V2lkdGggPSB0ZXh0dXJlVmlldy53aWR0aAogICAgICAgIHZhbCB2aWV3SGVpZ2h0ID0gdGV4dHVyZVZpZXcuaGVpZ2h0CiAgICAgICAgdmFsIG1hdHJpeCA9IE1hdHJpeCgpCiAgICAgICAgbWF0cml4LnBvc3RSb3RhdGUoLSBvcmllbnRhdGlvbi50b0Zsb2F0KCksIHZpZXdIZWlnaHQgKiAwLjVGLCB2aWV3V2lkdGggKiAwLjVGKQogICAgICAgIHRleHR1cmVWaWV3LnNldFRyYW5zZm9ybShtYXRyaXgpCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0T3JpZW50YXRpb24oY2FtZXJhSWQ6IFN0cmluZyk6IEludCB7CiAgICAgICAgdmFsIGNhbWVyYU9yaWVudGF0aW9uID0gZ2V0Q2FtZXJhT3JpZW50YXRpb24oY2FtZXJhSWQpCiAgICAgICAgdmFsIGFwcGxpY2F0aW9uT3JpZW50YXRpb24gPSBnZXRBcHBsaWNhdGlvbk9yaWVudGF0aW9uKCkKICAgICAgICByZXR1cm4gY2FtZXJhT3JpZW50YXRpb24gLSBhcHBsaWNhdGlvbk9yaWVudGF0aW9uCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0Q2FtZXJhT3JpZW50YXRpb24oY2FtZXJhSWQ6IFN0cmluZyk6IEludCB7CiAgICAgICAgdmFsIGNoYXJhY3RlcmlzdGljID0gY2FtZXJhTWFuYWdlci5nZXRDYW1lcmFDaGFyYWN0ZXJpc3RpY3MoY2FtZXJhSWQpCiAgICAgICAgcmV0dXJuIGNoYXJhY3RlcmlzdGljLmdldChDYW1lcmFDaGFyYWN0ZXJpc3RpY3MuU0VOU09SX09SSUVOVEFUSU9OKSA/OiAwCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0QXBwbGljYXRpb25PcmllbnRhdGlvbigpOiBJbnQgewogICAgICAgIHZhbCB3aW5kb3dNYW5hZ2VyID0gZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LldJTkRPV19TRVJWSUNFKSBhcyBXaW5kb3dNYW5hZ2VyCiAgICAgICAgdmFsIHJvdGF0aW9uID0gd2luZG93TWFuYWdlci5kZWZhdWx0RGlzcGxheS5yb3RhdGlvbgogICAgICAgIHJldHVybiB3aGVuIChyb3RhdGlvbikgewogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzAgLT4gMAogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzkwIC0+IDkwCiAgICAgICAgICAgIFN1cmZhY2UuUk9UQVRJT05fMTgwIC0+IDE4MAogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzI3MCAtPiAyNzAKICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oKQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByb3RhdGVUZXh0dXJlVmlldygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSBnZXRBcHBsaWNhdGlvbk9yaWVudGF0aW9uKCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJvdGF0ZVRleHR1cmVWaWV3KCkgewogICAgICAgIHZhbCBvcmllbnRhdGlvbiA9IGdldEFwcGxpY2F0aW9uT3JpZW50YXRpb24oKQogICAgICAgIHZhbCB2aWV3V2lkdGggPSB0ZXh0dXJlVmlldy53aWR0aAogICAgICAgIHZhbCB2aWV3SGVpZ2h0ID0gdGV4dHVyZVZpZXcuaGVpZ2h0CiAgICAgICAgdmFsIG1hdHJpeCA9IE1hdHJpeCgpCiAgICAgICAgbWF0cml4LnBvc3RSb3RhdGUoLSBvcmllbnRhdGlvbi50b0Zsb2F0KCksIHZpZXdIZWlnaHQgKiAwLjVGLCB2aWV3V2lkdGggKiAwLjVGKQogICAgICAgIHRleHR1cmVWaWV3LnNldFRyYW5zZm9ybShtYXRyaXgpCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0T3JpZW50YXRpb24oY2FtZXJhSWQ6IFN0cmluZyk6IEludCB7CiAgICAgICAgdmFsIGNhbWVyYU9yaWVudGF0aW9uID0gZ2V0Q2FtZXJhT3JpZW50YXRpb24oY2FtZXJhSWQpCiAgICAgICAgdmFsIGFwcGxpY2F0aW9uT3JpZW50YXRpb24gPSBnZXRBcHBsaWNhdGlvbk9yaWVudGF0aW9uKCkKICAgICAgICByZXR1cm4gY2FtZXJhT3JpZW50YXRpb24gLSBhcHBsaWNhdGlvbk9yaWVudGF0aW9uCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0Q2FtZXJhT3JpZW50YXRpb24oY2FtZXJhSWQ6IFN0cmluZyk6IEludCB7CiAgICAgICAgdmFsIGNoYXJhY3RlcmlzdGljID0gY2FtZXJhTWFuYWdlci5nZXRDYW1lcmFDaGFyYWN0ZXJpc3RpY3MoY2FtZXJhSWQpCiAgICAgICAgcmV0dXJuIGNoYXJhY3RlcmlzdGljLmdldChDYW1lcmFDaGFyYWN0ZXJpc3RpY3MuU0VOU09SX09SSUVOVEFUSU9OKSA/OiAwCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZ2V0QXBwbGljYXRpb25PcmllbnRhdGlvbigpOiBJbnQgewogICAgICAgIHZhbCB3aW5kb3dNYW5hZ2VyID0gZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LldJTkRPV19TRVJWSUNFKSBhcyBXaW5kb3dNYW5hZ2VyCiAgICAgICAgdmFsIHJvdGF0aW9uID0gd2luZG93TWFuYWdlci5kZWZhdWx0RGlzcGxheS5yb3RhdGlvbgogICAgICAgIHJldHVybiB3aGVuIChyb3RhdGlvbikgewogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzAgLT4gMAogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzkwIC0+IDkwCiAgICAgICAgICAgIFN1cmZhY2UuUk9UQVRJT05fMTgwIC0+IDE4MAogICAgICAgICAgICBTdXJmYWNlLlJPVEFUSU9OXzI3MCAtPiAyNzAKICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSBnZXRBcHBsaWNhdGlvbk9yaWVudGF0aW9uKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSBnZXRPcmllbnRhdGlvbigiMCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0dXJlVmlldy50cmFucwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3JpZW50YXRpb24gPSBnZXRPcmllbnRhdGlvbigiMCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50IHJvdGF0aW9uID0gd2luZG93TWFuYWdlci5nZXREZWZhdWx0RGlzcGxheSgpLmdldFJvdGF0aW9uKCk7CmludCB2aWV3V2lkdGggPSB0ZXh0dXJlVmlldy5nZXRXaWR0aCgpOwppbnQgdmlld0hlaWdodCA9IHRleHR1cmVWaWV3LmdldEhlaWdodCgpOwpNYXRyaXggbWF0cml4ID0gbmV3IE1hdHJpeCgpOwptYXRyaXgucG9zdFJvdGF0ZSgtIHJvdGF0aW9uLCB2aWV3V2lkdGggKiAwLjVmLCB2aWV3SGVpZ2h0ICogMC41Zik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0dXJlVmlldy50cmFucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRyaXgucwo=</text>
+        <text encoding="base64">aW50IHJvdGF0aW9uID0gd2luZG93TWFuYWdlci5nZXREZWZhdWx0RGlzcGxheSgpLmdldFJvdGF0aW9uKCk7CmludCB2aWV3V2lkdGggPSB0ZXh0dXJlVmlldy5nZXRXaWR0aCgpOwppbnQgdmlld0hlaWdodCA9IHRleHR1cmVWaWV3LmdldEhlaWdodCgpOwpNYXRyaXggbWF0cml4ID0gbmV3IE1hdHJpeCgpOwptYXRyaXgucG9zdFJvdGF0ZSgtIHJvdGF0aW9uLCB2aWV3V2lkdGggKiAwLjVmLCB2aWV3SGVpZ2h0ICogMC41Zik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getOrientation(&quot;0&quot;)</text>
       </register>
     </registers>
     <search>
@@ -497,11 +497,11 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
