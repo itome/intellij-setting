@@ -3,17 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build/generated/source/kapt/developDebug/jp/co/cyberagent/winticket/mobile/ui/prediction/model/EpoxyModelKotlinExtensions.kt" timestamp="1543909298950">
-        <mark key="[" line="8" column="84" />
-        <mark key="]" line="8" column="83" />
-        <mark key="^" line="8" column="83" />
-        <mark key="." line="8" column="83" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/kotlinpoet/1.0.0-RC2/dcfb724ff7d15f285c6cc77a3f57481fcd27546d/kotlinpoet-1.0.0-RC2-sources.jar!/com/squareup/kotlinpoet/FileSpec.kt" timestamp="1543912288356">
+        <mark key="'" line="193" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build/generated/source/kapt/developDebug/jp/co/cyberagent/winticket/mobile/ui/prediction/model/EpoxyModelKotlinExtensions.kt" timestamp="1543915179636">
+        <mark key="[" line="8" column="86" />
+        <mark key="]" line="8" column="85" />
+        <mark key="^" line="8" column="85" />
+        <mark key="." line="8" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryViewModel.kt" timestamp="1543900811855">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/epoxy/kotlinsample/src/main/java/com/airbnb/epoxy/kotlinsample/MainActivity.kt" timestamp="1543914897651">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="42" column="17" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendProcessor.kt" timestamp="1543895980553">
         <mark key="[" line="15" column="53" />
@@ -26,6 +36,12 @@
         <mark key="]" line="15" column="28" />
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/epoxy/kotlinsample/build/generated/source/kapt/debug/com/airbnb/epoxy/kotlinsample/EpoxyModelKotlinExtensions.kt" timestamp="1543914753921">
+        <mark key="[" line="8" column="109" />
+        <mark key="]" line="8" column="108" />
+        <mark key="^" line="8" column="108" />
+        <mark key="." line="8" column="108" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/login/LoginFragment.kt" timestamp="1543903621198">
         <mark key="'" line="109" column="0" />
@@ -98,23 +114,31 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="74" />
       </file>
+      <file name="$USER_HOME$/Projects/epoxy/epoxy-processor/src/main/java/com/airbnb/epoxy/EpoxyProcessor.java" timestamp="1543912187171" />
+      <file name="$USER_HOME$/Projects/epoxy/epoxy-processor/src/main/java/com/airbnb/epoxy/GeneratedModelWriter.kt" timestamp="1543914067293">
+        <mark key="[" line="1106" column="0" />
+        <mark key="]" line="1106" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginProcessor.kt" timestamp="1543902649583">
         <mark key="[" line="10" column="77" />
         <mark key="]" line="10" column="85" />
         <mark key="." line="10" column="85" />
         <mark key="^" line="10" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1543911688512">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1543915183163">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/exhibit/ExhibitCategoryFragment.kt" timestamp="1543901094045">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="47" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/navigation/mobile_navigation.xml" timestamp="1543577093504">
+        <mark key="'" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/remote/AuthRemoteDataStore.kt" timestamp="1543902598053">
         <mark key="[" line="22" column="0" />
@@ -137,7 +161,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.0.0/c158207594782b42f3a2e08a5a029eb3319e4404/lifecycle-livedata-core-2.0.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1543899799531" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/645b95386a07be66eef0bfe7007535e3f95ec642/core-common-2.0.0-sources.jar!/androidx/arch/core/internal/SafeIterableMap.java" timestamp="1543899960370" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/team.itome/owl/0.0.4/24690c5db9fec395e20bb9089da9c475af881ded/owl-0.0.4-sources.jar!/team/itome/owl/OwlProcessor.kt" timestamp="1543900454198" />
-      <file name="$USER_HOME$/Projects/epoxy/epoxy-processor/src/main/java/com/airbnb/epoxy/KotlinModelBuilderExtensionWriter.kt" timestamp="1543911187515" />
+      <file name="$USER_HOME$/Projects/epoxy/epoxy-processor/src/main/java/com/airbnb/epoxy/KotlinModelBuilderExtensionWriter.kt" timestamp="1543914101264">
+        <mark key="[" line="120" column="45" />
+        <mark key="]" line="120" column="53" />
+        <mark key="." line="120" column="53" />
+        <mark key="^" line="120" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteProcessorHolder.kt" timestamp="1543840115824">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="43" />
@@ -156,6 +185,9 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/playground/PlaygroundFragment.kt" timestamp="1543805098725">
+        <mark key="'" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1543910021986">
         <mark key="[" line="41" column="87" />
@@ -187,6 +219,9 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/BaseViewModel.kt" timestamp="1543840770099">
+        <mark key="'" line="19" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/util/ext/ViewExt.kt" timestamp="1543905208209">
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
@@ -194,11 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="30" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/MyBetRepositoryTest.kt" />
-      <jump line="20" column="29" filename="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" />
-      <jump line="38" column="4" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/remote/ImageTest.kt" />
-      <jump line="75" column="8" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/data/repository/UserRepositoryTest.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/TextBindingAdaptersTest.kt" />
       <jump line="96" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/src/test/kotlin/bet/superchoice/ui/component/binding/TextBindingAdaptersTest.kt" />
       <jump line="93" column="1" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.9.5/46f703fb4266140c544d48a189cb25947eb6333e/mockito-core-1.9.5-sources.jar!/org/mockito/Spy.java" />
       <jump line="254" column="45" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
@@ -294,43 +324,48 @@
       <jump line="86" column="27" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/login/LoginFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/login/LoginFragment.kt" />
       <jump line="109" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/login/LoginFragment.kt" />
+      <jump line="193" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/kotlinpoet/1.0.0-RC2/dcfb724ff7d15f285c6cc77a3f57481fcd27546d/kotlinpoet-1.0.0-RC2-sources.jar!/com/squareup/kotlinpoet/FileSpec.kt" />
+      <jump line="40" column="15" filename="$USER_HOME$/Projects/epoxy/kotlinsample/src/main/java/com/airbnb/epoxy/kotlinsample/MainActivity.kt" />
+      <jump line="116" column="1" filename="$USER_HOME$/Projects/epoxy/epoxy-processor/src/main/java/com/airbnb/epoxy/KotlinModelBuilderExtensionWriter.kt" />
+      <jump line="105" column="40" filename="$USER_HOME$/Projects/epoxy/epoxy-processor/src/main/java/com/airbnb/epoxy/KotlinModelBuilderExtensionWriter.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/epoxy/kotlinsample/src/main/java/com/airbnb/epoxy/kotlinsample/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGlwc3Rlck1vZGVscy5maW5kIHsgaXQucHJlZGljdGlvbi50aXBzdGVySWQgPT0gc2VsZWN0ZWRUaXBzdGVyIH0/LmFuaW1hdGVTY2FsZVVwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFiaW5kaW5nSXRlbU1vZGVsID0gZGF0YUJpbmRpbmdJdGVtIHsKICAgICAgICAgICAgICAgICAgICBpZCgiZGF0YSBiaW5kaW5nICRpIikKICAgICAgICAgICAgICAgICAgICB0ZXh0KCJ0aGlzIGlzIGEgZGF0YSBiaW5kaW5nIG1vZGVsIikKICAgICAgICAgICAgICAgICAgICBvbkNsaWNrIHsgXyAtPgogICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQE1haW5BY3Rpdml0eSwgImNsaWNrZWQiLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIG9uVmlzaWJpbGl0eVN0YXRlQ2hhbmdlZCB7IG1vZGVsLCB2aWV3LCB2aXNpYmlsaXR5U3RhdGUgLT4KICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiJG1vZGVsIC0+ICR2aXNpYmlsaXR5U3RhdGUiKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RNb2RlbAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIHRpcHN0ZXIgeyAgfQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgRGF0YUJpbmRpbmdJdGVtQmluZGluZ01vZGVsXygpLgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRpcHN0ZXJNb2RlbHMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICh0ZW1FcG94KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkVGlwcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkU3RhdGVtZW50KCIuYWRkVG8odGhpcykiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChzZWxlY3RlZFRpcHN0ZXIgPT0gbnVsbCkgewogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmV1cC5rb3RsaW5wb2V0LioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpcHN0ZXJNb2RlbHMuZmluZCB7IGl0LnByZWRpY3Rpb24udGlwc3RlcklkID09IHNlbGVjdGVkVGlwc3RlciB9Py5hbmltYXRlU2NhbGVEb3duKCkKICAgIHRoaXMuc2VsZWN0ZWRUaXBzdGVyID0gdGlwc3RlcklkCiAgICB0aXBzdGVyTW9kZWxzLmZpbmQgeyBpdC5wcmVkaWN0aW9uLnRpcHN0ZXJJZCA9PSBzZWxlY3RlZFRpcHN0ZXIgfT8uYW5pbWF0ZVNjYWxlVXAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJlZGljdGlvCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybnMobW9kZWxDbGFzcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFCaW5kaW5nSXRlbSB7ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGlwc3RlciB7ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybnMobW9kZWxDbGFzcykK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>modelClass</text>
       </register>
     </registers>
     <search>
@@ -340,8 +375,6 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action CloseEditor</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Find</entry>
         <entry>action GotoImplementation</entry>
@@ -349,14 +382,16 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
         <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action CloseEditor</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
