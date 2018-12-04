@@ -22,11 +22,11 @@
         <mark key="." line="5" column="78" />
         <mark key="^" line="5" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendProcessor.kt" timestamp="1543888954546">
-        <mark key="[" line="11" column="115" />
-        <mark key="]" line="11" column="114" />
-        <mark key="." line="11" column="114" />
-        <mark key="^" line="11" column="114" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendProcessor.kt" timestamp="1543892411092">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+        <mark key="^" line="12" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1543833900924">
         <mark key="[" line="9" column="31" />
@@ -49,12 +49,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/home/productlist/ProductListFragment.kt" timestamp="1543888264621">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="31" column="59" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/home/productlist/ProductListFragment.kt" timestamp="1543892387070">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="39" />
+        <mark key="." line="54" column="39" />
+        <mark key="^" line="54" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionController.kt" timestamp="1543831937463">
         <mark key="[" line="4" column="0" />
@@ -410,42 +410,41 @@
       <jump line="95" column="0" filename="$USER_HOME$/Projects/fremo-android/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">eyBzdGF0ZSAtPgogICAgICBjb250cm9sbGVyLnVwZGF0ZUZhdm9yaXRlUHJvZHVjdExpc3Qoc3RhdGUucHJvZHVjdHMpCiAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkZyZW1vRGVidWciKS5kKHJlc3VsdC50b1N0cmluZygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uU3RhcnQoKSB7CiAgICBzdXBlci5vblN0YXJ0KCkKICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICByZWNvbW1lbmRWaWV3TW9kZWwuZGlzcGF0Y2goUmVjb21tZW5kSW50ZW50LkZldGNoUmVjb21tZW5kSW50ZW50KDApKQogICAgcmVjb21tZW5kVmlld01vZGVsLnN0YXRlLm9ic2VydmVXaXRoKHZpZXdMaWZlY3ljbGVPd25lcikgeyBzdGF0ZSAtPgogICAgICBjb250cm9sbGVyLnVwZGF0ZVByb2R1Y3RMaXN0KHN0YXRlLnByb2R1Y3RzKQogICAgfQoKICAgIGZhdm9yaXRlVmlld01vZGVsLmRpc3BhdGNoKEZhdm9yaXRlSW50ZW50LkZldGNoRmF2b3JpdGVJbnRlbnQpCiAgICBmYXZvcml0ZVZpZXdNb2RlbC5zdGF0ZS5vYnNlcnZlV2l0aCh2aWV3TGlmZWN5Y2xlT3duZXIpIHsgc3RhdGUgLT4KICAgICAgY29udHJvbGxlci51cGRhdGVGYXZvcml0ZVByb2R1Y3RMaXN0KHN0YXRlLnByb2R1Y3RzKQogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIExvZy5kKCJGcmVtb0RlYnVnIiwgcmVzdWx0LnRvU3RyaW5nKCkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uU3RhcnQoKSB7CiAgICBzdXBlci5vblN0YXJ0KCkKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbGF5KDEwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB2YWx1ZSA9IGZhdm9yaXRlUmVwb3NpdG9yeS5nZXRGYXZvcml0ZSgpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICByZWNvbW1lbmRWaWV3TW9kZWwuZGlzcGF0Y2goUmVjb21tZW5kSW50ZW50LkZldGNoUmVjb21tZW5kSW50ZW50KDApKQogICAgcmVjb21tZW5kVmlld01vZGVsLnN0YXRlLm9ic2VydmVXaXRoKHZpZXdMaWZlY3ljbGVPd25lcikgeyBzdGF0ZSAtPgogICAgICBjb250cm9sbGVyLnVwZGF0ZVByb2R1Y3RMaXN0KHN0YXRlLnByb2R1Y3RzKQogICAgfQoKICAgIGZhdm9yaXRlVmlld01vZGVsLmRpc3BhdGNoKEZhdm9yaXRlSW50ZW50LkZldGNoRmF2b3JpdGVJbnRlbnQpCiAgICBmYXZvcml0ZVZpZXdNb2RlbC5zdGF0ZS5vYnNlcnZlV2l0aCh2aWV3TGlmZWN5Y2xlT3duZXIpIHsgc3RhdGUgLT4KICAgICAgY29udHJvbGxlci51cGRhdGVGYXZvcml0ZVByb2R1Y3RMaXN0KHN0YXRlLnByb2R1Y3RzKQogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlbGF5KDEwKQo=</text>
+        <text encoding="base64">ICAgIGRlbGF5KDEwMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlbGF5KDEwKQo=</text>
+        <text encoding="base64">ICAgIHZhbCB2YWx1ZSA9IGZhdm9yaXRlUmVwb3NpdG9yeS5nZXRGYXZvcml0ZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZhdm9yaXRlVmlld01vZGVsLnN0YXRlLmF1dG9EaXNwb3NhYmxlKHRoaXMuc2NvcGUoKSkuc3Vic2NyaWJlIHsgc3RhdGUgLT4KICAgICAgY29udHJvbGxlci51cGRhdGVGYXZvcml0ZVByb2R1Y3RMaXN0KHN0YXRlLnByb2R1Y3RzKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGRlbGF5KDEwKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlbGF5KDEwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>result.toString()</text>
       </register>
     </registers>
     <search>
@@ -460,15 +459,15 @@
         <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action Back</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Debug</entry>
         <entry>action Find</entry>
         <entry>action GotoImplementation</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Debug</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
