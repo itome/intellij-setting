@@ -40,11 +40,11 @@
         <mark key="." line="15" column="63" />
         <mark key="^" line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1543983900081">
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="37" column="31" />
-        <mark key="." line="37" column="31" />
-        <mark key="^" line="37" column="31" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1543984949487">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="36" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/epoxy/kotlinsample/build/generated/source/kapt/debug/com/airbnb/epoxy/kotlinsample/EpoxyModelKotlinExtensions.kt" timestamp="1543914753921">
         <mark key="[" line="8" column="109" />
@@ -143,7 +143,7 @@
         <mark key="." line="10" column="85" />
         <mark key="^" line="10" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1543916661548">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1543985072494">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="9" />
         <mark key="]" line="24" column="16" />
@@ -227,12 +227,12 @@
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/playground/PlaygroundFragment.kt" timestamp="1543805098725">
         <mark key="'" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1543983859239">
-        <mark key="'" line="49" column="98" />
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="19" column="36" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1543985007396">
+        <mark key="'" line="50" column="98" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="36" />
+        <mark key="^" line="20" column="36" />
+        <mark key="." line="20" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryIntent.kt" timestamp="1543900469652">
         <mark key="[" line="4" column="30" />
@@ -369,37 +369,37 @@
         <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQoCiAgICAgIHJvb3RWaWV3Lm1lYXN1cmVkV2lkdGgsCiAgICAgIChyb290Vmlldy5tZWFzdXJlZFdpZHRoLnRvRmxvYXQoKSAqIFNDQUxFKS50b0ludCgpCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQocm9vdFZpZXcubWVhc3VyZWRXaWR0aCwgcm9vdFZpZXcubWVhc3VyZWRXaWR0aCAvIFNDQUxFKQo=</text>
+        <text encoding="base64">ICA8IS0tIFRPRE86IEFkZCBmcmFtZSB3aXRoIGdsaWRlIC0tPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQocm9vdFZpZXcubWVhc3VyZWRXaWR0aCwgcm9vdFZpZXcubWVhc3VyZWRXaWR0aCAvIFNDQUxFKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQocm9vdFZpZXcubWVhc3VyZWRXaWR0aCwgcm9vdFZpZXcubWVhc3VyZWRXaWR0aCAvIFNDQUxFKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0dXMK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSI0ZHAiCg==</text>
+        <text encoding="base64">ICBzdGF0dXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8c3Ryb2tlCiAgICBhbmRyb2lkOndpZHRoPSIyZHAiCiAgICBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSI0ZHAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6ZGFzaFdpZHRoPSIyZHAiCg==</text>
+        <text encoding="base64">ICA8c3Ryb2tlCiAgICBhbmRyb2lkOndpZHRoPSIyZHAiCiAgICBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6ZGFzaEdhcD0iMmRwIgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6ZGFzaFdpZHRoPSIyZHAiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>200</text>
       </register>
     </registers>
     <search>
@@ -418,15 +418,15 @@
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
         <entry>action CloseEditor</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
