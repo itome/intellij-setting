@@ -401,7 +401,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action FindInPath</text>
       </register>
       <register name="-" type="4">
         <text>spinner_prediction_race</text>
@@ -424,7 +424,6 @@
         <entry>action ParameterInfo</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action SearchEverywhere</entry>
@@ -432,6 +431,7 @@
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
