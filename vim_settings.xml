@@ -40,11 +40,11 @@
         <mark key="." line="15" column="63" />
         <mark key="^" line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1543919726096">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="17" column="28" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1543983900081">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="37" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/epoxy/kotlinsample/build/generated/source/kapt/debug/com/airbnb/epoxy/kotlinsample/EpoxyModelKotlinExtensions.kt" timestamp="1543914753921">
         <mark key="[" line="8" column="109" />
@@ -227,12 +227,12 @@
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/playground/PlaygroundFragment.kt" timestamp="1543805098725">
         <mark key="'" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1543920435137">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1543983859239">
         <mark key="'" line="49" column="98" />
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryIntent.kt" timestamp="1543900469652">
         <mark key="[" line="4" column="30" />
@@ -396,10 +396,10 @@
         <text encoding="base64">ICAgIGFuZHJvaWQ6ZGFzaEdhcD0iMmRwIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>1 / 11</text>
+        <text>11</text>
       </register>
     </registers>
     <search>
@@ -418,15 +418,15 @@
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
         <entry>action CloseEditor</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ParameterInfo</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
