@@ -76,15 +76,19 @@
         <mark key="." line="48" column="32" />
         <mark key="^" line="48" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_design_mock.xml" timestamp="1543989325941">
+        <mark key="[" line="418" column="0" />
+        <mark key="]" line="420" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_message_list.xml" timestamp="1543833235350">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" timestamp="1543920049032">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="21" column="53" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" timestamp="1543989362780">
+        <mark key="[" line="47" column="9" />
+        <mark key="]" line="47" column="9" />
+        <mark key="." line="47" column="9" />
+        <mark key="^" line="47" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/search/SearchFragment.kt" timestamp="1543901054750">
         <mark key="[" line="46" column="0" />
@@ -366,40 +370,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQoCiAgICAgIHJvb3RWaWV3Lm1lYXN1cmVkV2lkdGgsCiAgICAgIChyb290Vmlldy5tZWFzdXJlZFdpZHRoLnRvRmxvYXQoKSAqIFNDQUxFKS50b0ludCgpCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmVudHJpZXM9IkBhcnJheS9zcGlubmVyX3ZhbHVlcyIKICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0idHJ1ZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8IS0tIFRPRE86IEFkZCBmcmFtZSB3aXRoIGdsaWRlIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICB0b29sczplbnRyaWVzPSJAYXJyYXkvc3Bpbm5lcl92YWx1ZXMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQocm9vdFZpZXcubWVhc3VyZWRXaWR0aCwgcm9vdFZpZXcubWVhc3VyZWRXaWR0aCAvIFNDQUxFKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjE2ZHAiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IjE2ZHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQocm9vdFZpZXcubWVhc3VyZWRXaWR0aCwgcm9vdFZpZXcubWVhc3VyZWRXaWR0aCAvIFNDQUxFKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjE2ZHAiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IjE2ZHAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICA8IS0tIFRPRE86IEFkZCBmcmFtZSB3aXRoIGdsaWRlIC0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQocm9vdFZpZXcubWVhc3VyZWRXaWR0aCwgcm9vdFZpZXcubWVhc3VyZWRXaWR0aCAvIFNDQUxFKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0dXMK</text>
+        <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQocm9vdFZpZXcubWVhc3VyZWRXaWR0aCwgcm9vdFZpZXcubWVhc3VyZWRXaWR0aCAvIFNDQUxFKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSI0ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8c3Ryb2tlCiAgICBhbmRyb2lkOndpZHRoPSIyZHAiCiAgICBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAvPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6ZGFzaFdpZHRoPSIyZHAiCg==</text>
+        <text encoding="base64">ICBzdGF0dXMK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text encoding="base64">ID4=</text>
       </register>
     </registers>
     <search>
@@ -414,7 +418,6 @@
         <entry>action GotoImplementation</entry>
         <entry>action Debug</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
-        <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
         <entry>action CloseEditor</entry>
@@ -422,11 +425,12 @@
         <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action FindInPath</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
