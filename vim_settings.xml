@@ -63,12 +63,6 @@
         <mark key="." line="42" column="14" />
         <mark key="^" line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/di/AppModule.kt" timestamp="1543902707652">
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="32" />
-        <mark key="." line="48" column="32" />
-        <mark key="^" line="48" column="25" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteProcessor.kt" timestamp="1543887460990">
         <mark key="[" line="9" column="110" />
         <mark key="]" line="9" column="109" />
@@ -525,7 +519,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>KeirinRaceProtoKeirinRace</text>
@@ -545,7 +539,6 @@
         <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
@@ -553,9 +546,10 @@
         <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
