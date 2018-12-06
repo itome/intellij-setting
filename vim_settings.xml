@@ -4,10 +4,16 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1544082131349">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/setting/SettingFragment.kt" timestamp="1544081476440">
+        <mark key="[" line="53" column="50" />
+        <mark key="]" line="53" column="74" />
+        <mark key="." line="53" column="74" />
+        <mark key="^" line="53" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_home.xml" timestamp="1544006733264">
         <mark key="[" line="6" column="33" />
@@ -15,18 +21,47 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/themes.xml" timestamp="1544007019298" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryProcessor.kt" timestamp="1543900963144">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build/generated/source/kapt/developDebug/jp/co/cyberagent/winticket/mobile/ui/prediction/model/EpoxyModelKotlinExtensions.kt" timestamp="1543915179636">
+        <mark key="[" line="8" column="86" />
+        <mark key="]" line="8" column="85" />
+        <mark key="^" line="8" column="85" />
+        <mark key="." line="8" column="85" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryViewModel.kt" timestamp="1543900811855">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="22" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/epoxy/kotlinsample/src/main/java/com/airbnb/epoxy/kotlinsample/MainActivity.kt" timestamp="1543914897651">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="42" column="17" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendProcessor.kt" timestamp="1543895980553">
         <mark key="[" line="15" column="53" />
         <mark key="]" line="15" column="63" />
         <mark key="." line="15" column="63" />
         <mark key="^" line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1544076703179">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="54" />
-        <mark key="." line="16" column="54" />
-        <mark key="^" line="16" column="54" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1544088405040">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="42" column="47" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="35" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/epoxy/kotlinsample/build/generated/source/kapt/debug/com/airbnb/epoxy/kotlinsample/EpoxyModelKotlinExtensions.kt" timestamp="1543914753921">
+        <mark key="[" line="8" column="109" />
+        <mark key="]" line="8" column="108" />
+        <mark key="^" line="8" column="108" />
+        <mark key="." line="8" column="108" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_purchase_history.xml" timestamp="1543576256145">
         <mark key="[" line="1" column="1" />
@@ -71,11 +106,42 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteState.kt" timestamp="1543840091105">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/colors.xml" timestamp="1543997043744">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteProcessor.kt" timestamp="1543887460990">
         <mark key="[" line="9" column="110" />
         <mark key="]" line="9" column="109" />
         <mark key="." line="9" column="109" />
         <mark key="^" line="9" column="109" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" timestamp="1544087963595">
+        <mark key="'" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/search/SearchFragment.kt" timestamp="1543901054750">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="43" column="5" />
+      </file>
+      <file name="/fragment.kt" timestamp="1544002329442">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryAction.kt" timestamp="1543900514640">
+        <mark key="[" line="8" column="78" />
+        <mark key="]" line="8" column="94" />
+        <mark key="." line="8" column="94" />
+        <mark key="^" line="8" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginIntent.kt" timestamp="1543901970107">
         <mark key="[" line="5" column="27" />
@@ -83,15 +149,36 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/team.itome/owl/0.0.4/24690c5db9fec395e20bb9089da9c475af881ded/owl-0.0.4-sources.jar!/team/itome/owl/OwlViewModel.kt" timestamp="1543900374062" />
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/values-v23/styles.xml" timestamp="1544006259508" />
-      <file name="$USER_HOME$/Projects/epoxy/epoxy-processor/src/main/java/com/airbnb/epoxy/EpoxyProcessor.java" timestamp="1543912187171" />
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1544076443682">
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/repository/AuthRepository.kt" timestamp="1543902465404">
+        <mark key="[" line="7" column="74" />
+        <mark key="]" line="7" column="74" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/remote/RecommendService.kt" timestamp="1543838667007">
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+        <mark key="^" line="5" column="85" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteIntent.kt" timestamp="1543839764939">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginProcessor.kt" timestamp="1543902649583">
+        <mark key="[" line="10" column="77" />
+        <mark key="]" line="10" column="85" />
+        <mark key="." line="10" column="85" />
+        <mark key="^" line="10" column="85" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1544089269781">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="89" />
-        <mark key="]" line="42" column="88" />
-        <mark key="." line="42" column="88" />
-        <mark key="^" line="42" column="88" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendState.kt" timestamp="1543837416270">
         <mark key="[" line="9" column="29" />
@@ -105,17 +192,46 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="47" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/repository/KeirinRepository.kt" timestamp="1544001529000">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="54" column="90" />
+        <mark key="]" line="54" column="106" />
+        <mark key="^" line="54" column="106" />
+        <mark key="." line="54" column="106" />
+      </file>
       <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1543817326202">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="18" column="55" />
         <mark key="." line="18" column="55" />
         <mark key="^" line="18" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/remote/AuthRemoteDataStore.kt" timestamp="1543902598053">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/dimens.xml" timestamp="1544076642492">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/widget/SquareView.kt" timestamp="1544080011508">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="11" column="56" />
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginAction.kt" timestamp="1543902033858">
+        <mark key="[" line="9" column="81" />
+        <mark key="]" line="9" column="81" />
+        <mark key="." line="9" column="81" />
+        <mark key="^" line="9" column="81" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_cup_header.xml" timestamp="1544087959128">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginViewModel.kt" timestamp="1543902290972">
         <mark key="[" line="25" column="0" />
@@ -135,6 +251,24 @@
         <mark key="^" line="36" column="98" />
         <mark key="." line="36" column="98" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipstarSelectorView.kt" timestamp="1543833106070">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/repository/Keirin.kt" timestamp="1544001543380">
+        <mark key="[" line="3" column="81" />
+        <mark key="]" line="3" column="97" />
+        <mark key="^" line="3" column="97" />
+        <mark key="." line="3" column="97" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendAction.kt" timestamp="1543836429327">
+        <mark key="[" line="8" column="71" />
+        <mark key="]" line="8" column="71" />
+        <mark key="." line="8" column="71" />
+        <mark key="^" line="8" column="71" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/remote/KeirinDataSource.kt" timestamp="1544001510951">
         <mark key="'" line="126" column="49" />
         <mark key="[" line="125" column="75" />
@@ -148,8 +282,6 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/team.itome/owl/0.0.4/24690c5db9fec395e20bb9089da9c475af881ded/owl-0.0.4-sources.jar!/team/itome/owl/OwlProcessor.kt" timestamp="1543900454198" />
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginResult.kt" timestamp="1543901981463" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/shape_black_oval_stroke2.xml" timestamp="1543917949302">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="8" />
@@ -159,6 +291,18 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/repository/Recommend.kt" timestamp="1543839003709">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryState.kt" timestamp="1543900794669">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteAction.kt" timestamp="1543887511117">
         <mark key="[" line="6" column="30" />
@@ -172,6 +316,18 @@
         <mark key="]" line="116" column="50" />
         <mark key="." line="116" column="50" />
         <mark key="^" line="116" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1544089758189">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="23" />
+        <mark key="." line="47" column="23" />
+        <mark key="^" line="47" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendIntent.kt" timestamp="1543835462743">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionViewModel.kt" timestamp="1544001584089">
         <mark key="[" line="15" column="25" />
@@ -203,182 +359,17 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendProcessorHolder.kt" timestamp="1543835598132">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="10" column="68" />
-        <mark key="^" line="10" column="68" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/setting/SettingFragment.kt" timestamp="1544081476440">
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="53" column="74" />
-        <mark key="." line="53" column="74" />
-        <mark key="^" line="53" column="74" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryProcessor.kt" timestamp="1543900963144">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build/generated/source/kapt/developDebug/jp/co/cyberagent/winticket/mobile/ui/prediction/model/EpoxyModelKotlinExtensions.kt" timestamp="1543915179636">
-        <mark key="[" line="8" column="86" />
-        <mark key="]" line="8" column="85" />
-        <mark key="^" line="8" column="85" />
-        <mark key="." line="8" column="85" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryViewModel.kt" timestamp="1543900811855">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="22" column="80" />
-      </file>
-      <file name="$USER_HOME$/Projects/epoxy/kotlinsample/src/main/java/com/airbnb/epoxy/kotlinsample/MainActivity.kt" timestamp="1543914897651">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="42" column="17" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/epoxy/kotlinsample/build/generated/source/kapt/debug/com/airbnb/epoxy/kotlinsample/EpoxyModelKotlinExtensions.kt" timestamp="1543914753921">
-        <mark key="[" line="8" column="109" />
-        <mark key="]" line="8" column="108" />
-        <mark key="^" line="8" column="108" />
-        <mark key="." line="8" column="108" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1544079349912" />
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteState.kt" timestamp="1543840091105">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/colors.xml" timestamp="1543997043744">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" timestamp="1544084608692">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/search/SearchFragment.kt" timestamp="1543901054750">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="43" column="5" />
-      </file>
-      <file name="/fragment.kt" timestamp="1544002329442">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryAction.kt" timestamp="1543900514640">
-        <mark key="[" line="8" column="78" />
-        <mark key="]" line="8" column="94" />
-        <mark key="." line="8" column="94" />
-        <mark key="^" line="8" column="94" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/repository/AuthRepository.kt" timestamp="1543902465404">
-        <mark key="[" line="7" column="74" />
-        <mark key="]" line="7" column="74" />
-        <mark key="^" line="7" column="61" />
-        <mark key="." line="7" column="74" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/remote/RecommendService.kt" timestamp="1543838667007">
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="5" column="58" />
-        <mark key="." line="5" column="58" />
-        <mark key="^" line="5" column="85" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteIntent.kt" timestamp="1543839764939">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginProcessor.kt" timestamp="1543902649583">
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="10" column="85" />
-        <mark key="." line="10" column="85" />
-        <mark key="^" line="10" column="85" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/repository/KeirinRepository.kt" timestamp="1544001529000">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="54" column="90" />
-        <mark key="]" line="54" column="106" />
-        <mark key="^" line="54" column="106" />
-        <mark key="." line="54" column="106" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/remote/AuthRemoteDataStore.kt" timestamp="1543902598053">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="41" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/dimens.xml" timestamp="1544076642492">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginAction.kt" timestamp="1543902033858">
-        <mark key="[" line="9" column="81" />
-        <mark key="]" line="9" column="81" />
-        <mark key="." line="9" column="81" />
-        <mark key="^" line="9" column="81" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.0.0/c158207594782b42f3a2e08a5a029eb3319e4404/lifecycle-livedata-core-2.0.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1543899799531" />
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipstarSelectorView.kt" timestamp="1543833106070">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/repository/Keirin.kt" timestamp="1544001543380">
-        <mark key="[" line="3" column="81" />
-        <mark key="]" line="3" column="97" />
-        <mark key="^" line="3" column="97" />
-        <mark key="." line="3" column="97" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendAction.kt" timestamp="1543836429327">
-        <mark key="[" line="8" column="71" />
-        <mark key="]" line="8" column="71" />
-        <mark key="." line="8" column="71" />
-        <mark key="^" line="8" column="71" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/645b95386a07be66eef0bfe7007535e3f95ec642/core-common-2.0.0-sources.jar!/androidx/arch/core/internal/SafeIterableMap.java" timestamp="1543899960370" />
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/repository/Recommend.kt" timestamp="1543839003709">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryState.kt" timestamp="1543900794669">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1544079048460">
-        <mark key="'" line="54" column="54" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="47" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendIntent.kt" timestamp="1543835462743">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-        <mark key="^" line="4" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/identification/IdentificationFragment.kt" timestamp="1543837684786">
         <mark key="[" line="26" column="72" />
         <mark key="]" line="26" column="72" />
         <mark key="." line="26" column="72" />
         <mark key="^" line="26" column="72" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendProcessorHolder.kt" timestamp="1543835598132">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="10" column="68" />
+        <mark key="^" line="10" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/util/ext/LiveDataExt.kt" timestamp="1543838512814">
         <mark key="[" line="7" column="35" />
@@ -491,40 +482,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6c3RhdHVzQmFyQ29sb3IiPkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50PC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdHJhaW50UmF0aW8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxhY3Rpb24KICAgICAgYW5kcm9pZDppZD0iQCtpZC90b19wcmVkaWN0aW9uIgogICAgICBhcHA6ZGVzdGluYXRpb249IkBpZC9mcmFnbWVudF9wcmVkaWN0aW9uIgogICAgICBhcHA6ZW50ZXJBbmltPSJAYW5pbS9uYXZfZGVmYXVsdF9lbnRlcl9hbmltIgogICAgICBhcHA6ZXhpdEFuaW09IkBhbmltL25hdl9kZWZhdWx0X2V4aXRfYW5pbSIKICAgICAgYXBwOnBvcEVudGVyQW5pbT0iQGFuaW0vbmF2X2RlZmF1bHRfcG9wX2VudGVyX2FuaW0iCiAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vbmF2X2RlZmF1bHRfcG9wX2V4aXRfYW5pbSIKICAgICAgLz4K</text>
+        <text encoding="base64">ICAgIHZhbCBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZJbnQoc21hbGxJY29uV2lkdGgsIGxhcmdlSWNvbldpZHRoKQogICAgYW5pbWF0b3IuZHVyYXRpb24gPSBEVVJBVElPTgogICAgYW5pbWF0b3IuYWRkVXBkYXRlTGlzdGVuZXIgewogICAgICByb290Vmlldy5sYXlvdXRQYXJhbXMgPSByb290Vmlldy5sYXlvdXRQYXJhbXMuYXBwbHkgeyB3aWR0aCA9IGl0LmFuaW1hdGVkVmFsdWUgYXMgSW50IH0KICAgIH0KICAgIGFuaW1hdG9yLnN0YXJ0KCkKICAgIGZyYW1lVmlldy5pc1Zpc2libGUgPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAuc2VsZWN0ZWQoaXQudGlwc3RlcklkID09IHNlbGVjdGVkVGlwc3RlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEFkZCBwcmVkaWN0aW9uIGZyYWdtZW50Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIGlmIChzZWxlY3RlZFRpcHN0ZXIgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo8bGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+CiAgPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgID4KICA8L2FuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQ+Cj4+Pj4+Pj4gQWRkIHByZWRpY3Rpb24gZnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEFkZCBwcmVkaWN0aW9uIGZyYWdtZW50Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIGlmIChzZWxlY3RlZFRpcHN0ZXIgPT0gKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEFkZCBwcmVkaWN0aW9uIGZyYWdtZW50Cg==</text>
+        <text encoding="base64">CiAgICBpZiAoc2VsZWN0ZWQpIHsKICAgICAgYW5pbWF0ZVNjYWxlVXAoKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Find</text>
       </register>
       <register name="-" type="4">
-        <text>HomeFragmentDirections</text>
+        <text>match_parent</text>
       </register>
     </registers>
     <search>
@@ -539,19 +530,19 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
         <entry>action CloseEditor</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action RenameElement</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action FindInPath</entry>
         <entry>action Back</entry>
+        <entry>action GotoAction</entry>
+        <entry>action FindInPath</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
