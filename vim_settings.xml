@@ -322,11 +322,12 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1544076748462">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1544077467232">
         <mark key="'" line="52" column="98" />
         <mark key="[" line="34" column="38" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="]" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="36" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendIntent.kt" timestamp="1543835462743">
         <mark key="[" line="4" column="31" />
@@ -481,7 +482,7 @@
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Find</text>
       </register>
       <register name="-" type="4">
         <text>88dp</text>
@@ -499,7 +500,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
         <entry>action CloseEditor</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Find</entry>
         <entry>action RenameElement</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -510,8 +510,9 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
