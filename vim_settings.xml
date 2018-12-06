@@ -3,16 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1544082131349">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_home.xml" timestamp="1544006733264">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="7" column="34" />
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_favorite_history.xml" timestamp="1543576315439">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/themes.xml" timestamp="1544007019298" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendProcessor.kt" timestamp="1543895980553">
@@ -65,10 +66,10 @@
         <mark key="." line="42" column="14" />
         <mark key="^" line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" timestamp="1544080052968">
-        <mark key="[" line="399" column="0" />
-        <mark key="]" line="399" column="0" />
-        <mark key="." line="399" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" timestamp="1544082183963">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteProcessor.kt" timestamp="1543887460990">
         <mark key="[" line="9" column="110" />
@@ -134,11 +135,6 @@
         <mark key="^" line="36" column="98" />
         <mark key="." line="36" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/remote/RecommendRemoteDataStore.kt" timestamp="1543840556503">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/remote/KeirinDataSource.kt" timestamp="1544001510951">
         <mark key="'" line="126" column="49" />
         <mark key="[" line="125" column="75" />
@@ -154,10 +150,15 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/team.itome/owl/0.0.4/24690c5db9fec395e20bb9089da9c475af881ded/owl-0.0.4-sources.jar!/team/itome/owl/OwlProcessor.kt" timestamp="1543900454198" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginResult.kt" timestamp="1543901981463" />
-      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" timestamp="1543820570361">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/shape_black_oval_stroke2.xml" timestamp="1543917949302">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_black_oval_stroke2.xml" timestamp="1543919469453">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteAction.kt" timestamp="1543887511117">
         <mark key="[" line="6" column="30" />
@@ -208,6 +209,17 @@
         <mark key="." line="10" column="68" />
         <mark key="^" line="10" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/setting/SettingFragment.kt" timestamp="1544081476440">
+        <mark key="[" line="53" column="50" />
+        <mark key="]" line="53" column="74" />
+        <mark key="." line="53" column="74" />
+        <mark key="^" line="53" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryProcessor.kt" timestamp="1543900963144">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build/generated/source/kapt/developDebug/jp/co/cyberagent/winticket/mobile/ui/prediction/model/EpoxyModelKotlinExtensions.kt" timestamp="1543915179636">
         <mark key="[" line="8" column="86" />
         <mark key="]" line="8" column="85" />
@@ -234,16 +246,6 @@
         <mark key="." line="8" column="108" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1544079349912" />
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/remote/FavoriteRemoteDataStore.kt" timestamp="1543841035385">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionController.kt" timestamp="1543831937463">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteState.kt" timestamp="1543840091105">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="28" />
@@ -255,6 +257,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" timestamp="1544082153747">
+        <mark key="'" line="190" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/search/SearchFragment.kt" timestamp="1543901054750">
         <mark key="[" line="46" column="0" />
@@ -334,11 +342,6 @@
         <mark key="^" line="3" column="97" />
         <mark key="." line="3" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_rotation.xml" timestamp="1543816623676">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="43" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendAction.kt" timestamp="1543836429327">
         <mark key="[" line="8" column="71" />
         <mark key="]" line="8" column="71" />
@@ -385,8 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="20" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
-      <jump line="135" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/build.gradle" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/build.gradle" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_exhibit_history.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_exhibit_history.xml" />
@@ -485,43 +486,45 @@
       <jump line="11" column="10" filename="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/repository/Keirin.kt" />
       <jump line="84" column="37" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
       <jump line="57" column="54" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6c3RhdHVzQmFyQ29sb3IiPkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50PC9pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgcHJlZGljdGlvbiBmcmFnbWVudAo=</text>
+        <text encoding="base64">ICAgIDxhY3Rpb24KICAgICAgYW5kcm9pZDppZD0iQCtpZC90b19wcmVkaWN0aW9uIgogICAgICBhcHA6ZGVzdGluYXRpb249IkBpZC9mcmFnbWVudF9wcmVkaWN0aW9uIgogICAgICBhcHA6ZW50ZXJBbmltPSJAYW5pbS9uYXZfZGVmYXVsdF9lbnRlcl9hbmltIgogICAgICBhcHA6ZXhpdEFuaW09IkBhbmltL25hdl9kZWZhdWx0X2V4aXRfYW5pbSIKICAgICAgYXBwOnBvcEVudGVyQW5pbT0iQGFuaW0vbmF2X2RlZmF1bHRfcG9wX2VudGVyX2FuaW0iCiAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vbmF2X2RlZmF1bHRfcG9wX2V4aXRfYW5pbSIKICAgICAgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEFkZCBwcmVkaWN0aW9uIGZyYWdtZW50Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB3aWR0aE1vZGUgPSBNZWFzdXJlU3BlYy5nZXRNb2RlKHdpZHRoTWVhc3VyZVNwZWMpCiAgICB2YWwgd2lkdGhTaXplID0gTWVhc3VyZVNwZWMuZ2V0U2l6ZSh3aWR0aE1lYXN1cmVTcGVjKQogICAgdmFsIGhlaWdodE1vZGUgPSBNZWFzdXJlU3BlYy5nZXRNb2RlKGhlaWdodE1lYXN1cmVTcGVjKQogICAgdmFsIGhlaWdodFNpemUgPSBNZWFzdXJlU3BlYy5nZXRTaXplKGhlaWdodE1lYXN1cmVTcGVjKQoKICAgIHZhbCBzaXplID0gd2hlbiB7CiAgICAgIHdpZHRoTW9kZSA9PSBNZWFzdXJlU3BlYy5FWEFDVExZICYmIHdpZHRoU2l6ZSA+IDAgLT4gd2lkdGhTaXplCiAgICAgIGhlaWdodE1vZGUgPT0gTWVhc3VyZVNwZWMuRVhBQ1RMWSAmJiBoZWlnaHRTaXplID4gMCAtPiBoZWlnaHRTaXplCiAgICAgIHdpZHRoU2l6ZSA8IGhlaWdodFNpemUgLT4gd2lkdGhTaXplCiAgICAgIGVsc2UgLT4gaGVpZ2h0U2l6ZQogICAgfQoKICAgIHZhbCBmaW5hbE1lYXN1cmVTcGVjID0gTWVhc3VyZVNwZWMubWFrZU1lYXN1cmVTcGVjKHNpemUsIE1lYXN1cmVTcGVjLkVYQUNUTFkpCiAgICBzdXBlci5vbk1lYXN1cmUoZmluYWxNZWFzdXJlU3BlYywgZmluYWxNZWFzdXJlU3BlYykK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWVhc3VyZWRIZWlnaHQK</text>
+        <text encoding="base64">PT09PT09PQo8bGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+CiAgPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgID4KICA8L2FuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQ+Cj4+Pj4+Pj4gQWRkIHByZWRpY3Rpb24gZnJhZ21lbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldE1lYXN1cmVkCg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEFkZCBwcmVkaWN0aW9uIGZyYWdtZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFNlbGVjdGVkIEljb24gU2l6ZSA6IERlc2VsZWN0ZWQgSWNvbiBTaXplID0gIDg4IDogNDgKICAgIHByaXZhdGUgY29uc3QgdmFsIFNDQUxFID0gMTFGIC8gNkYK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKICBwcml2YXRlIHZhciAK</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEFkZCBwcmVkaWN0aW9uIGZyYWdtZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBzZWxlY3RlZEljb25TaXplOiBJbnQgYnkgbGF6eSB7CiAgICBjb250ZXh0CiAgfQoK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>HomeFragmentDirections</text>
       </register>
     </registers>
     <search>
@@ -540,15 +543,15 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
