@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1544427016328">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1544429145472">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/setting/SettingFragment.kt" timestamp="1544422832100">
         <mark key="'" line="0" column="51" />
@@ -470,31 +470,31 @@
         <text encoding="base64">CiAgcHJpdmF0ZSB2YXIgc2VsZWN0ZWRUaXBzdGVyOiBTdHJpbmc/ID0gbnVsbAogICAgc2V0KHZhbHVlKSB7CiAgICAgIGlmICh2YWx1ZSA9PSBmaWVsZCkgcmV0dXJuCiAgICAgIHRpcHN0ZXJNb2RlbHMuZmluZCB7IGl0LnByZWRpY3Rpb24udGlwc3RlcklkID09IGZpZWxkIH0/LmFuaW1hdGVTY2FsZURvd24oKQogICAgICB0aXBzdGVyTW9kZWxzLmZpbmQgeyBpdC5wcmVkaWN0aW9uLnRpcHN0ZXJJZCA9PSB2YWx1ZSB9Py5hbmltYXRlU2NhbGVVcCgpCiAgICAgIGZpZWxkID0gdmFsdWUKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmFjZS5lbnRyCg==</text>
+        <text encoding="base64">ICAgICAgcmFjZS5wcmVkaWN0aW9uc0xpc3RbMF0uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmFjZS5wbGF5ZXJzTGlzdAo=</text>
+        <text encoding="base64">ICAgICAgcmFjZS5lbnRyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmFjZS5wbGF5ZXJzTGlzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgLy8gVE9ETzogT25seSBmb3Igc2FtcGxlCiAgcHJpdmF0ZSBmdW4gY3JlYXRlUHJlZGljdGlvbnMoKTogTGlzdDxLZWlyaW5Qcm90by5LZWlyaW5HZXRSYWNlUmVzcG9uc2UuUHJlZGljdGlvbj4gewogICAgcmV0dXJuICgwLi40KS5tYXAgeyBpbmRleCAtPgogICAgICBLZWlyaW5Qcm90by5LZWlyaW5HZXRSYWNlUmVzcG9uc2UuUHJlZGljdGlvbi5uZXdCdWlsZGVyKCkuYXBwbHkgewogICAgICAgIHRpcHN0ZXJJZCA9IGluZGV4LnRvU3RyaW5nKCkKICAgICAgICBpY29uID0gImh0dHBzOi8vaW1hZ2VzLmRvZy5jZW8vYnJlZWRzL2RpbmdvL24wMjExNTY0MV81MDQuanBnIgogICAgICB9LmJ1aWxkKCkKICAgIH0KICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVGltYmVyLnRhZyh0aGlzOjpjbGFzcy5qYXZhLnNpbXBsZU5hbWUpLmQocmFjZS50b1N0cmluZygpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpcHN0ZXJDb250cm9sbGVyLnVwZGF0ZVByZWRpY3Rpb25zKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgLy8gVE9ETzogT25seSBmb3Igc2FtcGxlCiAgcHJpdmF0ZSBmdW4gY3JlYXRlUHJlZGljdGlvbnMoKTogTGlzdDxLZWlyaW5Qcm90by5LZWlyaW5HZXRSYWNlUmVzcG9uc2UuUHJlZGljdGlvbj4gewogICAgcmV0dXJuICgwLi40KS5tYXAgeyBpbmRleCAtPgogICAgICBLZWlyaW5Qcm90by5LZWlyaW5HZXRSYWNlUmVzcG9uc2UuUHJlZGljdGlvbi5uZXdCdWlsZGVyKCkuYXBwbHkgewogICAgICAgIHRpcHN0ZXJJZCA9IGluZGV4LnRvU3RyaW5nKCkKICAgICAgICBpY29uID0gImh0dHBzOi8vaW1hZ2VzLmRvZy5jZW8vYnJlZWRzL2RpbmdvL24wMjExNTY0MV81MDQuanBnIgogICAgICB9LmJ1aWxkKCkKICAgIH0KICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgVGltYmVyLnRhZyh0aGlzOjpjbGFzcy5qYXZhLnNpbXBsZU5hbWUpLmQocmFjZS50b1N0cmluZygpKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRpcHN0ZXJDb250cm9sbGVyLnVwZGF0ZVByZWRpY3Rpb25zKCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
