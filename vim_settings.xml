@@ -3,28 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1544082131349">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1544427016328">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/setting/SettingFragment.kt" timestamp="1544081476440">
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="53" column="74" />
-        <mark key="." line="53" column="74" />
-        <mark key="^" line="53" column="74" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/setting/SettingFragment.kt" timestamp="1544422832100">
+        <mark key="'" line="0" column="51" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_home.xml" timestamp="1544006733264">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="7" column="34" />
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryProcessor.kt" timestamp="1543900963144">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build/generated/source/kapt/developDebug/jp/co/cyberagent/winticket/mobile/ui/prediction/model/EpoxyModelKotlinExtensions.kt" timestamp="1543915179636">
         <mark key="[" line="8" column="86" />
@@ -44,8 +39,16 @@
         <mark key="." line="15" column="63" />
         <mark key="^" line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1544088405040">
-        <mark key="]" line="15" column="47" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_setting.xml" timestamp="1544422846276">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1544422942052">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/epoxy/kotlinsample/build/generated/source/kapt/debug/com/airbnb/epoxy/kotlinsample/EpoxyModelKotlinExtensions.kt" timestamp="1543914753921">
         <mark key="[" line="8" column="109" />
@@ -53,11 +56,29 @@
         <mark key="^" line="8" column="108" />
         <mark key="." line="8" column="108" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/res/values/colors.xml" timestamp="1544416924277">
+        <mark key="[" line="101" column="34" />
+        <mark key="]" line="101" column="33" />
+        <mark key="^" line="101" column="33" />
+        <mark key="." line="101" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_white_rounded_corner_radius20.xml" timestamp="1544424509553">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_purchase_history.xml" timestamp="1543576256145">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="6" column="3" />
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/model/CupRacePlayerModel.kt" timestamp="1544418552282">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_prediction_tab.xml" timestamp="1543831411593">
         <mark key="[" line="2" column="52" />
@@ -77,10 +98,9 @@
         <mark key="." line="42" column="14" />
         <mark key="^" line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" timestamp="1544082183963">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" timestamp="1544422994747">
+        <mark key="'" line="383" column="6" />
+        <mark key="^" line="32" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteState.kt" timestamp="1543840091105">
         <mark key="[" line="9" column="28" />
@@ -94,6 +114,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_design_mock.xml" timestamp="1544416027762" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteProcessor.kt" timestamp="1543887460990">
         <mark key="[" line="9" column="110" />
         <mark key="]" line="9" column="109" />
@@ -106,21 +127,11 @@
         <mark key="]" line="233" column="0" />
         <mark key="." line="233" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" timestamp="1544410655366">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="0" />
-        <mark key="." line="358" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/search/SearchFragment.kt" timestamp="1543901054750">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="5" />
-      </file>
-      <file name="/fragment.kt" timestamp="1544002329442">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/category/CategoryAction.kt" timestamp="1543900514640">
         <mark key="[" line="8" column="78" />
@@ -133,6 +144,20 @@
         <mark key="]" line="5" column="35" />
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_cup_race_player.xml" timestamp="1544418559793">
+        <mark key="^" line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_white_rounded_corner_radius12.xml" timestamp="1544424503117">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build/generated/source/kapt/developDebug/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel_.java" timestamp="1544422908937">
+        <mark key="[" line="52" column="93" />
+        <mark key="]" line="52" column="6" />
+        <mark key="^" line="52" column="6" />
+        <mark key="." line="52" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/repository/AuthRepository.kt" timestamp="1543902465404">
         <mark key="[" line="7" column="74" />
@@ -158,11 +183,12 @@
         <mark key="." line="10" column="85" />
         <mark key="^" line="10" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1544089269781">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1544426363701">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="23" column="5" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendState.kt" timestamp="1543837416270">
         <mark key="[" line="9" column="29" />
@@ -188,11 +214,10 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/dimens.xml" timestamp="1544076642492">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="45" />
-        <mark key="^" line="5" column="45" />
-        <mark key="." line="5" column="45" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/dimens.xml" timestamp="1544423163291">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/widget/SquareView.kt" timestamp="1544080011508">
         <mark key="[" line="11" column="56" />
@@ -206,10 +231,6 @@
         <mark key="." line="9" column="81" />
         <mark key="^" line="9" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_cup_header.xml" timestamp="1544087959128">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginViewModel.kt" timestamp="1543902290972">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -221,6 +242,12 @@
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_white_rounded_corner_radius16.xml" timestamp="1544424557626">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/remote/KeirinService.kt" timestamp="1544001486030">
         <mark key="[" line="36" column="82" />
@@ -252,15 +279,8 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/shape_black_oval_stroke2.xml" timestamp="1543917949302">
+      <file name="/Dummy.txt" timestamp="1544424483792">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_black_oval_stroke2.xml" timestamp="1543919469453">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/repository/Recommend.kt" timestamp="1543839003709">
         <mark key="[" line="5" column="18" />
@@ -279,6 +299,13 @@
         <mark key="]" line="6" column="38" />
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1544422926068">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="48" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendIntent.kt" timestamp="1543835462743">
         <mark key="[" line="4" column="31" />
@@ -304,6 +331,7 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/widget/LabelBadgeView.kt" timestamp="1544416483553" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/repository/FavoriteRepository.kt" timestamp="1543840225765">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="9" />
@@ -336,29 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="14" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_favorite_history.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_favorite_history.xml" />
-      <jump line="36" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
-      <jump line="128" column="36" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
-      <jump line="30" column="12" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
-      <jump line="114" column="74" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
-      <jump line="107" column="10" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_playground.xml" />
-      <jump line="17" column="10" filename="$USER_HOME$/Projects/fremo-android/app/src/main/res/navigation/mobile_navigation.xml" />
-      <jump line="0" column="37" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/playground/PlaygroundFragment.kt" />
-      <jump line="98" column="16" filename="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" />
-      <jump line="102" column="0" filename="$USER_HOME$/Projects/SuperChoice/android/app/proguard-rules.pro" />
-      <jump line="17" column="26" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_main.xml" />
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
-      <jump line="22" column="3" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
-      <jump line="55" column="25" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
-      <jump line="98" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
-      <jump line="0" column="1" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_main.xml" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/content_preview.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/content_preview.xml" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_preview.xml" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/res/layout/activity_preview.xml" />
       <jump line="14" column="4" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/PreviewActivity.kt" />
       <jump line="60" column="16" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/PreviewActivity.kt" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera2sample/MainActivity.kt" />
@@ -431,48 +436,71 @@
       <jump line="84" column="37" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
       <jump line="57" column="54" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" />
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
       <jump line="114" column="14" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
       <jump line="155" column="33" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" />
       <jump line="228" column="33" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
+      <jump line="410" column="44" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
+      <jump line="51" column="2" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/TextBindingAdapters.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_cup_race_player.xml" />
+      <jump line="120" column="62" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/test/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/TextBindingAdaptersTest.kt" />
+      <jump line="7" column="31" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/test/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/TextBindingAdaptersTest.kt" />
+      <jump line="122" column="43" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/test/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/TextBindingAdaptersTest.kt" />
+      <jump line="24" column="34" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/test/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/TextBindingAdaptersTest.kt" />
+      <jump line="201" column="14" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_setting.xml" />
+      <jump line="100" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_setting.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_setting.xml" />
+      <jump line="0" column="51" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/setting/SettingFragment.kt" />
+      <jump line="4" column="2" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" />
+      <jump line="50" column="1" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" />
+      <jump line="17" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" />
+      <jump line="383" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_white_rounded_corner_radius12.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_white_rounded_corner_radius12.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/ripple_white_rounded_corner_radius20.xml" />
+      <jump line="731" column="15" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3ZpZXdfcHJlZGljdGlvbl9yYXRlX2RpdmlkZXIiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9FbmRPZj0iQGlkL3RleHRfcHJlZGljdGlvbl9sYWJlbCIK</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSB2YXIgc2VsZWN0ZWRUaXBzdGVyOiBTdHJpbmc/ID0gbnVsbAogICAgc2V0KHZhbHVlKSB7CiAgICAgIGlmICh2YWx1ZSA9PSBmaWVsZCkgcmV0dXJuCiAgICAgIHRpcHN0ZXJNb2RlbHMuZmluZCB7IGl0LnByZWRpY3Rpb24udGlwc3RlcklkID09IGZpZWxkIH0/LmFuaW1hdGVTY2FsZURvd24oKQogICAgICB0aXBzdGVyTW9kZWxzLmZpbmQgeyBpdC5wcmVkaWN0aW9uLnRpcHN0ZXJJZCA9PSB2YWx1ZSB9Py5hbmltYXRlU2NhbGVVcCgpCiAgICAgIGZpZWxkID0gdmFsdWUKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dF9wcmVkaWN0aW9uX2ZpcnN0X2xhYmVsIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3ByZWRpY3Rpb25fZ3JlYXQiCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTZzcCIKICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgcmFjZS5lbnRyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9InByZWRpY3Rpb25fZ3JlYXQiPuKXjjwvc3RyaW5nPgogIDxzdHJpbmcgbmFtZT0icHJlZGljdGlvbl9nb29kIj7il4s8L3N0cmluZz4KICA8c3RyaW5nIG5hbWU9InByZWRpY3Rpb25fbm9ybWFsIj7ilrM8L3N0cmluZz4KICA8c3RyaW5nIG5hbWU9InByZWRpY3Rpb25fYmFkIj7Dlzwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgcmFjZS5wbGF5ZXJzTGlzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9InByZWRpY3Rpb25fZ29vZCI+4peLPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nRW5kNmRwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIDxUZXh0Vmlldwo=</text>
+        <text encoding="base64">CiAgLy8gVE9ETzogT25seSBmb3Igc2FtcGxlCiAgcHJpdmF0ZSBmdW4gY3JlYXRlUHJlZGljdGlvbnMoKTogTGlzdDxLZWlyaW5Qcm90by5LZWlyaW5HZXRSYWNlUmVzcG9uc2UuUHJlZGljdGlvbj4gewogICAgcmV0dXJuICgwLi40KS5tYXAgeyBpbmRleCAtPgogICAgICBLZWlyaW5Qcm90by5LZWlyaW5HZXRSYWNlUmVzcG9uc2UuUHJlZGljdGlvbi5uZXdCdWlsZGVyKCkuYXBwbHkgewogICAgICAgIHRpcHN0ZXJJZCA9IGluZGV4LnRvU3RyaW5nKCkKICAgICAgICBpY29uID0gImh0dHBzOi8vaW1hZ2VzLmRvZy5jZW8vYnJlZWRzL2RpbmdvL24wMjExNTY0MV81MDQuanBnIgogICAgICB9LmJ1aWxkKCkKICAgIH0KICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczp0ZXh0PSJwcmVkaWN0aW9uXyIK</text>
+        <text encoding="base64">ICAgICAgVGltYmVyLnRhZyh0aGlzOjpjbGFzcy5qYXZhLnNpbXBsZU5hbWUpLmQocmFjZS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgeG1sbnM6YmluZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICA+CgogIDxkYXRhPgogICAgPGltcG9ydCB0eXBlPSJqcC5jby5jeWJlcmFnZW50LndpbnRpY2tldC5jb3JlLmRhdGEucHJvdG8uS2VpcmluQ3VwUHJvdG8uS2VpcmluQ3VwR3JhZGUiLz4KICAgIDxpbXBvcnQgdHlwZT0ianAuY28uY3liZXJhZ2VudC53aW50aWNrZXQuY29yZS5kYXRhLnByb3RvLktlaXJpbkN1cFByb3RvLktlaXJpbkN1cC5MYWJlbCIvPgogICAgPHZhcmlhYmxlCiAgICAgIG5hbWU9ImN1cCIKICAgICAgdHlwZT0ianAuY28uY3liZXJhZ2VudC53aW50aWNrZXQuY29yZS5kYXRhLnByb3RvLktlaXJpbkN1cFByb3RvLktlaXJpbkN1cCIKICAgICAgLz4KICA8L2RhdGE+CgogIDxTY3JvbGxWaWV3CiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci93aGl0ZSIKICAgID4KICAgIDxhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0CiAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICA+CiAgICAgIDxhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5HdWlkZWxpbmUKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2d1aWRlbGluZV9wcmVkaWN0aW9uX3N0YXJ0IgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50R3VpZGVfYmVnaW49IjE2ZHAiCiAgICAgICAgLz4KCiAgICAgIDxhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5HdWlkZWxpbmUKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2d1aWRlbGluZV9wcmVkaWN0aW9uX2VuZCIKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEd1aWRlX2VuZD0iMTZkcCIKICAgICAgICAvPgoKICAgICAgPFNwaW5uZXIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NwaW5uZXJfcHJlZGljdGlvbl9zY2hlZHVsZSIKICAgICAgICBzdHlsZT0iQHN0eWxlL0RhdGVTZWxlY3RhYmxlU3Bpbm5lci5MaWdodEdyYXkiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjMyZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNmRwIgogICAgICAgIGFuZHJvaWQ6Y2xpY2thYmxlPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJ0cnVlIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL2d1aWRlbGluZV9wcmVkaWN0aW9uX3N0YXJ0IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgdG9vbHM6ZW50cmllcz0iQGFycmF5L3NwaW5uZXJfdmFsdWVzIgogICAgICAgIC8+CgogICAgICA8U3Bpbm5lcgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc3Bpbm5lcl9wcmVkaWN0aW9uX3JhY2UiCiAgICAgICAgc3R5bGU9IkBzdHlsZS9EYXRlU2VsZWN0YWJsZVNwaW5uZXIuTGlnaHRHcmF5IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI4ZHAiCiAgICAgICAgYW5kcm9pZDpjbGlja2FibGU9InRydWUiCiAgICAgICAgYW5kcm9pZDpmb2N1c2FibGU9InRydWUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9FbmRPZj0iQGlkL3NwaW5uZXJfcHJlZGljdGlvbl9zY2hlZHVsZSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL3NwaW5uZXJfcHJlZGljdGlvbl9zY2hlZHVsZSIKICAgICAgICB0b29sczplbnRyaWVzPSJAYXJyYXkvc3Bpbm5lcl92YWx1ZXMiCiAgICAgICAgLz4KCiAgICAgIDxqcC5jby5jeWJlcmFnZW50LndpbnRpY2tldC5tb2JpbGUudWkuY29tcG9uZW50LndpZGdldC5HcmFkZUJhZGdlVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZ3JhZGVfYmFkZ2VfcHJlZGljdGlvbiIKICAgICAgICBzdHlsZT0iQHN0eWxlL0JhZGdlR3JhZGUuU21hbGwiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyOGRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL2d1aWRlbGluZV9wcmVkaWN0aW9uX3N0YXJ0IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvc3Bpbm5lcl9wcmVkaWN0aW9uX3NjaGVkdWxlIgogICAgICAgIGJpbmQ6Z3JhZGVfdHlwZT0iQHtLZWlyaW5DdXBHcmFkZS5HMn0iCiAgICAgICAgdG9vbHM6aWdub3JlPSJDb250ZW50RGVzY3JpcHRpb24iCiAgICAgICAgLz4KCiAgICAgIDxqcC5jby5jeWJlcmFnZW50LndpbnRpY2tldC5tb2JpbGUudWkuY29tcG9uZW50LndpZGdldC5MYWJlbEJhZGdlVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbGFiZWxfYmFkZ2VfcHJlZGljdGlvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJAaWQvZ3JhZGVfYmFkZ2VfcHJlZGljdGlvbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAaWQvZ3JhZGVfYmFkZ2VfcHJlZGljdGlvbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL2dyYWRlX2JhZGdlX3ByZWRpY3Rpb24iCiAgICAgICAgYmluZDpsYWJlbF90eXBlPSJAe0xhYmVsLkdJUkxTfSIKICAgICAgICB0b29sczppZ25vcmU9IkNvbnRlbnREZXNjcmlwdGlvbiIKICAgICAgICAvPgoKICAgICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0X3ByZWRpY3Rpb25fY3VwX25hbWUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjhkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iOGRwIgogICAgICAgIGFuZHJvaWQ6ZWxsaXBzaXplPSJlbmQiCiAgICAgICAgYW5kcm9pZDpzaW5nbGVMaW5lPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvYmxhY2siCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTZzcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2dyYWRlX2JhZGdlX3ByZWRpY3Rpb24iCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvU3RhcnRPZj0iQGlkL2ltYWdlX3ByZWRpY3Rpb25fYXJyb3dfcmlnaHQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9FbmRPZj0iQGlkL2xhYmVsX2JhZGdlX3ByZWRpY3Rpb24iCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9ncmFkZV9iYWRnZV9wcmVkaWN0aW9uIgogICAgICAgIHRvb2xzOnRleHQ9IuODh+OCpOODquODvOOCueODneODvOODhOiznuS6ieWlquaIpiIKICAgICAgICAvPgoKICAgICAgPEltYWdlVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaW1hZ2VfcHJlZGljdGlvbl9hcnJvd19yaWdodCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMjRkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjI0ZHAiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS92ZWN0b3JfYmFkZ2VfYXJyb3dfcmlnaHQiCiAgICAgICAgYW5kcm9pZDp0aW50PSJAY29sb3IvZGFya19ncmF5IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJAaWQvZ3JhZGVfYmFkZ2VfcHJlZGljdGlvbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQGlkL2d1aWRlbGluZV9wcmVkaWN0aW9uX2VuZCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL2dyYWRlX2JhZGdlX3ByZWRpY3Rpb24iCiAgICAgICAgdG9vbHM6aWdub3JlPSJDb250ZW50RGVzY3JpcHRpb24iCiAgICAgICAgLz4KCiAgICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92aWV3X3ByZWRpY3Rpb25fZGl2aWRlcl9jdXBfbmFtZSIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9wdXJlX2JsYWNrXzEwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvZ3VpZGVsaW5lX3ByZWRpY3Rpb25fZW5kIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL2d1aWRlbGluZV9wcmVkaWN0aW9uX3N0YXJ0IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvZ3JhZGVfYmFkZ2VfcHJlZGljdGlvbiIKICAgICAgICAvPgoKICAgICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0X3ByZWRpY3Rpb25fcmFjZV9uYW1lIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMmRwIgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvYmxhY2siCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTZzcCIKICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfcHJlZGljdGlvbl9zdGFydCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3ZpZXdfcHJlZGljdGlvbl9kaXZpZGVyX2N1cF9uYW1lIgogICAgICAgIHRvb2xzOnRleHQ9IjhSIEHntJrnibnpgbgiCiAgICAgICAgLz4KCiAgICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dF9wcmVkaWN0aW9uX2RhdGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2JsYWNrIgogICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE2c3AiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC90ZXh0X3ByZWRpY3Rpb25fcmFjZV9uYW1lIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvZ3VpZGVsaW5lX3ByZWRpY3Rpb25fZW5kIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvdGV4dF9wcmVkaWN0aW9uX3JhY2VfbmFtZSIKICAgICAgICB0b29sczp0ZXh0PSIyMDE45bm0MTHmnIgxNeaXpSIKICAgICAgICAvPgoKICAgICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0X3ByZWRpY3Rpb25fZGlzdGFuY2UiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjRkcCIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2JsYWNrIgogICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE2c3AiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvZ3VpZGVsaW5lX3ByZWRpY3Rpb25fc3RhcnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90ZXh0X3ByZWRpY3Rpb25fcmFjZV9uYW1lIgogICAgICAgIHRvb2xzOnRleHQ9IjUsNTAwTSA15ZGoIgogICAgICAgIC8+CgogICAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRfcHJlZGljdGlvbl90aW1lIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9ibGFjayIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNnNwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJAaWQvdGV4dF9wcmVkaWN0aW9uX2Rpc3RhbmNlIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvZ3VpZGVsaW5lX3ByZWRpY3Rpb25fZW5kIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvdGV4dF9wcmVkaWN0aW9uX2Rpc3RhbmNlIgogICAgICAgIHRvb2xzOnRleHQ9IueZuui1sCAxMjowMCAg57eg5YiHIDEzOjAwIgogICAgICAgIC8+CgogICAgICA8YW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JlY3ljbGVyX3RpcHN0ZXJfdGFiIgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjI0ZHAiCiAgICAgICAgYXBwOmxheW91dE1hbmFnZXI9ImFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlciIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdGV4dF9wcmVkaWN0aW9uX2Rpc3RhbmNlIgogICAgICAgIC8+CgogICAgICA8VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlld19wcmVkaWN0aW9uX3RpcHN0ZXJfbmFtZV9iYWNrZ3JvdW5kIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNmRwIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2JsYWNrIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJAaWQvdmlld19wcmVkaWN0aW9uX3RpcHN0ZXJfbmFtZV9ib3R0b20iCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9IkBpZC9ndWlkZWxpbmVfcHJlZGljdGlvbl9lbmQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvZ3VpZGVsaW5lX3ByZWRpY3Rpb25fc3RhcnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9yZWN5Y2xlcl90aXBzdGVyX3RhYiIKICAgICAgICAvPgoKICAgICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0X3ByZWRpY3Rpb25fdGlwc3Rlcl9uYW1lIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI4ZHAiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNnNwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvdmlld19wcmVkaWN0aW9uX3RpcHN0ZXJfbmFtZV9iYWNrZ3JvdW5kIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL3ZpZXdfcHJlZGljdGlvbl90aXBzdGVyX25hbWVfYmFja2dyb3VuZCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL3ZpZXdfcHJlZGljdGlvbl90aXBzdGVyX25hbWVfYmFja2dyb3VuZCIKICAgICAgICB0b29sczp0ZXh0PSLjgrjjg6fjg7zjg6DjgrnlsIbou40iCiAgICAgICAgLz4KCiAgICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dF9wcmVkaWN0aW9uX3RpcHN0ZXJfaGlzdG9yeV9jb3VudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iOGRwIgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvZ3JheSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQGlkL3ZpZXdfcHJlZGljdGlvbl90aXBzdGVyX25hbWVfYmFja2dyb3VuZCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC92aWV3X3ByZWRpY3Rpb25fdGlwc3Rlcl9uYW1lX2JhY2tncm91bmQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90ZXh0X3ByZWRpY3Rpb25fdGlwc3Rlcl9uYW1lIgogICAgICAgIHRvb2xzOnRleHQ9IuS7iuaciDEwMOWbnuebruOBruS6iOaDsyIKICAgICAgICAvPgoKICAgICAgPFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZXdfcHJlZGljdGlvbl90aXBzdGVyX25hbWVfYm90dG9tIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI4ZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9IkBpZC9ndWlkZWxpbmVfcHJlZGljdGlvbl9lbmQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvZ3VpZGVsaW5lX3ByZWRpY3Rpb25fc3RhcnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90ZXh0X3ByZWRpY3Rpb25fdGlwc3Rlcl9oaXN0b3J5X2NvdW50IgogICAgICAgIC8+CgogICAgPC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0PgogIDwvU2Nyb2xsVmlldz4KPC9sYXlvdXQ+Cg==</text>
+        <text encoding="base64">ICAgIHRpcHN0ZXJDb250cm9sbGVyLnVwZGF0ZVByZWRpY3Rpb25zKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9InByZWRpY3Rpb24iPuS6iOaDszwvc3RyaW5nPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>○</text>
+        <text>createPredictions()</text>
       </register>
     </registers>
     <search>
@@ -489,17 +517,17 @@
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action RenameElement</entry>
-        <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
+        <entry>action RenameElement</entry>
         <entry>action Find</entry>
-        <entry>action Run</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
