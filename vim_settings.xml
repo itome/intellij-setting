@@ -152,9 +152,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/data/local/PlayerRank.kt" timestamp="1544504780176">
-        <mark key="'" line="8" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/build/generated/source/kapt/developDebug/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel_.java" timestamp="1544422908937">
         <mark key="[" line="52" column="93" />
         <mark key="]" line="52" column="6" />
@@ -524,7 +521,7 @@
         <text encoding="base64">ICA8c3RyaW5nIG5hbWU9InByZWRpY3Rpb25fc3RhcnRfYXQiPueZuui1sDwvc3RyaW5nPgogIDxzdHJpbmcgbmFtZT0icHJlZGljdGlvbl9jbG9zZV9hdCI+57eg5YiHPC9zdHJpbmc+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>いわき平 最終日</text>
@@ -547,15 +544,15 @@
         <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
