@@ -107,10 +107,10 @@
         <mark key="^" line="42" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/di/AppModule.kt" timestamp="1544607233761">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="29" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteState.kt" timestamp="1543840091105">
         <mark key="[" line="9" column="28" />
@@ -239,6 +239,9 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/1.0.1/221719ddd2c42b7490c0d011ae2b63c85a887642/koin-androidx-viewmodel-1.0.1-sources.jar!/org/koin/androidx/viewmodel/ext/android/LifecycleOwnerExt.kt" timestamp="1544608457289">
+        <mark key="'" line="63" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/exhibit/ExhibitCategoryFragment.kt" timestamp="1543901094045">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -354,11 +357,6 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/TipsterModel.kt" timestamp="1544524550784">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendIntent.kt" timestamp="1543835462743">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="36" />
@@ -439,7 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="8" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/MainActivity.kt" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
       <jump line="14" column="39" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
       <jump line="107" column="27" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
@@ -539,6 +536,7 @@
       <jump line="61" column="22" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionViewModel.kt" />
       <jump line="44" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionViewModel.kt" />
       <jump line="103" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionViewModel.kt" />
+      <jump line="63" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/1.0.1/221719ddd2c42b7490c0d011ae2b63c85a887642/koin-androidx-viewmodel-1.0.1-sources.jar!/org/koin/androidx/viewmodel/ext/android/LifecycleOwnerExt.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -572,7 +570,7 @@
         <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gPEE+IERlZmVycmVkS09mPEE+LmZvbGQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>inject</text>
@@ -602,8 +600,8 @@
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
