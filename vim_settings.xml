@@ -100,11 +100,10 @@
         <mark key="." line="42" column="14" />
         <mark key="^" line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/di/AppModule.kt" timestamp="1544580938335">
-        <mark key="[" line="57" column="2" />
-        <mark key="]" line="57" column="1" />
-        <mark key="^" line="57" column="1" />
-        <mark key="." line="57" column="1" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/di/AppModule.kt" timestamp="1544606160942">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/favorite/FavoriteState.kt" timestamp="1543840091105">
         <mark key="[" line="9" column="28" />
@@ -186,6 +185,12 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="74" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/di/RepositoryModule.kt" timestamp="1544606367202">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="49" />
+        <mark key="^" line="15" column="49" />
+        <mark key="." line="15" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/remote/RecommendService.kt" timestamp="1543838667007">
         <mark key="[" line="5" column="58" />
         <mark key="]" line="5" column="58" />
@@ -250,6 +255,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="21" column="41" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/dimens.xml" timestamp="1544423163291">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/widget/SquareView.kt" timestamp="1544080011508">
         <mark key="[" line="11" column="56" />
@@ -352,6 +362,12 @@
         <mark key="]" line="4" column="36" />
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/data/remote/GlideModule.kt" timestamp="1544605866530">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionViewModel.kt" timestamp="1544582107519">
         <mark key="'" line="103" column="0" />
@@ -527,37 +543,37 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjMyZHAiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IjEyZHAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcuc3Bpbm5lclByZWRpY3Rpb25SYWNlLmFkYXB0ZXIgPSBBcnJheUFkYXB0ZXIoCiAgICAgIHJlcXVpcmVDb250ZXh0KCksCiAgICAgIGFuZHJvaWQuUi5sYXlvdXQuc2ltcGxlX3NwaW5uZXJfaXRlbSwKICAgICAgKS5hcHBseSB7CiAgICAgIHNldERyb3BEb3duVmlld1Jlc291cmNlKGFuZHJvaWQuUi5sYXlvdXQuc2ltcGxlX3NwaW5uZXJfZHJvcGRvd25faXRlbSkKICAgIH0K</text>
+        <text encoding="base64">ICBmYWN0b3J5PFJlY29tbWVuZFByb2Nlc3Nvcj4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGF0ZUxpc3QubWFwIHsgZm9ybWF0dGVyLmZvcm1hdChpdCkgfQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcuc3Bpbm5lclByZWRpY3Rpb25SYWNlLmFkYXB0ZXIgPSBBcnJheUFkYXB0ZXIoCiAgICAgIHJlcXVpcmVDb250ZXh0KCksCiAgICAgIGFuZHJvaWQuUi5sYXlvdXQuc2ltcGxlX3NwaW5uZXJfaXRlbSwKICAgICAgKS5hcHBseSB7CiAgICAgIHNldERyb3BEb3duVmlld1Jlc291cmNlKGFuZHJvaWQuUi5sYXlvdXQuc2ltcGxlX3NwaW5uZXJfZHJvcGRvd25faXRlbSkKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGlzdE9mKCLjgYTjgo/jgY3lubMg5pyA57WC5pelIikK</text>
+        <text encoding="base64">ICAgICAgZGF0ZUxpc3QubWFwIHsgZm9ybWF0dGVyLmZvcm1hdChpdCkgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gPEE+IERlZmVycmVkS09mPEE+LmZvbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgbGlzdE9mKCLjgYTjgo/jgY3lubMg5pyA57WC5pelIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gPEE+IERlZmVycmVkS09mPEE+LmZvbGQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgX3JhY2VQcmVkaWN0aW9uLnBvc3RWYWx1ZShUcnkgewogICAgICAgIHBhcnNlUmFjZVJlc3BvbnNlKGtlaXJpblJlcG8uZ2V0UmFjZShjdXBJZCwgZGF5LCByYWNlTnVtYmVyKSkKICAgICAgfSkKICAgIH0KICB9CgogIHByaXZhdGUgZnVuIHBhcnNlUmFjZVJlc3BvbnNlKHJlc3BvbnNlOiBLZWlyaW5Qcm90by5LZWlyaW5HZXRSYWNlUmVzcG9uc2UpOiBSYWNlUHJlZGljdGlvbiB7CiAgICByZXR1cm4gUmFjZVByZWRpY3Rpb24oCiAgICAgIGN1cCA9IHJlc3BvbnNlLmN1cHNMaXN0LmZpbmQgeyBpdC5pZCA9PSByZXNwb25zZS5zY2hlZHVsZS5jdXBJZCB9LAogICAgICBzY2hlZHVsZSA9IHJlc3BvbnNlLnNjaGVkdWxlLAogICAgICByYWNlID0gcmVzcG9uc2UucmFjZSwKICAgICAgdGlwc3RlcnMgPSByZXNwb25zZS5wcmVkaWN0aW9uc0xpc3QubWFwIHsgcHJlZGljdGlvbiAtPgogICAgICAgIFRpcHN0ZXIoCiAgICAgICAgICBpZCA9IHByZWRpY3Rpb24udGlwc3RlcklkLAogICAgICAgICAgbmFtZSA9IHByZWRpY3Rpb24ubmFtZSwKICAgICAgICAgIHdpbm5pbmdSYXRlID0gcHJlZGljdGlvbi53aW5uaW5nUmF0ZSwKICAgICAgICAgIGNvbW1lbnQgPSBwcmVkaWN0aW9uLmNvbW1lbnQsCiAgICAgICAgICB0b3RhbCA9IHByZWRpY3Rpb24udG90YWwsCiAgICAgICAgICBpY29uID0gcHJlZGljdGlvbi5pY29uLAogICAgICAgICAgaXNBaSA9IHByZWRpY3Rpb24uaXNBaSwKICAgICAgICAgIGJlc3RQYXlvZmZSYXRlID0gcHJlZGljdGlvbi5iZXN0UGF5b2ZmUmF0ZSwKICAgICAgICAgIGJlc3RQYXlvZmZCZXR0aW5nVHlwZU5hbWVSZXMgPSBwcmVkaWN0aW9uLmJlc3RQYXlvZmZCZXR0aW5nVHlwZS5nZXROYW1lUmVzKCksCiAgICAgICAgICBwcmVkaWN0aW9uUGxheWVycyA9IHByZWRpY3Rpb24ub3JkZXJMaXN0Lm1hcCB7IGVudHJ5TnVtYmVyIC0+CiAgICAgICAgICAgIHZhbCBlbnRyeSA9IHJlc3BvbnNlLmVudHJpZXNMaXN0LmZpbmQgeyBpdC5udW1iZXIgPT0gZW50cnlOdW1iZXIgfQogICAgICAgICAgICB2YWwgcGxheWVyID0gcmVzcG9uc2UucGxheWVyc0xpc3QuZmluZCB7IGl0LmlkID09IGVudHJ5Py5wbGF5ZXJJZCB9CiAgICAgICAgICAgIFByZWRpY3Rpb25QbGF5ZXIoCiAgICAgICAgICAgICAgZW50cnlOdW1iZXIgPSBlbnRyeU51bWJlciwKICAgICAgICAgICAgICBuYW1lID0gcGxheWVyPy5uYW1lLAogICAgICAgICAgICAgIHBsYXllclJhbmsgPSBQbGF5ZXJSYW5rLnZhbHVlT2YoCiAgICAgICAgICAgICAgICBwbGF5ZXI/LmNsYXNzXyA/OiBLZWlyaW5QbGF5ZXJQcm90by5LZWlyaW5QbGF5ZXJDbGFzcy5VTlJFQ09HTklaRUQsCiAgICAgICAgICAgICAgICBwbGF5ZXI/Lmdyb3VwID86IEtlaXJpblBsYXllclByb3RvLktlaXJpblBsYXllckdyb3VwLlVOUkVDT0dOSVpFRAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgcHJlZmVjdHVyZSA9IHBsYXllcj8ucHJlZmVjdHVyZQogICAgICAgICAgICApCiAgICAgICAgICB9CiAgICAgICAgKQogICAgICB9LAogICAgICBzZWxlY3RlZFRpcHN0ZXJJZCA9IHJlc3BvbnNlLnByZWRpY3Rpb25zTGlzdFswXS50aXBzdGVySWQKICAgICkKICB9Cn0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdW5zYWZlCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHVuc2FmZQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgX3JhY2VQcmVkaWN0aW9uLnBvc3RWYWx1ZShUcnkgewogICAgICAgIHBhcnNlUmFjZVJlc3BvbnNlKGtlaXJpblJlcG8uZ2V0UmFjZShjdXBJZCwgZGF5LCByYWNlTnVtYmVyKSkKICAgICAgfSkKICAgIH0KICB9CgogIHByaXZhdGUgZnVuIHBhcnNlUmFjZVJlc3BvbnNlKHJlc3BvbnNlOiBLZWlyaW5Qcm90by5LZWlyaW5HZXRSYWNlUmVzcG9uc2UpOiBSYWNlUHJlZGljdGlvbiB7CiAgICByZXR1cm4gUmFjZVByZWRpY3Rpb24oCiAgICAgIGN1cCA9IHJlc3BvbnNlLmN1cHNMaXN0LmZpbmQgeyBpdC5pZCA9PSByZXNwb25zZS5zY2hlZHVsZS5jdXBJZCB9LAogICAgICBzY2hlZHVsZSA9IHJlc3BvbnNlLnNjaGVkdWxlLAogICAgICByYWNlID0gcmVzcG9uc2UucmFjZSwKICAgICAgdGlwc3RlcnMgPSByZXNwb25zZS5wcmVkaWN0aW9uc0xpc3QubWFwIHsgcHJlZGljdGlvbiAtPgogICAgICAgIFRpcHN0ZXIoCiAgICAgICAgICBpZCA9IHByZWRpY3Rpb24udGlwc3RlcklkLAogICAgICAgICAgbmFtZSA9IHByZWRpY3Rpb24ubmFtZSwKICAgICAgICAgIHdpbm5pbmdSYXRlID0gcHJlZGljdGlvbi53aW5uaW5nUmF0ZSwKICAgICAgICAgIGNvbW1lbnQgPSBwcmVkaWN0aW9uLmNvbW1lbnQsCiAgICAgICAgICB0b3RhbCA9IHByZWRpY3Rpb24udG90YWwsCiAgICAgICAgICBpY29uID0gcHJlZGljdGlvbi5pY29uLAogICAgICAgICAgaXNBaSA9IHByZWRpY3Rpb24uaXNBaSwKICAgICAgICAgIGJlc3RQYXlvZmZSYXRlID0gcHJlZGljdGlvbi5iZXN0UGF5b2ZmUmF0ZSwKICAgICAgICAgIGJlc3RQYXlvZmZCZXR0aW5nVHlwZU5hbWVSZXMgPSBwcmVkaWN0aW9uLmJlc3RQYXlvZmZCZXR0aW5nVHlwZS5nZXROYW1lUmVzKCksCiAgICAgICAgICBwcmVkaWN0aW9uUGxheWVycyA9IHByZWRpY3Rpb24ub3JkZXJMaXN0Lm1hcCB7IGVudHJ5TnVtYmVyIC0+CiAgICAgICAgICAgIHZhbCBlbnRyeSA9IHJlc3BvbnNlLmVudHJpZXNMaXN0LmZpbmQgeyBpdC5udW1iZXIgPT0gZW50cnlOdW1iZXIgfQogICAgICAgICAgICB2YWwgcGxheWVyID0gcmVzcG9uc2UucGxheWVyc0xpc3QuZmluZCB7IGl0LmlkID09IGVudHJ5Py5wbGF5ZXJJZCB9CiAgICAgICAgICAgIFByZWRpY3Rpb25QbGF5ZXIoCiAgICAgICAgICAgICAgZW50cnlOdW1iZXIgPSBlbnRyeU51bWJlciwKICAgICAgICAgICAgICBuYW1lID0gcGxheWVyPy5uYW1lLAogICAgICAgICAgICAgIHBsYXllclJhbmsgPSBQbGF5ZXJSYW5rLnZhbHVlT2YoCiAgICAgICAgICAgICAgICBwbGF5ZXI/LmNsYXNzXyA/OiBLZWlyaW5QbGF5ZXJQcm90by5LZWlyaW5QbGF5ZXJDbGFzcy5VTlJFQ09HTklaRUQsCiAgICAgICAgICAgICAgICBwbGF5ZXI/Lmdyb3VwID86IEtlaXJpblBsYXllclByb3RvLktlaXJpblBsYXllckdyb3VwLlVOUkVDT0dOSVpFRAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgcHJlZmVjdHVyZSA9IHBsYXllcj8ucHJlZmVjdHVyZQogICAgICAgICAgICApCiAgICAgICAgICB9CiAgICAgICAgKQogICAgICB9LAogICAgICBzZWxlY3RlZFRpcHN0ZXJJZCA9IHJlc3BvbnNlLnByZWRpY3Rpb25zTGlzdFswXS50aXBzdGVySWQKICAgICkKICB9Cn0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdW5zYWZlCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHVuc2FmZQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>White</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -573,19 +589,19 @@
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action CloseEditor</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
