@@ -209,12 +209,12 @@
         <mark key="^" line="57" column="3" />
         <mark key="." line="57" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1544583495038">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/TipsterController.kt" timestamp="1544592245999">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="37" column="43" />
-        <mark key="." line="37" column="43" />
-        <mark key="^" line="37" column="43" />
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="39" column="10" />
+        <mark key="^" line="39" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendState.kt" timestamp="1543837416270">
         <mark key="[" line="9" column="29" />
@@ -548,10 +548,10 @@
         <text encoding="base64">ICBwcml2YXRlIHZhciBpc0JpbmRlZCA9IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Debug</text>
       </register>
       <register name="-" type="4">
-        <text>Deffere</text>
+        <text>p</text>
       </register>
     </registers>
     <search>
@@ -565,12 +565,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
         <entry>action GoToLastTab</entry>
         <entry>action RenameElement</entry>
-        <entry>action Debug</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action SaveAll</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
@@ -578,8 +574,12 @@
         <entry>action CloseEditor</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
