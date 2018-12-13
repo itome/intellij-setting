@@ -26,6 +26,12 @@
         <mark key="." line="15" column="63" />
         <mark key="^" line="15" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/MainActivity.kt" timestamp="1544682707712">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster.xml" timestamp="1544508741683">
         <mark key="[" line="43" column="27" />
         <mark key="]" line="43" column="33" />
@@ -81,10 +87,11 @@
         <mark key="." line="42" column="14" />
         <mark key="^" line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/di/AppModule.kt" timestamp="1544681282003">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/di/AppModule.kt" timestamp="1544683301784">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/ext/BettingTypeExt.kt" timestamp="1544497233874">
         <mark key="[" line="17" column="0" />
@@ -152,10 +159,10 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/AppComponent.kt" timestamp="1544681302061">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/AppComponent.kt" timestamp="1544683703888">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/exhibit/ExhibitCategoryFragment.kt" timestamp="1543901094045">
         <mark key="[" line="50" column="0" />
@@ -364,11 +371,6 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/dimens.xml" timestamp="1544423163291">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/login/LoginAction.kt" timestamp="1543902033858">
         <mark key="[" line="9" column="81" />
         <mark key="]" line="9" column="81" />
@@ -460,7 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
       <jump line="14" column="39" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
       <jump line="107" column="27" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/PreviewActivity.kt" />
       <jump line="101" column="0" filename="$USER_HOME$/Projects/CameraPlayground/app/src/main/java/team/itome/camera/playground/RotationActivity.kt" />
@@ -560,43 +561,44 @@
       <jump line="44" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionViewModel.kt" />
       <jump line="103" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionViewModel.kt" />
       <jump line="63" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/1.0.1/221719ddd2c42b7490c0d011ae2b63c85a887642/koin-androidx-viewmodel-1.0.1-sources.jar!/org/koin/androidx/viewmodel/ext/android/LifecycleOwnerExt.kt" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/di/AppModule.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">QFNjb3BlCkBSZXRlbnRpb24oQW5ub3RhdGlvblJldGVudGlvbi5SVU5USU1FKQphbm5vdGF0aW9uIGNsYXNzIEFwcFNjb3BlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEFwcFNjb3BlCg==</text>
+        <text encoding="base64">QE1vZHVsZShzdWJjb21wb25lbnRzID0gKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgZmFjdG9yeSB7IE15UHJlc2VudGVyKCkgfQo=</text>
+        <text encoding="base64">ICAKICBtb2R1bGUgewogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmYWN0b3J5IHsgUmVjb21tZW5kUHJvY2Vzc29yKGdldCgpKSB9Cg==</text>
+        <text encoding="base64">QEFwcFNjb3BlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmYWN0b3J5PFJlY29tbWVuZFJlbW90ZURhdGFTdG9yZT4oKQo=</text>
+        <text encoding="base64">CiAgZmFjdG9yeSB7IE15UHJlc2VudGVyKCkgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmYWN0b3J5PFJlY29tbWVuZFJlbW90ZURhdGFTdG9yZT4oKQo=</text>
+        <text encoding="base64">ICBmYWN0b3J5IHsgUmVjb21tZW5kUHJvY2Vzc29yKGdldCgpKSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmYWN0b3J5Cg==</text>
+        <text encoding="base64">ICBmYWN0b3J5PFJlY29tbWVuZFJlbW90ZURhdGFTdG9yZT4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmYWN0b3J5PFJlY29tbWVuZFByb2Nlc3Nvcj4oKQo=</text>
+        <text encoding="base64">ICBmYWN0b3J5PFJlY29tbWVuZFJlbW90ZURhdGFTdG9yZT4oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcuc3Bpbm5lclByZWRpY3Rpb25SYWNlLmFkYXB0ZXIgPSBBcnJheUFkYXB0ZXIoCiAgICAgIHJlcXVpcmVDb250ZXh0KCksCiAgICAgIGFuZHJvaWQuUi5sYXlvdXQuc2ltcGxlX3NwaW5uZXJfaXRlbSwKICAgICAgKS5hcHBseSB7CiAgICAgIHNldERyb3BEb3duVmlld1Jlc291cmNlKGFuZHJvaWQuUi5sYXlvdXQuc2ltcGxlX3NwaW5uZXJfZHJvcGRvd25faXRlbSkKICAgIH0K</text>
+        <text encoding="base64">ICBmYWN0b3J5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGF0ZUxpc3QubWFwIHsgZm9ybWF0dGVyLmZvcm1hdChpdCkgfQo=</text>
+        <text encoding="base64">ICBmYWN0b3J5PFJlY29tbWVuZFByb2Nlc3Nvcj4oKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
-        <text>inject</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
@@ -617,14 +619,14 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Back</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
