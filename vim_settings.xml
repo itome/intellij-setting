@@ -87,12 +87,12 @@
         <mark key="." line="42" column="14" />
         <mark key="^" line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/di/AppModule.kt" timestamp="1544691355910">
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/di/AppModule.kt" timestamp="1544693427072">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="56" column="39" />
-        <mark key="]" line="56" column="43" />
-        <mark key="." line="56" column="43" />
-        <mark key="^" line="56" column="43" />
+        <mark key="[" line="56" column="21" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/util/ext/BettingTypeExt.kt" timestamp="1544497233874">
         <mark key="[" line="17" column="0" />
@@ -609,10 +609,10 @@
         <text encoding="base64">CiAgc2luZ2xlKCJkZWJ1Zy1jbGllbnQiKSB7IEFwaUNsaWVudCgpIH0KICBzaW5nbGUoInByb2QtY2xpZW50IikgeyBBcGlDbGllbnQoKSB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>createOn</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -637,10 +637,10 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
