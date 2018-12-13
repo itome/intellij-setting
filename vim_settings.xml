@@ -327,6 +327,14 @@
         <mark key="[" line="288" column="0" />
         <mark key="]" line="288" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/di/NetworkModule.kt" timestamp="1544679317259">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="45" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/AppScope.kt" timestamp="1544679262969">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendAction.kt" timestamp="1543836429327">
         <mark key="[" line="8" column="71" />
         <mark key="]" line="8" column="71" />
@@ -541,7 +549,7 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjMyZHAiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IjEyZHAiCg==</text>
+        <text encoding="base64">ICBAUHJvdmlkZXMKICBAU2luZ2xldG9uCiAgZnVuIHByb3ZpZGVSZXRyb2ZpdChva0h0dHBDbGllbnQ6IE9rSHR0cENsaWVudCk6IFJldHJvZml0ID0gUmV0cm9maXQuQnVpbGRlcigpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmYWN0b3J5IHsgUmVjb21tZW5kUHJvY2Vzc29yKGdldCgpKSB9Cg==</text>
@@ -571,7 +579,7 @@
         <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gPEE+IERlZmVycmVkS09mPEE+LmZvbGQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action FindInPath</text>
       </register>
       <register name="-" type="4">
         <text>inject</text>
@@ -599,10 +607,10 @@
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
-        <entry>action FindInPath</entry>
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
