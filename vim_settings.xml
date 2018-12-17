@@ -624,7 +624,7 @@
         <text encoding="base64">cGFja2FnZSBqcC5jby5jeWJlcmFnZW50LndpbnRpY2tldC5tb2JpbGUuZGF0YS5sb2NhbAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>VehicleNumber</text>
@@ -653,9 +653,9 @@
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
