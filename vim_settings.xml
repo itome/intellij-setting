@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1545022406113">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionFragment.kt" timestamp="1545024434356">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/fragment_home.xml" timestamp="1544006733264">
         <mark key="[" line="6" column="33" />
@@ -429,6 +430,12 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/PredictionViewModel.kt" timestamp="1545024447414">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="63" column="77" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/PredictionModeul.kt" timestamp="1544000150450">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -594,40 +601,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CiAgQEp2bVN0YXRpYwogIEBCaW5kaW5nQWRhcHRlcigidmVoaWNsZV9udW1iZXIiKQogIGZ1biBiaW5kVmVoaWNsZU51bWJlcih2aWV3OiBUZXh0VmlldywgdmVoaWNsZU51bWJlcjogVmVoaWNsZU51bWJlcj8pIHsKICAgIHZlaGljbGVOdW1iZXI/LmxldCB7CiAgICAgIHZpZXcudGV4dCA9IGl0LnZhbHVlLnRvU3RyaW5nKCkKICAgICAgdmlldy5zZXRUZXh0Q29sb3IoQ29udGV4dENvbXBhdC5nZXRDb2xvcih2aWV3LmNvbnRleHQsIGl0LnRleHRDb2xvclJlcykpCiAgICAgIHZpZXcuc2V0QmFja2dyb3VuZENvbG9yKENvbnRleHRDb21wYXQuZ2V0Q29sb3Iodmlldy5jb250ZXh0LCBpdC5iYWNrZ3JvdW5kQ29sb3JSZXMpKQogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgX3JhY2VQcmVkaWN0aW9uLnZhbHVlPy5pZlN1Y2Nlc3MgewogICAgICAgIF9yYWNlUHJlZGljdGlvbi5wb3N0VmFsdWUoVHJ5Lmp1c3QoaXQuY29weShzZWxlY3RlZFRpcHN0ZXJJZCA9IHZhbHVlKSkpCiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRWZWhpY2xlTnVtYmVyKHZpZXcsIFZlaGljbGVOdW1iZXIudmFsdWVPZihlbnRyeU51bWJlcikpCg==</text>
+        <text encoding="base64">ICAgIHByZWRpY3Rpb25WaWV3TW9kZWwuc2VsZWN0ZWRUaXBzdGVySWQgPSB0aXBzdGVySWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgdmVoaWNsZU51bWJlcj8ubGV0IHsKICAgICAgdmlldy50ZXh0ID0gaXQudmFsdWUudG9TdHJpbmcoKQogICAgICB2aWV3LnNldFRleHRDb2xvcihDb250ZXh0Q29tcGF0LmdldENvbG9yKHZpZXcuY29udGV4dCwgaXQudGV4dENvbG9yUmVzKSkKICAgICAgdmlldy5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29udGV4dENvbXBhdC5nZXRDb2xvcih2aWV3LmNvbnRleHQsIGl0LmJhY2tncm91bmRDb2xvclJlcykpCiAgICB9Cg==</text>
+        <text encoding="base64">CiAgdmFyIHNlbGVjdGVkVGlwc3RlcklkOiBTdHJpbmcgPSAiIgogICAgc2V0KHZhbHVlKSB7CiAgICAgIGZpZWxkID0gdmFsdWUKICAgICAgX3JhY2VQcmVkaWN0aW9uLnZhbHVlPy5pZlN1Y2Nlc3MgewogICAgICAgIF9yYWNlUHJlZGljdGlvbi5wb3N0VmFsdWUoVHJ5Lmp1c3QoaXQuY29weShzZWxlY3RlZFRpcHN0ZXJJZCA9IHZhbHVlKSkpCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpc3RPZigKICAgICAgUi5jb2xvci5ibGFjayB0byBSLmNvbG9yLnNpcm9fMDEsCiAgICAgIFIuY29sb3Iud2hpdGUgdG8gUi5jb2xvci5rdXJvXzAyLAogICAgICBSLmNvbG9yLndoaXRlIHRvIFIuY29sb3IuYWthXzAzLAogICAgICBSLmNvbG9yLndoaXRlIHRvIFIuY29sb3IuYW9fMDQsCiAgICAgIFIuY29sb3IuYmxhY2sgdG8gUi5jb2xvci5raWlyb18wNSwKICAgICAgUi5jb2xvci53aGl0ZSB0byBSLmNvbG9yLm1pZG9yaV8wNiwKICAgICAgUi5jb2xvci53aGl0ZSB0byBSLmNvbG9yLmRhaWRhaV8wNywKICAgICAgUi5jb2xvci53aGl0ZSB0byBSLmNvbG9yLm1vbW9fMDgsCiAgICAgIFIuY29sb3Iud2hpdGUgdG8gUi5jb2xvci5tdXJhc2FraV8wOQogICAgKS5sZXQgewogICAgICB2aWV3LnRleHQgPSBlbnRyeU51bWJlci50b1N0cmluZygpCiAgICAgIHZpZXcuc2V0VGV4dENvbG9yKENvbnRleHRDb21wYXQuZ2V0Q29sb3Iodmlldy5jb250ZXh0LCBpdFtlbnRyeU51bWJlciAtIDFdLmZpcnN0KSkKICAgICAgdmlldy5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoaXRbZW50cnlOdW1iZXIgLSAxXS5zZWNvbmQpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRWZWhpY2xlTnVtYmVyKHZpZXcsIFZlaGljbGVOdW1iZXIudmFsdWVPZihlbnRyeU51bWJlcikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgdmVoaWNsZU51bWJlcj8ubGV0IHsKICAgICAgdmlldy50ZXh0ID0gaXQudmFsdWUudG9TdHJpbmcoKQogICAgICB2aWV3LnNldFRleHRDb2xvcihDb250ZXh0Q29tcGF0LmdldENvbG9yKHZpZXcuY29udGV4dCwgaXQudGV4dENvbG9yUmVzKSkKICAgICAgdmlldy5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29udGV4dENvbXBhdC5nZXRDb2xvcih2aWV3LmNvbnRleHQsIGl0LmJhY2tncm91bmRDb2xvclJlcykpCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZpZXcK</text>
+        <text encoding="base64">ICAgIGxpc3RPZigKICAgICAgUi5jb2xvci5ibGFjayB0byBSLmNvbG9yLnNpcm9fMDEsCiAgICAgIFIuY29sb3Iud2hpdGUgdG8gUi5jb2xvci5rdXJvXzAyLAogICAgICBSLmNvbG9yLndoaXRlIHRvIFIuY29sb3IuYWthXzAzLAogICAgICBSLmNvbG9yLndoaXRlIHRvIFIuY29sb3IuYW9fMDQsCiAgICAgIFIuY29sb3IuYmxhY2sgdG8gUi5jb2xvci5raWlyb18wNSwKICAgICAgUi5jb2xvci53aGl0ZSB0byBSLmNvbG9yLm1pZG9yaV8wNiwKICAgICAgUi5jb2xvci53aGl0ZSB0byBSLmNvbG9yLmRhaWRhaV8wNywKICAgICAgUi5jb2xvci53aGl0ZSB0byBSLmNvbG9yLm1vbW9fMDgsCiAgICAgIFIuY29sb3Iud2hpdGUgdG8gUi5jb2xvci5tdXJhc2FraV8wOQogICAgKS5sZXQgewogICAgICB2aWV3LnRleHQgPSBlbnRyeU51bWJlci50b1N0cmluZygpCiAgICAgIHZpZXcuc2V0VGV4dENvbG9yKENvbnRleHRDb21wYXQuZ2V0Q29sb3Iodmlldy5jb250ZXh0LCBpdFtlbnRyeU51bWJlciAtIDFdLmZpcnN0KSkKICAgICAgdmlldy5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoaXRbZW50cnlOdW1iZXIgLSAxXS5zZWNvbmQpCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZlaGljbGVOdW1iZXIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChlbnRyeU51bWJlciA9PSBudWxsIHx8IGVudHJ5TnVtYmVyID4gOSB8fCBlbnRyeU51bWJlciA8IDEpIHsKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZpZXcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZlaGljbGVOdW1iZXIK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlmIChlbnRyeU51bWJlciA9PSBudWxsIHx8IGVudHJ5TnVtYmVyID4gOSB8fCBlbnRyeU51bWJlciA8IDEpIHsKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>Throwable</text>
+        <text>value</text>
       </register>
     </registers>
     <search>
@@ -650,12 +657,12 @@
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
+        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
