@@ -182,13 +182,6 @@
         <mark key="^" line="237" column="54" />
         <mark key="." line="237" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_prediction.xml" timestamp="1545043047271">
-        <mark key="'" line="853" column="16" />
-        <mark key="[" line="848" column="86" />
-        <mark key="]" line="849" column="37" />
-        <mark key="^" line="849" column="37" />
-        <mark key="." line="849" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/ui/search/SearchFragment.kt" timestamp="1543901054750">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -299,13 +292,6 @@
         <mark key="." line="18" column="55" />
         <mark key="^" line="18" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/TextBindingAdapters.kt" timestamp="1545041224250">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="181" column="43" />
-        <mark key="]" line="182" column="15" />
-        <mark key="." line="182" column="15" />
-        <mark key="^" line="182" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/data/remote/AuthRemoteDataStore.kt" timestamp="1543902598053">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -394,9 +380,9 @@
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ActivityBuilder.kt" timestamp="1545040347028">
         <mark key="[" line="21" column="23" />
-        <mark key="]" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-        <mark key="^" line="22" column="24" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/kotlin/jp/co/cyberagent/winticket/core/data/remote/KeirinDataSource.kt" timestamp="1545038924272">
         <mark key="'" line="25" column="8" />
@@ -661,7 +647,7 @@
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAaWQvaW1hZ2VfcHJlZGljdGlvbl9haV90aXBzdGVyX2luZm8iCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9pbWFnZV9wcmVkaWN0aW9uX2FpX3RpcHN0ZXJfaW5mbyIK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>text_prediction_tipster_profile</text>
@@ -686,13 +672,13 @@
         <entry>action Find</entry>
         <entry>action GoToLastTab</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
