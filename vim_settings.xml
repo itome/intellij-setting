@@ -392,6 +392,12 @@
         <mark key="." line="142" column="39" />
         <mark key="^" line="142" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/otaku/pubspec.yaml" timestamp="1545729444790">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/PredictionSelectorModel.kt" timestamp="1545358420694">
         <mark key="[" line="10" column="91" />
         <mark key="]" line="10" column="101" />
@@ -508,11 +514,9 @@
         <mark key="." line="101" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" timestamp="1545727777733">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="54" column="68" />
-        <mark key="." line="54" column="68" />
-        <mark key="^" line="54" column="68" />
+        <mark key="]" line="9" column="68" />
+        <mark key="." line="9" column="68" />
+        <mark key="^" line="9" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/AndroidManifest.xml" timestamp="1545035144725">
         <mark key="[" line="3" column="11" />
@@ -745,6 +749,7 @@
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/otaku/lib/view/login.dart" timestamp="1545729121315" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/team/itome/fremo/domain/recommend/RecommendAction.kt" timestamp="1543836429327">
         <mark key="[" line="8" column="71" />
         <mark key="]" line="8" column="71" />
@@ -973,37 +978,37 @@
         <text>entry_table_line_type_format</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvYWRpbmdWSWV3Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpCiAgfQo=</text>
+        <text encoding="base64">ICAgIGxvYWRpbmdWSWV3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8L0ZyYW1lTGF5b3V0Pgo=</text>
+        <text encoding="base64">ICBpCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID4K</text>
+        <text encoding="base64">ICA8L0ZyYW1lTGF5b3V0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgID4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PExpbmVhckxheW91dAogIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKPC9MaW5lYXJMYXlvdXQ+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">PExpbmVhckxheW91dAogIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKPC9MaW5lYXJMYXlvdXQ+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmVQcmVkaWN0aW9uLmxpbmVzTGlzdAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KCkK</text>
+        <text encoding="base64">ICAgIGxpbmVQcmVkaWN0aW9uLmxpbmVzTGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>entries</text>
+        <text>null</text>
       </register>
     </registers>
     <search>
@@ -1022,13 +1027,13 @@
         <entry>action CloseEditor</entry>
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
         <entry>action RenameElement</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
