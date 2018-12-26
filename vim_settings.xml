@@ -348,7 +348,7 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/OSS/bloc/examples/flutter_login/lib/login/login_bloc.dart" timestamp="1545797003557" />
+      <file name="$USER_HOME$/OSS/bloc/examples/flutter_login/lib/login/login_bloc.dart" timestamp="1545798519522" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/player/profile/PlayerProfileController.kt" timestamp="1545786481345" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/data/entity/local/ProductCategory.kt" timestamp="1545213788546">
         <mark key="[" line="10" column="44" />
@@ -484,11 +484,6 @@
         <mark key="^" line="101" column="33" />
         <mark key="." line="101" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" timestamp="1545727777733">
-        <mark key="]" line="9" column="68" />
-        <mark key="." line="9" column="68" />
-        <mark key="^" line="9" column="68" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/AndroidManifest.xml" timestamp="1545035144725">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="28" />
@@ -548,6 +543,12 @@
         <mark key="^" line="14" column="98" />
         <mark key="." line="14" column="98" />
       </file>
+      <file name="$USER_HOME$/OSS/bloc/examples/flutter_login/lib/login/login_form.dart" timestamp="1545797976909">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="n" line="44" column="15" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/layout/item_product_detail_title.xml" timestamp="1545211786299">
         <mark key="[" line="55" column="39" />
         <mark key="]" line="56" column="37" />
@@ -585,6 +586,7 @@
         <mark key="." line="8" column="94" />
         <mark key="^" line="8" column="94" />
       </file>
+      <file name="$USER_HOME$/OSS/bloc/examples/flutter_login/lib/login/login_state.dart" timestamp="1545798476213" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTableResultSwitchModel.kt" timestamp="1545706102689">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="20" column="46" />
@@ -932,31 +934,31 @@
         <text>entry_table_last_four_month_type_switch_labels</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgYm9vbCBfbG9naW5TdWNjZWVkZWQoTG9naW5TdGF0ZSBzdGF0ZSkgPT4gc3RhdGUudG9rZW4uaXNOb3RFbXB0eTsKICBib29sIF9sb2dpbkZhaWxlZChMb2dpblN0YXRlIHN0YXRlKSA9PiBzdGF0ZS5lcnJvci5pc05vdEVtcHR5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIExvZ2luIGV4dGVuZHMgU3RhdGVmdWxXaWRnZXQgewogIEBvdmVycmlkZQogIF9Mb2dpblN0YXRlIGNyZWF0ZVN0YXRlKCkgPT4gX0xvZ2luU3RhdGUoKTsKfQoKY2xhc3MgX0xvZ2luU3RhdGUgZXh0ZW5kcyBTdGF0ZTxMb2dpbj4gewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIENvbnRhaW5lcigpOwogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgTG9naW5TdGF0ZSBpbXBsZW1lbnRzIEJ1aWx0PExvZ2luU3RhdGUsIExvZ2luU3RhdGVCdWlsZGVyPiB7CiAgYm9vbCBnZXQgaXNMb2dnZWRJbjsKCiAgYm9vbCBnZXQgaXNTaWduSW47CgogIEBudWxsYWJsZSBFcnJvciBnZXQgZXJyb3I7CgogIExvZ2luU3RhdGUuXygpOwp9Cgo=</text>
+        <text encoding="base64">CmNsYXNzIExvZ2luIGV4dGVuZHMgU3RhdGVmdWxXaWRnZXQgewogIEBvdmVycmlkZQogIF9Mb2dpblN0YXRlIGNyZWF0ZVN0YXRlKCkgPT4gX0xvZ2luU3RhdGUoKTsKfQoKY2xhc3MgX0xvZ2luU3RhdGUgZXh0ZW5kcyBTdGF0ZTxMb2dpbj4gewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIENvbnRhaW5lcigpOwogIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIGhvZ2UgZXh0ZW5kcyBTdGF0ZWZ1bFdpZGdldCB7CiAgQG92ZXJyaWRlCiAgX2hvZ2VTdGF0ZSBjcmVhdGVTdGF0ZSgpID0+IF9ob2dlU3RhdGUoKTsKfQoKY2xhc3MgX2hvZ2VTdGF0ZSBleHRlbmRzIFN0YXRlPGhvZ2U+IHdpdGggU2luZ2xlVGlja2VyUHJvdmlkZXJTdGF0ZU1peGluIHsKICBBbmltYXRpb25Db250cm9sbGVyIF9jb250cm9sbGVyOwoKICBAb3ZlcnJpZGUKICB2b2lkIGluaXRTdGF0ZSgpIHsKICAgIF9jb250cm9sbGVyID0gQW5pbWF0aW9uQ29udHJvbGxlcih2c3luYzogdGhpcyk7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICB9CgogIEBvdmVycmlkZQogIHZvaWQgZGlzcG9zZSgpIHsKICAgIF9jb250cm9sbGVyLmRpc3Bvc2UoKTsKICAgIHN1cGVyLmRpc3Bvc2UoKTsKICB9CiAgCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gQ29udGFpbmVyKCk7CiAgfQp9Cgo=</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgTG9naW5TdGF0ZSBpbXBsZW1lbnRzIEJ1aWx0PExvZ2luU3RhdGUsIExvZ2luU3RhdGVCdWlsZGVyPiB7CiAgYm9vbCBnZXQgaXNMb2dnZWRJbjsKCiAgYm9vbCBnZXQgaXNTaWduSW47CgogIEBudWxsYWJsZSBFcnJvciBnZXQgZXJyb3I7CgogIExvZ2luU3RhdGUuXygpOwp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgIGV4dGVuZHMgU3RhdGVmdWxXaWRnZXQgewogIEBvdmVycmlkZQogIF9TdGF0ZSBjcmVhdGVTdGF0ZSgpID0+IF9TdGF0ZSgpOwp9CgpjbGFzcyBfU3RhdGUgZXh0ZW5kcyBTdGF0ZTw+IHdpdGggU2luZ2xlVGlja2VyUHJvdmlkZXJTdGF0ZU1peGluIHsKICBBbmltYXRpb25Db250cm9sbGVyIF9jb250cm9sbGVyOwoKICBAb3ZlcnJpZGUKICB2b2lkIGluaXRTdGF0ZSgpIHsKICAgIF9jb250cm9sbGVyID0gQW5pbWF0aW9uQ29udHJvbGxlcih2c3luYzogdGhpcyk7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICB9CgogIEBvdmVycmlkZQogIHZvaWQgZGlzcG9zZSgpIHsKICAgIF9jb250cm9sbGVyLmRpc3Bvc2UoKTsKICAgIHN1cGVyLmRpc3Bvc2UoKTsKICB9CiAgCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gQ29udGFpbmVyKCk7CiAgfQp9Cgo=</text>
+        <text encoding="base64">CmNsYXNzIGhvZ2UgZXh0ZW5kcyBTdGF0ZWZ1bFdpZGdldCB7CiAgQG92ZXJyaWRlCiAgX2hvZ2VTdGF0ZSBjcmVhdGVTdGF0ZSgpID0+IF9ob2dlU3RhdGUoKTsKfQoKY2xhc3MgX2hvZ2VTdGF0ZSBleHRlbmRzIFN0YXRlPGhvZ2U+IHdpdGggU2luZ2xlVGlja2VyUHJvdmlkZXJTdGF0ZU1peGluIHsKICBBbmltYXRpb25Db250cm9sbGVyIF9jb250cm9sbGVyOwoKICBAb3ZlcnJpZGUKICB2b2lkIGluaXRTdGF0ZSgpIHsKICAgIF9jb250cm9sbGVyID0gQW5pbWF0aW9uQ29udHJvbGxlcih2c3luYzogdGhpcyk7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICB9CgogIEBvdmVycmlkZQogIHZvaWQgZGlzcG9zZSgpIHsKICAgIF9jb250cm9sbGVyLmRpc3Bvc2UoKTsKICAgIHN1cGVyLmRpc3Bvc2UoKTsKICB9CiAgCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gQ29udGFpbmVyKCk7CiAgfQp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YnVpCg==</text>
+        <text encoding="base64">Y2xhc3MgIGV4dGVuZHMgU3RhdGVmdWxXaWRnZXQgewogIEBvdmVycmlkZQogIF9TdGF0ZSBjcmVhdGVTdGF0ZSgpID0+IF9TdGF0ZSgpOwp9CgpjbGFzcyBfU3RhdGUgZXh0ZW5kcyBTdGF0ZTw+IHdpdGggU2luZ2xlVGlja2VyUHJvdmlkZXJTdGF0ZU1peGluIHsKICBBbmltYXRpb25Db250cm9sbGVyIF9jb250cm9sbGVyOwoKICBAb3ZlcnJpZGUKICB2b2lkIGluaXRTdGF0ZSgpIHsKICAgIF9jb250cm9sbGVyID0gQW5pbWF0aW9uQ29udHJvbGxlcih2c3luYzogdGhpcyk7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICB9CgogIEBvdmVycmlkZQogIHZvaWQgZGlzcG9zZSgpIHsKICAgIF9jb250cm9sbGVyLmRpc3Bvc2UoKTsKICAgIHN1cGVyLmRpc3Bvc2UoKTsKICB9CiAgCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gQ29udGFpbmVyKCk7CiAgfQp9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnVpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmYWN0b3J5IExvZ2luU3RhdGUoKSA9IF8kTG9naW5TdGF0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmYWN0b3J5IExvZ2luU3RhdGUoKSA9IF8kTG9naW5TdGF0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
@@ -985,9 +987,9 @@
         <entry>action RenameElement</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
