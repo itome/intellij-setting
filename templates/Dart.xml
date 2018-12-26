@@ -1,0 +1,5 @@
+<templateSet group="Dart">
+  <template name="built" value="abstract class $CLASS_NAME$ implements Built&lt;$CLASS_NAME$, $CLASS_NAME$Builder&gt; {&#10;  $CLASS_NAME$._();&#10;  factory $CLASS_NAME$([updates($CLASS_NAME$Builder b)]) = _$$$CLASS_NAME$;&#10;}" description="Create dart built_value class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
