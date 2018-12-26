@@ -348,6 +348,7 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
+      <file name="$USER_HOME$/OSS/bloc/examples/flutter_login/lib/login/login_bloc.dart" timestamp="1545797003557" />
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/player/profile/PlayerProfileController.kt" timestamp="1545786481345" />
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/data/entity/local/ProductCategory.kt" timestamp="1545213788546">
         <mark key="[" line="10" column="44" />
@@ -958,7 +959,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text>boolean</text>
@@ -984,12 +985,12 @@
         <entry>action RenameElement</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
+        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
