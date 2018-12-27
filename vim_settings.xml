@@ -781,7 +781,7 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>abstract</text>
@@ -808,12 +808,12 @@
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action FindInPath</entry>
         <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
