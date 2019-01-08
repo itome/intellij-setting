@@ -255,7 +255,8 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/view_entry_table_line_prediction_entry.xml" timestamp="1546854851507">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/view_entry_table_line_prediction_entry.xml" timestamp="1546915448299">
+        <mark key="'" line="38" column="4" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -345,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/TextBindingAdapters.kt" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/data/local/PredictionType.kt" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_prediction_cup_title.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster_prediction.xml" />
@@ -445,6 +444,8 @@
       <jump line="8" column="7" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_black_dot_divider.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_black_dot_divider.xml" />
       <jump line="4" column="1" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_black_dot_divider.xml" />
+      <jump line="0" column="13" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/view_entry_table_line_prediction_entry.xml" />
+      <jump line="38" column="4" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/view_entry_table_line_prediction_entry.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -484,7 +485,7 @@
         <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSIyZHAiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -511,7 +512,6 @@
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
@@ -519,6 +519,7 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
