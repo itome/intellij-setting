@@ -84,12 +84,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="13" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceCardController.kt" timestamp="1546923699243">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/model/CupRacePlayerModel.kt" timestamp="1545894531749">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -118,12 +112,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1546851415950">
-        <mark key="'" line="263" column="7" />
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/domain/purchase/PurchaseProcessor.kt" timestamp="1545812288072">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -138,6 +126,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_message_list.xml" timestamp="1546935896520">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="73" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerSortHeaderModel.kt" timestamp="1545895084883">
         <mark key="[" line="44" column="0" />
@@ -204,6 +198,15 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_recent_score.xml" timestamp="1546935923773">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="73" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlIntent.kt" timestamp="1545811587470">
+        <mark key="[" line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/ui/productdetail/model/ProductDetailDescriptionModel.kt" timestamp="1545898054145">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -223,6 +226,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/shape_black_corner_radius12.xml" timestamp="1546851964526">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/State.kt" timestamp="1545815105263">
         <mark key="[" line="2" column="13" />
@@ -276,6 +284,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_player_race_scheduled.xml" timestamp="1546935866254">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="73" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/player/model/PlayerHeaderModel.kt" timestamp="1545895048081">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -290,6 +303,13 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_total_score.xml" timestamp="1546935978549">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="73" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="101" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/data/local/EntryTableType.kt" timestamp="1545787580983">
         <mark key="[" line="8" column="10" />
@@ -313,9 +333,10 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" timestamp="1546928255271">
-        <mark key="[" line="9017" column="12" />
-        <mark key="]" line="9017" column="12" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" timestamp="1546932715294">
+        <mark key="'" line="10369" column="10" />
+        <mark key="[" line="10376" column="46" />
+        <mark key="]" line="10376" column="89" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/players/model/PlayersListPlayerModel.kt" timestamp="1545895096235">
         <mark key="[" line="23" column="0" />
@@ -332,6 +353,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_schedule_monthly.xml" timestamp="1546935844458">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="71" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTableLastFourMonthTypeSwitchModel.kt" timestamp="1545895215510">
         <mark key="[" line="22" column="0" />
@@ -353,6 +379,12 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/build.gradle" timestamp="1545811817445">
+        <mark key="[" line="16" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlAction.kt" timestamp="1545811569882">
+        <mark key="[" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/player/model/PlayerRankHistoryModel.kt" timestamp="1545895052084">
         <mark key="[" line="36" column="0" />
@@ -376,10 +408,16 @@
         <mark key="." line="51" column="26" />
         <mark key="^" line="51" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/adapter/EpoxyDividerItemDecoration.kt" timestamp="1546935061187">
+        <mark key="'" line="267" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/player/model/PlayerScoreCupModel.kt" timestamp="1545895040367">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlProcessor.kt" timestamp="1545811595776">
+        <mark key="[" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/prediction/model/PredictionCupTitleModel.kt" timestamp="1545895196836">
         <mark key="[" line="23" column="0" />
@@ -434,6 +472,9 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlState.kt" timestamp="1545811606043">
+        <mark key="[" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/player/model/PlayerScoreOfYearHeaderModel.kt" timestamp="1545895154903">
         <mark key="[" line="25" column="0" />
@@ -501,6 +542,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="/fragment.kt" timestamp="1546933863803">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/race/model/SearchRaceHeaderModel.kt" timestamp="1545895067617">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -525,11 +569,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/RecyclerViewBindingAdapters.kt" timestamp="1546852507244">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-        <mark key="^" line="22" column="19" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/RecyclerViewBindingAdapters.kt" timestamp="1546936058816">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/player/model/PlayerRankHistoryRankModel.kt" timestamp="1545894617504">
         <mark key="[" line="27" column="0" />
@@ -590,6 +634,9 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_schedule.xml" timestamp="1546935811409">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/view_entry_table_line_prediction_entry.xml" timestamp="1546931527226">
         <mark key="'" line="39" column="4" />
         <mark key="[" line="37" column="0" />
@@ -619,9 +666,9 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java" timestamp="1546928582472">
-        <mark key="[" line="1582" column="0" />
-        <mark key="]" line="1582" column="44" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java" timestamp="1546932398235">
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="48" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/domain/comment/CommentViewModel.kt" timestamp="1545813024979">
         <mark key="[" line="12" column="0" />
@@ -662,6 +709,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/Result.kt" timestamp="1545811694281">
+        <mark key="[" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/data/repository/ProductRepository.kt" timestamp="1545823952959">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="25" />
@@ -674,7 +724,9 @@
         <mark key="." line="22" column="84" />
         <mark key="^" line="22" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceCardFragment.kt" timestamp="1546924756567" />
+      <file name="/Dummy.txt" timestamp="1546851887480">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/player/model/SearchPlayerHeaderModel.kt" timestamp="1545895081873">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -747,12 +799,15 @@
         <mark key="]" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction.xml" timestamp="1546852516802">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="11" />
-        <mark key="]" line="43" column="30" />
-        <mark key="^" line="43" column="30" />
-        <mark key="." line="43" column="30" />
+      <file name="/fragment.java" timestamp="1545789907333">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction.xml" timestamp="1546935819099">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="73" />
+        <mark key="." line="44" column="70" />
+        <mark key="^" line="44" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/test/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/RecyclerViewBindingAdaptersTest.kt" timestamp="1546853671173">
         <mark key="[" line="37" column="73" />
@@ -762,28 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster_prediction.xml" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/WinTicket/android/core/src/main/res/values/strings.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" />
-      <jump line="23" column="2" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" />
-      <jump line="5" column="34" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_tipster_prediction_header.xml" />
-      <jump line="40" column="8" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/ImageBindingAdapters.kt" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/test/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/ImageBindingAdaptersTest.kt" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="70" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="67" column="98" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="33" column="32" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="15" column="15" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="20" column="55" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="95" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="22" column="27" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="28" column="10" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ViewModelModule.kt" />
-      <jump line="50" column="2" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ViewModelModule.kt" />
-      <jump line="14" column="15" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/di/ViewModelModule.kt" />
-      <jump line="68" column="61" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableViewModel.kt" />
-      <jump line="10" column="8" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_type_switch.xml" />
-      <jump line="4" column="43" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_type_switch.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_type_switch.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_result_switch.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_result_switch.xml" />
@@ -862,43 +895,65 @@
       <jump line="11" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceCardController.kt" />
       <jump line="34" column="14" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableController.kt" />
       <jump line="230" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/widget/TableLayoutManager.kt" />
+      <jump line="9107" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
+      <jump line="10369" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
+      <jump line="39" column="22" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction.xml" />
+      <jump line="45" column="33" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction.xml" />
+      <jump line="53" column="39" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/adapter/EpoxyDividerItemDecoration.kt" />
+      <jump line="267" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/adapter/EpoxyDividerItemDecoration.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/RecyclerViewBindingAdapters.kt" />
+      <jump line="44" column="8" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction.xml" />
+      <jump line="43" column="38" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction.xml" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction.xml" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_schedule.xml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction.xml" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_schedule_monthly.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_player_race_scheduled.xml" />
+      <jump line="35" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_player_race_scheduled.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_player_race_scheduled.xml" />
+      <jump line="27" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_message_list.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_recent_score.xml" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_message_list.xml" />
+      <jump line="41" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_recent_score.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_total_score.xml" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_recent_score.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>6dp</text>
+        <text>horizontal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbnRyeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjFkcCIKICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSIxZHAiCg==</text>
+        <text encoding="base64">ICAgICAgYmluZDpkaXZpZGVyX29yaWVudGF0aW9uPSJAe0Vwb3h5RGl2aWRlckl0ZW1EZWNvcmF0aW9uLkhPUklaT05UQUx9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImZpdFhZIgo=</text>
+        <text encoding="base64">ICA8L2RhdGE+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImZpdFhZIgo=</text>
+        <text encoding="base64">ICAgIDwvZGF0YT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvc2l6ZT4K</text>
+        <text encoding="base64">ICAgIDxkYXRhPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvc2hhcGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGNvcm5lcnMK</text>
+        <text encoding="base64">CiAgQEp2bVN0YXRpYwogIEBCaW5kaW5nQWRhcHRlcigidmVydGljYWxfZGl2aWRlciIpCiAgZnVuIGJpbmRIb3Jpem9udGFsRGl2aWRlcih2aWV3OiBSZWN5Y2xlclZpZXcsIGRpdmlkZXI6IERyYXdhYmxlKSB7CiAgICB2YWwgZGVjb3JhdGlvbiA9IEVwb3h5RGl2aWRlckl0ZW1EZWNvcmF0aW9uKAogICAgICB2aWV3LmNvbnRleHQsCiAgICAgIEVwb3h5RGl2aWRlckl0ZW1EZWNvcmF0aW9uLkhPUklaT05UQUwKICAgICkuYXBwbHkgewogICAgICBzZXREcmF3YWJsZShkaXZpZGVyKQogICAgfQogICAgdmlldy5hZGRJdGVtRGVjb3JhdGlvbihkZWNvcmF0aW9uKQogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI0ZHAiCiAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjRkcCIK</text>
+        <text encoding="base64">ICAgICAgRXBveHlEaXZpZGVySXRlbURlY29yYXRpb24uVkVSVElDQUwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjJkcCIK</text>
+        <text encoding="base64">CiAgQEp2bVN0YXRpYwogIEBCaW5kaW5nQWRhcHRlcigiaG9yaXpvbnRhbF9kaXZpZGVyIikKICBmdW4gYmluZEhvcml6b250YWxEaXZpZGVyKHZpZXc6IFJlY3ljbGVyVmlldywgZGl2aWRlcjogRHJhd2FibGUpIHsKICAgIHZhbCBkZWNvcmF0aW9uID0gRXBveHlEaXZpZGVySXRlbURlY29yYXRpb24oCiAgICAgIHZpZXcuY29udGV4dCwKICAgICAgRXBveHlEaXZpZGVySXRlbURlY29yYXRpb24uSE9SSVpPTlRBTAogICAgKS5hcHBseSB7CiAgICAgIHNldERyYXdhYmxlKGRpdmlkZXIpCiAgICB9CiAgICB2aWV3LmFkZEl0ZW1EZWNvcmF0aW9uKGRlY29yYXRpb24pCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iMmRwIgogICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjJkcCIK</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNvLmN5YmVyYWdlbnQud2ludGlja2V0Lm1vYmlsZS5SCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSIyZHAiCg==</text>
+        <text encoding="base64">CiAgICB2aWV3LmNvbnRleHQub2J0YWluU3R5bGVkQXR0cmlidXRlcyhSLnN0eWxlYWJsZS5SZWN5Y2xlclZpZXdfYW5kcm9pZF9vcmllbnRhdGlvbiwgdmlldy5hdHRyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -922,19 +977,19 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Debug</entry>
-        <entry>action GotoAction</entry>
+        <entry>action CloseEditor</entry>
+        <entry>action Find</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action Find</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action CloseEditor</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action SaveAll</entry>
+        <entry>action FindInPath</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
