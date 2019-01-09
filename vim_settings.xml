@@ -612,11 +612,11 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/vector_close_bracket.xml" timestamp="1547007774331">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/vector_close_bracket.xml" timestamp="1547011125083">
         <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/player/model/PlayerProfileHeaderModel.kt" timestamp="1545895029467">
         <mark key="[" line="25" column="0" />
@@ -637,13 +637,13 @@
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_schedule.xml" timestamp="1546935811409">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/view_entry_table_line_prediction_entry.xml" timestamp="1547007588827">
-        <mark key="'" line="39" column="4" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/view_entry_table_line_prediction_entry.xml" timestamp="1547011700203">
+        <mark key="'" line="43" column="4" />
         <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
+        <mark key="]" line="38" column="30" />
         <mark key="." line="37" column="0" />
-        <mark key="^" line="33" column="39" />
-        <mark key="o" line="22" column="0" />
+        <mark key="^" line="17" column="28" />
+        <mark key="o" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/search/race/model/SearchRaceModel.kt" timestamp="1545895063824">
         <mark key="[" line="17" column="0" />
@@ -694,10 +694,10 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/vector_open_bracket.xml" timestamp="1547007760509">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/drawable/vector_open_bracket.xml" timestamp="1547011348225">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/player/model/PlayerRelationshipGroupModel.kt" timestamp="1545895036153">
@@ -921,13 +921,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">PC9zaXplPg==</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbnRyeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXREZWNvcmF0ZWRXaXRoTWFyZ2lucyh2aWV3LCBsZWZ0LCB0b3AsIHJpZ2h0LCBib3R0b20pOwo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IjFkcCIKICAgICAgYW5kcm9pZDpwYWRkaW5nRW5kPSIxZHAiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBhbmRyb2lkOmluc2V0TGVmdD0iNGRwIgogIGFuZHJvaWQ6aW5zZXRSaWdodD0iNGRwIgo=</text>
@@ -957,7 +957,7 @@
         <text encoding="base64">ICAgIDxzaGFwZSBhbmRyb2lkOnNoYXBlPSJvdmFsIj4KICAgICAgPHNpemUKICAgICAgICBhbmRyb2lkOndpZHRoPSI0ZHAiCiAgICAgICAgYW5kcm9pZDpoZWlnaHQ9IjRkcCIKICAgICAgICAvPgogICAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL2JsYWNrIi8+CiAgICA8L3NoYXBlPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -984,14 +984,14 @@
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
         <entry>action GotoAction</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action RenameElement</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
