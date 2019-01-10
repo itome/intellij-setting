@@ -355,7 +355,7 @@
         <text encoding="base64">ICAgICAgc3RhdGUuZXJyb3I/LmNvbnN1bWUgewogICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXMsICJDb3VudCBlcnJvciEiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKQogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -383,7 +383,6 @@
         <entry>action RenameElement</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
@@ -391,6 +390,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
