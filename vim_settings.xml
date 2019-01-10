@@ -104,7 +104,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceResultFragment.kt" timestamp="1547106374809" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceResultFragment.kt" timestamp="1547111690621">
+        <mark key="'" line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/owl/library/src/main/java/team/itome/owl/OwlViewModel.kt" timestamp="1547028570561">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="51" />
@@ -216,11 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="26" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTableLineEntriesModelView.kt" />
-      <jump line="11" column="21" filename="$USER_HOME$/Projects/otaku/lib/view/login.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_player_score_switch.xml" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_player_score_switch.xml" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/login/login_state.dart" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/login/login_state.dart" />
       <jump line="2" column="25" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_last_four_month_type_switch.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_last_four_month_type_switch.xml" />
@@ -316,6 +313,11 @@
       <jump line="25" column="35" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" />
       <jump line="152" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/widget/TableLayoutManager.kt" />
       <jump line="20" column="9" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceResultController.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceResultFragment.kt" />
+      <jump line="38" column="28" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceResultFragment.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceResultFragment.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceResultFragment.kt" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceResultFragment.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -355,7 +357,7 @@
         <text encoding="base64">ICAgICAgc3RhdGUuZXJyb3I/LmNvbnN1bWUgewogICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXMsICJDb3VudCBlcnJvciEiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKQogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -385,12 +387,12 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
