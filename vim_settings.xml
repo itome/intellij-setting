@@ -25,11 +25,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/owl/sample/src/main/java/team/itome/owl/sample/CounterViewModel.kt" timestamp="1547027620055">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Projects/owl/sample/src/main/java/team/itome/owl/sample/CounterViewModel.kt" timestamp="1547184255378">
+        <mark key="[" line="10" column="108" />
+        <mark key="]" line="10" column="107" />
+        <mark key="^" line="10" column="107" />
+        <mark key="." line="10" column="107" />
       </file>
       <file name="$USER_HOME$/Projects/owl/sample/src/main/java/team/itome/owl/sample/CounterAction.kt" timestamp="1547022802303">
         <mark key="[" line="3" column="0" />
@@ -346,34 +346,34 @@
         <text encoding="base64">Y2xhc3MgQ291bnRlclByb2Nlc3NvciA6IFByb2Nlc3NvcjxDb3VudGVyQWN0aW9uPigpIHsKCiAgICBwcml2YXRlIGZ1biBwcm9jZXNzRGVsYXllZEluY3JlbWVudEFjdGlvbihhY3Rpb246IERlbGF5ZWRJbmNyZW1lbnRBY3Rpb24pID0gbGF1bmNoIHsKICAgICAgICBkZWxheSgxMDAwKQogICAgICAgIHB1dChVcGRhdGVDb3VudEFjdGlvbihhY3Rpb24uY291bnQpKQogICAgfQoKICAgIHByaXZhdGUgZnVuIHByb2Nlc3NEZWxheWVkRGVjcmVtZW50QWN0aW9uKGFjdGlvbjogRGVsYXllZERlY3JlbWVudEFjdGlvbikgPSBsYXVuY2ggewogICAgICAgIGRlbGF5KDEwMDApCiAgICAgICAgcHV0KFVwZGF0ZUNvdW50QWN0aW9uKGFjdGlvbi5jb3VudCkpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIHByb2Nlc3NBY3Rpb24oYWN0aW9uOiBDb3VudGVyQWN0aW9uKSB7CiAgICAgICAgd2hlbiAoYWN0aW9uKSB7CiAgICAgICAgICAgIGlzIERlbGF5ZWRJbmNyZW1lbnRBY3Rpb24gLT4gcHJvY2Vzc0RlbGF5ZWRJbmNyZW1lbnRBY3Rpb24oYWN0aW9uKQogICAgICAgICAgICBpcyBEZWxheWVkRGVjcmVtZW50QWN0aW9uIC0+IHByb2Nlc3NEZWxheWVkRGVjcmVtZW50QWN0aW9uKGFjdGlvbikKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBNYWluVGhyZWFkCg==</text>
+        <text encoding="base64">ICAgICAgICBJbmNyZW1lbnRJbnRlbnQgLT4gVXBkYXRlQ291bnRBY3Rpb24oc3RhdGUuY291bnQgKyAxKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIEBNYWluVGhyZWFkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgdmFsIGNlbGxJbmZvTG9va1VwID0geyBwb3NpdGlvbjogSW50IC0+CiAgICBUYWJsZUxheW91dE1hbmFnZXIuQ2VsbEluZm8odHJ1ZSwgMCkKICB9Cg==</text>
+        <text encoding="base64">ICAgIEBNYWluVGhyZWFkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgdmFsIGNlbGxJbmZvTG9va1VwID0geyBwb3NpdGlvbjogSW50IC0+CiAgICBUYWJsZUxheW91dE1hbmFnZXIuQ2VsbEluZm8odHJ1ZSwgMCkKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGF5b3V0TWFuYWdlciA9IFRhYmxlTGF5b3V0TWFuYWdlcihjb250cm9sbGVyLmNlbGxJbmZvTG9va1VwKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGF5b3V0TWFuYWdlciA9IFRhYmxlTGF5b3V0TWFuYWdlcihjb250cm9sbGVyLmNlbGxJbmZvTG9va1VwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSB2YWwgcHJvY2Vzc29yOiBQcm9jZXNzb3I8TWFpbkFjdGlvbj4gPSBNYWluUHJvY2Vzc29yKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzb3Iuc2V0UG9zdEFjdGlvbkNhbGxiYWNrKDo6c2V0U3RhdGUpCg==</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSB2YWwgcHJvY2Vzc29yOiBQcm9jZXNzb3I8TWFpbkFjdGlvbj4gPSBNYWluUHJvY2Vzc29yKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgb3BlbiB2YWwgcHJvY2Vzc29yOiBQcm9jZXNzb3I8QT4gPSBOb3RoaW5nUHJvY2Vzc29yKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzb3Iuc2V0UG9zdEFjdGlvbkNhbGxiYWNrKDo6c2V0U3RhdGUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -407,8 +407,8 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
