@@ -75,7 +75,7 @@
         <mark key="^" line="35" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceCardFragment.kt" timestamp="1546924756567" />
-      <file name="$USER_HOME$/Projects/owl/sample/src/main/java/team/itome/owl/sample/CounterProcessor.kt" timestamp="1547027893144">
+      <file name="$USER_HOME$/Projects/owl/sample/src/main/java/team/itome/owl/sample/CounterProcessor.kt" timestamp="1547180448886">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="25" column="1" />
         <mark key="^" line="7" column="21" />
@@ -343,7 +343,7 @@
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWNvcmU6MS4wLjEnCiAgICBpbXBsZW1lbnRhdGlvbiAnb3JnLmpldGJyYWlucy5rb3RsaW54OmtvdGxpbngtY29yb3V0aW5lcy1hbmRyb2lkOjEuMC4xJwo=</text>
+        <text encoding="base64">Y2xhc3MgQ291bnRlclByb2Nlc3NvciA6IFByb2Nlc3NvcjxDb3VudGVyQWN0aW9uPigpIHsKCiAgICBwcml2YXRlIGZ1biBwcm9jZXNzRGVsYXllZEluY3JlbWVudEFjdGlvbihhY3Rpb246IERlbGF5ZWRJbmNyZW1lbnRBY3Rpb24pID0gbGF1bmNoIHsKICAgICAgICBkZWxheSgxMDAwKQogICAgICAgIHB1dChVcGRhdGVDb3VudEFjdGlvbihhY3Rpb24uY291bnQpKQogICAgfQoKICAgIHByaXZhdGUgZnVuIHByb2Nlc3NEZWxheWVkRGVjcmVtZW50QWN0aW9uKGFjdGlvbjogRGVsYXllZERlY3JlbWVudEFjdGlvbikgPSBsYXVuY2ggewogICAgICAgIGRlbGF5KDEwMDApCiAgICAgICAgcHV0KFVwZGF0ZUNvdW50QWN0aW9uKGFjdGlvbi5jb3VudCkpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIHByb2Nlc3NBY3Rpb24oYWN0aW9uOiBDb3VudGVyQWN0aW9uKSB7CiAgICAgICAgd2hlbiAoYWN0aW9uKSB7CiAgICAgICAgICAgIGlzIERlbGF5ZWRJbmNyZW1lbnRBY3Rpb24gLT4gcHJvY2Vzc0RlbGF5ZWRJbmNyZW1lbnRBY3Rpb24oYWN0aW9uKQogICAgICAgICAgICBpcyBEZWxheWVkRGVjcmVtZW50QWN0aW9uIC0+IHByb2Nlc3NEZWxheWVkRGVjcmVtZW50QWN0aW9uKGFjdGlvbikKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBNYWluVGhyZWFkCg==</text>
@@ -373,7 +373,7 @@
         <text encoding="base64">CiAgICBwcm90ZWN0ZWQgb3BlbiB2YWwgcHJvY2Vzc29yOiBQcm9jZXNzb3I8QT4gPSBOb3RoaW5nUHJvY2Vzc29yKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -404,11 +404,11 @@
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
