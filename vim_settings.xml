@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableController.kt" timestamp="1547198907007">
-        <mark key="'" line="27" column="105" />
-        <mark key="[" line="48" column="11" />
-        <mark key="]" line="48" column="25" />
-        <mark key="." line="48" column="25" />
-        <mark key="^" line="48" column="25" />
-      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/ui/exhibit/ExhibitCategoryFragment.kt" timestamp="1545822321746">
         <mark key="[" line="28" column="67" />
         <mark key="]" line="28" column="67" />
@@ -52,11 +45,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTableLinePredictionLineModel.kt" timestamp="1547199991053">
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTableLinePredictionLineModel.kt" timestamp="1547517277898">
         <mark key="'" line="12" column="51" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/TextBindingAdapters.kt" timestamp="1547196809139">
         <mark key="[" line="37" column="23" />
@@ -135,13 +128,6 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" timestamp="1547201874041">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="40" column="38" />
-        <mark key="." line="40" column="38" />
-        <mark key="^" line="40" column="38" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_basic_info.xml" timestamp="1547200767179">
         <mark key="'" line="91" column="48" />
         <mark key="[" line="85" column="14" />
@@ -207,6 +193,14 @@
         <mark key="]" line="54" column="1" />
         <mark key="^" line="54" column="1" />
         <mark key="." line="54" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/view_entry_table_line_prediction_entry.xml" timestamp="1547518173421">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="17" column="28" />
+        <mark key="o" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/component/binding/ImageBindingAdapters.kt" timestamp="1547201823650">
         <mark key="[" line="137" column="0" />
@@ -312,10 +306,10 @@
         <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_race_result_top_3.xml" timestamp="1547107125469" />
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction_line.xml" timestamp="1546930511340">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_line_prediction_line.xml" timestamp="1547518180958">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/values/strings.xml" timestamp="1547193193206">
         <mark key="'" line="163" column="48" />
@@ -530,12 +524,6 @@
         <mark key="^" line="78" column="16" />
         <mark key="." line="78" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/ui/chat/model/MessageModel.kt" timestamp="1545898077861">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="10" column="46" />
-      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/view_entry_table_line_prediction_number.xml" timestamp="1546848638494">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="25" />
@@ -661,7 +649,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>contentDescription</text>
+        <text>linear_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</text>
@@ -697,7 +685,7 @@
         <text encoding="base64">ICAgIGJpbmRpbmcuaW0K</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -719,21 +707,21 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action CloseEditor</entry>
-        <entry>action FindInPath</entry>
-        <entry>action Find</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action FindInPath</entry>
+        <entry>action RenameElement</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
         <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
