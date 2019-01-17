@@ -11,11 +11,11 @@
         <mark key="^" line="46" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/values/strings.xml" timestamp="1547549645607">
-        <mark key="'" line="123" column="51" />
-        <mark key="[" line="123" column="45" />
-        <mark key="]" line="123" column="53" />
-        <mark key="." line="123" column="53" />
-        <mark key="^" line="123" column="53" />
+        <mark key="'" line="125" column="51" />
+        <mark key="[" line="125" column="45" />
+        <mark key="]" line="125" column="53" />
+        <mark key="." line="125" column="53" />
+        <mark key="^" line="125" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/race/RaceCardController.kt" timestamp="1546923699243">
         <mark key="'" line="10" column="0" />
@@ -206,6 +206,9 @@
         <mark key="]" line="6" column="8" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupController.kt" timestamp="1547721647955">
+        <mark key="'" line="67" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_player_score_race.xml" timestamp="1547621725147">
         <mark key="'" line="80" column="12" />
       </file>
@@ -299,11 +302,11 @@
         <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/res/values-zh-rTW/strings.xml" timestamp="1547550798726">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="174" column="41" />
-        <mark key="]" line="174" column="49" />
-        <mark key="^" line="120" column="36" />
-        <mark key="." line="163" column="60" />
+        <mark key="'" line="177" column="0" />
+        <mark key="[" line="176" column="41" />
+        <mark key="]" line="176" column="49" />
+        <mark key="^" line="122" column="36" />
+        <mark key="." line="165" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" timestamp="1547715210758">
         <mark key="'" line="35" column="4" />
@@ -597,7 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="44" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" />
       <jump line="3" column="14" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_current_cup.xml" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" />
       <jump line="69" column="21" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" />
@@ -697,6 +699,7 @@
       <jump line="382" column="10" filename="$USER_HOME$/Projects/WinTicket/android/.idea/codeStyles/Project.xml" />
       <jump line="50" column="86" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/message/MessageFragment.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/message/MessageFragment.kt" />
+      <jump line="67" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupController.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -736,7 +739,7 @@
         <text encoding="base64">ICA8Y29sb3IgbmFtZT0icmVkXzIwIj5AY29sb3Ivc3Vuc2V0X29yYW5nZV8yMDwvY29sb3I+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -769,12 +772,12 @@
         <entry>action Run</entry>
         <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
