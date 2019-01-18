@@ -739,7 +739,7 @@
         <text encoding="base64">ICA8Y29sb3IgbmFtZT0icmVkXzIwIj5AY29sb3Ivc3Vuc2V0X29yYW5nZV8yMDwvY29sb3I+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -775,9 +775,9 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
