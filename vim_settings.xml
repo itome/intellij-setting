@@ -194,6 +194,9 @@
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_player_score_race.xml" timestamp="1547621725147">
         <mark key="'" line="80" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/WinTicket/android/build.gradle" timestamp="1547790527086">
+        <mark key="'" line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/owl/sample/src/main/java/team/itome/owl/sample/CounterIntent.kt" timestamp="1547028596332">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="10" column="1" />
@@ -570,9 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="14" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_current_cup.xml" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" />
-      <jump line="69" column="21" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableFragment.kt" />
       <jump line="47" column="26" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_current_cup.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_previous_cup.xml" />
       <jump line="43" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_previous_cup.xml" />
@@ -670,6 +670,9 @@
       <jump line="50" column="86" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/message/MessageFragment.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/message/MessageFragment.kt" />
       <jump line="67" column="6" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/cup/CupController.kt" />
+      <jump line="37" column="68" filename="$USER_HOME$/Projects/WinTicket/android/build.gradle" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/WinTicket/android/build.gradle" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/WinTicket/android/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -709,7 +712,7 @@
         <text encoding="base64">ICA8Y29sb3IgbmFtZT0icmVkXzIwIj5AY29sb3Ivc3Vuc2V0X29yYW5nZV8yMDwvY29sb3I+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -745,9 +748,9 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
