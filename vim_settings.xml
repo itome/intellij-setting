@@ -22,7 +22,6 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/libra/android/keystores/BUCK" timestamp="1542997149705" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" timestamp="1541391878005">
         <mark key="'" line="2991" column="20" />
       </file>
@@ -374,7 +373,7 @@
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tYW5kcm9pZDokTU9DS0lUT19WRVJTSU9OIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -397,7 +396,6 @@
         <entry>action GotoImplementation</entry>
         <entry>q</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action Run</entry>
         <entry>action CloseEditor</entry>
@@ -407,6 +405,7 @@
         <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
