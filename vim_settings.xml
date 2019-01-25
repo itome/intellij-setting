@@ -272,6 +272,12 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="64" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/conference-app-2019/feature/session/src/main/java/io/github/droidkaigi/confsched2019/session/ui/widget/TimeTableLunchDecoration.kt" timestamp="1548394381064">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_current_cup.xml" timestamp="1547631004090">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="6" column="0" />
@@ -308,6 +314,10 @@
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/Result.kt" timestamp="1545811694281">
         <mark key="[" line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/conference-app-2019/feature/session/src/main/java/io/github/droidkaigi/confsched2019/session/ui/widget/TimeTableRoomLabelDecoration.kt" timestamp="1548394334362">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/fragment_total_score.xml" timestamp="1546935978549">
         <mark key="'" line="0" column="0" />
@@ -533,43 +543,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>CoroutinSc</text>
+        <text>ItemDecoration</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzllYblk4FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnRydXRoLlRydXRoLmFzc2VydFRoYXQK</text>
+        <text encoding="base64">Y2xhc3MgVGltZVRhYmxlUm9vbUxhYmVsRGVjb3JhdGlvbigKICAgIHByaXZhdGUgdmFsIGxhYmVsSGVpZ2h0OiBGbG9hdCwKICAgIHByaXZhdGUgdmFsIGxhYmVsVGV4dFNpemU6IEZsb2F0LAogICAgcHJpdmF0ZSB2YWwgbGFiZWxCYWNrZ3JvdW5kQ29sb3I6IEludCwKICAgIHByaXZhdGUgdmFsIGxhYmVsVGV4dENvbG9yOiBJbnQsCiAgICBwcml2YXRlIHZhbCBncm91cEFkYXB0ZXI6IEdyb3VwQWRhcHRlcjwqPgopIDogUmVjeWNsZXJWaWV3Lkl0ZW1EZWNvcmF0aW9uKCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU25hCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxhYmVsSGVpZ2h0OiBGbG9hdCwKICAgIHByaXZhdGUgdmFsIGxhYmVsVGV4dFNpemU6IEZsb2F0LAogICAgcHJpdmF0ZSB2YWwgbGFiZWxCYWNrZ3JvdW5kQ29sb3I6IEludCwKICAgIHByaXZhdGUgdmFsIGxhYmVsVGV4dENvbG9yOiBJbnQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImVudHJ5X3RhYmxlX2N1cF9vcmRlciI+552A6aCGL+axuuOBvuOCiuaJizwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU25hCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImVudHJ5X3RhYmxlX2N1cF9vcmRlciI+552A6aCGL+axuuOBvuOCiuaJizwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImVudHJ5X3RhYmxlX2N1cF9vcmRlciI+552A6aCGL+axuuOBvuOCiuaJizwvc3RyaW5nPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgbmF2aWdhdGlvbgo=</text>
+        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImVudHJ5X3RhYmxlX2N1cF9vcmRlciI+552A6aCGL+axuuOBvuOCiuaJizwvc3RyaW5nPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8+Cg==</text>
+        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImVudHJ5X3RhYmxlX2N1cF9vcmRlciI+552A6aCGL+axuuOBvuOCiuaJizwvc3RyaW5nPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgbmF2aWdhdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIC8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -599,15 +609,15 @@
         <entry>action Find</entry>
         <entry>action CloseEditor</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
