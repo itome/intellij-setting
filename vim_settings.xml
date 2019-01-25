@@ -334,6 +334,11 @@
         <mark key="." line="25" column="47" />
         <mark key="^" line="25" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/conference-app-2019/frontend/android/src/main/java/io/github/droidkaigi/confsched2019/ui/MainActivity.kt" timestamp="1548392418910">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/flux/BaseActionCreator.kt" timestamp="1548333218394">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="0" />
@@ -531,10 +536,10 @@
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnRydXRoLlRydXRoLmFzc2VydFRoYXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU25hCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImVudHJ5X3RhYmxlX2N1cF9vcmRlciI+552A6aCGL+axuuOBvuOCiuaJizwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImVudHJ5X3RhYmxlX2N1cF9vcmRlciI+552A6aCGL+axuuOBvuOCiuaJizwvc3RyaW5nPgo=</text>
@@ -543,22 +548,22 @@
         <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImVudHJ5X3RhYmxlX2N1cF9vcmRlciI+552A6aCGL+axuuOBvuOCiuaJizwvc3RyaW5nPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgbmF2aWdhdGlvbgo=</text>
+        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImVudHJ5X3RhYmxlX2N1cF9vcmRlciI+552A6aCGL+axuuOBvuOCiuaJizwvc3RyaW5nPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8+Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgbmF2aWdhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8Y29sb3IgbmFtZT0icmVkXzIwIj5AY29sb3Ivc3Vuc2V0X29yYW5nZV8yMDwvY29sb3I+Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -588,15 +593,15 @@
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action CloseEditor</entry>
         <entry>action GotoImplementation</entry>
         <entry>action SaveAll</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
