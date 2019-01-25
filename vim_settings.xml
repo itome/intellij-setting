@@ -137,6 +137,9 @@
         <mark key="." line="46" column="37" />
         <mark key="^" line="46" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/conference-app-2019/feature/session/src/main/java/io/github/droidkaigi/confsched2019/session/ui/TabularFormSessionPageFragment.kt" timestamp="1548393734039">
+        <mark key="'" line="61" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTableWinningRateModel.kt" timestamp="1547633770874">
         <mark key="'" line="25" column="25" />
         <mark key="[" line="22" column="28" />
@@ -427,7 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="20" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/EntryTableController.kt" />
       <jump line="31" column="57" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTablePreviousCupModel.kt" />
       <jump line="47" column="31" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTablePreviousCupModel.kt" />
       <jump line="19" column="15" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTablePreviousCupModel.kt" />
@@ -527,6 +529,7 @@
       <jump line="7" column="25" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpStoreFactory.kt" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" />
       <jump line="20" column="33" filename="$USER_HOME$/Projects/conference-app-2019/feature/session/src/main/java/io/github/droidkaigi/confsched2019/session/ui/widget/TimeTableLayoutManager.kt" />
+      <jump line="61" column="36" filename="$USER_HOME$/Projects/conference-app-2019/feature/session/src/main/java/io/github/droidkaigi/confsched2019/session/ui/TabularFormSessionPageFragment.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -566,7 +569,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -598,13 +601,13 @@
         <entry>action GotoImplementation</entry>
         <entry>action SaveAll</entry>
         <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
