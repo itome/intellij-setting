@@ -273,6 +273,12 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/editprofile/EditProfileActionCreator.kt" timestamp="1548412418744">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/WinTicket/android/core/src/main/res/values/colors.xml" timestamp="1547715086946">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="97" column="0" />
@@ -333,12 +339,6 @@
       </file>
       <file name="$USER_HOME$/Projects/owl/library/src/main/java/team/itome/owl/OwlAction.kt" timestamp="1547021746542">
         <mark key="[" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/navigation/nav_main.xml" timestamp="1547715210758">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="325" column="0" />
-        <mark key="]" line="325" column="0" />
-        <mark key="." line="325" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlProcessor.kt" timestamp="1545811595776">
         <mark key="[" line="8" column="17" />
@@ -559,7 +559,7 @@
         <text encoding="base64">ICA8Y29sb3IgbmFtZT0icmVkXzIwIj5AY29sb3Ivc3Vuc2V0X29yYW5nZV8yMDwvY29sb3I+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -589,15 +589,15 @@
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action CloseEditor</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action SaveAll</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action Back</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
