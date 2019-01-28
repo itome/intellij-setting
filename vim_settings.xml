@@ -74,9 +74,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" timestamp="1548675081888">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="24" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" timestamp="1548677985961">
+        <mark key="'" line="20" column="39" />
+        <mark key="[" line="21" column="77" />
+        <mark key="]" line="21" column="76" />
+        <mark key="." line="21" column="76" />
+        <mark key="^" line="21" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlAction.kt" timestamp="1545811569882">
         <mark key="[" line="2" column="16" />
@@ -167,12 +170,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" timestamp="1548676751560">
-        <mark key="'" line="49" column="6" />
-        <mark key="[" line="63" column="39" />
-        <mark key="]" line="63" column="58" />
-        <mark key="." line="63" column="107" />
-        <mark key="^" line="63" column="58" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" timestamp="1548678072101">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="50" />
+        <mark key="." line="72" column="50" />
+        <mark key="^" line="72" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_register_user_bubbles.xml" timestamp="1548425585952">
         <mark key="'" line="92" column="0" />
@@ -180,6 +183,12 @@
         <mark key="]" line="92" column="75" />
         <mark key="." line="92" column="78" />
         <mark key="^" line="25" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/login/LoginActivity.kt" timestamp="1548678045872">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/AndroidManifest.xml" timestamp="1548673228317">
         <mark key="[" line="31" column="0" />
@@ -202,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_comment.xml" />
       <jump line="42" column="12" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/res/layout/model_entry_table_comment.xml" />
       <jump line="14" column="15" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTableCurrentCupModel.kt" />
       <jump line="6" column="41" filename="$USER_HOME$/Projects/WinTicket/android/mobile/src/main/kotlin/jp/co/cyberagent/winticket/mobile/ui/entrytable/model/EntryTableCommentModel.kt" />
@@ -302,46 +310,47 @@
       <jump line="45" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" />
       <jump line="43" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" />
       <jump line="47" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" />
+      <jump line="20" column="39" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>RegisterActivity</text>
+        <text>SignUpActivity.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzllYblk4FcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRpbWJlci5kKGV4Y2VwdGlvbikK</text>
+      <register name="0" type="4">
+        <text>SIGN_UP_TYPE_TWITTER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Ud2l0dGVyQXV0aFN1Y2Nlc3MocmVzdWx0OiBSZXN1bHQ8VHdpdHRlclNlc3Npb24+PykgewogIH0KCiAgcHJpdmF0ZSBmdW4gb25Ud2l0dGVyQXV0aEZhaWx1cmUoZXhjZXB0aW9uOiBUd2l0dGVyRXhjZXB0aW9uPykgewogIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci5kKGV4Y2VwdGlvbikK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB0b2tlbiA9IHJlc3VsdD8uZGF0YT8uYXV0aFRva2VuID86IHJldHVybgogICAgYWN0aW9uQ3JlYXRvci5zaWduSW5XaXRoQ3JlZGVudGlhbChUd2l0dGVyQXV0aFByb3ZpZGVyLmdldENyZWRlbnRpYWwodG9rZW4udG9rZW4sIHRva2VuLnNlY3JldCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFNpZ25VCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vblR3aXR0ZXJBdXRoRmFpbHVyZShleGNlcHRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IG5hdmlnYXRlIHRvIHNpZ24gdXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vblR3aXR0ZXJBdXRoU3VjY2VzcyhyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIGFyZwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IG9iamVjdCA6IENhbGxiYWNrPFR3aXR0ZXJTZXNzaW9uPigpIHsKICAgICAgICBvdmVycmlkZSBmdW4gc3VjY2VzcyhyZXN1bHQ6IFJlc3VsdDxUd2l0dGVyU2Vzc2lvbj4/KSB7CiAgICAgICAgICB0aGlzQFJlZ2lzdGVyQWN0aXZpdHkub25Ud2l0dGVyQXV0aFN1Y2Nlc3MocmVzdWx0KQogICAgICAgIH0KCiAgICAgICAgb3ZlcnJpZGUgZnVuIGZhaWx1cmUoZXhjZXB0aW9uOiBUd2l0dGVyRXhjZXB0aW9uPykgewogICAgICAgICAgdGhpc0BSZWdpc3RlckFjdGl2aXR5Lm9uVHdpdHRlckF1dGhGYWlsdXJlKGV4Y2VwdGlvbikKICAgICAgICB9CiAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNpZ24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRpbWJlci5kKGV4Y2VwdGlvbikK</text>
+        <text encoding="base64">ICAgIHNpZ25VCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCB0b2tlbiA9IHJlc3VsdD8uZGF0YT8uYXV0aFRva2VuID86IHJldHVybgogICAgICAgICAgYWN0aW9uQ3JlYXRvci5zaWduSW5XaXRoQ3JlZGVudGlhbCgKICAgICAgICAgICAgICBUd2l0dGVyQXV0aFByb3ZpZGVyLmdldENyZWRlbnRpYWwodG9rZW4udG9rZW4sIHRva2VuLnNlY3JldCkKICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIHByaXZhCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
     </registers>
     <search>
@@ -369,17 +378,17 @@
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action RenameElement</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
