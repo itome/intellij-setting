@@ -101,11 +101,24 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/constants/DefaultConstraints.java" timestamp="1549301937543">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" timestamp="1549280222024">
         <mark key="[" line="4" column="79" />
         <mark key="]" line="4" column="91" />
         <mark key="." line="4" column="91" />
         <mark key="^" line="4" column="91" />
+      </file>
+      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1549302068471">
+        <mark key="'" line="266" column="46" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="53" />
+        <mark key="." line="277" column="0" />
+        <mark key="^" line="291" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlAction.kt" timestamp="1545811569882">
         <mark key="[" line="2" column="16" />
@@ -229,18 +242,24 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="25" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeee/app/build.gradle" timestamp="1549302105195">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/page/SignUpUserNameFragment.kt" timestamp="1548853284025">
         <mark key="[" line="24" column="96" />
         <mark key="]" line="25" column="22" />
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1547717043262">
+      <file name="/fragment.java" timestamp="1549301185988">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="70" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/build.gradle" />
       <jump line="60" column="8" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_register.xml" />
       <jump line="11" column="3" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_register.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_register.xml" />
@@ -340,46 +359,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/shape_emerald_radius_4dp.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/shape_gainsboro_radius_4dp.xml" />
       <jump line="29" column="30" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/view/ViewPagerProgressIndicator.kt" />
+      <jump line="265" column="46" filename="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">IHx8IHByb3BzLg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzllYblk4FcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QE1vZHVsZQo=</text>
+      <register name="0" type="4">
+        <text>&quot;3D42FF00-7480-4C5B-BEDD-465A59DDBBEF&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmdW4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGRlc3RDb2RlID0gcGFyc2VEZXN0Q29kZShzY2FuUmVjb3JkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgYWJzdHJhY3QgIGZ1biBzaWduVXBFbWFpbEZyYWdtZW50SW5qZWN0b3IoKTogU2lnblVwRW1haWxGcmFnbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBAUHJvdmlkZXMgZnVuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKEFycmF5cy5hc0xpc3QoRGVmYXVsdENvbnN0cmFpbnRzLmF2YWlsYWJsZURlc3RDb2RlKS5jb250YWlucygpKSByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIudWkuc2lnaW51cC5TaWduVXBBY3Rpdml0eSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZGUgPT0gZGVzdENvZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgc2lnbiB1cCBhY3Rpdml0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc3REQ29kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIudWkuc2lnaW51cC5TaWduVXBBY3Rpdml0eSIvPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgc2lnbiB1cCBhY3Rpdml0eQo=</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHByb3BzLmZpcnN0KSB7CiAgICAgICAgICAgIGNhc2UgVVVJRC5mcm9tU3RyaW5nKCk6CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSA6CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiIjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -398,26 +418,26 @@
         <entry encoding="base64">XDzllYblk4FcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Debug</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action CloseEditor</entry>
         <entry>action FindInPath</entry>
-        <entry>action Find</entry>
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Run</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
+        <entry>action Debug</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -461,6 +481,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
