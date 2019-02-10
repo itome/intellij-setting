@@ -90,8 +90,11 @@
         <mark key="." line="15" column="70" />
         <mark key="^" line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" timestamp="1549820134085">
+      <file name="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" timestamp="1549822511123">
         <mark key="'" line="31" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/Result.kt" timestamp="1545811694281">
         <mark key="[" line="3" column="14" />
@@ -195,7 +198,9 @@
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/otaku/lib/view/splash_screen.dart" timestamp="1549820202146" />
+      <file name="$USER_HOME$/Projects/otaku/lib/view/splash_screen.dart" timestamp="1549821594257">
+        <mark key="'" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/fragment_sign_up_password.xml" timestamp="1549382150630">
         <mark key="'" line="1" column="29" />
         <mark key="[" line="29" column="48" />
@@ -275,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="371" column="0" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/Project.xml" />
       <jump line="1" column="27" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/Project.xml" />
       <jump line="68" column="49" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" />
       <jump line="63" column="26" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" />
@@ -372,9 +376,10 @@
       <jump line="99" column="0" filename="$USER_HOME$/Projects/otaku/lib/bloc/bloc_provider.dart" />
       <jump line="84" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/login/login_bloc.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/login/login_bloc.dart" />
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/otaku/lib/remote/auth_client.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/otaku/lib/remote/auth_client.dart" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/otaku/lib/view/splash_screen.dart" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -387,34 +392,34 @@
         <text encoding="base64">ICBjb250ZXh0OiBDb250ZXh0LAogIGF0dHJzOiBBdHRyaWJ1dGVTZXQ/ID0gbnVsbCwKICBzdHlsZTogSW50ID0gMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgMiAtPiBTaWduVXBVc2VyTmFtZUZyYWdtZW50Lm5ld0luc3RhbmNlKCkK</text>
+        <text encoding="base64">ICAKICBTdHJlYW08U3RyaW5nPiBnZXQgdWlkU3RyZWFtID0+IF91aWRTdWJqZWN0LnN0cmVhbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpcmViYXNlSWRUb2tlblJlcG9zaXRvcnkuaWRUb2tlbigpCiAgICAgICAgLnN1YnNjcmliZUJ5KHsKICAgICAgICAgIFRpbWJlci5lKGl0KQogICAgICAgIH0sIHsKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAKICBTaW5rPFNwbGFzaEFjdGlvbj4gZ2V0IHNwbGFzaEFjdGlvblNpbmsgPT4gX3NwbGFzaEFjdGlvblN1YmplY3Quc2luOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuc3Vic2NyaWJlQnkoewogICAgICAgICAgICAgICAgVGltYmVyLmUoaXQpCiAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgZGlzcGF0Y2goU2lnblVwQWN0aW9uLlNpZ25VcChpdCkpCiAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgMiAtPiBTaWduVXBVc2VyTmFtZUZyYWdtZW50Lm5ld0luc3RhbmNlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlSWRUb2tlblJlcG9zaXRvcnkuaWRUb2tlbigpCiAgICAgICAgLnN1YnNjcmliZUJ5KHsKICAgICAgICAgIFRpbWJlci5lKGl0KQogICAgICAgIH0sIHsKICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNpZ25VcFJlcG9zaXRvcnkuc2lnblVwKGl0LCBib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuc3Vic2NyaWJlQnkoewogICAgICAgICAgICAgICAgVGltYmVyLmUoaXQpCiAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgZGlzcGF0Y2goU2lnblVwQWN0aW9uLlNpZ25VcChpdCkpCiAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOODpuODvOOCtuODvOOBrnRva2Vu44KS5Y+W5b6XCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCB1c2VySWRSZWdleCA9IFJlZ2V4KCJeW2EtejAtOV0rKFtfXT9bYS16MC05XSspKiQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNpZ25VcFJlcG9zaXRvcnkuc2lnblVwKGl0LCBib2R5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCB1c2VySWRSZWdleCA9IFJlZ2V4KCJeW2EtejAtOV0rKFtfXT9bYS16MC05XSspKiQiKQo=</text>
+        <text encoding="base64">ICAgIC8vIOODpuODvOOCtuODvOOBrnRva2Vu44KS5Y+W5b6XCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgdXNlcjogQmVoYXZpb3JTdWJqZWN0PFVzZXI+ID0gQmVoYXZpb3JTdWJqZWN0LmNyZWF0ZSgpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB1c2VySWRSZWdleCA9IFJlZ2V4KCJeW2EtejAtOV0rKFtfXT9bYS16MC05XSspKiQiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -442,17 +447,17 @@
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action Debug</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
