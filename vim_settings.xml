@@ -18,9 +18,6 @@
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlIntent.kt" timestamp="1545811587470">
         <mark key="[" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnBoardingActivity.kt" timestamp="1549375845266">
-        <mark key="^" line="10" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/owl/library/src/main/java/team/itome/owl/OwlState.kt" timestamp="1547021775699">
         <mark key="[" line="2" column="14" />
       </file>
@@ -49,6 +46,9 @@
         <mark key="." line="50" column="66" />
         <mark key="^" line="50" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/otaku/lib/domain/login/login_bloc.dart" timestamp="1549820048338">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1549455833688">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,13 +68,16 @@
       <file name="$USER_HOME$/Projects/owl/library/src/main/java/team/itome/owl/OwlProcessor.kt" timestamp="1547021754264">
         <mark key="[" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/otaku/lib/bloc/bloc_provider.dart" timestamp="1549819827846">
+        <mark key="'" line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/page/SignUpUserNameFragment:.kt" timestamp="1548848963111">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" timestamp="1549455411866">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" timestamp="1549819791565">
         <mark key="'" line="13" column="6" />
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="3" />
@@ -86,6 +89,9 @@
         <mark key="]" line="15" column="70" />
         <mark key="." line="15" column="70" />
         <mark key="^" line="15" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" timestamp="1549820134085">
+        <mark key="'" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/Result.kt" timestamp="1545811694281">
         <mark key="[" line="3" column="14" />
@@ -123,10 +129,12 @@
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlAction.kt" timestamp="1545811569882">
         <mark key="[" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/otaku/lib/remote/auth_client.dart" timestamp="1549820152226">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/RegisterActionCreator.kt" timestamp="1548817773842">
         <mark key="[" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/FirebaseSignUpDataSource.kt" timestamp="1549455875199" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/fragment_sign_up_email.xml" timestamp="1549379322165">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="30" column="31" />
@@ -187,6 +195,7 @@
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/otaku/lib/view/splash_screen.dart" timestamp="1549820202146" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/fragment_sign_up_password.xml" timestamp="1549382150630">
         <mark key="'" line="1" column="29" />
         <mark key="[" line="29" column="48" />
@@ -266,12 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" />
-      <jump line="45" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" />
-      <jump line="47" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" />
-      <jump line="20" column="39" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" />
-      <jump line="13" column="1" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/ChipStyle.xml" />
-      <jump line="49" column="23" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/ChipStyle.xml" />
       <jump line="371" column="0" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/Project.xml" />
       <jump line="1" column="27" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/Project.xml" />
       <jump line="68" column="49" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" />
@@ -366,6 +369,12 @@
       <jump line="14" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" />
       <jump line="40" column="4" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpStore.kt" />
       <jump line="22" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" />
+      <jump line="99" column="0" filename="$USER_HOME$/Projects/otaku/lib/bloc/bloc_provider.dart" />
+      <jump line="84" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/login/login_bloc.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/login/login_bloc.dart" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/otaku/lib/remote/auth_client.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/otaku/lib/remote/auth_client.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -405,7 +414,7 @@
         <text encoding="base64">ICB2YWwgdXNlcjogQmVoYXZpb3JTdWJqZWN0PFVzZXI+ID0gQmVoYXZpb3JTdWJqZWN0LmNyZWF0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -424,7 +433,6 @@
         <entry encoding="base64">XDzllYblk4FcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action CloseEditor</entry>
         <entry>action NextSplitter</entry>
         <entry>action Find</entry>
@@ -434,16 +442,17 @@
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action Debug</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action GotoAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
