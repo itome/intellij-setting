@@ -18,11 +18,11 @@
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlIntent.kt" timestamp="1545811587470">
         <mark key="[" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnBoardingActivity.kt" timestamp="1549889270033">
-        <mark key="[" line="102" column="61" />
-        <mark key="]" line="102" column="61" />
-        <mark key="^" line="68" column="121" />
-        <mark key="." line="102" column="61" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnBoardingActivity.kt" timestamp="1549890406991">
+        <mark key="[" line="102" column="72" />
+        <mark key="]" line="102" column="71" />
+        <mark key="^" line="102" column="71" />
+        <mark key="." line="102" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/User.kt" timestamp="1549880269382">
         <mark key="[" line="12" column="79" />
@@ -197,6 +197,7 @@
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up_on_boarding.xml" timestamp="1549890433632" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/colors.xml" timestamp="1548856027677">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="21" />
@@ -439,7 +440,7 @@
         <text encoding="base64">ICAgIGJvdHRvbVNoZWV0QmVoYXZpb3Iuc3RhdGUgPQogICAgICBzYXZlZEluc3RhbmNlU3RhdGU/LmdldEludChCT1RUT01fU0hFRVRfU1RBVEUpID86IEJvdHRvbVNoZWV0QmVoYXZpb3IuU1RBVEVfSElEREVOCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -469,7 +470,6 @@
         <entry>action Debug</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
@@ -479,6 +479,7 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
