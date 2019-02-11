@@ -77,12 +77,12 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" timestamp="1549819791565">
-        <mark key="'" line="13" column="6" />
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="3" />
-        <mark key="." line="42" column="3" />
-        <mark key="^" line="42" column="3" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" timestamp="1549874578500">
+        <mark key="'" line="67" column="22" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/view/NoSwipeViewPager.kt" timestamp="1549452593830">
         <mark key="[" line="15" column="83" />
@@ -90,7 +90,7 @@
         <mark key="." line="15" column="70" />
         <mark key="^" line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" timestamp="1549855080788">
+      <file name="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" timestamp="1549874429453">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -115,12 +115,11 @@
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/extensions/BottomSheetBehavior.kt" timestamp="1549374678438">
         <mark key="[" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" timestamp="1549455555147">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="120" column="6" />
-        <mark key="]" line="120" column="7" />
-        <mark key="^" line="85" column="29" />
-        <mark key="." line="120" column="7" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" timestamp="1549875022514">
+        <mark key="'" line="52" column="6" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="84" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" timestamp="1549302068471">
         <mark key="'" line="266" column="46" />
@@ -278,12 +277,9 @@
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/remote/api/SignUpApi.kt" timestamp="1549875123191" />
     </filemarks>
     <jumps>
-      <jump line="1" column="27" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/Project.xml" />
-      <jump line="68" column="49" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/register/RegisterActivity.kt" />
-      <jump line="63" column="26" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_signup.xml" />
       <jump line="71" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_signup.xml" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_signup.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/shape_white_top_radius_20dp.xml" />
@@ -379,11 +375,15 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/otaku/lib/remote/auth_client.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/otaku/lib/remote/auth_client.dart" />
       <jump line="41" column="0" filename="$USER_HOME$/Projects/otaku/lib/view/splash_screen.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/otaku/lib/domain/splash/splash_bloc.dart" />
+      <jump line="47" column="2" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" />
+      <jump line="68" column="22" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" />
+      <jump line="52" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">QFN1cHByZXNzTGludCgiQ2hlY2tSZXN1bHQiKSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzllYblk4FcPg==</text>
@@ -392,34 +392,34 @@
         <text encoding="base64">ICBjb250ZXh0OiBDb250ZXh0LAogIGF0dHJzOiBBdHRyaWJ1dGVTZXQ/ID0gbnVsbCwKICBzdHlsZTogSW50ID0gMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBTdHJlYW08U3RyaW5nPiBnZXQgdWlkU3RyZWFtID0+IF91aWRTdWJqZWN0LnN0cmVhbQo=</text>
+        <text encoding="base64">ICAgIAogICAgc3RvcmUubG9naW5Vc2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBTaW5rPFNwbGFzaEFjdGlvbj4gZ2V0IHNwbGFzaEFjdGlvblNpbmsgPT4gX3NwbGFzaEFjdGlvblN1YmplY3Quc2luOwo=</text>
+        <text encoding="base64">ICAgIAogICAgc3RvcmUuc2lnbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgMiAtPiBTaWduVXBVc2VyTmFtZUZyYWdtZW50Lm5ld0luc3RhbmNlKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpcmViYXNlSWRUb2tlblJlcG9zaXRvcnkuaWRUb2tlbigpCiAgICAgICAgLnN1YnNjcmliZUJ5KHsKICAgICAgICAgIFRpbWJlci5lKGl0KQogICAgICAgIH0sIHsKICAgICAgICB9KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuc3Vic2NyaWJlQnkoewogICAgICAgICAgICAgICAgVGltYmVyLmUoaXQpCiAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgZGlzcGF0Y2goU2lnblVwQWN0aW9uLlNpZ25VcChpdCkpCiAgICAgICAgICAgICAgfSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAKICBTdHJlYW08U3RyaW5nPiBnZXQgdWlkU3RyZWFtID0+IF91aWRTdWJqZWN0LnN0cmVhbTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAKICBTdHJlYW08U3RyaW5nPiBnZXQgdWlkU3RyZWFtID0+IF91aWRTdWJqZWN0LnN0cmVhbQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAKICBTaW5rPFNwbGFzaEFjdGlvbj4gZ2V0IHNwbGFzaEFjdGlvblNpbmsgPT4gX3NwbGFzaEFjdGlvblN1YmplY3Quc2luOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNpZ25VcFJlcG9zaXRvcnkuc2lnblVwKGl0LCBib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgMiAtPiBTaWduVXBVc2VyTmFtZUZyYWdtZW50Lm5ld0luc3RhbmNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIOODpuODvOOCtuODvOOBrnRva2Vu44KS5Y+W5b6XCg==</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlSWRUb2tlblJlcG9zaXRvcnkuaWRUb2tlbigpCiAgICAgICAgLnN1YnNjcmliZUJ5KHsKICAgICAgICAgIFRpbWJlci5lKGl0KQogICAgICAgIH0sIHsKICAgICAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCB1c2VySWRSZWdleCA9IFJlZ2V4KCJeW2EtejAtOV0rKFtfXT9bYS16MC05XSspKiQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuc3Vic2NyaWJlQnkoewogICAgICAgICAgICAgICAgVGltYmVyLmUoaXQpCiAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgZGlzcGF0Y2goU2lnblVwQWN0aW9uLlNpZ25VcChpdCkpCiAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -446,18 +446,18 @@
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Debug</entry>
-        <entry>action GotoImplementation</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action Run</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoImplementation</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
