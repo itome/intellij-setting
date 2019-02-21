@@ -36,17 +36,16 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnBoardingStore.kt" timestamp="1550488551265" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/creditInfo/CreditInfoActionCreator.kt" timestamp="1549983409505">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/extensions/TextView.kt" timestamp="1549983281286">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/extensions/TextView.kt" timestamp="1550761666948">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="56" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="1" />
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
       </file>
@@ -93,7 +92,6 @@
       <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/Result.kt" timestamp="1545811694281">
         <mark key="[" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/remote/api/GenreApi.kt" timestamp="1550491080090" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/shape_white_radius_40dp.xml" timestamp="1548856437820">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -257,7 +255,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/Fanclub.kt" timestamp="1550490942992" />
     </filemarks>
     <jumps>
       <jump line="2" column="11" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/codeStyleConfig.xml" />
@@ -369,7 +366,7 @@
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogU2hvdyBlcnJvciBtZXNzYWdlCg==</text>
+        <text encoding="base64">ZnVuIFRleHRWaWV3LnNldFRleHREaXN0aW5jdCh0ZXh0OiBTdHJpbmcpIHsKICBpZiAodGV4dCA9PSB0aGlzLnRleHQudG9TdHJpbmcoKSkgcmV0dXJuCiAgc2V0VGV4dCh0ZXh0KQp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIFRpbWJlci5lKGl0KQo=</text>
@@ -399,7 +396,7 @@
         <text encoding="base64">PT09PT09PQogICAgICBUV0lUVEVSIC0+IGFjdGlvbkNyZWF0b3Iuc2lnblVwKHN0b3JlLnVzZXJOYW1lLnZhbHVlISEsIHN0b3JlLm5hbWUudmFsdWUhISkKICAgICAgRU1BSUwgLT4gYWN0aW9uQ3JlYXRvci5jcmVhdGVVc2VyV2l0aEVtYWlsQW5kUGFzc3dvcmQoCiAgICAgICAgICBzdG9yZS5tYWlsQWRkcmVzcy52YWx1ZSEhLAogICAgICAgICAgc3RvcmUucGFzc3dvcmQudmFsdWUhIQo+Pj4+Pj4+IEltcGxlbWVudCB0d2l0dGVyIHNpZ251cAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -435,10 +432,10 @@
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
