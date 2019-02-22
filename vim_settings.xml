@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/User.kt" timestamp="1550827207322">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="39" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/User.kt" timestamp="1550829598397">
+        <mark key="'" line="0" column="35" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/Plan.kt" timestamp="1550826517480">
         <mark key="[" line="18" column="41" />
@@ -45,6 +46,7 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/CreditCard.kt" timestamp="1550830080410" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_fanclubs_item.xml" timestamp="1550813065776">
         <mark key="'" line="67" column="37" />
         <mark key="[" line="67" column="48" />
@@ -58,6 +60,7 @@
         <mark key="^" line="150" column="50" />
         <mark key="." line="150" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/remote/api/GenreApi.kt" timestamp="1550815543076" />
       <file name="$USER_HOME$/Projects/Yangon/android/settings.gradle" timestamp="1550296044957">
         <mark key="[" line="2" column="126" />
         <mark key="]" line="2" column="125" />
@@ -211,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="28" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/Project.xml" />
       <jump line="362" column="16" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/Project.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/Project.xml" />
       <jump line="135" column="10" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up_on_boarding.xml" />
@@ -311,6 +313,7 @@
       <jump line="7" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/creditInfo/CreditInfoStoreFactory.kt" />
       <jump line="37" column="2" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclubs/FanclubsActivity.kt" />
       <jump line="30" column="8" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistActivity.kt" />
+      <jump line="0" column="35" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/User.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -382,13 +385,13 @@
         <entry>action GoToLastTab</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoAction</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
