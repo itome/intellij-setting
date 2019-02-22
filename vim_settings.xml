@@ -169,6 +169,10 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/creditInfo/CreditInfoStore.kt" timestamp="1550825495093">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/creditInfo/CreditInfoStoreFactory.kt" timestamp="1550817898803">
         <mark key="'" line="7" column="6" />
         <mark key="[" line="7" column="0" />
@@ -193,11 +197,10 @@
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistModule.kt" timestamp="1550819589092">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistModule.kt" timestamp="1550825167633">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up.xml" timestamp="1550302914495">
         <mark key="'" line="72" column="8" />
@@ -206,17 +209,17 @@
         <mark key="." line="60" column="71" />
         <mark key="^" line="60" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistStore.kt" timestamp="1550818419457">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="61" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistStore.kt" timestamp="1550825497524">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="46" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistActivity.kt" timestamp="1550819470249">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="31" column="40" />
-        <mark key="^" line="31" column="40" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistActivity.kt" timestamp="1550825182367">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpAction.kt" timestamp="1550488610668">
         <mark key="[" line="26" column="52" />
@@ -449,37 +452,37 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>CreditIArtistStoreFactoryreFactory</text>
+        <text>AppCompatActivity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgQFByb3ZpZGVzIGZ1biBwcm92aWRlc1N0b3JlRmFjdG9yeSgKICAgIGRpc3BhdGNoZXI6IERpc3BhdGNoZXIKICApOiBDcmVkaXRJbmZvU3RvcmVGYWN0b3J5IHsKICAgIHJldHVybiBDcmVkaXRJbmZvU3RvcmVGYWN0b3J5KGRpc3BhdGNoZXIpCiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmVlbnJvYm90LmV2ZW50YnVzLlRocmVhZE1vZGUuTUFJTgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc3BhdGNoKEFydGlzdEFjdGlvbi5VcGRhdGVGYW5jbHViKGl0KSkK</text>
+        <text encoding="base64">CiAgQFByb3ZpZGVzIGZ1biBwcm92aWRlc1N0b3JlRmFjdG9yeSgKICAgIGRpc3BhdGNoZXI6IERpc3BhdGNoZXIKICApOiBBcnRpc3RTdG9yZUZhY3RvcnkgewogICAgcmV0dXJuIEFydGlzdFN0b3JlRmFjdG9yeShkaXNwYXRjaGVyKQogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRpbWJlci5lKGl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRpc3BhdGNoKEFydGlzdEFjdGlvbi5VcGRhdGVGYW5jbHViKGl0KSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIFRpbWJlci5lKGl0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZhbmNsYgo=</text>
+        <text encoding="base64">ICAgICAgICAgIFRpbWJlci5lKGl0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZhbmNsYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgQEFjdGl2aXR5U2NvcGUgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgYWJzdHJhY3QgZnVuIGFydGlzdEFjdGl2aXR5SW5qZWN0b3IoKTogQXJ0aXN0QWN0aXZpdHkK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgQFByb3ZpZGVzIGZ1biBwcm92aWRlc1N0b3JlRmFjdG9yeSgKICAgIGRpc3BhdGNoZXI6IERpc3BhdGNoZXIKICApOiBBcnRpc3RTdG9yZUZhY3RvcnkgewogICAgcmV0dXJuIEFydGlzdFN0b3JlRmFjdG9yeShkaXNwYXRjaGVyKQogIH0K</text>
+        <text encoding="base64">CiAgQEFjdGl2aXR5U2NvcGUgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgYWJzdHJhY3QgZnVuIGFydGlzdEFjdGl2aXR5SW5qZWN0b3IoKTogQXJ0aXN0QWN0aXZpdHkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CiAgQFByb3ZpZGVzIGZ1biBwcm92aWRlc1N0b3JlRmFjdG9yeSgKICAgIGRpc3BhdGNoZXI6IERpc3BhdGNoZXIKICApOiBBcnRpc3RTdG9yZUZhY3RvcnkgewogICAgcmV0dXJuIEFydGlzdFN0b3JlRmFjdG9yeShkaXNwYXRjaGVyKQogIH0K</text>
@@ -518,11 +521,11 @@
         <entry>action GoToLastTab</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoAction</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
       </history-cmd>
