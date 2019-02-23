@@ -92,6 +92,11 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/Bank.kt" timestamp="1550937185954">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/build.gradle" timestamp="1550827959225">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -317,7 +322,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>reduce</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -326,34 +331,34 @@
         <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgZGlzcG9zYWJsZXMgPSBDb21wb3NpdGVEaXNwb3NhYmxlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHguYXBwY29tcGF0OmFwcGNvbXBhdDoxLjAuMC1iZXRhMDEnCiAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQ6Y29uc3RyYWludGxheW91dDoxLjEuMicK</text>
+        <text encoding="base64">ICBsc3QuYXNzb2NpYXRlIHsgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvYWN0aXZpdHk+Cg==</text>
+        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHguYXBwY29tcGF0OmFwcGNvbXBhdDoxLjAuMC1iZXRhMDEnCiAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQ6Y29uc3RyYWludGxheW91dDoxLjEuMicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbgo=</text>
+        <text encoding="base64">ICAgIDwvYWN0aXZpdHk+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQFByb3ZpZGVzIGZ1biBwcm92aWRlc1N0b3JlRmFjdG9yeSgKICAgIGRpc3BhdGNoZXI6IERpc3BhdGNoZXIKICApOiBBcnRpc3RTdG9yZUZhY3RvcnkgewogICAgcmV0dXJuIEFydGlzdFN0b3JlRmFjdG9yeShkaXNwYXRjaGVyKQogIH0K</text>
+        <text encoding="base64">ICAgIGFjdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc3BhdGNoKEFydGlzdEFjdGlvbi5VcGRhdGVGYW5jbHViKGl0KSkK</text>
+        <text encoding="base64">CiAgQFByb3ZpZGVzIGZ1biBwcm92aWRlc1N0b3JlRmFjdG9yeSgKICAgIGRpc3BhdGNoZXI6IERpc3BhdGNoZXIKICApOiBBcnRpc3RTdG9yZUZhY3RvcnkgewogICAgcmV0dXJuIEFydGlzdFN0b3JlRmFjdG9yeShkaXNwYXRjaGVyKQogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRpbWJlci5lKGl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRpc3BhdGNoKEFydGlzdEFjdGlvbi5VcGRhdGVGYW5jbHViKGl0KSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIFRpbWJlci5lKGl0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZhbmNsYgo=</text>
+        <text encoding="base64">ICAgICAgICAgIFRpbWJlci5lKGl0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZhbmNsYgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -390,9 +395,9 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
