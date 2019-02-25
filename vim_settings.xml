@@ -350,7 +350,7 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/FanclubPlan.kt" timestamp="1551091382022">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/FanclubPlan.kt" timestamp="1551104295517">
         <mark key="'" line="25" column="22" />
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -756,7 +756,7 @@
         <text encoding="base64">ICBzYXZlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -790,12 +790,12 @@
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
