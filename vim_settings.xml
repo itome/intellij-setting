@@ -90,6 +90,12 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/GenreListElement.kt" timestamp="1551067614153">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ChipApp.kt" timestamp="1550981709987">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="28" />
@@ -108,18 +114,18 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/Bank.kt" timestamp="1551063660558">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/Bank.kt" timestamp="1551067965160">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="20" column="31" />
         <mark key="^" line="31" column="12" />
         <mark key="." line="31" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/UserPayment.kt" timestamp="1550991665334">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/UserPayment.kt" timestamp="1551068125180">
         <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/FanclubMember.kt" timestamp="1551063493052">
         <mark key="[" line="3" column="0" />
@@ -292,12 +298,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/FanclubPlan.kt" timestamp="1551063730764">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/FanclubPlan.kt" timestamp="1551068609638">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/creditInfo/CreditInfoActionCreator.kt" timestamp="1550818590594">
         <mark key="[" line="21" column="0" />
@@ -406,6 +412,12 @@
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnbordingAction.kt" timestamp="1548817718056">
         <mark key="[" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/PAYJPCreditCard.kt" timestamp="1551068105535">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/local/UserPreference.kt" timestamp="1550991483520">
         <mark key="[" line="18" column="9" />
@@ -597,44 +609,44 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>comment_count</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYXJkQnJhbmQgPSBKU09OLnBhcnNlKENhcmRCcmFuZFNlcmlhbGl6ZXIsICJWaXNhIikKICAgIGFzc2VydFRoYXQoY2FyZEJyYW5kKS5pc0VxdWFsVG8oVklTQSkK</text>
+        <text encoding="base64">ICBAU2VyaWFsaXphYmxlKHdpdGggPSBEYXRlU2VyaWFsaXplcjo6Y2xhc3MpIEBTZXJpYWxOYW1lKCJjcmVhdGVkX2F0IikKICB2YWwgY3JlYXRlZEF0OiBMb2NhbERhdGVUaW1lLAogIEBTZXJpYWxpemFibGUod2l0aCA9IERhdGVTZXJpYWxpemVyOjpjbGFzcykgQFNlcmlhbE5hbWUoInVwZGF0ZWRfYXQiKQogIHZhbCB1cGRhdGVkQXQ6IExvY2FsRGF0ZVRpbWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmltcG9ydCBvcmcuanVuaXQuQXNzZXJ0LioK</text>
+        <text encoding="base64">ICBAU2VyaWFsTmFtZSgiY3JlYXRlZF9hdCIpIHZhbCBjcmVhdGVkQXQ6IFN0cmluZywKICBAU2VyaWFsTmFtZSgidXBkYXRlZF9hdCIpIHZhbCB1cGRhdGVkQXQ6IFN0cmluZywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRPRE8oCiAgICAgICAgIm5vdCBpbXBsZW1lbnRlZCIKICAgICkgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">CmltcG9ydCBvcmcuanVuaXQuQXNzZXJ0LioK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIFRPRE8oCiAgICAgICAgIm5vdCBpbXBsZW1lbnRlZCIKICAgICkgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIFRPRE8oCiAgICAgICAgIm5vdCBpbXBsZW1lbnRlZCIKICAgICkgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHZhbCBzaXplOiBTdHJpbmc/Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(
   )</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBAU2VyaWFsTmFtZSgiY3JlYXRlZF9hdCIpIHZhbCBjcmVhdGVkQXQ6IFN0cmluZywKICBAU2VyaWFsTmFtZSgidXBkYXRlZF9hdCIpIHZhbCB1cGRhdGVkQXQ6IFN0cmluZywK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBAU2VyaWFsTmFtZSgiY3JlYXRlZF9hdCIpIHZhbCBjcmVhdGVkQXQ6IFN0cmluZywKICBAU2VyaWFsTmFtZSgidXBkYXRlZF9hdCIpIHZhbCB1cGRhdGVkQXQ6IFN0cmluZywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKgoK</text>
+        <text encoding="base64">ICBAU2VyaWFsTmFtZSgiY3JlYXRlZF9hdCIpIHZhbCBjcmVhdGVkQXQ6IFN0cmluZywKICBAU2VyaWFsTmFtZSgidXBkYXRlZF9hdCIpIHZhbCB1cGRhdGVkQXQ6IFN0cmluZywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYXJkQnJhbmRSYXdWYWx1ZSA9IEpTT04uc3RyaW5naWZ5KEZhbmNsdWJOb3RpZmljYXRpb25Db2RlU2VyaWFsaXplciwgKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKgoK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -660,20 +672,20 @@
         <entry>action NextSplitter</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action FindInPath</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Find</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
+        <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action RenameElement</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
