@@ -403,11 +403,12 @@
       <file name="$USER_HOME$/Projects/chip/chip_android/.idea/codeStyles/Project.xml" timestamp="1550817585362">
         <mark key="'" line="397" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" timestamp="1551165098959">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="60" column="44" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" timestamp="1551167556098">
+        <mark key="'" line="57" column="38" />
+        <mark key="[" line="61" column="10" />
+        <mark key="]" line="61" column="12" />
+        <mark key="." line="61" column="12" />
+        <mark key="^" line="61" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/Yangon/android/settings.gradle" timestamp="1550296044957">
         <mark key="[" line="2" column="126" />
@@ -490,9 +491,9 @@
         <mark key="]" line="136" column="34" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/colors.xml" timestamp="1551162607738">
-        <mark key="[" line="38" column="34" />
-        <mark key="]" line="38" column="35" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/colors.xml" timestamp="1551167022703">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="30" />
         <mark key="." line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/PAYJPCreditCard.kt" timestamp="1551068105535">
@@ -588,10 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="26" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up.xml" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up.xml" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up.xml" />
-      <jump line="92" column="8" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up.xml" />
       <jump line="30" column="11" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActivity.kt" />
       <jump line="11" column="41" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/page/SignUpEmailFragment.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/page/SignUpNameFragment.kt" />
@@ -685,49 +682,53 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/profile/ProfileActionCreator.kt" />
       <jump line="25" column="22" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/FanclubPlan.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/serializer/SocialMediaSerializer.kt" />
-      <jump line="58" column="28" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
       <jump line="198" column="1" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core-ktx/1.0.0/24fb192c0c40920e9783534b6461fdf348356cf9/core-ktx-1.0.0-sources.jar!/androidx/core/view/View.kt" />
+      <jump line="84" column="40" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
+      <jump line="83" column="10" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
+      <jump line="63" column="7" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
+      <jump line="61" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
+      <jump line="58" column="38" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>doOnLayout</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2JvdHRvbV9zaGVldF9hcnRpc3QiCg==</text>
+      <register name="0" type="4">
+        <text>#595959</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgPCEtLSBBcnRpc3QgLS0+CiAgPGRpbWVuIG5hbWU9ImFydGlzdF9ib3R0b21fc2hlZXRfcGVla19oZWlnaHQiPjM2MGRwPC9kaW1lbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6YmVoYXZpb3JfcGVla0hlaWdodD0iQGRpbWVuL2FydGlzdF9ib3R0b21fc2hlZXRfcGVla19oZWlnaHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9UaGVtZU92ZXJsYXkuQXBwQ29tcGF0LkRhcmsuQWN0aW9uQmFyIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEhhbmRsZXIoKS5wb3N0RGVsYXllZCh7CiAgICAgICAgICAgIGJvdHRvbVNoZWV0LnBlZWtIZWlnaHQgPSBiaW5kaW5nLmJvdHRvbVNoZWV0QXJ0aXN0LnRvcCAtIGJpbmRpbmcudmlld0FydGlzdERpdmlkZXIudG9wCiAgICAgICAgICB9LCAxMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQKICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYm90dG9tX3NoZWV0X2FydGlzdF9pbmZvIgogICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgYXBwOmxheW91dF9zY3JvbGxGbGFncz0iZW50ZXJBbHdheXN8c2Nyb2xsIgogICAgICAgICAgPgogICAgICAgIDxhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5HdWlkZWxpbmUKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfYXJ0aXN0X3N0YXJ0IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEd1aWRlX2JlZ2luPSIxNmRwIgogICAgICAgICAgICAvPgogICAgICAgIDxhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5HdWlkZWxpbmUKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfYXJ0aXN0X2VuZCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRHdWlkZV9lbmQ9IjE2ZHAiCiAgICAgICAgICAgIC8+CiAgICAgICAgPFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92aWV3X2FydGlzdF9ib3R0b21fc2hlZXRfaGFuZGxlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMzZkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI2ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iOGRwIgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9zaGFwZV9nYWluc2Jvcm9fcmFkaXVzXzRkcCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgIC8+CiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dF9hcnRpc3RfbmFtZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAe3VzZXIubmFtZX0iCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvYmxhY2siCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjIwc3AiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFN0eWxlPSJib2xkIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfYXJ0aXN0X3N0YXJ0IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3ZpZXdfYXJ0aXN0X2JvdHRvbV9zaGVldF9oYW5kbGUiCiAgICAgICAgICAgIHRvb2xzOnRleHQ9InRvdXl1MjIyIgogICAgICAgICAgICAvPgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRfYXJ0aXN0X3VzZXJfbmFtZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHt1c2VyLnVzZXJuYW1lfSIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9waW5rX3N3YW4iCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjEzc3AiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL2d1aWRlbGluZV9hcnRpc3Rfc3RhcnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdGV4dF9hcnRpc3RfbmFtZSIKICAgICAgICAgICAgdG9vbHM6dGV4dD0iXEB0b3V5dTIyMiIKICAgICAgICAgICAgLz4KICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0X2FydGlzdF9kZXNjcmlwdGlvbiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAe3VzZXIuZGVzY3JpcHRpb259IgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL25lcm8iCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvZ3VpZGVsaW5lX2FydGlzdF9lbmQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL2d1aWRlbGluZV9hcnRpc3Rfc3RhcnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdGV4dF9hcnRpc3RfdXNlcl9uYW1lIgogICAgICAgICAgICB0b29sczp0ZXh0PSLnvo7lrrnjg5bjg63jgqzjg7wsWW91VHViZXIv576O5a6544Go44Kw44Or44Oh44Go44Kr44O844OT44Kj44Go6Z+T5Zu944Kz44K544Oh44GM5aW944GN44Gn44GZ44CCIgogICAgICAgICAgICAvPgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRfYXJ0aXN0X3N1cHBvcnRlcl9jb3VudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAe1N0cmluZy52YWx1ZU9mKHVzZXIuZmFuY2x1Yi5tZW1iZXJzQ291bnQpfSIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci96YW1iZXppIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyMnNwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvZ3VpZGVsaW5lX2FydGlzdF9zdGFydCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90ZXh0X2FydGlzdF9kZXNjcmlwdGlvbiIKICAgICAgICAgICAgdG9vbHM6dGV4dD0iMjMiCiAgICAgICAgICAgIC8+CiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dF9hcnRpc3Rfc3VwcG9ydGVyX2xhYmVsIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjRkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2FydGlzdF9zdXBwb3J0ZXIiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvcGlua19zd2FuIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxM3NwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC90ZXh0X2FydGlzdF9zdXBwb3J0ZXJfY291bnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvRW5kT2Y9IkBpZC90ZXh0X2FydGlzdF9zdXBwb3J0ZXJfY291bnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvdGV4dF9hcnRpc3Rfc3VwcG9ydGVyX2NvdW50IgogICAgICAgICAgICAvPgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRfYXJ0aXN0X3ByaWNlX3Blcl9tb250aCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSIxNmRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkB7U3RyaW5nLnZhbHVlT2YoY2hlYXBlc3RQcmljZSl9IgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3phbWJlemkiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjIyc3AiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFN0eWxlPSJib2xkIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL3RleHRfYXJ0aXN0X3N1cHBvcnRlcl9jb3VudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9FbmRPZj0iQGlkL3RleHRfYXJ0aXN0X3N1cHBvcnRlcl9sYWJlbCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC90ZXh0X2FydGlzdF9zdXBwb3J0ZXJfY291bnQiCiAgICAgICAgICAgIHRvb2xzOnRleHQ9IjUwMCIKICAgICAgICAgICAgLz4KICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0X2FydGlzdF9wcmljZV9wZXJfbW9udGhfbGFiZWwiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iNGRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvYXJ0aXN0X3ByaWNlX3Blcl9tb250aCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9waW5rX3N3YW4iCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjEzc3AiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFN0eWxlPSJib2xkIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL3RleHRfYXJ0aXN0X3N1cHBvcnRlcl9jb3VudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9FbmRPZj0iQGlkL3RleHRfYXJ0aXN0X3ByaWNlX3Blcl9tb250aCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC90ZXh0X2FydGlzdF9zdXBwb3J0ZXJfY291bnQiCiAgICAgICAgICAgIC8+CiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uX2FydGlzdF9zdXBwb3J0IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjU2ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2dhaW5zYm9yb19yYWRpdXNfMjhkcCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kVGludD0iQGNvbG9yL3phbWJlemkiCiAgICAgICAgICAgIGFuZHJvaWQ6Y2xpY2thYmxlPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9hcnRpc3Rfc3VwcG9ydF9hcnRpc3QiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE2c3AiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFN0eWxlPSJib2xkIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQGlkL2d1aWRlbGluZV9hcnRpc3RfZW5kIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfYXJ0aXN0X3N0YXJ0IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3RleHRfYXJ0aXN0X3N1cHBvcnRlcl9jb3VudCIKICAgICAgICAgICAgLz4KICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0X2FydGlzdF9zdXBwb3J0X3dhcm5pbmciCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjEyZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9hcnRpc3Rfc3VwcG9ydF93YXJuaW5nIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMnNwIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQGlkL2d1aWRlbGluZV9hcnRpc3RfZW5kIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfYXJ0aXN0X3N0YXJ0IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL2J1dHRvbl9hcnRpc3Rfc3VwcG9ydCIKICAgICAgICAgICAgLz4KICAgICAgICA8VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZXdfYXJ0aXN0X2RpdmlkZXIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMWRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL3doaXRlX3Ntb2tlIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQGlkL2d1aWRlbGluZV9hcnRpc3RfZW5kIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9ndWlkZWxpbmVfYXJ0aXN0X3N0YXJ0IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3RleHRfYXJ0aXN0X3N1cHBvcnRfd2FybmluZyIKICAgICAgICAgICAgLz4KICAgICAgPC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0PgoKICAgICAgPGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC50YWJzLlRhYkxheW91dAogICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90YWJfYXJ0aXN0IgogICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCiAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50IgogICAgICAgICAgYXBwOnRhYkluZGljYXRvckNvbG9yPSJAY29sb3IvemFtYmV6aSIKICAgICAgICAgIGFwcDp0YWJNb2RlPSJmaXhlZCIKICAgICAgICAgIC8+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tU2hlZXQuY29sbGFwc2UoKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICBhcHA6dGFiTW9kZT0ic2Nyb2xsYWJsZSI=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFwcDp0YWJNaW5XaWR0aD0iMTI4ZHAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgPCEtLSBBcnRpc3QgLS0+CiAgPGRpbWVuIG5hbWU9ImFydGlzdF9ib3R0b21fc2hlZXRfcGVla19oZWlnaHQiPjM2MGRwPC9kaW1lbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6YmVoYXZpb3JfcGVla0hlaWdodD0iQGRpbWVuL2FydGlzdF9ib3R0b21fc2hlZXRfcGVla19oZWlnaHQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEhhbmRsZXIoKS5wb3N0RGVsYXllZCh7CiAgICAgICAgICAgIGJvdHRvbVNoZWV0LnBlZWtIZWlnaHQgPSBiaW5kaW5nLmJvdHRvbVNoZWV0QXJ0aXN0LnRvcCAtIGJpbmRpbmcudmlld0FydGlzdERpdmlkZXIudG9wCiAgICAgICAgICB9LCAxMDAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tU2hlZXQuY29sbGFwc2UoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -761,12 +762,12 @@
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
