@@ -790,7 +790,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgQmx1clRyYW5zZm9ybWF0aW9uKDI1LCAxMCksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -817,7 +817,6 @@
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
@@ -830,6 +829,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
