@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/serializer/SocialMediaSerializer.kt" timestamp="1551103523597">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/serializer/SocialMediaSerializer.kt" timestamp="1551149273908">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="10" column="46" />
         <mark key="]" line="10" column="58" />
         <mark key="." line="10" column="58" />
@@ -617,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="30" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/view/ViewPagerProgressIndicator.kt" />
       <jump line="265" column="46" filename="$USER_HOME$/Projects/MaBeeeAndroid/MaBeeeDriver/driver/src/main/java/jp/novars/mabeee/driver/MaBeeeManager.java" />
       <jump line="50" column="24" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up.xml" />
       <jump line="54" column="26" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up.xml" />
@@ -717,6 +717,7 @@
       <jump line="26" column="18" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/profile/ProfileActionCreator.kt" />
       <jump line="25" column="22" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/FanclubPlan.kt" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/serializer/SocialMediaSerializer.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -756,7 +757,7 @@
         <text encoding="base64">ICBzYXZlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -791,11 +792,11 @@
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
