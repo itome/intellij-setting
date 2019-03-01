@@ -183,6 +183,12 @@
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnbordingAction.kt" timestamp="1548817718056">
         <mark key="[" line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActivity.kt" timestamp="1551459437259">
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorSnapHelper.kt" timestamp="1551423959526">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="15" column="84" />
@@ -364,7 +370,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>firstChildWidth</text>
+        <text>DaggerAppCompatActivity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -400,7 +406,7 @@
         <text encoding="base64">ICAgIHZhbCB0YXJnZXRWaWV3Q2VudGVyID0KICAgICAgaGVscGVyLmdldERlY29yYXRlZFN0YXJ0KHRhcmdldFZpZXcpICsgKGhlbHBlci5nZXREZWNvcmF0ZWRNZWFzdXJlbWVudCh0YXJnZXRWaWV3KSAvIDIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -430,16 +436,16 @@
         <entry>action GotoAction</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
