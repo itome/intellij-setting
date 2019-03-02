@@ -42,12 +42,11 @@
         <mark key="[" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/OrientationHelper.java" timestamp="1551430389539" />
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorAdapter.kt" timestamp="1551422319384">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorAdapter.kt" timestamp="1551497372593">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="51" column="62" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable-anydpi/ic_close_white.xml" timestamp="1551417588815">
         <mark key="[" line="6" column="25" />
@@ -140,7 +139,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_member_card.xml" timestamp="1551419777805">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_member_card.xml" timestamp="1551496968755">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -183,11 +182,12 @@
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnbordingAction.kt" timestamp="1548817718056">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActivity.kt" timestamp="1551459437259">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="44" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActivity.kt" timestamp="1551497559012">
+        <mark key="'" line="22" column="6" />
+        <mark key="[" line="89" column="46" />
+        <mark key="]" line="89" column="26" />
+        <mark key="." line="89" column="26" />
+        <mark key="^" line="89" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorSnapHelper.kt" timestamp="1551423959526">
         <mark key="[" line="7" column="20" />
@@ -267,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
-      <jump line="58" column="38" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
       <jump line="12" column="19" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/view/LockableBottomSheetBehavior.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/view/LockableBottomSheetBehavior.kt" />
       <jump line="54" column="35" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" />
@@ -367,10 +365,12 @@
       <jump line="65" column="21" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActivity.kt" />
       <jump line="68" column="23" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActivity.kt" />
       <jump line="31" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_plan_selector.xml" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActivity.kt" />
+      <jump line="22" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>DaggerAppCompatActivity</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -379,34 +379,34 @@
         <text encoding="base64">ICAgIHZhbCBoZWxwZXIgPSBPcmllbnRhdGlvbkhlbHBlci5jcmVhdGVIb3Jpem9udGFsSGVscGVyKGxheW91dE1hbmFnZXIpCiAgICB2YWwgdGFyZ2V0Vmlld0NlbnRlciA9CiAgICAgIGhlbHBlci5nZXREZWNvcmF0ZWRTdGFydCh0YXJnZXRWaWV3KSArIChoZWxwZXIuZ2V0RGVjb3JhdGVkTWVhc3VyZW1lbnQodGFyZ2V0VmlldykgLyAyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICB2YWwgaGVscGVyID0gT3JpZW50YXRpb25IZWxwZXIuY3JlYXRlSG9yaXpvbnRhbEhlbHBlcihsYXlvdXRNYW5hZ2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhbi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgdmFsIGhlbHBlciA9IE9yaWVudGF0aW9uSGVscGVyLmNyZWF0ZUhvcml6b250YWxIZWxwZXIobGF5b3V0TWFuYWdlcikK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWJlci5sb2cuVGltYmVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaXJzdENoaWxkUG9zaXRpb24gPSBsYXlvdXRNYW5hZ2VyLmdldFBvc2l0aW9uKGZpcnN0Q2hpbGRWaWV3KQogICAgdmFsIGZpcnN0Q2hpbGRXaWR0aCA9IGhlbHBlci5nZXREZWNvcmF0ZWRNZWFzdXJlbWVudChmaXJzdENoaWxkVmlldykK</text>
+        <text encoding="base64">ICAgICAgVGltYmVyLnRhZygiT25CaW5kIikuZChwb3NpdGlvbi50b1N0cmluZygpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaXJzdENoaWxkVmlldyA9IHJlY3ljbGVyVmlldy5nZXRDaGlsZEF0KDApCg==</text>
+        <text encoding="base64">ICAgICAgYXBwOnVzZXJfYmFja2dyb3VuZF90aW50PSJAe30iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChyZWN5Y2xlclZpZXcuY2hpbGRDb3VudCA8IDApIHJldHVybiAwRgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBBcHBseSBDYXJvdXNlbFNuYXBIZWxwZXIgdG8gcmVjeWNsZXJ2aWV3Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRpc3RhbmNlIikuZCgodGFyZ2V0Vmlld0NlbnRlciAtIGNvbnRhaW5lckNlbnRlcikudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoImRpc3RhbmNlIikKICAgICAgICAuZChkaXN0YW5jZUZyb21DZW50ZXIudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWxwZXIgPSBPcmllbnRhdGlvbkhlbHBlci5jcmVhdGVIb3Jpem9udGFsSGVscGVyKGxheW91dE1hbmFnZXIpCg==</text>
+        <text encoding="base64">Y2xhc3MgUGxhblNlbGVjdG9yQWN0aXZpdHkgOiBEYWdnZXJBcHBDb21wYXRBY3Rpdml0eSgpLCBQbGFuU2VsZWN0b3JBZGFwdGVyLkxpc3RlbmVyIHsKPj4+Pj4+PiBJbXBsZW1lbnQgcGxhbiByZWN5Y2xlcnZpZXcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB0YXJnZXRWaWV3Q2VudGVyID0KICAgICAgaGVscGVyLmdldERlY29yYXRlZFN0YXJ0KHRhcmdldFZpZXcpICsgKGhlbHBlci5nZXREZWNvcmF0ZWRNZWFzdXJlbWVudCh0YXJnZXRWaWV3KSAvIDIpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -439,13 +439,13 @@
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
+        <entry>action Back</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
