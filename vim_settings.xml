@@ -399,13 +399,6 @@
       <file name="/fragment.kt" timestamp="1551683404394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" timestamp="1551682447606">
-        <mark key="'" line="94" column="42" />
-        <mark key="[" line="94" column="52" />
-        <mark key="]" line="95" column="30" />
-        <mark key="." line="95" column="30" />
-        <mark key="^" line="95" column="30" />
-      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable-anydpi/ic_close_white.xml" timestamp="1551417588815">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="31" />
@@ -418,13 +411,6 @@
         <mark key="]" line="40" column="39" />
         <mark key="." line="40" column="39" />
         <mark key="^" line="40" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_main.xml" timestamp="1551683728707">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/shape_white_radius_8dp.xml" timestamp="1551422955819">
         <mark key="[" line="12" column="28" />
@@ -621,10 +607,9 @@
         <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/styles.xml" timestamp="1551682969480">
-        <mark key="[" line="5" column="54" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="47" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/FragmentBindingModule.kt" timestamp="1551672618694">
         <mark key="[" line="15" column="29" />
@@ -645,13 +630,6 @@
         <mark key="]" line="37" column="15" />
         <mark key="." line="37" column="15" />
         <mark key="^" line="37" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainActivity.kt" timestamp="1551684158035">
-        <mark key="'" line="44" column="32" />
-        <mark key="[" line="62" column="39" />
-        <mark key="]" line="62" column="38" />
-        <mark key="." line="62" column="38" />
-        <mark key="^" line="62" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -794,7 +772,7 @@
         <text encoding="base64">ICA8ZGF0YT4KICAgIDxpbXBvcnQgdHlwZT0iY29tLnJpbmFjaXRhLmNoaXAudWkubWFpbi5NYWluU3RvcmUuTWFpblRhYiIvPgogICAgPHZhcmlhYmxlCiAgICAgICAgbmFtZT0idGFiIgogICAgICAgIHR5cGU9ImNvbS5yaW5hY2l0YS5jaGlwLnVpLm1haW4uTWFpblN0b3JlLk1haW5UYWIiCiAgICAgICAgLz4KICA8L2RhdGE+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -821,7 +799,6 @@
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GoToLastTab</entry>
         <entry>action GotoAction</entry>
         <entry>action ParameterInfo</entry>
@@ -834,6 +811,7 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
