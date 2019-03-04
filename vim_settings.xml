@@ -3,14 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/RegisterStore.kt" timestamp="1548817835872">
-        <mark key="[" line="11" column="9" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeActionCreator.kt" timestamp="1551673437819">
+        <mark key="'" line="16" column="44" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="9" />
+        <mark key="." line="33" column="9" />
+        <mark key="^" line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/RegisterModule.kt" timestamp="1548817805203">
-        <mark key="[" line="8" column="10" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/serializer/SocialMediaSerializer.kt" timestamp="1551159944041">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+        <mark key="^" line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlIntent.kt" timestamp="1545811587470">
-        <mark key="[" line="2" column="15" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/test/java/com/rinacita/chip/data/model/serializer/TransferStatusSerializerTest.kt" timestamp="1550993695252">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/page/ArtistPlanFragment.kt" timestamp="1551502361246">
         <mark key="[" line="47" column="76" />
@@ -18,9 +30,19 @@
         <mark key="." line="47" column="82" />
         <mark key="^" line="47" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/page/SignUpPageModule.kt" timestamp="1551591930883">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/profile/ProfileActionCreator.kt" timestamp="1551084956227">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/serializer/AccountTypeSerializer.kt" timestamp="1551160293940">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/shape_light_gray_radius_8dp.xml" timestamp="1551419281169">
         <mark key="'" line="1" column="0" />
@@ -29,14 +51,17 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/build.gradle" timestamp="1545811817445">
-        <mark key="[" line="16" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/home/HomeActivity.kt" timestamp="1551517790647">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="19" column="38" />
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/AppComponent.kt" timestamp="1551672573032">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_plan_selector.xml" timestamp="1551506504218">
         <mark key="'" line="105" column="58" />
@@ -57,6 +82,13 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_fanclubs_item.xml" timestamp="1551176909122">
+        <mark key="'" line="67" column="37" />
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="61" />
+        <mark key="." line="67" column="48" />
+        <mark key="^" line="67" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/CarouselSnapHelper.kt" timestamp="1551425197233">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="4" />
@@ -76,11 +108,31 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/Genre.kt" timestamp="1551673928779">
+        <mark key="[" line="11" column="57" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/home/HomeAction.kt" timestamp="1551517757818">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="38" />
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistStoreFactory.kt" timestamp="1551413012300">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/SimpleUser.kt" timestamp="1551673987222">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/ripple_transparent_radius_16dp.xml" timestamp="1551513952289">
         <mark key="'" line="0" column="0" />
@@ -89,17 +141,25 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlAction.kt" timestamp="1545811569882">
-        <mark key="[" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/RegisterActionCreator.kt" timestamp="1548817773842">
-        <mark key="[" line="9" column="22" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/UserRepository.kt" timestamp="1551673333286">
+        <mark key="'" line="7" column="10" />
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+        <mark key="." line="20" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainStore.kt" timestamp="1551591582174">
         <mark key="[" line="17" column="66" />
         <mark key="]" line="17" column="75" />
         <mark key="." line="17" column="75" />
         <mark key="^" line="17" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/Bank.kt" timestamp="1551091045615">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="24" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActionCreator.kt" timestamp="1551499507638">
         <mark key="[" line="40" column="42" />
@@ -134,11 +194,17 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="57" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/search/SearchModule.kt" timestamp="1551592548320">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/search/SearchModule.kt" timestamp="1551672238882">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/remote/api/UserApi.kt" timestamp="1551673325378">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/playground/PlaygroundActivity.kt" timestamp="1551518107170">
         <mark key="'" line="16" column="68" />
@@ -146,6 +212,13 @@
         <mark key="]" line="61" column="23" />
         <mark key="^" line="61" column="23" />
         <mark key="." line="61" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/test/java/com/rinacita/chip/data/model/serializer/AccountTypeSerializerTest.kt" timestamp="1551158780287">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/ripple_dark_tangerine_radius_32dp_button.xml" timestamp="1551514072626">
         <mark key="[" line="2" column="26" />
@@ -159,9 +232,6 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlState.kt" timestamp="1545811606043">
-        <mark key="[" line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/extensions/Animator.kt" timestamp="1551509199024">
         <mark key="'" line="25" column="29" />
         <mark key="[" line="24" column="56" />
@@ -169,17 +239,25 @@
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/owl/library/src/main/java/team/itome/owl/OwlAction.kt" timestamp="1547021746542">
-        <mark key="[" line="2" column="14" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/test/java/com/rinacita/chip/data/model/serializer/FanclubNotificationCodeSerializerTest.kt" timestamp="1551063117606">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="12" column="63" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/FanclubRepository.kt" timestamp="1551499251008">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/FanclubRepository.kt" timestamp="1551672781944">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+        <mark key="." line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/RegisterActivity.kt" timestamp="1548817788024">
-        <mark key="[" line="28" column="10" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/UserProfileLink.kt" timestamp="1551160083758">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/home/HomeModule.kt" timestamp="1551517918383">
         <mark key="[" line="7" column="10" />
@@ -193,14 +271,18 @@
         <mark key="^" line="1" column="65" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/RegisterStoreFactory.kt" timestamp="1548817850799">
-        <mark key="[" line="7" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/page/ArtistPageModule.kt" timestamp="1551175772257">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="32" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/page/ArtistPageModule.kt" timestamp="1551672186394">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="13" column="1" />
         <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/MinimumUser.kt" timestamp="1551077395114">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="62" />
+        <mark key="^" line="11" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorAction.kt" timestamp="1551499209264">
         <mark key="[" line="10" column="54" />
@@ -220,11 +302,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeModule.kt" timestamp="1551592559999">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="14" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeModule.kt" timestamp="1551672249649">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/fragment_home.xml" timestamp="1551583873219">
         <mark key="'" line="9" column="36" />
@@ -239,23 +321,51 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
-      <file name="/Kotlin Console" timestamp="1550987525735">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeStoreFactory.kt" timestamp="1551671340058">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/FanclubDataSource.kt" timestamp="1551499341939">
-        <mark key="[" line="19" column="76" />
-        <mark key="]" line="20" column="45" />
-        <mark key="." line="20" column="45" />
-        <mark key="^" line="20" column="45" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainPageModule.kt" timestamp="1551672544187">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/owl/library/src/main/java/team/itome/owl/OwlState.kt" timestamp="1547021775699">
-        <mark key="[" line="2" column="14" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnBoardingActivity.kt" timestamp="1551078590650">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="72" column="9" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="57" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeFragment.kt" timestamp="1551584641477">
-        <mark key="[" line="23" column="89" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="24" column="22" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeAction.kt" timestamp="1551673386085">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="76" />
+        <mark key="." line="8" column="76" />
+        <mark key="^" line="8" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/test/java/com/rinacita/chip/data/model/serializer/DateSerializerTest.kt" timestamp="1550992784140">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="89" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/FanclubDataSource.kt" timestamp="1551672775329">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+        <mark key="^" line="23" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeFragment.kt" timestamp="1551673525964">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="51" column="48" />
+        <mark key="]" line="52" column="25" />
+        <mark key="." line="52" column="25" />
+        <mark key="^" line="52" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/home/MainActivity.kt" timestamp="1551518169998">
         <mark key="[" line="21" column="32" />
@@ -268,6 +378,13 @@
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/FanclubPlan.kt" timestamp="1551498487283">
+        <mark key="'" line="25" column="22" />
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_plan_selector.xml" timestamp="1551505690628">
         <mark key="'" line="67" column="0" />
@@ -289,8 +406,12 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/owl/library/src/main/java/team/itome/owl/OwlProcessor.kt" timestamp="1547021754264">
-        <mark key="[" line="8" column="19" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/UserDataSource.kt" timestamp="1551673349052">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="39" column="64" />
+        <mark key="]" line="40" column="39" />
+        <mark key="." line="40" column="39" />
+        <mark key="^" line="40" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_main.xml" timestamp="1551592880335">
         <mark key="'" line="75" column="46" />
@@ -305,14 +426,18 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/binding/ImageBinding.kt" timestamp="1551404553230">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="88" column="70" />
+        <mark key="]" line="88" column="68" />
+        <mark key="." line="88" column="68" />
+        <mark key="^" line="88" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/MainActivity.kt" timestamp="1551517856315">
         <mark key="[" line="15" column="74" />
         <mark key="]" line="15" column="73" />
         <mark key="^" line="15" column="73" />
         <mark key="." line="15" column="73" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/Result.kt" timestamp="1545811694281">
-        <mark key="[" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_artist.xml" timestamp="1551510504287">
         <mark key="'" line="54" column="35" />
@@ -321,11 +446,11 @@
         <mark key="." line="55" column="55" />
         <mark key="^" line="55" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/remote/api/FanclubApi.kt" timestamp="1551499324134">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/remote/api/FanclubApi.kt" timestamp="1551672767167">
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+        <mark key="." line="22" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorStore.kt" timestamp="1551501215655">
         <mark key="'" line="31" column="0" />
@@ -340,6 +465,19 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainPagesModule.kt" timestamp="1551672216635">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/view/LockableBottomSheetBehavior.kt" timestamp="1551170606236">
+        <mark key="'" line="74" column="12" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="22" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_playground.xml" timestamp="1551518095205">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="89" column="22" />
@@ -353,9 +491,9 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainModule.kt" timestamp="1551592231826">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="7" column="0" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainModule.kt" timestamp="1551671349017">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="15" column="3" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
@@ -366,10 +504,10 @@
         <mark key="." line="66" column="41" />
         <mark key="^" line="66" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistActionCreator.kt" timestamp="1551511958267">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistActionCreator.kt" timestamp="1551671727029">
         <mark key="'" line="12" column="6" />
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="14" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="28" />
         <mark key="." line="24" column="14" />
         <mark key="^" line="24" column="13" />
       </file>
@@ -378,6 +516,13 @@
         <mark key="]" line="4" column="35" />
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/test/java/com/rinacita/chip/data/model/serializer/CardBrandSerializerTest.kt" timestamp="1551064804101">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistStore.kt" timestamp="1551412526261">
         <mark key="[" line="20" column="0" />
@@ -392,18 +537,12 @@
         <mark key="." line="24" column="36" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpAction.kt" timestamp="1550488610668">
-        <mark key="[" line="26" column="52" />
-      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/colors.xml" timestamp="1551592865227">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnbordingAction.kt" timestamp="1548817718056">
-        <mark key="[" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActivity.kt" timestamp="1551511057049">
         <mark key="'" line="57" column="10" />
@@ -424,18 +563,19 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551583916591">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeStore.kt" timestamp="1551673489788">
+        <mark key="'" line="18" column="83" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+        <mark key="." line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/ActivityBindingModule.kt" timestamp="1551592423376">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="37" column="106" />
-        <mark key="]" line="37" column="112" />
-        <mark key="." line="37" column="112" />
-        <mark key="^" line="37" column="112" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/library/src/main/java/team/itome/owl/OwlProcessor.kt" timestamp="1545811595776">
-        <mark key="[" line="8" column="17" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/ActivityBindingModule.kt" timestamp="1551672641984">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="36" column="58" />
+        <mark key="]" line="36" column="58" />
+        <mark key="." line="36" column="58" />
+        <mark key="^" line="36" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/home/HomeActionCreator.kt" timestamp="1551517773824">
         <mark key="[" line="6" column="9" />
@@ -455,6 +595,19 @@
         <mark key="." line="14" column="70" />
         <mark key="^" line="14" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/FragmentBindingModule.kt" timestamp="1551672618694">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="59" />
+        <mark key="." line="15" column="59" />
+        <mark key="^" line="15" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/serializer/FanclubNotificationCodeSerializer.kt" timestamp="1551160416111">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainActivity.kt" timestamp="1551592892971">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="49" column="39" />
@@ -462,21 +615,8 @@
         <mark key="." line="50" column="30" />
         <mark key="^" line="50" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1551514821533">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="9" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_member_card.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_member_card.xml" />
-      <jump line="68" column="38" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_member_card.xml" />
-      <jump line="59" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_member_card.xml" />
-      <jump line="16" column="40" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_plan_selector.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/ripple_sign_up_next_button.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/ripple_dark_tangerine_radius_32dp_button.xml" />
-      <jump line="43" column="17" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_plan_selector.xml" />
-      <jump line="51" column="31" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_plan_selector.xml" />
-      <jump line="91" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_artist_plan.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_artist_plan.xml" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_plan_selector.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_plan_selector.xml" />
@@ -567,43 +707,53 @@
       <jump line="5" column="63" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_main.xml" />
       <jump line="37" column="75" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_main.xml" />
       <jump line="75" column="46" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_main.xml" />
+      <jump line="7" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainStoreFactory.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeFragment.kt" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/ActivityBindingModule.kt" />
+      <jump line="9" column="15" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainPageModule.kt" />
+      <jump line="6" column="10" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/UserRepository.kt" />
+      <jump line="11" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/UserDataSource.kt" />
+      <jump line="15" column="44" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeActionCreator.kt" />
+      <jump line="17" column="83" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeStore.kt" />
+      <jump line="17" column="14" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeFragment.kt" />
+      <jump line="14" column="2" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/SimpleUser.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>HOME</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6dGludD0iQHt0YWIgPT0gTWFpblRhYi5IT01FID8gQGNvbG9yL2JsYWNrIDogQGNvbG9yL3NpbHZlcn0iCg==</text>
+        <text encoding="base64">QE1vZHVsZShpbmNsdWRlcyA9IFtIb21lTW9kdWxlOjpjbGFzcywgU2VhcmNoTW9kdWxlOjpjbGFzc10pCmludGVyZmFjZSBNYWluUGFnZU1vZHVsZSB7CgogIEBDb250cmlidXRlc0FuZHJvaWRJbmplY3RvcgogIGZ1biBob21lRnJhZ21lbnRJbmplY3RvcigpOiBIb21lRnJhZ21lbnQKCiAgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgZnVuIHNlYXJjaEZyYWdtZW50SW5qZWN0b3IoKTogU2VhcmNoRnJhZ21lbnQKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBTaWx2ZXIK</text>
+        <text encoding="base64">ICAgIHZhbCBjb2xvcjogU3RyaW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgQEFjdGl2aXR5U2NvcGUgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yKG1vZHVsZXMgPSBbTWFpbk1vZHVsZTo6Y2xhc3NdKQogIGFic3RyYWN0IGZ1biBtYWluQWN0aXZpdHlJbmplY3RvcigpOiBNYWluQWN0aXZpdHkK</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgYWJzdHJhY3QgZnVuIHNlYXJjaEZyYWdtZW50SW5qZWN0b3IoKTogU2VhcmNoRnJhZ21lbnQK</text>
+        <text encoding="base64">QElnbm8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCmFic3RyYWN0IGZ1biBob21lRnJhZ21lbnRJbmplY3RvcigpOiBIb21lRnJhZ21lbnQKCkBDb250cmlidXRlc0FuZHJvaWRJbmplY3RvcgphYnN0cmFjdCBmdW4gc2VhcmNoRnJhZ21lbnRJbmplY3RvcigpOiBTZWFyY2hGcmFnbWVudAo=</text>
+        <text encoding="base64">ICBAT3B0aW9uYWwgdmFsIGdlbnJlOiBHZW5yZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgYWJzdHJhY3QgZnVuIGhvbWVGcmFnbWVudEluamVjdG9yKCk6IEhvbWVGcmFnbWVudAoKICBAQ29udHJpYnV0ZXNBbmRyb2lkSW5qZWN0b3IKICBhYnN0cmFjdCBmdW4gc2VhcmNoRnJhZ21lbnRJbmplY3RvcigpOiBTZWFyY2hGcmFnbWVudAo=</text>
+        <text encoding="base64">ICAgICkgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAQ29udHJpYnV0ZXNBbmRyb2lkSW5qZWN0b3IKICAgIGZ1biBzaWduVXBQYXNzd29yZEZyYWdtZW50SW5qZWN0aW9uKCk6IFNpZ25VcFBhc3N3b3JkRnJhZ21lbnQKCiAgICBAQ29udHJpYnV0ZXNBbmRyb2lkSW5qZWN0b3IKICAgIGZ1biBzaWduVXBVc2VyTmFtZUZyYWdtZW50SW5qZWN0aW9uKCk6IFNpZ25VcFVzZXJOYW1lRnJhZ21lbnQKICB9Cg==</text>
+        <text encoding="base64">ICAgIFRPRE8oCiAgICAgICAgIm5vdCBpbXBsZW1lbnRlZCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQ29udHJpYnV0ZXNBbmRyb2lkSW5qZWN0b3IKICBhYnN0cmFjdCBmdW4gaG9tZUZyYWdtZW50SW5qZWN0b3IoKTogSG9tZUZyYWdtZW50Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBzaWduVXBFbWFpbEZyYWdtZW50SW5qZWN0aW9uKCk6IFNpZ25VcEVtYWlsRnJhZ21lbnQK</text>
+        <text encoding="base64">CiAgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgYWJzdHJhY3QgZnVuIHNlYXJjaEZyYWdtZW50SW5qZWN0b3IoKTogU2VhcmNoRnJhZ21lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgQE1vZHVsZQogIGludGVyZmFjZSBTaWduVXBQYWdlTW9kdWxlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ActivateProjectToolWindow</text>
@@ -631,20 +781,20 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action GoToLastTab</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
+        <entry>action FindInPath</entry>
+        <entry>action Find</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
-        <entry>action RenameElement</entry>
-        <entry>action FindInPath</entry>
-        <entry>action Back</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Find</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
