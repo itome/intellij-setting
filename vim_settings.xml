@@ -135,12 +135,6 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/extensions/BottomSheetBehavior.kt" timestamp="1551879301012">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/remote/api/HomeCardApi.kt" timestamp="1551768555863">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="33" />
@@ -233,13 +227,6 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/search/SearchFragment.kt" timestamp="1551880118876">
-        <mark key="'" line="20" column="6" />
-        <mark key="[" line="65" column="67" />
-        <mark key="]" line="65" column="71" />
-        <mark key="^" line="65" column="71" />
-        <mark key="." line="65" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/FanclubRepository.kt" timestamp="1551672781944">
         <mark key="[" line="16" column="44" />
@@ -838,7 +825,7 @@
         <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcudmlld1NlYXJjaEdlbnJlTWFzay5zZXRPbkNsaWNrTGlzdGVuZXIgeyBib3R0b21TaGVldC5oaWRlKCkgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -860,7 +847,6 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action GoToLastTab</entry>
-        <entry>action GotoAction</entry>
         <entry>action CloseEditor</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action GotoImplementation</entry>
@@ -878,6 +864,7 @@
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
