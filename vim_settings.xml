@@ -184,6 +184,12 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_search_empty.xml" timestamp="1552019305247">
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
+        <mark key="^" line="40" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistActivity.kt" timestamp="1551942568588">
         <mark key="'" line="49" column="58" />
         <mark key="[" line="43" column="47" />
@@ -492,12 +498,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" timestamp="1551955911849">
-        <mark key="'" line="99" column="21" />
-        <mark key="[" line="102" column="54" />
-        <mark key="]" line="103" column="39" />
-        <mark key="^" line="103" column="39" />
-        <mark key="." line="103" column="39" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" timestamp="1552019051237">
+        <mark key="'" line="103" column="39" />
+        <mark key="[" line="104" column="57" />
+        <mark key="]" line="105" column="88" />
+        <mark key="^" line="105" column="88" />
+        <mark key="." line="105" column="88" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable-anydpi/ic_close_white.xml" timestamp="1551417588815">
         <mark key="[" line="6" column="25" />
@@ -680,7 +686,7 @@
         <mark key="." line="86" column="13" />
         <mark key="^" line="86" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551957437311">
+      <file name="/Dummy.txt" timestamp="1552018588365">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/RecommendedFanclubSection.kt" timestamp="1551691228908">
@@ -793,8 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" />
-      <jump line="41" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeAdapter.kt" />
       <jump line="25" column="35" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeAdapter.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/shape_white_oval.xml" />
@@ -893,10 +897,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/shape_gainsboro_radius_4dp.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/shape_gainsboro_radius_24dp.xml" />
       <jump line="23" column="17" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_search_result_fanclub.xml" />
+      <jump line="3" column="12" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_search_empty.xml" />
+      <jump line="103" column="39" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>dim_gray</text>
+        <text>/&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -905,34 +911,34 @@
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNoYXBlIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6c2hhcGU9InJlY3RhbmdsZSIKICAgID4KICA8c29saWQgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL2dhaW5zYm9ybyIvPgogIDxjb3JuZXJzIGFuZHJvaWQ6cmFkaXVzPSI0ZHAiLz4KPC9zaGFwZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvc2hhcGVfZ2FpbnNib3JvX3JhZGl1c180ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN1cGVyLmdldFNwYW5TaXplKHNwYW5Db3VudCwgcG9zaXRpb24pCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0U3QK</text>
+        <text encoding="base64">ICAgICAgICBncmF2aQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVE9ETygKICAgICAgICAgICJub3QgaW1wbGVtZW50ZWQiCiAgICAgICkgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmllbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVE9ETyggIm5vdCBpbXBsZW1lbnRlZCIKICAgICAgKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
+        <text encoding="base64">PExpbmVhckxheW91dAogICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKPC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4K</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvc2hhcGVfZ2FpbnNib3JvX3JhZGl1c180ZHAiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -968,10 +974,10 @@
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
