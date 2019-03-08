@@ -72,6 +72,7 @@
         <mark key="." line="34" column="39" />
         <mark key="^" line="34" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistStoreFactory.kt" timestamp="1551939115035" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubAction.kt" timestamp="1552023491674">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="63" />
@@ -103,6 +104,13 @@
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/Yangon/TalkBackDemo/app/src/main/res/layout/activity_main.xml" timestamp="1552035778759">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistModule.kt" timestamp="1551940538852" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistActivity.kt" timestamp="1552022338316">
         <mark key="'" line="49" column="58" />
         <mark key="[" line="43" column="47" />
@@ -310,6 +318,7 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="27" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/Yangon/TalkBackDemo/app/src/main/java/team/itome/talkbackdemo/MainActivity.kt" timestamp="1552033955083" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_playground.xml" timestamp="1552024093181">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="98" column="22" />
@@ -380,6 +389,7 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.20/3a9a71152b278d5e36e7346554b4dbb03e565e30/kotlin-stdlib-1.3.20-sources.jar!/kotlin/Collections.kt" timestamp="1551947231143" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/search/SearchGenreFanclubDialogFragment.kt" timestamp="1551926391285">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="30" column="0" />
@@ -563,43 +573,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>actionSearch</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgQEFjdGl2aXR5U2NvcGUgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgYWJzdHJhY3QgZnVuIHBsYW5TZWxlY3RvckFjdGl2aXR5SW5qZWN0b3IoKTogUGxhblNlbGVjdG9yQWN0aXZpdHkK</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiCiAgICAgICAgICAgIGFuZHJvaWQ6Y2xpY2thYmxlPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0idHJ1ZSIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0icGFyZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uTmV4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5SZWFkZXJGb2N1c2FibGU9ImZhbHNlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVkaXQK</text>
+        <text encoding="base64">CiAgICA8SW1hZ2VWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIyNGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjI0ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaWNfc2VhcmNoIgogICAgICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0i5qSc57SiIiAvPgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJzZWEiCg==</text>
+        <text encoding="base64">ICAgIAogICAgPFN1cmZhY2VWaWV3IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIiBjb250ZW50Lz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGU9ImZhbHNlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIG9uTmV4dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVkaXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJzZWEiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIHRvb2xzOmNvbnRleHQ9ImNvbS5yaW5hY2l0YS5jaGlwLnVpLmZhbmNsdWIuRmFuY2x1YkFjdGl2aXR5IgogICAgPgoKPC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0Pgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -632,13 +642,13 @@
         <entry>action GotoImplementation</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
