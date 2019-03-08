@@ -599,7 +599,7 @@
         <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -635,10 +635,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
