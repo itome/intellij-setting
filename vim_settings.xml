@@ -21,8 +21,8 @@
         <mark key="." line="26" column="59" />
         <mark key="^" line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubActivity.kt" timestamp="1552030074445">
-        <mark key="'" line="27" column="68" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubActivity.kt" timestamp="1552123708974">
+        <mark key="'" line="5" column="25" />
         <mark key="[" line="37" column="21" />
         <mark key="]" line="37" column="31" />
         <mark key="." line="37" column="46" />
@@ -510,7 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeAdapter.kt" />
       <jump line="96" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeAdapter.kt" />
       <jump line="138" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/home/HomeAdapter.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/fragment_search.xml" />
@@ -610,6 +609,7 @@
       <jump line="26" column="68" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubActivity.kt" />
       <jump line="21" column="15" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/ActivityBindingModule.kt" />
       <jump line="64" column="56" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/ActivityBindingModule.kt" />
+      <jump line="5" column="25" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubActivity.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -649,7 +649,7 @@
         <text encoding="base64">ICAgICAgICAgIG9uTmV4dAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -686,9 +686,9 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
