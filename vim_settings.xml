@@ -21,12 +21,12 @@
         <mark key="." line="26" column="59" />
         <mark key="^" line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubActivity.kt" timestamp="1552123708974">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubActivity.kt" timestamp="1552154013859">
         <mark key="'" line="5" column="25" />
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="31" />
-        <mark key="." line="37" column="46" />
-        <mark key="^" line="37" column="31" />
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+        <mark key="^" line="32" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_search_result_user.xml" timestamp="1551956526760">
         <mark key="[" line="31" column="39" />
@@ -621,35 +621,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDEgLT4gQ29udGV4dENvbXBhdC5nZXRDb2xvcihjb250ZXh0ISEsIGFuZHJvaWQuUi5jb2xvci5ob2xvX3JlZF9saWdodCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CmNsYXNzIENoZWNrCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gQ29udGV4dENvbXBhdC5nZXRDb2xvcihjb250ZXh0ISEsIGFuZHJvaWQuUi5jb2xvci4pCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KQog</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iLz4KCiAgICAgICAgICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5MQVVOQ0hFUiIvPgogICAgICAgICAgICA8L2ludGVudC1maWx0ZXI+Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxFZGl0VGV4dCBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0i44GT44GT44Gr5qSc57Si5p2h5Lu244KS5YWl5YqbIi8+Cgo=</text>
+        <text encoding="base64">ICAgIHN1cAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5SZWFkZXJGb2N1c2FibGU9ImZhbHNlIgo=</text>
+        <text encoding="base64">CmNsYXNzIENoZWNrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICA8SW1hZ2VWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIyNGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjI0ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaWNfc2VhcmNoIgogICAgICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0i5qSc57SiIiAvPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gQ29udGV4dENvbXBhdC5nZXRDb2xvcihjb250ZXh0ISEsIGFuZHJvaWQuUi5jb2xvci4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgPFN1cmZhY2VWaWV3IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIiBjb250ZW50Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iLz4KCiAgICAgICAgICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5MQVVOQ0hFUiIvPgogICAgICAgICAgICA8L2ludGVudC1maWx0ZXI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGU9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgIDxFZGl0VGV4dCBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0i44GT44GT44Gr5qSc57Si5p2h5Lu244KS5YWl5YqbIi8+Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uTmV4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5SZWFkZXJGb2N1c2FibGU9ImZhbHNlIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -685,10 +685,10 @@
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
