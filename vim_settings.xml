@@ -16,6 +16,9 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
+      <file name="/a.dummy" timestamp="1552355719566">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/StoreModule.kt" timestamp="1552296404014">
         <mark key="'" line="23" column="10" />
         <mark key="[" line="95" column="39" />
@@ -55,17 +58,18 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineActionCreator.kt" timestamp="1552297876642">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="29" column="13" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineActionCreator.kt" timestamp="1552355748285">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineStore.kt" timestamp="1552297512588">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="o" line="13" column="83" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineStore.kt" timestamp="1552355802315">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+        <mark key="^" line="39" column="34" />
+        <mark key="o" line="14" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/page/ArtistHomeFragment.kt" timestamp="1552022466415">
         <mark key="[" line="41" column="31" />
@@ -112,7 +116,6 @@
         <mark key="^" line="9" column="44" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/widget/CarouselSnapHelper.kt" timestamp="1552289227350" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubAction.kt" timestamp="1552023491674">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="63" />
@@ -340,11 +343,11 @@
         <mark key="." line="11" column="5" />
         <mark key="^" line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineAction.kt" timestamp="1552297176173">
-        <mark key="[" line="7" column="73" />
-        <mark key="]" line="8" column="54" />
-        <mark key="^" line="8" column="54" />
-        <mark key="." line="8" column="54" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineAction.kt" timestamp="1552355525033">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+        <mark key="." line="9" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineActivity.kt" timestamp="1552297360931">
         <mark key="'" line="33" column="68" />
@@ -525,6 +528,12 @@
         <mark key="^" line="39" column="70" />
         <mark key="." line="39" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/flux/PagingState.kt" timestamp="1552355489403">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/extensions/EditText.kt" timestamp="1552021496466">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="36" />
@@ -702,13 +711,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>pagin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFN1cHByZXNzTGludCgiQ2hlY2tSZXN1bHQiKQo=</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKFVwZGF0ZVBhZ2luZ1N0YXRlKFBhZ2luZ1N0YXRlKHBhZ2UgKyAxLCB0cnVlKSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9Cg==</text>
@@ -738,7 +747,7 @@
         <text encoding="base64">ICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -761,23 +770,23 @@
         <entry>action CloseEditor</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Back</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action RenameElement</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
