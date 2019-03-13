@@ -285,15 +285,6 @@
       <file name="/fragment.kt" timestamp="1552385274201">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_timeline_post_footer.xml" timestamp="1552457031226">
-        <mark key="a" line="16" column="37" />
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="6" />
-        <mark key="o" line="16" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" timestamp="1552284616406">
         <mark key="'" line="76" column="46" />
         <mark key="[" line="114" column="33" />
@@ -314,11 +305,12 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/widget/FixedAspectRatioRecyclerView.kt" timestamp="1552445187972">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="35" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/widget/FixedAspectRatioRecyclerView.kt" timestamp="1552462395515">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+        <mark key="^" line="10" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/dimens.xml" timestamp="1552273792437">
         <mark key="[" line="4" column="15" />
@@ -402,10 +394,6 @@
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/item/TimelinePostItem.kt" timestamp="1552460096905">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="6" />
-        <mark key="]" line="37" column="5" />
-        <mark key="^" line="37" column="5" />
-        <mark key="." line="37" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1552459098059">
         <mark key="[" line="0" column="0" />
@@ -454,6 +442,9 @@
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/gradle.properties" timestamp="1552451896972">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/model/Fanclub.kt" timestamp="1552273141254">
         <mark key="'" line="10" column="11" />
         <mark key="[" line="19" column="30" />
@@ -472,8 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/ArtistActivity.kt" />
-      <jump line="77" column="16" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" />
       <jump line="53" column="4" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubActivity.kt" />
       <jump line="47" column="61" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclub/FanclubActivity.kt" />
       <jump line="41" column="38" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_fanclub.xml" />
@@ -572,6 +561,8 @@
       <jump line="5" column="7" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/ripple_matterhorn_oval.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/ripple_matterhorn_oval.xml" />
       <jump line="43" column="8" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_timeline_sound.xml" />
+      <jump line="22" column="2" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/widget/FixedAspectRatioRecyclerView.kt" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/widget/FixedAspectRatioRecyclerView.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -611,7 +602,7 @@
         <text encoding="base64">ICAgICAgICBzcmMK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -641,16 +632,16 @@
         <entry>action Debug</entry>
         <entry>action FindInPath</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
