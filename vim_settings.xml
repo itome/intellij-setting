@@ -903,7 +903,7 @@
         <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIHByb3ZpZGVyRXF1YWxhYmxlQ29udGVudCgpOiBBcnJheTwqPiB7CiAgICByZXR1cm4gYXJyYXlPZigKICAgICkKICB9CgogIG92ZXJyaWRlIGZ1biBlcXVhbHMob3RoZXI6IEFueT8pOiBCb29sZWFuIHsKICB9CgogIG92ZXJyaWRlIGZ1biBoYXNoQ29kZSgpOiBJbnQgewogIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -940,9 +940,9 @@
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
