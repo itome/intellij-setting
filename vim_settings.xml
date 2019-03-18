@@ -46,6 +46,11 @@
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/item/TimelinePostContentsItem.kt" timestamp="1552895766376">
         <mark key="[" line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/artist/page/ArtistHomeFragment.kt" timestamp="1552926115907">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/extensions/Disposable.kt" timestamp="1552885101940">
         <mark key="[" line="8" column="53" />
         <mark key="]" line="8" column="59" />
@@ -166,6 +171,11 @@
         <mark key="]" line="78" column="81" />
         <mark key="." line="78" column="81" />
         <mark key="^" line="78" column="81" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineDetailActivity.kt" timestamp="1552900306979">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineAdapter.kt" timestamp="1552906272895">
         <mark key="'" line="29" column="6" />
@@ -331,6 +341,12 @@
         <mark key="." line="9" column="50" />
         <mark key="^" line="9" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/extensions/Observable.kt" timestamp="1552926131011">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="54" />
+      </file>
       <file name="/fragment.java" timestamp="1552902149623">
         <mark key="[" line="0" column="0" />
       </file>
@@ -439,7 +455,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>play</text>
+        <text encoding="base64">YTogT2JzZXJ2YWJsZTxvdXQgVD4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -448,34 +464,34 @@
         <text encoding="base64">ICAgIHBsYXlpbmcgPSBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsYXlpbmcgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwIHsgaXQuIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVuYmluZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAubWFwIHsgaXQgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVuYmluCiAgICAK</text>
+        <text encoding="base64">ICAgICAgICAubWFwIHsgaXQgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsYXlpbmcgPSBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmdW4gCg==</text>
+        <text encoding="base64">ICAgIHVuYmluZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBmCg==</text>
+        <text encoding="base64">ICAgIHVuYmluCiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0b3JlLnBvc3Qub2JzZXJ2ZU9uTWFpbigpCiAgICAgICAgLnN1YnNjcmliZUJ5IHsgdXBkYXRlKGl0LCBzdG9yZS5jb21tZW50cy52YWx1ZSkgfQogICAgICAgIC5hZGRUbyhkaXNwb3NhYmxlcykKCiAgICBzdG9yZS5jb21tZW50cy5vYnNlcnZlT25NYWluKCkKICAgICAgICAuc3Vic2NyaWJlQnkgeyB1cGRhdGUoc3RvcmUucG9zdC52YWx1ZSwgaXQpIH0KICAgICAgICAuYWRkVG8oZGlzcG9zYWJsZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0b3JlLgo=</text>
+        <text encoding="base64">ICBmdW4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0ZW1zLmZvcgo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBmCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -509,12 +525,12 @@
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
