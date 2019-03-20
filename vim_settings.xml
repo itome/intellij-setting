@@ -241,11 +241,11 @@
         <mark key="." line="53" column="64" />
         <mark key="^" line="53" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/base/BaseActivity.kt" timestamp="1553069049569">
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="27" column="102" />
-        <mark key="^" line="27" column="102" />
-        <mark key="." line="27" column="102" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/base/BaseActivity.kt" timestamp="1553069991366">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineDetailActivity.kt" timestamp="1552900306979">
         <mark key="[" line="1" column="0" />
@@ -945,7 +945,7 @@
         <mark key="." line="17" column="69" />
         <mark key="^" line="17" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/styles.xml" timestamp="1553068748247">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/styles.xml" timestamp="1553069925146">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1069,7 +1069,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>SYSTEM_UI_FLAG_LAYOUT_STABLE</text>
+        <text>persistentState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -1078,34 +1078,34 @@
         <text encoding="base64">ICAgIDxhbmRyb2lkeC5hcHBjb21wYXQud2lkZ2V0LlRvb2xiYXIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iP2F0dHIvYWN0aW9uQmFyU2l6ZSIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci93aGl0ZSIKICAgICAgICA+CiAgICAgIDxUZXh0VmlldwogICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyX2hvcml6b250YWwiCiAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvaG9tZV90aXRsZSIKICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvZGltX2dyYXkiCiAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyMnNwIgogICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiCiAgICAgICAgICAvPgogICAgPC9hbmRyb2lkeC5hcHBjb21wYXQud2lkZ2V0LlRvb2xiYXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93RHJhd3NTeXN0ZW1CYXJCYWNrZ3JvdW5kcyI+ZmFsc2U8L2l0ZW0+Cg==</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlKAogICAgc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGUKICApIHsKICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSkKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgPHN0eWxlIG5hbWU9IkFwcFRoZW1lLlBvcHVwT3ZlcmxheSIgcGFyZW50PSJUaGVtZU92ZXJsYXkuQXBwQ29tcGF0LkxpZ2h0Ii8+CgogIDxzdHlsZSBuYW1lPSJBcHBUaGVtZS5BcHBCYXJPdmVybGF5IiBwYXJlbnQ9IlRoZW1lT3ZlcmxheS5BcHBDb21wYXQuRGFyay5BY3Rpb25CYXIiLz4K</text>
+        <text encoding="base64">ICAgIGZpbmRWaWV3QnlJZDxWaWV3PihhbmRyb2lkLlIuaWQuY29udGVudCkuc3lzdGVtVWlWaXNpYmlsaXR5ID0KICAgICAgVmlldy5TWVNURU1fVUlfRkxBR19MQVlPVVRfRlVMTFNDUkVFTiBvciBWaWV3LlNZU1RFTV9VSV9GTEFHX0xBWU9VVF9TVEFCTEUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnN0YXR1c0JhckNvbG9yIj5AYW5kcm9pZDpjb2xvci90cmFuc3BhcmVudDwvaXRlbT4K</text>
+        <text encoding="base64">ICAgIHBlcnNpc3RlbnRTdGF0ZTogUGVyc2lzdGFibGVCdW5kbGU/Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93VHJhbnNsdWNlbnRTdGF0dXMiPnRydWU8L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93RHJhd3NTeXN0ZW1CYXJCYWNrZ3JvdW5kcyI+dHJ1ZTwvaXRlbT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93RHJhd3NTeXN0ZW1CYXJCYWNrZ3JvdW5kcyI+ZmFsc2U8L2l0ZW0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9ICAK</text>
+        <text encoding="base64">CiAgPHN0eWxlIG5hbWU9IkFwcFRoZW1lLlBvcHVwT3ZlcmxheSIgcGFyZW50PSJUaGVtZU92ZXJsYXkuQXBwQ29tcGF0LkxpZ2h0Ii8+CgogIDxzdHlsZSBuYW1lPSJBcHBUaGVtZS5BcHBCYXJPdmVybGF5IiBwYXJlbnQ9IlRoZW1lT3ZlcmxheS5BcHBDb21wYXQuRGFyay5BY3Rpb25CYXIiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApIHsgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnN0YXR1c0JhckNvbG9yIj5AYW5kcm9pZDpjb2xvci90cmFuc3BhcmVudDwvaXRlbT4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93VHJhbnNsdWNlbnRTdGF0dXMiPnRydWU8L2l0ZW0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6c3RhdHVzQmFyQ29sb3IiPkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50PC9pdGVtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1139,12 +1139,12 @@
         <entry>action GotoImplementation</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
