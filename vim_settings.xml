@@ -191,6 +191,12 @@
         <mark key="." line="247" column="50" />
         <mark key="^" line="247" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclubnotification/FanclubNotificationActionCreator.kt" timestamp="1553182638154">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/widget/FixedAspectRatioRecyclerView.kt" timestamp="1552896807726">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -319,11 +325,11 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclubnotification/FanclubNotificationAction.kt" timestamp="1553157852611">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="56" />
-        <mark key="^" line="5" column="56" />
-        <mark key="." line="5" column="56" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/fanclubnotification/FanclubNotificationAction.kt" timestamp="1553182577179">
+        <mark key="[" line="6" column="78" />
+        <mark key="]" line="6" column="77" />
+        <mark key="^" line="6" column="77" />
+        <mark key="." line="6" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/Fremo/fremo-android/app/build.gradle" timestamp="1552810931226">
         <mark key="'" line="33" column="8" />
@@ -661,7 +667,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Notification</text>
+        <text>fanc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -670,31 +676,31 @@
         <text encoding="base64">ICAgIDxhbmRyb2lkeC5hcHBjb21wYXQud2lkZ2V0LlRvb2xiYXIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iP2F0dHIvYWN0aW9uQmFyU2l6ZSIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci93aGl0ZSIKICAgICAgICA+CiAgICAgIDxUZXh0VmlldwogICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyX2hvcml6b250YWwiCiAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvaG9tZV90aXRsZSIKICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvZGltX2dyYXkiCiAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyMnNwIgogICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiCiAgICAgICAgICAvPgogICAgPC9hbmRyb2lkeC5hcHBjb21wYXQud2lkZ2V0LlRvb2xiYXI+CgogICAgPGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuUmVjeWNsZXJWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yZWN5Y2xlcl9ob21lIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZ1RvcAo=</text>
+        <text encoding="base64">aW1wb3J0IG9raHR0cDMuRGlzcGF0Y2hlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYW5kb3JpZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZml0c1N5cwo=</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZ1RvcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYW5kb3JpZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4K</text>
+        <text encoding="base64">ICAgICAgZml0c1N5cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChib3R0b21TaGVldC5zdGF0ZSA9PSAKICAgIH0gZWxzZSB7CiAgICB9CiAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYm90dG9tU2hlZXQuaGlkZSgpCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSByZXR1cgo=</text>
+        <text encoding="base64">ICAgIGlmIChib3R0b21TaGVldC5zdGF0ZSA9PSAKICAgIH0gZWxzZSB7CiAgICB9CiAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgYm90dG9tU2hlZXQuaGlkZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
@@ -724,17 +730,17 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoImplementation</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
-        <entry>action Back</entry>
         <entry>action FindInPath</entry>
         <entry>action CloseEditor</entry>
         <entry>action RenameElement</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action Run</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
