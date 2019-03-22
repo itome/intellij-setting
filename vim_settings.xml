@@ -838,7 +838,7 @@
         <text encoding="base64">ICAgIGJpbmRpbmcuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -869,7 +869,6 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
@@ -878,6 +877,7 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
