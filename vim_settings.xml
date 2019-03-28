@@ -180,13 +180,19 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_member_card.xml" timestamp="1553765974372">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="35" />
-        <mark key="^" line="23" column="35" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/layout_member_card.xml" timestamp="1553766711222">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/binding/ViewBinding.kt" timestamp="1553764525090" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/drawable/ic_member_card_mark.xml" timestamp="1553766591295">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/dialog/SingleActionDialogFragment.kt" timestamp="1553763512394">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="67" column="22" />
@@ -683,7 +689,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>fitXY</text>
+        <text>centerCrop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydFdpdGhMb2FkaW5nXD4=</text>
@@ -692,34 +698,34 @@
         <text encoding="base64">ICAgIHNpbmdsZUFjdGlvbkRpYWxvZ0ZyYWdtZW50LnNob3coCiAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlciwKICAgICAgICBSLnN0cmluZy5wbGFuX3NlbGVjdG9yX25vX3BsYW5fdGl0bGUsCiAgICAgICAgUi5zdHJpbmcucGxhbl9zZWxlY3Rvcl9ub19wbGFuX2Rlc2NyaXB0aW9uLAogICAgICAgIFIuc3RyaW5nLnBsYW5fc2VsZWN0b3Jfbm9fcGxhbl9vaywKICAgICAgICB7IHN1cHBvcnRGaW5pc2hBZnRlclRyYW5zaXRpb24oKSB9LAogICAgICAgIHsgc3VwcG9ydEZpbmlzaEFmdGVyVHJhbnNpdGlvbigpIH0KICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVyQ3JvcCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxWaWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChtYWluVGFiIGlzIE5vdGlmaWNhdGlvbikgewogICAgICAgICAgICBiaW5kaW5nLmZhYk1haW4uaGlkZSgpCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBiaW5kaW5nLmZhYk1haW4uc2hvdygpCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFwcDppbWFnZVVybD0iQHtwbGFuLmltYWdlVXJsfSIK</text>
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx2YXJpYWJsZQogICAgICAgIG5hbWU9ImltYWdlVXJsIgogICAgICAgIHR5cGU9IlN0cmluZyIKICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIDxWaWV3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChtYWluVGFiIGlzIE5vdGlmaWNhdGlvbikgewogICAgICAgICAgICBiaW5kaW5nLmZhYk1haW4uaGlkZSgpCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBiaW5kaW5nLmZhYk1haW4uc2hvdygpCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7IHN1cHBvcnRGaW5pc2hBZnRlclRyYW5zaXRpb24oKSB9LAogICAgICAgIHsgc3VwcG9ydEZpbmlzaEFmdGVyVHJhbnNpdGlvbigpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGFwcDppbWFnZVVybD0iQHtwbGFuLmltYWdlVXJsfSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSLnN0cmluZy5wbGFuX3NlbGVjdG9yX29rLAo=</text>
+        <text encoding="base64">ICAgIDx2YXJpYWJsZQogICAgICAgIG5hbWU9ImltYWdlVXJsIgogICAgICAgIHR5cGU9IlN0cmluZyIKICAgICAgICAvPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -754,12 +760,12 @@
         <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
