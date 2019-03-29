@@ -306,6 +306,12 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/AndroidManifest.xml" timestamp="1553852392256">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="22" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/fragment_home.xml" timestamp="1553399365886">
         <mark key="[" line="26" column="38" />
         <mark key="]" line="26" column="42" />
@@ -362,12 +368,12 @@
         <mark key="." line="12" column="29" />
         <mark key="^" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/Router.kt" timestamp="1553670501708">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="^" line="178" column="53" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/Router.kt" timestamp="1553852072207">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="171" column="53" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnBoardingAction.kt" timestamp="1553835317952">
         <mark key="[" line="7" column="40" />
@@ -434,12 +440,12 @@
         <mark key="^" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" timestamp="1553844311258">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" timestamp="1553851652378">
         <mark key="'" line="146" column="16" />
-        <mark key="[" line="149" column="60" />
-        <mark key="]" line="149" column="73" />
-        <mark key="^" line="149" column="73" />
-        <mark key="." line="149" column="73" />
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="24" column="47" />
+        <mark key="^" line="24" column="47" />
+        <mark key="." line="24" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/item_user_in_fanclub.xml" timestamp="1553754883318">
         <mark key="'" line="55" column="34" />
@@ -622,6 +628,11 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/di/app/ActivityBindingModule.kt" timestamp="1553852343414">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/fragment_timeline.xml" timestamp="1553401142628">
         <mark key="[" line="35" column="58" />
         <mark key="]" line="36" column="46" />
@@ -694,7 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/item/TimelinePostItem.kt" />
       <jump line="40" column="4" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/item/TimelinePostItem.kt" />
       <jump line="30" column="19" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/TimelineFragment.kt" />
       <jump line="25" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/timeline/item/TimelinePostItem.kt" />
@@ -794,6 +804,7 @@
       <jump line="19" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/page/SignUpPasswordFragment.kt" />
       <jump line="13" column="6" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" />
       <jump line="76" column="31" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/siginup/SignUpActionCreator.kt" />
+      <jump line="91" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/Router.kt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -806,31 +817,31 @@
         <text encoding="base64">ICAgICAgICAuZmxhdE1hcCB7IGZpcmViYXNlQXV0aFJlcG9zaXRvcnkuaWRUb2tlbigpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuZmxhCg==</text>
+        <text encoding="base64">ICAgIDxhY3Rpdml0eSBhbmRyb2lkOm5hbWU9Ii51aS5wbGF5Z3JvdW5kLlBsYXlncm91bmRBY3Rpdml0eSI+CiAgICA8L2FjdGl2aXR5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBrCg==</text>
+        <text encoding="base64">ICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgPGFjdGlvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmFjdGlvbi5NQUlOIi8+CgogICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+CiAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgMyAtPiBTaWduVXBVc2VyTmFtZUZyYWdtZW50Lm5ld0luc3RhbmNlKCkK</text>
+        <text encoding="base64">CiAgQEFjdGl2aXR5U2NvcGUgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgYWJzdHJhY3QgZnVuIHBsYXlncm91bmRBY3Rpdml0eUluamVjdG9yKCk6IFBsYXlncm91bmRBY3Rpdml0eQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgMCAtPiBTaWduVXBOYW1lRnJhZ21lbnQubmV3SW5zdGFuY2UoKQo=</text>
+        <text encoding="base64">CiAgQEFjdGl2aXR5U2NvcGUgQENvbnRyaWJ1dGVzQW5kcm9pZEluamVjdG9yCiAgYWJzdHJhY3QgZnVuIGxvZ2luQWN0aXZpdHlJbmplY3RvcigpOiBMb2dpbkFjdGl2aXR5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgVE9ETygKICAgICAgICAgICJub3QgaW1wbGVtZW50ZWQiCiAgICAgICkgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yaW5hY2l0YS5jaGlwLnVpLmxvZ2luLkxvZ2luQWN0aXZpdHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVE9ETygKICAgICAgICAgICJub3QgaW1wbGVtZW50ZWQiCiAgICAgICkgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9Cg==</text>
+        <text encoding="base64">CiAgZnVuIHRvTG9naW4oKSB7CiAgICBhcHAuc3RhcnRBY3Rpdml0eShJbnRlbnQoYXBwLCBMb2dpbkFjdGl2aXR5OjpjbGFzcy5qYXZhKS5hcHBseSB7CiAgICAgIGZsYWdzID0gSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0sKICAgIH0pCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcm91dGVyLnRvU2lnblVwCg==</text>
+        <text encoding="base64">ICAgIDxhY3Rpdml0eSBhbmRyb2lkOm5hbWU9Ii51aS5sb2dpbi5Mb2dpbkFjdGl2aXR5Ii8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yaW5hY2l0YS5jaGlwLmV4dGVuc2lvbnMuaXNWYWxpZFVzZXJOYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAuZmxhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Cg==</text>
+        <text encoding="base64">ICAKICBrCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -858,21 +869,21 @@
         <entry>action CloseEditor</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action GoToLastTab</entry>
-        <entry>action GotoAction</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action Find</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action FindInPath</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
         <entry>action RenameElement</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
+        <entry>action FindInPath</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
