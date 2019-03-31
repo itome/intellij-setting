@@ -48,14 +48,13 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" timestamp="1553966636014">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/strings.xml" timestamp="1554013880881">
         <mark key="'" line="40" column="40" />
-        <mark key="[" line="176" column="67" />
-        <mark key="]" line="177" column="57" />
-        <mark key="." line="177" column="57" />
-        <mark key="^" line="177" column="57" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/UserDataSource.kt" timestamp="1554010686690">
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/UserDataSource.kt" timestamp="1554013535679">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -96,12 +95,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/profilelinks/ProfileLinksActivity.kt" timestamp="1553943063800">
-        <mark key="'" line="16" column="36" />
-        <mark key="[" line="38" column="54" />
-        <mark key="]" line="39" column="42" />
-        <mark key="." line="39" column="42" />
-        <mark key="^" line="39" column="42" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/profilelinks/ProfileLinksActivity.kt" timestamp="1554014208478">
+        <mark key="'" line="17" column="36" />
+        <mark key="[" line="51" column="7" />
+        <mark key="]" line="52" column="11" />
+        <mark key="." line="52" column="11" />
+        <mark key="^" line="52" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/FirebaseAuthRepository.kt" timestamp="1553923505036">
         <mark key="'" line="10" column="31" />
@@ -124,16 +123,21 @@
         <mark key="." line="91" column="24" />
         <mark key="^" line="91" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_edit_profile_link.xml" timestamp="1553967375506">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_edit_profile_link.xml" timestamp="1554014282964">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="27" />
+        <mark key="." line="51" column="27" />
+        <mark key="^" line="51" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/editprofilelink/EditProfileLinkException.kt" timestamp="1553965987186">
         <mark key="[" line="4" column="60" />
         <mark key="]" line="4" column="60" />
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/planselector/PlanSelectorActivity.kt" timestamp="1554013728529">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="55" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/editprofile/EditProfileActionCreator.kt" timestamp="1553935749828">
         <mark key="'" line="31" column="41" />
@@ -355,40 +359,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>links</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydFdpdGhMb2FkaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOndpbmRvd1NvZnRJbnB1dE1vZGU9ImFkanVzdFJlc2l6ZSIvPgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzaW5nbGVBY3Rpb25EaWFsb2dGcmFnbWVudDogU2luZ2xlQWN0aW9uRGlhbG9nRnJhZ21lbnQgPQogICAgU2luZ2xlQWN0aW9uRGlhbG9nRnJhZ21lbnQubmV3SW5zdGFuY2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgQEdFVCgidjEvdXNlcnMve3VzZXJfaWR9L2xpbmtzIikKICBmdW4gZ2V0UHJvZmlsZUxpbmtzKAogICAgQFBhdGgoInVzZXJfaWQiKSB1c2VySWQ6IExvbmcKICApOiBTaW5nbGU8TGlzdDxVc2VyUHJvZmlsZUxpbms+Pgo=</text>
+        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9InByb2ZpbGVfbCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBmdW4gZ2V0UHJvZmlsZUxpbmtzKCk6IFNpbmdsZTxMaXN0PFVzZXJQcm9maWxlTGluaz4+IHsKICAgIHJldHVybiBnZXRVc2VySWRTaW5nbGUoKS5mbGF0TWFwIHsgdXNlckFwaS5nZXRQcm9maWxlTGlua3MoaXQpIH0KICB9Cgo=</text>
+        <text encoding="base64">CiAgQEdFVCgidjEvdXNlcnMve3VzZXJfaWR9L2xpbmtzIikKICBmdW4gZ2V0UHJvZmlsZUxpbmtzKAogICAgQFBhdGgoInVzZXJfaWQiKSB1c2VySWQ6IExvbmcKICApOiBTaW5nbGU8TGlzdDxVc2VyUHJvZmlsZUxpbms+Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZnVuIGdldFByb2ZpbGVMaW5rcygpOiBTaW5nbGU8TGlzdDxVc2VyUHJvZmlsZUxpbms+Pgo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBmdW4gZ2V0UHJvZmlsZUxpbmtzKCk6IFNpbmdsZTxMaXN0PFVzZXJQcm9maWxlTGluaz4+IHsKICAgIHJldHVybiBnZXRVc2VySWRTaW5nbGUoKS5mbGF0TWFwIHsgdXNlckFwaS5nZXRQcm9maWxlTGlua3MoaXQpIH0KICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">CiAgZnVuIGdldFByb2ZpbGVMaW5rcygpOiBTaW5nbGU8TGlzdDxVc2VyUHJvZmlsZUxpbms+Pgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpmaXRzU3lzdGVtV2luZG93cz0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl9ob3Jpem9udGFsIgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpmaXRzU3lzdGVtV2luZG93cz0idHJ1ZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl9ob3Jpem9udGFsIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -412,25 +416,25 @@
         <entry encoding="base64">XDxzdGFydFdpdGhMb2FkaW5nXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action CloseEditor</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action GoToLastTab</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Debug</entry>
-        <entry>action FindInPath</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action FindInPath</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Switcher</entry>
+        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
