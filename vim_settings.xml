@@ -13,7 +13,7 @@
     <jumps />
     <registers>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -25,6 +25,7 @@
       <history-cmd>
         <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
