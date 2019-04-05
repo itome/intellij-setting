@@ -9,6 +9,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/main.dart" timestamp="1554455543162">
+        <mark key="'" line="30" column="2" />
+        <mark key="." line="11" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/ui/login/TermOfServiceFragment.kt" timestamp="1554430143718">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="0" column="0" />
@@ -20,10 +24,15 @@
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/ui/login/TermOfServiceFragment.kt" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/ui/login/TermOfServiceFragment.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/teamj/lib/main.dart" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/teamj/lib/main.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/main.dart" />
+      <jump line="5" column="9" filename="$USER_HOME$/Projects/teamj/lib/main.dart" />
+      <jump line="30" column="2" filename="$USER_HOME$/Projects/teamj/lib/main.dart" />
     </jumps>
     <registers>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -33,13 +42,37 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>action GotoAction</entry>
+        <entry>action Find</entry>
+        <entry>action SaveAll</entry>
         <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
