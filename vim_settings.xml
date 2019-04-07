@@ -461,7 +461,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>childFragmentManager</text>
@@ -487,9 +487,9 @@
         <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
