@@ -270,11 +270,11 @@
         <mark key="^" line="57" column="27" />
         <mark key="." line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" timestamp="1554686734839">
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" timestamp="1554694154170">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="73" />
+        <mark key="." line="23" column="23" />
         <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/local/UserPreference.kt" timestamp="1554614683997">
@@ -452,10 +452,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ToggleLineBreakpoint</text>
       </register>
       <register name="-" type="4">
-        <text>cocoa</text>
+        <text>0bA96kmMNhWJwd9ovtBePxnJ8EyJD7LaC11X4CST3xDBk2urol</text>
       </register>
     </registers>
     <search>
@@ -470,10 +470,11 @@
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
+        <entry>action ToggleLineBreakpoint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
