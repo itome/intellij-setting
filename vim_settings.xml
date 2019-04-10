@@ -472,11 +472,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" timestamp="1554879925191">
-        <mark key="'" line="11" column="47" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" timestamp="1554880915074">
+        <mark key="'" line="12" column="57" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="36" />
+        <mark key="^" line="39" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" timestamp="1554867752316">
         <mark key="'" line="10" column="41" />
@@ -542,7 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="7" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/signuponboarding/SignUpOnBoardingActivity.kt" />
       <jump line="91" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_login_bottom_sheet.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_login_bottom_sheet.xml" />
       <jump line="87" column="0" filename="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_login_bottom_sheet.xml" />
@@ -642,43 +642,44 @@
       <jump line="26" column="19" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" />
       <jump line="14" column="36" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="12" column="57" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBhbGlnbm1lbnQ6IEFsaWdubWVudC5jZW50ZXIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmaW5hbCBfZXJyb3IK</text>
+        <text encoding="base64">ICAgIF9wZW5kaW5nTGlrZUNvdW50U3ViamVjdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0KQo=</text>
+        <text encoding="base64">ICBmaW5hbCBfZXJyb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBCdWlsZENvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBCdWlsZENvbnRleHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2NhZmZvbGQoCiAgICAgICAgICBhcHBCYXI6IEFwcEJhcigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICksCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gU2NhZmZvbGQoCiAgICAgICAgICBhcHBCYXI6IEFwcEJhcigpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2NhZmZvbGQoCiAgICAgICAgICBhcHBCYXI6IEFwcEJhcigpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>Context</text>
+        <text>Publis</text>
       </register>
     </registers>
     <search>
