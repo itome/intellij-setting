@@ -275,11 +275,11 @@
         <mark key="^" line="48" column="49" />
         <mark key="." line="48" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" timestamp="1554878358127">
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" timestamp="1554879861734">
         <mark key="'" line="13" column="36" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/repository/local/shared_preference_data_source.dart" timestamp="1554863466592">
         <mark key="'" line="8" column="0" />
@@ -472,12 +472,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" timestamp="1554875236924">
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" timestamp="1554879925191">
         <mark key="'" line="11" column="47" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-        <mark key="^" line="20" column="8" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" timestamp="1554867752316">
         <mark key="'" line="10" column="41" />
@@ -649,37 +648,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBhbGlnbm1lbnQ6IEFsaWdubWVudC5jZW50ZXIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb24K</text>
+        <text encoding="base64">ICBmaW5hbCBfZXJyb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2NhZmZvbGQoCiAgICAgICAgICBhcHBCYXI6IEFwcEJhcigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBCdWlsZENvbnRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2NhZmZvbGQoCiAgICAgICAgICBhcHBCYXI6IEFwcEJhcigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2NhZmZvbGQoCiAgICAgICAgICBhcHBCYXI6IEFwcEJhcigpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250YWluCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2NhZmZvbGQoCiAgICAgICAgICBhcHBCYXI6IEFwcEJhcigpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29udGFpbmVyKAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9keTog</text>
+        <text>Context</text>
       </register>
     </registers>
     <search>
@@ -700,10 +699,10 @@
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
