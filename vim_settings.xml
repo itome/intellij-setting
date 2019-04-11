@@ -132,7 +132,7 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/screen/playground_screen.dart" timestamp="1554958488079">
-        <mark key="'" line="75" column="0" />
+        <mark key="'" line="68" column="0" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -151,7 +151,7 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/user/user_bloc.dart" timestamp="1554958583838">
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/user/user_bloc.dart" timestamp="1554960142118">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="60" />
         <mark key="." line="5" column="60" />
@@ -209,12 +209,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" timestamp="1554959507215">
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" timestamp="1554960135090">
         <mark key="'" line="16" column="42" />
-        <mark key="[" line="15" column="57" />
-        <mark key="]" line="15" column="60" />
-        <mark key="^" line="15" column="60" />
-        <mark key="." line="15" column="60" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="15" column="58" />
+        <mark key="." line="28" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/screen/login_screen.dart" timestamp="1554799489457">
         <mark key="'" line="9" column="0" />
@@ -422,10 +422,10 @@
         <text encoding="base64">CiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gQmxvY1Byb3ZpZGVyPFVzZXJCbG9jPi5idWlsZGVyKAogICAgICBjcmVhdG9yOiAoY29udGV4dCwgX2JhZykgPT4gVXNlckJsb2MoKSwKICAgICAgYnVpbGRlcjogKGNvbnRleHQsIGJsb2MpIHsKICAgICAgICBibG9jLnVzZXJBY3Rpb25TaW5rLmFkZChGZXRjaFVzZXIoIiIpKTsKICAgICAgICBibG9jLnVzZXJBY3Rpb25TaW5rLmFkZChGZXRjaFBvc3RzKCIiKSk7CiAgICAgICAgcmV0dXJuIFNjYWZmb2xkKAogICAgICAgICAgYm9keTogU3RyZWFtQnVpbGRlcjxVc2VyPigKICAgICAgICAgICAgc3RyZWFtOiBibG9jLnVzZXJTdHJlYW0sCiAgICAgICAgICAgIGJ1aWxkZXI6IChjb250ZXh0LCBzbmFwc2hvdCkgewogICAgICAgICAgICAgIHJldHVybiBDdXN0b21TY3JvbGxWaWV3KAogICAgICAgICAgICAgICAgc2xpdmVyczogPFdpZGdldD5bCiAgICAgICAgICAgICAgICAgIFNsaXZlckFwcEJhcigKICAgICAgICAgICAgICAgICAgICBwaW5uZWQ6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgZXhwYW5kZWRIZWlnaHQ6IDMwMCwKICAgICAgICAgICAgICAgICAgICBmbGV4aWJsZVNwYWNlOiBGbGV4aWJsZVNwYWNlQmFyKAogICAgICAgICAgICAgICAgICAgICAgdGl0bGU6IFJvdygKICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICAgICAgICAgICAgICAgIFRleHQoc25hcHNob3QuZGF0YT8ubmFtZSA/PyAiIiksCiAgICAgICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogQ29udGFpbmVyKAogICAgICAgICAgICAgICAgICAgICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgIGltYWdlOiBEZWNvcmF0aW9uSW1hZ2UoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltYWdlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTmV0d29ya0ltYWdlKHNuYXBzaG90LmRhdGE/LnByb2ZpbGVJbWFnZVVybCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpdDogQm94Rml0LmNvdmVyKSwKICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IEJhY2tkcm9wRmlsdGVyKAogICAgICAgICAgICAgICAgICAgICAgICAgIGZpbHRlcjogSW1hZ2VGaWx0ZXIuYmx1cihzaWdtYVg6IDEwLjAsIHNpZ21hWTogMTAuMCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IENvbnRhaW5lcigKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlY29yYXRpb246IEJveERlY29yYXRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMuYmxhY2sud2l0aE9wYWNpdHkoMC4yKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGlsZDogQ29sdW1uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYWluQXhpc1NpemU6IE1haW5BeGlzU2l6ZS5tYXgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5jZW50ZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyb3NzQXhpc0FsaWdubWVudDogQ3Jvc3NBeGlzQWxpZ25tZW50LmNlbnRlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENsaXBPdmFsKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IEltYWdlLm5ldHdvcmsoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNuYXBzaG90LmRhdGE/LnByb2ZpbGVJbWFnZVVybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZml0OiBCb3hGaXQuZmlsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEyMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAxMjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29udGFpbmVyKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luOiBFZGdlSW5zZXRzLm9ubHkodG9wOiAxNiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGlsZDogVGV4dCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc25hcHNob3QuZGF0YT8uZGVzY3JpcHRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHRBbGlnbjogVGV4dEFsaWduLmNlbnRlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU6IFRleHRTdHlsZShjb2xvcjogVUlDb2xvci53aGlzcGVyKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgX2J1aWxkTGlzdChjb250ZXh0LCBibG9jKSwKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICksCiAgICAgICAgKTsKICAgICAgfSwKICAgICk7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text encoding="base64">dmFyIHJlc3BvbnNlID0g</text>
       </register>
     </registers>
     <search>
@@ -444,13 +444,13 @@
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
