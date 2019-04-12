@@ -45,6 +45,11 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1554713617496">
+        <mark key="[" line="3646" column="30" />
+        <mark key="]" line="3646" column="30" />
+        <mark key="." line="3646" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/splash/SplashActionCreator.kt" timestamp="1554614790351">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="13" column="56" />
@@ -302,6 +307,11 @@
         <mark key="." line="17" column="59" />
         <mark key="^" line="17" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/user.dart" timestamp="1554954709993">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/screen/playground_screen.dart" timestamp="1554966370089">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="29" column="0" />
@@ -335,12 +345,12 @@
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/new_images_list_view.dart" timestamp="1555037644568">
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/new_images_list_view.dart" timestamp="1555041701560">
         <mark key="'" line="15" column="30" />
-        <mark key="[" line="69" column="40" />
-        <mark key="]" line="70" column="26" />
-        <mark key="^" line="70" column="26" />
-        <mark key="." line="70" column="26" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="82" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" timestamp="1554949157645">
         <mark key="[" line="8" column="40" />
@@ -408,11 +418,10 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/pubspec.yaml" timestamp="1554973356560">
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="30" column="11" />
-        <mark key="^" line="30" column="11" />
+      <file name="$USER_HOME$/Projects/teamj/pubspec.yaml" timestamp="1555040973619">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" timestamp="1555033611610">
         <mark key="'" line="9" column="32" />
@@ -539,13 +548,13 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_bloc.dart" timestamp="1555037896782">
-        <mark key="'" line="26" column="16" />
-        <mark key="[" line="56" column="25" />
-        <mark key="]" line="56" column="35" />
-        <mark key="." line="56" column="35" />
-        <mark key="^" line="56" column="35" />
-        <mark key="o" line="66" column="2" />
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_bloc.dart" timestamp="1555041100137">
+        <mark key="'" line="56" column="25" />
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="26" />
+        <mark key="." line="59" column="26" />
+        <mark key="^" line="59" column="26" />
+        <mark key="o" line="67" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" timestamp="1555033643157">
         <mark key="'" line="47" column="0" />
@@ -604,7 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="14" filename="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" />
       <jump line="40" column="2" filename="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/playground_screen.dart" />
@@ -704,43 +712,44 @@
       <jump line="41" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/new_images_list_view.dart" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/new_images_list_view.dart" />
       <jump line="15" column="30" filename="$USER_HOME$/Projects/teamj/lib/view/component/new_images_list_view.dart" />
+      <jump line="55" column="25" filename="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_bloc.dart" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVpZ2h0OiA5NiwKICAgICAgd2lkdGg6IDk2LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogOTYsCiAgICAgICAgaGVpZ2h0OiA5NiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2hpbGQ6IFBhZGRpbmcoCg==</text>
+        <text encoding="base64">ICAgIHJldHJ1biBTaXplZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiBjb25zdCBFZGdlSW5zZXRzLmFsbCg4KSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHNocmlua1dyYXA6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2l6ZTogMjQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA5NiwKICAgICAgICAgICAgICAgIGhlaWdodDogOTYsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogOTYsCiAgICAgICAgICAgICAgaGVpZ2h0OiA5NiwK</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiA5NiwKICAgICAgd2lkdGg6IDk2LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoZWlnaHQ6IDk2LAogICAgICAgICAgICAgIHdpZHRoOiA5NiwK</text>
+        <text encoding="base64">ICAgIHJldHJ1biAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoZWlnaHQ6IDk2LAogICAgICAgICAgICAgIHdpZHRoOiA5NiwK</text>
+        <text encoding="base64">ICAgIHJldHJ1biAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogOTYsCiAgICAgICAgICAgICAgaGVpZ2h0OiA5NiwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>ImagePicker</text>
+        <text>margin</text>
       </register>
     </registers>
     <search>
@@ -761,11 +770,11 @@
         <entry>action RenameElement</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Find</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
