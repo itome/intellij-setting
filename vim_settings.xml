@@ -148,11 +148,16 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="68" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/splash/SplashStore.kt" timestamp="1554615431437">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="19" column="36" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/data/repository/FirebaseRealTimeDataSource.kt" timestamp="1555143821723">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/splash/SplashStore.kt" timestamp="1555142595368">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/model/remote/Post.dart" timestamp="1554699629161">
         <mark key="[" line="3" column="31" />
@@ -184,11 +189,11 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/build.gradle" timestamp="1554605963568">
-        <mark key="[" line="145" column="3" />
-        <mark key="]" line="145" column="1" />
-        <mark key="^" line="145" column="1" />
-        <mark key="." line="145" column="1" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/build.gradle" timestamp="1555142135948">
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/mypagefanclub/MyPageFanclubActivity.kt" timestamp="1554472625465">
         <mark key="[" line="130" column="41" />
@@ -263,6 +268,11 @@
         <mark key="." line="32" column="47" />
         <mark key="^" line="32" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/splash/SplashActivity.kt" timestamp="1555143121959">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/screen/login_screen.dart" timestamp="1554698718324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -324,11 +334,8 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/splash/SplashActionCreator.kt" timestamp="1554614790351">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="56" />
-        <mark key="^" line="13" column="56" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/splash/SplashActionCreator.kt" timestamp="1555142687600">
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/values/styles.xml" timestamp="1554610770696">
         <mark key="[" line="23" column="0" />
@@ -349,10 +356,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainActivity.kt" timestamp="1555139391885">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="179" column="32" />
-        <mark key="." line="178" column="0" />
+      <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/main/MainActivity.kt" timestamp="1555142893639">
+        <mark key="[" line="179" column="33" />
+        <mark key="]" line="179" column="41" />
+        <mark key="." line="179" column="41" />
+        <mark key="^" line="179" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -459,40 +467,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZFZpZXdCeUlkPFZpZXc+KFIuaWQuYnV0dG9uX2RyYXdlcl9tYWluX2NyZWF0ZV9mYW5jbHViKS5pc1Zpc2libGUgPSBpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUaW1iZXIuaSgiTWFpbnRlbmFuY2UgbGlzdGVuZXIgY2FsbGVkOiAkbWFpbnRlbmFuY2UiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZFZpZXdCeUlkPFZpZXc+KFIuaWQuYnV0dG9uX2RyYXdlcl9tYWluX2NyZWF0ZV9mYW5jbHViKS5pc1Zpc2libGUgPQogICAgICAgICAgICAgIGl0LmZhbmNsdWIgPT0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgVGltYmVyLmkoIk1haW50ZW5hbmNlIGxpc3RlbmVyIHNldCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZFZpZXdCeUlkPFZpZXc+KFIuaWQuYnV0dG9uX2RyYXdlcl9tYWluX2NyZWF0ZV9mYW5jbHViKS5pc1Zpc2libGUgPSBpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUaW1iZXIuaSgiTWFpbnRlbmFuY2UgbGlzdGVuZXIgZmFpbGVkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUaW1iZXIuaSgiTWFpbnRlbmFuY2UgbGlzdGVuZXIgY2FsbGVkOiAkbWFpbnRlbmFuY2UiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZFZpZXdCeUlkPFZpZXc+KFIuaWQuYnV0dG9uX2RyYXdlcl9tYWluX2NyZWF0ZV9mYW5jbHViKS5pc1Zpc2libGUgPSBoYXNMb2dnZWRJbgo=</text>
+        <text encoding="base64">ICAgICAgICAudGltZW91dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBzdG9yZS5oYXNMb2dnZWRJbi5vYnNlcnZlT25NYWluKCkKICAgICAgICAuc3Vic2NyaWJlQnkgewogICAgICAgIH0KICAgICAgICAuYWRkVG8oZGlzcG9zYWJsZXMpCgogICAgc3RvcmUubG9naW5Vc2VyLm9ic2VydmVPbk1haW4oKQogICAgICAgIC5zdWJzY3JpYmVCeSB7CiAgICAgICAgfQogICAgICAgIC5hZGRUbyhkaXNwb3NhYmxlcykK</text>
+        <text encoding="base64">ICAgICAgICAudGltZW91dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpdGgoYmluZGluZy5uYXZpZ2F0aW9uTWFpbi5nZXRIZWFkZXJWaWV3KDApKSB7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGltZW91dCB7ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZENpcmNsZUNyb3BJbWFnZShmaW5kVmlld0J5SWQoUi5pZC5pbWFnZV9kcmF3ZXJfbWFpbl9wcm9maWxlKSwgaXQucHJvZmlsZUltYWdlVXJsKQogICAgICAgICAgICBmaW5kVmlld0J5SWQ8VGV4dFZpZXc+KFIuaWQudGV4dF9kcmF3ZXJfbWFpbl9wcm9maWxlX25hbWUpLnRleHQgPSBpdC5uYW1lCiAgICAgICAgICAgIGZpbmRWaWV3QnlJZDxUZXh0Vmlldz4oUi5pZC50ZXh0X2RyYXdlcl9tYWluX3Byb2ZpbGVfdXNlcl9uYW1lKS50ZXh0ID0KICAgICAgICAgICAgICBnZXRTdHJpbmcoUi5zdHJpbmcudXNlcl9uYW1lX2Zvcm1hdCwgaXQudXNlcm5hbWUpCg==</text>
+        <text encoding="base64">ICAgIFRpbWJlci5pKGFjdGlvbi50b1N0cmluZygpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZENpcmNsZUNyb3BJbWFnZShmaW5kVmlld0J5SWQoUi5pZC5pbWFnZV9kcmF3ZXJfbWFpbl9wcm9maWxlKSwgaXQucHJvZmlsZUltYWdlVXJsKQo=</text>
+        <text encoding="base64">ICAgIExvZy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>addListenerForSingleValueEvent</text>
       </register>
     </registers>
     <search>
@@ -504,17 +512,19 @@
       <history-cmd>
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
-        <entry>action Debug</entry>
         <entry>action GotoAction</entry>
+        <entry>action Switcher</entry>
+        <entry>action Debug</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
-        <entry>action ToggleLineBreakpoint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
