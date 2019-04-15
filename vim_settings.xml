@@ -319,12 +319,11 @@
         <mark key="." line="124" column="7" />
         <mark key="^" line="124" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" timestamp="1555295449093">
-        <mark key="'" line="129" column="10" />
-        <mark key="[" line="124" column="22" />
-        <mark key="]" line="124" column="22" />
-        <mark key="^" line="124" column="22" />
-        <mark key="." line="124" column="22" />
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" timestamp="1555300601760">
+        <mark key="'" line="143" column="10" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/repository/classify_repository.dart" timestamp="1555290548376">
         <mark key="[" line="3" column="33" />
@@ -404,6 +403,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/editable_text.dart" timestamp="1555300164847" />
       <file name="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" timestamp="1555054644368">
         <mark key="[" line="83" column="25" />
         <mark key="]" line="83" column="23" />
@@ -416,13 +416,12 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_bloc.dart" timestamp="1555295153074">
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_bloc.dart" timestamp="1555299173440">
         <mark key="'" line="20" column="40" />
-        <mark key="[" line="108" column="32" />
-        <mark key="]" line="108" column="32" />
-        <mark key="." line="108" column="32" />
-        <mark key="^" line="38" column="53" />
-        <mark key="o" line="104" column="2" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="o" line="105" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/model/remote/classified_tag.dart" timestamp="1555061776331">
         <mark key="'" line="18" column="8" />
@@ -603,40 +602,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciByZXNwb25zZSA9IGF3YWl0IF9kaW8uZ2V0KCIkX2Jhc2VVcmwvYXBpL3YxL3Bvc3RzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmxvYy5uZXdQb3N0QWN0aW9uU2luay5hZGQoUmVtb3ZlVGFnKHRhZykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5Ym9hcmRUeXBlOiBUZXh0SW5wdXRUeXBlLnRleHQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRocgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBrZXlibwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udHJvbGxlcjogdGFnRWRpdGluZ0NvbnRyb2xsZXIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udHJvbGxlcjogdGFnRWRpdGluZ0NvbnRyb2xsZXIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciB0YWdzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udHJvbGxlcjogdGFnRWRpdGluZ0NvbnRyb2xsZXIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4uaW5zZXJ0KDAsIF9idWlsZEF1dG9UYWcoY29udGV4dCwgYmxvYykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6IF90YWdTdWJqZWN0LnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFnRWRpdGluZ0NvbnRyb2xsZXIuY2xlYXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA/IF90YWdTdWJqZWN0LnZhbHVlLi5hZGQoX2F1dG9UYWdTdWJqZWN0LnZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0YWdzID0gX2F1dG9UYWdTdWJqZWN0LnZhbHVlICE9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5OiBLZXkoIlRhZ0lucHV0IiksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8/IFNldCgp</text>
+        <text>tag</text>
       </register>
     </registers>
     <search>
@@ -649,20 +648,20 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
-        <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action ParameterInfo</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
-        <entry>action Find</entry>
-        <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Find</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
