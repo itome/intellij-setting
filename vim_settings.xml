@@ -113,12 +113,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" timestamp="1555319527796">
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" timestamp="1555392385659">
         <mark key="'" line="10" column="36" />
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="32" />
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
         <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="32" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_sign_up.xml" timestamp="1554610801948">
         <mark key="[" line="16" column="6" />
@@ -337,11 +337,12 @@
         <mark key="^" line="131" column="38" />
         <mark key="." line="131" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/tag_remote_data_source.dart" timestamp="1555319561771">
-        <mark key="'" line="43" column="67" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="76" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/tag_remote_data_source.dart" timestamp="1555393250145">
+        <mark key="'" line="39" column="67" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/screen/LoginScreen.dart" timestamp="1554690063452">
         <mark key="[" line="16" column="29" />
@@ -380,19 +381,16 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" timestamp="1555319231821">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="66" column="33" />
-        <mark key="]" line="66" column="34" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="66" column="34" />
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" timestamp="1555393227073">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="66" column="51" />
+        <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" timestamp="1555390019173">
-        <mark key="'" line="26" column="18" />
-        <mark key="[" line="60" column="48" />
-        <mark key="]" line="60" column="54" />
-        <mark key="." line="60" column="54" />
-        <mark key="^" line="60" column="54" />
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" timestamp="1555394310304">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="62" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_plan_selector.xml" timestamp="1554610814018">
         <mark key="[" line="27" column="6" />
@@ -518,11 +516,11 @@
         <mark key="^" line="62" column="13" />
         <mark key="." line="62" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" timestamp="1555390102984">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" timestamp="1555393648293">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="54" column="9" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/onboarding/OnBoardingAction.kt" timestamp="1554616159099">
         <mark key="[" line="3" column="0" />
@@ -530,11 +528,11 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/tag_detail/tag_detail_bloc.dart" timestamp="1555318975558">
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/tag_detail/tag_detail_bloc.dart" timestamp="1555392423360">
         <mark key="'" line="12" column="2" />
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="58" column="9" />
-        <mark key="." line="58" column="9" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
         <mark key="^" line="58" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_action.dart" timestamp="1555293771300">
@@ -576,8 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="2" filename="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_bloc.dart" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_bloc.dart" />
       <jump line="28" column="23" filename="$USER_HOME$/Projects/teamj/android/app/build.gradle" />
       <jump line="63" column="60" filename="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" />
       <jump line="71" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" />
@@ -676,43 +672,45 @@
       <jump line="146" column="25" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" />
       <jump line="43" column="31" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" />
       <jump line="46" column="20" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
+      <jump line="27" column="4" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBibG9jLnRpbWVsaW5lQWN0aW9uU2luay5hZGQoRGVsZXRlUmVwb3N0KHBvc3QuaWQpKTsK</text>
+        <text encoding="base64">ICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZChGZXRjaEZpcnN0UGFnZShudWxsKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuLnNvcnQoKHAxLCBwMikgPT4gcDIuaWQgLSBwMS5pZCksCg==</text>
+        <text encoding="base64">ICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZChGZXRjaEZpcnN0UGFnZShudWxsKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9wb3N0U3ViamVjdC5hZGQoX3Bvc3RTdWJqZWN0LnZhbHVlPy5kZWxldGVSZXBvc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZChGZXRjaEZpcnN0UGFnZShudWxsKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBsaWtlZFBvc3QgPSBfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmxvYy50aW1lbGluZUFjdGlvblNpbmsuYWRkKEZldGNoRmlyc3RQYWdlKG51bGwpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9wb3N0U3ViamVjdC5hZGQoX3Bvc3RTdWJqZWN0LnZhbHVlPy5yZXBvc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBpbml0U3RhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpjbGFzcyBUaW1lbGluZUxpc3QgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogIH0KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBfcG9zdFN1YmplY3QuYWRkKF9wb3N0U3ViamVjdC52YWx1ZT8uY291bnRMaWtlVXAoY291bnQpKTsK</text>
+        <text encoding="base64">ICAgIGZpbmFsIGJsb2MgPSBCbG9jUHJvdmlkZXIub2Y8VGltZWxpbmVCbG9jPihjb250ZXh0KTsKICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZChGZXRjaEZpcnN0UGFnZShudWxsKSk7CiAgICByZXR1cm4gU3RyZWFtQnVpbGRlcjxMaXN0PFBvc3Q+PigKICAgICAgc3RyZWFtOiBibG9jLnBvc3RzU3RyZWFtLAogICAgICBidWlsZGVyOiAoY29udGV4dCwgc25hcHNob3QpIHsKICAgICAgICByZXR1cm4gUmVmcmVzaEluZGljYXRvcigKICAgICAgICAgIG9uUmVmcmVzaDogKCkgYXN5bmMgewogICAgICAgICAgICBibG9jLnRpbWVsaW5lQWN0aW9uU2luay5hZGQoRmV0Y2hGaXJzdFBhZ2UobnVsbCkpOwogICAgICAgICAgICBhd2FpdCBGdXR1cmUuZGVsYXllZChEdXJhdGlvbihzZWNvbmRzOiAxKSk7CiAgICAgICAgICB9LAogICAgICAgICAgY2hpbGQ6IExpc3RWaWV3LmJ1aWxkZXIoCiAgICAgICAgICAgIGl0ZW1Db3VudDogc25hcHNob3QuZGF0YT8ubGVuZ3RoID8/IDAsCiAgICAgICAgICAgIGl0ZW1CdWlsZGVyOiAoY29udGV4dCwgaW5kZXgpIHsKICAgICAgICAgICAgICByZXR1cm4gVGltZWxpbmVJdGVtKAogICAgICAgICAgICAgICAgc25hcHNob3QuZGF0YVtpbmRleF0sCiAgICAgICAgICAgICAgICAocG9zdCkgewogICAgICAgICAgICAgICAgICBOYXZpZ2F0b3IucHVzaCgKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LAogICAgICAgICAgICAgICAgICAgIE1hdGVyaWFsUGFnZVJvdXRlKAogICAgICAgICAgICAgICAgICAgICAgYnVpbGRlcjogKGNvbnRleHQpID0+IFBvc3REZXRhaWxTY3JlZW4ocG9zdC5pZCksCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAodXNlcikgewogICAgICAgICAgICAgICAgICBOYXZpZ2F0b3IucHVzaCgKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LAogICAgICAgICAgICAgICAgICAgIE1hdGVyaWFsUGFnZVJvdXRlKAogICAgICAgICAgICAgICAgICAgICAgYnVpbGRlcjogKGNvbnRleHQpID0+IFVzZXJEZXRhaWxTY3JlZW4odXNlci5pZCksCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAocG9zdCkgewogICAgICAgICAgICAgICAgICBibG9jLnRpbWVsaW5lQWN0aW9uU2luay5hZGQoU2VuZExpa2UocG9zdC5pZCwgMSkpOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIChwb3N0KSB7CiAgICAgICAgICAgICAgICAgIGlmIChwb3N0LmlzUmVwb3N0ZWQpIHsKICAgICAgICAgICAgICAgICAgICBibG9jLnRpbWVsaW5lQWN0aW9uU2luay5hZGQoRGVsZXRlUmVwb3N0KHBvc3QuaWQpKTsKICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBibG9jLnRpbWVsaW5lQWN0aW9uU2luay5hZGQoUmVwb3N0KHBvc3QuaWQpKTsKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICApOwogICAgICAgICAgICB9LAogICAgICAgICAgKSwKICAgICAgICApOwogICAgICB9LAogICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgX3Bvc3RzU3ViamVjdC52YWx1ZQogICAgICAgICAgLi5yZW1vdmVXaGVyZSgocG9zdCkgPT4gcG9zdC5pZCA9PSBwb3N0SWQpCiAgICAgICAgICAuLmFkZCgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb250YWluZXIoCiAgICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciAK</text>
+        <text encoding="base64">ICAKICBpbml0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>_string</text>
       </register>
     </registers>
     <search>
@@ -729,15 +727,15 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Find</entry>
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
