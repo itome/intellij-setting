@@ -325,37 +325,37 @@
         <text encoding="base64">ICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZChGZXRjaEZpcnN0UGFnZShudWxsKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmaXJlYmFzZV9hdXRoOiBeMC42LjYK</text>
+        <text encoding="base64">ICAgICAgYXV0aFRva2VuOiAKICAgICAgYXV0aFRva2VuU2VjcmV0OiAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQXV0aENyZWRlbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaXJlYmFzZV9hdXRoOiBeMC42LjYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZChGZXRjaEZpcnN0UGFnZShudWxsKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZChGZXRjaEZpcnN0UGFnZShudWxsKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmxvYy50aW1lbGluZUFjdGlvblNpbmsuYWRkKEZldGNoRmlyc3RQYWdlKG51bGwpKTsK</text>
+        <text encoding="base64">ICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZChGZXRjaEZpcnN0UGFnZShudWxsKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>teamj</text>
+        <text>auth</text>
       </register>
     </registers>
     <search>
@@ -371,17 +371,17 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
