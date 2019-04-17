@@ -758,7 +758,7 @@
         <text encoding="base64">ICBmaW5hbCBfZGlvID0gRGlvKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>_dio</text>
@@ -782,12 +782,12 @@
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
