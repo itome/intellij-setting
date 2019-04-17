@@ -11,14 +11,20 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name=":" type="4">
+        <text>action ActivateProjectToolWindow</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>action ActivateProjectToolWindow</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
