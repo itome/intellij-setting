@@ -123,11 +123,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" timestamp="1555400174428">
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="32" column="67" />
-        <mark key="." line="32" column="67" />
-        <mark key="^" line="32" column="67" />
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" timestamp="1555467802611">
+        <mark key="'" line="191" column="0" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" timestamp="1555405090930">
         <mark key="'" line="3" column="15" />
@@ -337,12 +337,12 @@
         <mark key="." line="82" column="49" />
         <mark key="^" line="82" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" timestamp="1555405761936">
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" timestamp="1555465203932">
         <mark key="'" line="11" column="67" />
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="73" />
-        <mark key="." line="16" column="73" />
-        <mark key="^" line="16" column="73" />
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="69" />
+        <mark key="." line="10" column="69" />
+        <mark key="^" line="10" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/onboarding/page/OnBoardingPage2Fragment.kt" timestamp="1554617615212">
         <mark key="[" line="27" column="46" />
@@ -389,11 +389,11 @@
         <mark key="." line="121" column="35" />
         <mark key="^" line="121" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/main.dart" timestamp="1555382347363">
-        <mark key="'" line="69" column="6" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/teamj/lib/main.dart" timestamp="1555465430464">
+        <mark key="'" line="48" column="6" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/android/app/build.gradle" timestamp="1555396798196">
         <mark key="[" line="42" column="26" />
@@ -408,7 +408,7 @@
         <mark key="." line="78" column="22" />
         <mark key="^" line="78" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" timestamp="1555307540998">
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" timestamp="1555465569266">
         <mark key="'" line="62" column="2" />
         <mark key="[" line="23" column="71" />
         <mark key="]" line="23" column="71" />
@@ -544,11 +544,17 @@
         <mark key="." line="50" column="3" />
         <mark key="^" line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" timestamp="1555463389232">
-        <mark key="[" line="60" column="56" />
-        <mark key="]" line="60" column="55" />
-        <mark key="." line="60" column="55" />
-        <mark key="^" line="60" column="55" />
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" timestamp="1555465869674">
+        <mark key="'" line="13" column="51" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="65" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" timestamp="1555464708323">
+        <mark key="[" line="68" column="57" />
+        <mark key="]" line="68" column="57" />
+        <mark key="^" line="68" column="60" />
+        <mark key="." line="68" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/component/image_pager.dart" timestamp="1554876575020">
         <mark key="[" line="4" column="8" />
@@ -625,12 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="29" filename="$USER_HOME$/Projects/teamj/lib/model/remote/classified_tag.dart" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/teamj/lib/model/remote/classified_tag.dart" />
-      <jump line="8" column="4" filename="$USER_HOME$/Projects/teamj/lib/model/remote/classified_tag.dart" />
-      <jump line="14" column="8" filename="$USER_HOME$/Projects/teamj/lib/model/remote/classified_tag.dart" />
-      <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_action.dart" />
-      <jump line="19" column="40" filename="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_bloc.dart" />
       <jump line="21" column="52" filename="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_bloc.dart" />
       <jump line="35" column="36" filename="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" />
@@ -725,43 +725,49 @@
       <jump line="23" column="40" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
       <jump line="52" column="7" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
       <jump line="35" column="25" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
+      <jump line="25" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
+      <jump line="16" column="2" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
+      <jump line="13" column="51" filename="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" />
+      <jump line="33" column="23" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
+      <jump line="127" column="12" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
+      <jump line="185" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmxvYy5mYXZvcml0ZVRhZ0FjdGlvblNpbmsuYWRkKEZvbGxvdyh0YWcpKTsK</text>
+        <text encoding="base64">ICAgICAgX2xvZ2luRXZlbnRTdWJqZWN0LmFkZCh1c2VyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgIE5hdmlnYXRvci5wb3AoY29udGV4dCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFdyYXAoCiAgICAgICAgICAgICAgICAgICAgICAgIGNoaWxkcmVuOiBUYWcuZGVmYXVsdFRhZ3MubWFwKAogICAgICAgICAgICAgICAgICAgICAgICAgICh0YWcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBDb250YWluZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjogY29uc3QgRWRnZUluc2V0cy5vbmx5KGxlZnQ6IDgsIHJpZ2h0OiA4KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IEZpbHRlckNoaXAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw6IFRleHQodGFnLm5hbWUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdGVkOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzbmFwc2hvdC5kYXRhLmFueSgodCkgPT4gdC5pZCA9PSB0YWcuaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uU2VsZWN0ZWQ6IChib29sIHZhbHVlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAodmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmxvYy5mYXZvcml0ZVRhZ0FjdGlvblNpbmsuYWRkKEZvbGxvdyh0YWcpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJsb2MuZmF2b3JpdGVUYWdBY3Rpb25TaW5rCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkKFVuZm9sbG93KHRhZykpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICkudG9MaXN0KCksCiAgICAgICAgICAgICAgICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgRnV0dXJlLmRlbGF5ZWQoRHVyYXRpb24oc2Vjb25kczogMSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFdyYXAoCiAgICAgICAgICAgICAgICAgICAgICAgIGNoaWxkcmVuOiBUYWcuZGVmYXVsdFRhZ3MubWFwKAogICAgICAgICAgICAgICAgICAgICAgICAgICh0YWcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBDb250YWluZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjogY29uc3QgRWRnZUluc2V0cy5vbmx5KGxlZnQ6IDgsIHJpZ2h0OiA4KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IEZpbHRlckNoaXAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw6IFRleHQodGFnLm5hbWUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdGVkOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzbmFwc2hvdC5kYXRhLmFueSgodCkgPT4gdC5pZCA9PSB0YWcuaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uU2VsZWN0ZWQ6IChib29sIHZhbHVlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAodmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmxvYy5mYXZvcml0ZVRhZ0FjdGlvblNpbmsuYWRkKEZvbGxvdyh0YWcpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJsb2MuZmF2b3JpdGVUYWdBY3Rpb25TaW5rCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkKFVuZm9sbG93KHRhZykpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgYXdhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2b2lkCg==</text>
+        <text encoding="base64">ICAgICAgTmF2aWdhdG9yLnB1c2hOYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBkaXNwb3NlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gR3JpZFZpZXcuY291bnQoCiAgICAgICAgICAgICAgICBjcm9zc0F4aXNDb3VudDogMiwKICAgICAgICAgICAgICAgIGNoaWxkQXNwZWN0UmF0aW86IDQsCiAgICAgICAgICAgICAgICBjaGlsZHJlbjogLAogICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICBDb20K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">VGFnLmRlZmF1bHRUYWdzLm1hcCgKICAgICAgICAgICAgICAgICAgKHRhZykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBQYWRkaW5nKAogICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogY29uc3QgRWRnZUluc2V0cy5vbmx5KGxlZnQ6IDE2LCByaWdodDogMTYpLAogICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IEFsaWduKAogICAgICAgICAgICAgICAgICAgICAgICBhbGlnbm1lbnQ6IEFsaWdubWVudC5jZW50ZXJMZWZ0LAogICAgICAgICAgICAgICAgICAgICAgICBjaGlsZDogRmlsdGVyQ2hpcCgKICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbDogVGV4dCh0YWcubmFtZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWQ6IHNuYXBzaG90LmRhdGEuYW55KCh0KSA9PiB0LmlkID09IHRhZy5pZCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgb25TZWxlY3RlZDogKGJvb2wgdmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh2YWx1ZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBibG9jLmZhdm9yaXRlVGFnQWN0aW9uU2luay5hZGQoRm9sbG93KHRhZykpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmxvYy5mYXZvcml0ZVRhZ0FjdGlvblNpbmsuYWRkKFVuZm9sbG93KHRhZykpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICApLnRvTGlzdCgp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgTmF2aWdhdG9yLnB1c2goCiAgICAgICAgY29udGV4dCwKICAgICAgICBNYXRlcmlhbFBhZ2VSb3V0ZShidWlsZGVyOiAoY29udGV4dCkgPT4gRmF2b3JpdGVUYWdTY3JlZW4oKSksCiAgICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJsb2MuZmF2b3JpdGVUYWdBY3Rpb25TaW5rLmFkZChGb2xsb3codGFnKSk7Cg==</text>
+        <text encoding="base64">ICAKICBTdHJlYW08VXNlcj4gZ2V0IGxvZ2luRXZlbnRTdHJlYW0gPT4gX2xvZ2luRXZlbnRTdWJqZWN0LnN0cmVhbTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkOgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdXNlciA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>tags</text>
+        <text>loadingBloc</text>
       </register>
     </registers>
     <search>
@@ -779,15 +785,15 @@
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
