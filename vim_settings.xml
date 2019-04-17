@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/api_client.dart" timestamp="1555483620714">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="29" />
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/api_client.dart" timestamp="1555487673783">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/splash/SplashStore.kt" timestamp="1554615431437">
         <mark key="[" line="16" column="0" />
@@ -174,6 +173,7 @@
         <mark key="^" line="123" column="56" />
         <mark key="." line="123" column="70" />
       </file>
+      <file name="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/dio-2.1.2/lib/src/interceptors/log.dart" timestamp="1555487678891" />
       <file name="$USER_HOME$/Projects/teamj/lib/domain/notification/in_app_notification.dart" timestamp="1555305557497">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="15" column="18" />
@@ -461,6 +461,7 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/navigator.dart" timestamp="1555306054118" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/res/layout/activity_on_boarding.xml" timestamp="1554475502251">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="32" column="47" />
@@ -558,6 +559,7 @@
         <mark key="." line="41" column="59" />
         <mark key="^" line="41" column="59" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/editable_text.dart" timestamp="1555300164847" />
       <file name="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" timestamp="1555464708323">
         <mark key="[" line="68" column="57" />
         <mark key="]" line="68" column="57" />
@@ -728,7 +730,7 @@
         <text encoding="base64">ICAgIHZhciBmaXJlYmFzZVVzZXIgPSBhd2FpdCBGaXJlYmFzZUF1dGguaW5zdGFuY2UuY3VycmVudFVzZXIoKTsKICAgIHZhciBpZFRva2VuID0gYXdhaXQgZmlyZWJhc2VVc2VyLmdldElkVG9rZW4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmaW5hbCBfZGlvID0gQXBpQ2xpZW50LmNsaWVudDsK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBmaW5hbCBfZGlvID0gQXBpQ2xpZW50LmNsaWVudDsK</text>
@@ -743,19 +745,19 @@
         <text encoding="base64">ICBmaW5hbCBfZGlvID0gQXBpQ2xpZW50LmNsaWVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4uaW50ZXJjZXB0b3JzLmFkZCgKICAgICAgTG9nSW50ZXJjZXB0b3IoCiAgICAgICAgcmVxdWVzdEJvZHk6IHRydWUsCiAgICAgICAgcmVzcG9uc2VCb2R5OiB0cnVlLAogICAgICApLAogICAgKTsK</text>
+        <text encoding="base64">ICBmaW5hbCBfZGlvID0gQXBpQ2xpZW50LmNsaWVudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC4uaW50ZXJjZXB0b3JzLmFkZCgKICAgICAgTG9nSW50ZXJjZXB0b3IoCiAgICAgICAgcmVxdWVzdEJvZHk6IHRydWUsCiAgICAgICAgcmVzcG9uc2VCb2R5OiB0cnVlLAogICAgICApLAogICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEh0dHBIZWFkZXJzLmNvbnRlbnRUeXBlSGVhZGVyOiAiYXBwbGljYXRpb24vanNvbiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmaW5hbCBfZGlvID0gRGlvKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEh0dHBIZWFkZXJzLmNvbnRlbnRUeXBlSGVhZGVyOiAiYXBwbGljYXRpb24vanNvbiIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>ApiClient.client;</text>
@@ -778,13 +780,13 @@
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
