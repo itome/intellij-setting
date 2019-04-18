@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/api_client.dart" timestamp="1555570716152">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/splash/SplashStore.kt" timestamp="1554615431437">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="31" />
@@ -52,6 +58,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="68" column="29" />
+      </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/material/tab_controller.dart" timestamp="1555570900367">
+        <mark key="[" line="109" column="26" />
+        <mark key="]" line="109" column="25" />
+        <mark key="^" line="109" column="25" />
+        <mark key="." line="109" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/test/widget_test.dart" timestamp="1554686010371">
         <mark key="[" line="15" column="28" />
@@ -361,12 +373,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" timestamp="1555551299914">
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" timestamp="1555569491312">
         <mark key="'" line="11" column="67" />
-        <mark key="[" line="18" column="58" />
-        <mark key="]" line="18" column="62" />
-        <mark key="." line="18" column="62" />
-        <mark key="^" line="18" column="62" />
+        <mark key="[" line="50" column="24" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
+        <mark key="^" line="50" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/onboarding/page/OnBoardingPage2Fragment.kt" timestamp="1554617615212">
         <mark key="[" line="27" column="46" />
@@ -386,6 +398,12 @@
         <mark key="]" line="27" column="10" />
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" timestamp="1555569516433">
+        <mark key="[" line="53" column="61" />
+        <mark key="]" line="53" column="61" />
+        <mark key="^" line="53" column="61" />
+        <mark key="." line="53" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/mypagefanclub/MyPageFanclubActivity.kt" timestamp="1554472625465">
         <mark key="[" line="130" column="41" />
@@ -425,11 +443,12 @@
         <mark key="." line="78" column="22" />
         <mark key="^" line="78" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" timestamp="1555552848511">
-        <mark key="[" line="85" column="69" />
-        <mark key="]" line="85" column="72" />
-        <mark key="^" line="85" column="72" />
-        <mark key="." line="85" column="72" />
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" timestamp="1555571400499">
+        <mark key="'" line="51" column="10" />
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="54" column="43" />
+        <mark key="." line="54" column="43" />
+        <mark key="^" line="54" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/pubspec.yaml" timestamp="1555476684539">
         <mark key="[" line="31" column="3" />
@@ -611,6 +630,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="38" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/material/tabs.dart" timestamp="1555571421959" />
       <file name="$USER_HOME$/Projects/chip/chip_android/chip/src/main/java/com/rinacita/chip/ui/loginbottomsheet/LoginBottomSheetActivity.kt" timestamp="1554626679711">
         <mark key="[" line="51" column="74" />
         <mark key="]" line="51" column="78" />
@@ -645,7 +665,6 @@
       <file name="$USER_HOME$/Projects/teamj/lib/bloc/bloc_provider.dart" timestamp="1555563354951" />
     </filemarks>
     <jumps>
-      <jump line="7" column="47" filename="$USER_HOME$/Projects/teamj/lib/domain/tag_detail/tag_detail_bloc.dart" />
       <jump line="9" column="59" filename="$USER_HOME$/Projects/teamj/lib/domain/tag_detail/tag_detail_bloc.dart" />
       <jump line="3" column="32" filename="$USER_HOME$/Projects/teamj/lib/view/screen/tag_detail_screen.dart" />
       <jump line="15" column="37" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/tag_remote_data_source.dart" />
@@ -745,43 +764,44 @@
       <jump line="115" column="69" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
       <jump line="39" column="25" filename="$USER_HOME$/Projects/teamj/lib/repository/post_repository.dart" />
       <jump line="37" column="31" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
+      <jump line="51" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciByZXNwb25zZSA9IGF3YWl0IF9kaW8uZ2V0KAogICAgICAiJF9iYXNlVXJsL2FwaS92MS91c2Vycy8kdXNlcklkL3RpbWVsaW5lIiwKICAgICAgb3B0aW9uczogT3B0aW9ucygKICAgICAgICBoZWFkZXJzOiB7SHR0cEhlYWRlcnMuYXV0aG9yaXphdGlvbkhlYWRlcjogIkJlYXJlciAke3Rva2VuID8/ICIifSJ9LAogICAgICApLAogICAgKTsKICAgIHJldHVybiAocmVzcG9uc2UuZGF0YSBhcyBMaXN0KS5tYXAoKHBvc3QpID0+IFBvc3QuZnJvbUpzb24ocG9zdCkpLnRvTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbml0aWFsRGF0YTogW10sCiAgICAgICAgICAgICAgc3RyZWFtOiBmYXZvcml0ZVRhZ0Jsb2MuZmF2b3JpdGVUYWdzU3RyZWFtLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCB0YWdJZCwK</text>
+        <text encoding="base64">ICAgIC4uaW50ZXJjZXB0b3JzLmFkZCgKICAgICAgTG9nSW50ZXJjZXB0b3IoCiAgICAgICAgcmVxdWVzdEJvZHk6IHRydWUsCiAgICAgICAgcmVzcG9uc2VCb2R5OiB0cnVlLAogICAgICApLAogICAgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnRvTGlzdCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IFN0cmVhbUJ1aWxkZXI8TGlzdDxUYWc+PigKICAgICAgICAgICAgICBpbml0aWFsRGF0YTogW10sCiAgICAgICAgICAgICAgc3RyZWFtOiBmYXZvcml0ZVRhZ0Jsb2MuZmF2b3JpdGVUYWdzU3RyZWFtLAogICAgICAgICAgICAgIGJ1aWxkZXI6IChjb250ZXh0LCBzbmFwc2hvdCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgVGltZWxpbmVTY3JlZW4gZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkge30KfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTdHJlYW1CdWlsZGVyPExpc3Q8UG9zdD4+KAogICAgICBzdHJlYW06IGJsb2MucG9zdHNTdHJlYW0sCiAgICAgIGJ1aWxkZXI6IChjb250ZXh0LCBzbmFwc2hvdCkgewogICAgICAgIHJldHVybiBSZWZyZXNoSW5kaWNhdG9yKAogICAgICAgICAgb25SZWZyZXNoOiAoKSBhc3luYyB7CiAgICAgICAgICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZChGZXRjaEZpcnN0UGFnZShudWxsKSk7CiAgICAgICAgICAgIGF3YWl0IEZ1dHVyZS5kZWxheWVkKER1cmF0aW9uKHNlY29uZHM6IDEpKTsKICAgICAgICAgIH0sCiAgICAgICAgICBjaGlsZDogTGlzdFZpZXcuYnVpbGRlcigKICAgICAgICAgICAgaXRlbUNvdW50OiBzbmFwc2hvdC5kYXRhPy5sZW5ndGggPz8gMCwKICAgICAgICAgICAgaXRlbUJ1aWxkZXI6IChjb250ZXh0LCBpbmRleCkgewogICAgICAgICAgICAgIHJldHVybiBUaW1lbGluZUl0ZW0oCiAgICAgICAgICAgICAgICBzbmFwc2hvdC5kYXRhW2luZGV4XSwKICAgICAgICAgICAgICAgIChwb3N0KSBhc3luYyB7CiAgICAgICAgICAgICAgICAgIExpc3Q8VHVwbGUyPGludCwgaW50Pj4gcmVzdWx0ID0gYXdhaXQgTmF2aWdhdG9yLnB1c2goCiAgICAgICAgICAgICAgICAgICAgY29udGV4dCwKICAgICAgICAgICAgICAgICAgICBNYXRlcmlhbFBhZ2VSb3V0ZSgKICAgICAgICAgICAgICAgICAgICAgIGJ1aWxkZXI6IChjb250ZXh0KSA9PiBQb3N0RGV0YWlsU2NyZWVuKHBvc3QuaWQpLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgIHJlc3VsdC5mb3JFYWNoKCh0dXBsZSkgewogICAgICAgICAgICAgICAgICAgIGJsb2MudGltZWxpbmVBY3Rpb25TaW5rLmFkZCgKICAgICAgICAgICAgICAgICAgICAgIEFkZExpa2UodHVwbGUuaXRlbTEsIHR1cGxlLml0ZW0yKSwKICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAodXNlcikgewogICAgICAgICAgICAgICAgICBOYXZpZ2F0b3IucHVzaCgKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LAogICAgICAgICAgICAgICAgICAgIE1hdGVyaWFsUGFnZVJvdXRlKAogICAgICAgICAgICAgICAgICAgICAgYnVpbGRlcjogKGNvbnRleHQpID0+IFVzZXJEZXRhaWxTY3JlZW4odXNlci5pZCksCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAocG9zdCkgewogICAgICAgICAgICAgICAgICBibG9jLnRpbWVsaW5lQWN0aW9uU2luay5hZGQoU2VuZExpa2UocG9zdC5pZCwgMSkpOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIChwb3N0KSB7CiAgICAgICAgICAgICAgICAgIGlmIChwb3N0LmlzUmVwb3N0ZWQpIHsKICAgICAgICAgICAgICAgICAgICBibG9jLnRpbWVsaW5lQWN0aW9uU2luay5hZGQoRGVsZXRlUmVwb3N0KHBvc3QuaWQpKTsKICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBibG9jLnRpbWVsaW5lQWN0aW9uU2luay5hZGQoUmVwb3N0KHBvc3QuaWQpKTsKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICApOwogICAgICAgICAgICB9LAogICAgICAgICAgKSwKICAgICAgICApOwogICAgICB9LAogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICB9LAogICAgICApLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGJsb2MgPSBCbG9jUHJvdmlkZXIub2Y8VGltZWxpbmVCbG9jPihjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGQ6IFRpbWVsaW5lTGlzdCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IFN0cmVhbUJ1aWxkZXI8TGlzdDxUYWc+PigKICAgICAgICAgICAgICBpbml0aWFsRGF0YTogW10sCiAgICAgICAgICAgICAgc3RyZWFtOiBmYXZvcml0ZVRhZ0Jsb2MuZmF2b3JpdGVUYWdzU3RyZWFtLAogICAgICAgICAgICAgIGJ1aWxkZXI6IChjb250ZXh0LCBzbmFwc2hvdCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBCbG9jUHJvdmlkZXI8VGltZWxpbmVCbG9jPigKICAgICAgY3JlYXRvcjogKGNvbnRleHQsIF9iYWcpID0+IFRpbWVsaW5lQmxvYygpLAogICAgICBjaGlsZDogVGltZWxpbmVMaXN0KCksCiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGJsb2MgPSBCbG9jUHJvdmlkZXIub2Y8VGltZWxpbmVCbG9jPihjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAogICAgICAgICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IFN0cmVhbUJ1aWxkZXI8TGlzdDxUYWc+PigKICAgICAgICAgICAgICBpbml0aWFsRGF0YTogW10sCiAgICAgICAgICAgICAgc3RyZWFtOiBmYXZvcml0ZVRhZ0Jsb2MuZmF2b3JpdGVUYWdzU3RyZWFtLAogICAgICAgICAgICAgIGJ1aWxkZXI6IChjb250ZXh0LCBzbmFwc2hvdCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
-        <text>timwe</text>
+        <text>100</text>
       </register>
     </registers>
     <search>
@@ -799,16 +819,16 @@
         <entry>action GotoImplementation</entry>
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>action FindUsages</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoSuperMethod</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
