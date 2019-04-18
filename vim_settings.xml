@@ -405,7 +405,7 @@
         <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/main.dart" timestamp="1555549870302">
+      <file name="$USER_HOME$/Projects/teamj/lib/main.dart" timestamp="1555562975466">
         <mark key="'" line="52" column="6" />
         <mark key="[" line="25" column="45" />
         <mark key="]" line="26" column="54" />
@@ -642,6 +642,7 @@
         <mark key="^" line="34" column="3" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/bloc/bloc_provider.dart" timestamp="1555563354951" />
     </filemarks>
     <jumps>
       <jump line="7" column="47" filename="$USER_HOME$/Projects/teamj/lib/domain/tag_detail/tag_detail_bloc.dart" />
@@ -777,7 +778,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>timwe</text>
@@ -796,7 +797,6 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
@@ -808,6 +808,7 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
