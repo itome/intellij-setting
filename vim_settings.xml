@@ -3,8 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/api_client.dart" timestamp="1555575814745">
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/api_client.dart" timestamp="1555636488819">
         <mark key="^" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/classsify_remote_data_source.dart" timestamp="1555483895954">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/screen/users_screen.dart" timestamp="1555480098461">
         <mark key="'" line="19" column="7" />
@@ -19,107 +25,6 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" timestamp="1555578854284">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/ui/productdetail/ProductDetailFragment.kt" timestamp="1555403905941">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/material/tab_controller.dart" timestamp="1555576940793">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/bloc/bloc.dart" timestamp="1555573579377">
-        <mark key="'" line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/tag.dart" timestamp="1555401289347">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="39" column="23" />
-        <mark key="^" line="33" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/tag_chips.dart" timestamp="1555316565460">
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="15" />
-        <mark key="^" line="22" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" timestamp="1555479998019">
-        <mark key="'" line="216" column="0" />
-        <mark key="[" line="103" column="65" />
-        <mark key="]" line="103" column="73" />
-        <mark key="." line="103" column="73" />
-        <mark key="^" line="103" column="73" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/timeline.dart" timestamp="1555577402226">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" timestamp="1555491685741">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="44" />
-        <mark key="^" line="6" column="33" />
-        <mark key="." line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/dio-2.1.2/lib/src/interceptors/log.dart" timestamp="1555487678891" />
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/tag_detail/tag_detail_action.dart" timestamp="1555550385166">
-        <mark key="'" line="11" column="22" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/users/users_bloc.dart" timestamp="1555477990851">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-      </file>
-      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream.dart" timestamp="1555551249897" />
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_action.dart" timestamp="1555549087590">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/config.dart" timestamp="1555577336953">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="72" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" timestamp="1555307969466">
-        <mark key="'" line="68" column="1" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="38" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" timestamp="1555479340269">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="171" column="3" />
-        <mark key="^" line="128" column="46" />
-        <mark key="." line="128" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/classsify_remote_data_source.dart" timestamp="1555483895954">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/post_repository.dart" timestamp="1555578381975" />
       <file name="$USER_HOME$/Projects/teamj/lib/domain/user/user_action.dart" timestamp="1555310057309">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="29" column="24" />
@@ -132,6 +37,18 @@
         <mark key="]" line="4" column="41" />
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" timestamp="1555578854284">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/ui/productdetail/ProductDetailFragment.kt" timestamp="1555403905941">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_action.dart" timestamp="1555405489454">
         <mark key="[" line="15" column="16" />
@@ -159,11 +76,25 @@
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/material/tab_controller.dart" timestamp="1555576940793">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" timestamp="1555579277783">
         <mark key="[" line="76" column="43" />
         <mark key="]" line="76" column="49" />
         <mark key="^" line="76" column="49" />
         <mark key="." line="76" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/bloc/bloc.dart" timestamp="1555573579377">
+        <mark key="'" line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/tag.dart" timestamp="1555401289347">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/main.dart" timestamp="1555562975466">
         <mark key="'" line="52" column="6" />
@@ -172,11 +103,24 @@
         <mark key="^" line="26" column="54" />
         <mark key="." line="26" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/tag_chips.dart" timestamp="1555316565460">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/android/app/build.gradle" timestamp="1555396798196">
         <mark key="[" line="42" column="26" />
         <mark key="]" line="42" column="27" />
         <mark key="." line="42" column="27" />
         <mark key="^" line="28" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" timestamp="1555479998019">
+        <mark key="'" line="216" column="0" />
+        <mark key="[" line="103" column="65" />
+        <mark key="]" line="103" column="73" />
+        <mark key="." line="103" column="73" />
+        <mark key="^" line="103" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" timestamp="1555577916692">
         <mark key="'" line="75" column="17" />
@@ -192,11 +136,18 @@
         <mark key="." line="87" column="70" />
         <mark key="^" line="87" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/pubspec.yaml" timestamp="1555476684539">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="31" column="1" />
-        <mark key="." line="31" column="1" />
+      <file name="$USER_HOME$/Projects/teamj/pubspec.yaml" timestamp="1555636023520">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="17" />
         <mark key="^" line="31" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/timeline.dart" timestamp="1555577402226">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" timestamp="1555485916110">
         <mark key="'" line="91" column="0" />
@@ -205,10 +156,18 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" timestamp="1555576861175">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" timestamp="1555491685741">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" timestamp="1555579942383">
+        <mark key="[" line="45" column="59" />
+        <mark key="]" line="46" column="79" />
+        <mark key="." line="46" column="79" />
+        <mark key="^" line="46" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_bloc.dart" timestamp="1555549039723">
         <mark key="'" line="11" column="52" />
@@ -217,7 +176,31 @@
         <mark key="^" line="13" column="79" />
         <mark key="." line="13" column="79" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/navigator.dart" timestamp="1555306054118" />
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/tag_detail/tag_detail_action.dart" timestamp="1555550385166">
+        <mark key="'" line="11" column="22" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/users/users_bloc.dart" timestamp="1555477990851">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_action.dart" timestamp="1555549087590">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/config.dart" timestamp="1555635682542">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/lib/repository/user_repository.dart" timestamp="1555477841760">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -230,11 +213,25 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="24" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" timestamp="1555307969466">
+        <mark key="'" line="68" column="1" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="38" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/android/keystore/release.gradle" timestamp="1555396560491">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" timestamp="1555479340269">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="171" column="3" />
+        <mark key="^" line="128" column="46" />
+        <mark key="." line="128" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/component/banner_notification.dart" timestamp="1555473762497">
         <mark key="[" line="22" column="40" />
@@ -249,7 +246,6 @@
         <mark key="." line="41" column="59" />
         <mark key="^" line="41" column="59" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/editable_text.dart" timestamp="1555300164847" />
       <file name="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" timestamp="1555465869674">
         <mark key="'" line="13" column="51" />
         <mark key="[" line="20" column="0" />
@@ -287,7 +283,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/material/tabs.dart" timestamp="1555571421959" />
       <file name="$USER_HOME$/Projects/teamj/lib/domain/post/post_action.dart" timestamp="1555377382290">
         <mark key="'" line="15" column="30" />
         <mark key="[" line="22" column="19" />
@@ -406,40 +401,40 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">Li5zb3J0KChwMSwgcDIpID0+IHAyLmlkIC0gcDEuaWQpKQ==</text>
+        <text>c0d5541</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2FkTW9yZSgpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">YXdhaXQgX3Bvc3RSZXBvc2l0b3J5LmdldFRpbWVsaW5lKAogICAgICBpZFRva2VuLAogICAgICBmaXJlYmFzZVVzZXI/LnVpZCwKICAgICAgdGltZWxpbmUsCiAgICAgIF9wb3N0c1N1YmplY3QudmFsdWUuaXNOb3RFbXB0eQogICAgICAgICAgPyAoX3Bvc3RzU3ViamVjdC52YWx1ZS4uc29ydCgocDEsIHAyKSA9PiBwMi5pZCAtIHAxLmlkKSkKICAgICAgICAgICAgICAubGFzdAogICAgICAgICAgICAgIC5jcmVhdGVkQXQKICAgICAgICAgIDogbnVsbCwKICAgICk=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIF9wb3N0c1N1YmplY3QudmFsdWUuCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIF9wb3N0c1N1YmplY3QK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIDogbnVsbCwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIF9wb3N0c1N1YmplY3QudmFsdWUuaXNOb3RFbXB0eQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIF9wb3N0c1N1YmplY3QudmFsdWUuaXNOb3RFbXB0eQogICAgICAgICAgPyAoX3Bvc3RzU3ViamVjdC52YWx1ZS4uc29ydCgocDEsIHAyKSA9PiBwMi5pZCAtIHAxLmlkKSkpCiAgICAgICAgICA6IG51bGwsCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBfcG9zdHNTdWJqZWN0LnZhbHVlLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>^0.8.4</text>
       </register>
     </registers>
     <search>
@@ -460,13 +455,13 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
