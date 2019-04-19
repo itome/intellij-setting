@@ -102,6 +102,9 @@
       <file name="$USER_HOME$/Projects/teamj/lib/bloc/bloc.dart" timestamp="1555573579377">
         <mark key="'" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/teamj/assets/heart.flr" timestamp="1555655729040">
+        <mark key="'" line="58" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/lib/model/remote/tag.dart" timestamp="1555401289347">
         <mark key="[" line="39" column="23" />
         <mark key="]" line="39" column="26" />
@@ -277,8 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="31" filename="$USER_HOME$/Projects/teamj/lib/view/screen/tag_detail_screen.dart" />
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/tag_detail_screen.dart" />
       <jump line="42" column="11" filename="$USER_HOME$/Projects/teamj/lib/view/screen/tag_detail_screen.dart" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/tag_detail_screen.dart" />
       <jump line="31" column="35" filename="$USER_HOME$/Projects/teamj/lib/view/screen/tag_detail_screen.dart" />
@@ -377,6 +378,8 @@
       <jump line="153" column="53" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
       <jump line="93" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
       <jump line="165" column="42" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="1364" column="28" filename="$USER_HOME$/Projects/teamj/assets/heart.flr" />
+      <jump line="58" column="16" filename="$USER_HOME$/Projects/teamj/assets/heart.flr" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -410,7 +413,7 @@
         <text encoding="base64">ICAgIEYK</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>ANIMATING</text>
@@ -435,12 +438,12 @@
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
