@@ -48,14 +48,10 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" timestamp="1555651645319">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/fremo-android/app/src/main/java/life/fremo/android/ui/productdetail/ProductDetailFragment.kt" timestamp="1555403905941">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" timestamp="1555664425366">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="31" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_action.dart" timestamp="1555405489454">
         <mark key="[" line="15" column="16" />
@@ -89,11 +85,6 @@
         <mark key="]" line="51" column="63" />
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
-      </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/material/tab_controller.dart" timestamp="1555576940793">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" timestamp="1555579277783">
         <mark key="[" line="76" column="43" />
@@ -188,6 +179,12 @@
         <mark key="^" line="13" column="79" />
         <mark key="." line="13" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_action.dart" timestamp="1555664088512">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/lib/domain/users/users_bloc.dart" timestamp="1555477990851">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="21" column="12" />
@@ -208,10 +205,11 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/user_repository.dart" timestamp="1555477841760">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" timestamp="1555665327091">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/core/duration.dart" timestamp="1555649614994" />
       <file name="$USER_HOME$/Projects/teamj/lib/repository/mock/user_mock_data_source.dart" timestamp="1555308522012">
@@ -234,12 +232,25 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_bloc.dart" timestamp="1555664258727">
+        <mark key="'" line="6" column="63" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="6" />
+        <mark key="^" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" timestamp="1555637608402">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="100" column="49" />
         <mark key="]" line="100" column="49" />
         <mark key="^" line="100" column="49" />
         <mark key="." line="100" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/model/easter_egg.dart" timestamp="1555664000840">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/teamj/lib/view/component/banner_notification.dart" timestamp="1555473762497">
         <mark key="[" line="22" column="40" />
@@ -282,15 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/tag_remote_data_source.dart" />
-      <jump line="43" column="67" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/tag_remote_data_source.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
-      <jump line="0" column="39" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_action.dart" />
-      <jump line="25" column="35" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
-      <jump line="54" column="2" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
-      <jump line="80" column="3" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
       <jump line="15" column="30" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_action.dart" />
       <jump line="28" column="6" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
@@ -382,43 +384,52 @@
       <jump line="161" column="42" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
       <jump line="42" column="59" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
       <jump line="43" column="31" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="11" column="24" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
+      <jump line="3" column="31" filename="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_bloc.dart" />
+      <jump line="5" column="63" filename="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_bloc.dart" />
+      <jump line="3" column="33" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
+      <jump line="21" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
+      <jump line="13" column="2" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>150 - (_likeCount.value * 2)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBTdHJlYW1CdWlsZGVyPGJvb2w+KAogICAgICBpbml0aWFsRGF0YTogZmFsc2UsCiAgICAgIHN0cmVhbTogYmxvYy5sb2FkaW5nU3RyZWFtLAogICAgICBidWlsZGVyOiAoY29udGV4dCwgc25hcHNob3QpIHsKICAgICAgICByZXR1cm4gVmlzaWJpbGl0eSgKICAgICAgICAgIHZpc2libGU6IHNuYXBzaG90LmRhdGEsCiAgICAgICAgICBjaGlsZDogQ29udGFpbmVyKAogICAgICAgICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKGNvbG9yOiBVSUNvbG9yLmJsYWNrNTApLAogICAgICAgICAgICBjaGlsZDogQ2VudGVyKAogICAgICAgICAgICAgIGNoaWxkOiBTaXplZEJveCgKICAgICAgICAgICAgICAgIGhlaWdodDogMTIwLAogICAgICAgICAgICAgICAgd2lkdGg6IDEyMCwKICAgICAgICAgICAgICAgIGNoaWxkOiBGbGFyZUFjdG9yKAogICAgICAgICAgICAgICAgICAnYXNzZXRzL2xvYWRlci5mbHInLAogICAgICAgICAgICAgICAgICBhbmltYXRpb246ICdsb2FkaW5nJywKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKTsKICAgICAgfSwKICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdkYXJ0Om1hdGgnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEZ1dHVyZSgoKSBhc3luYyB7CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBbmltYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlLmRlbGF5ZWQoRHVyYXRpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBTY2FsZUEK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXNsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHNjYWxlOiAxLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZ1dHVyZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9hbmltYXRpb25TdGF0ZSA9IEhlYXJ0QW5pbWF0aW9uU3RhdGUuSElEREVOOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiA5Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIF9hbmltYXRpb25TdGF0ZSA9IEhlYXJ0QW5pbWF0aW9uU3RhdGUuQU5JTUFUSU5HOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IFNpemVkQm94KAogICAgICAgICAgICAgICAgaGVpZ2h0OiAxMjAsCiAgICAgICAgICAgICAgICB3aWR0aDogMTIwLA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9hbmltYXRpb25TdGF0ZSA9IEhlYXJ0QW5pbWF0aW9uU3RhdGUuQU5JTUFUSU5HOwo=</text>
+        <text encoding="base64">ICB2b29sIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>action Find</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWF0aC50b1N0cmluZygpIA==</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
@@ -436,16 +447,16 @@
         <entry>action ParameterInfo</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action FindInPath</entry>
-        <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
-        <entry>action SaveAll</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
