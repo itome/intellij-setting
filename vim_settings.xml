@@ -3,17 +3,433 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/miyama-server/build.sbt" timestamp="1554109384115">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/api_client.dart" timestamp="1555648633438">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/classsify_remote_data_source.dart" timestamp="1555483895954">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/users_screen.dart" timestamp="1555480098461">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="38" column="75" />
+        <mark key="]" line="38" column="75" />
+        <mark key="^" line="38" column="75" />
+        <mark key="." line="38" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/storage_remote_data_source.dart" timestamp="1555483911792">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/user/user_action.dart" timestamp="1555310057309">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="23" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_error.dart" timestamp="1555304930738">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" timestamp="1555578854284">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" timestamp="1555664425366">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_action.dart" timestamp="1555405489454">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/users/users_action.dart" timestamp="1555478247278">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" timestamp="1555662557297">
+        <mark key="'" line="43" column="31" />
+        <mark key="[" line="162" column="32" />
+        <mark key="]" line="162" column="29" />
+        <mark key="." line="162" column="29" />
+        <mark key="^" line="162" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" timestamp="1555569491312">
+        <mark key="'" line="11" column="67" />
+        <mark key="[" line="50" column="24" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
+        <mark key="^" line="50" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/user/user_bloc.dart" timestamp="1555482569800">
+        <mark key="'" line="37" column="30" />
+        <mark key="[" line="51" column="57" />
+        <mark key="]" line="51" column="63" />
+        <mark key="." line="51" column="63" />
+        <mark key="^" line="51" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" timestamp="1555579277783">
+        <mark key="[" line="76" column="43" />
+        <mark key="]" line="76" column="49" />
+        <mark key="^" line="76" column="49" />
+        <mark key="." line="76" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/bloc/bloc.dart" timestamp="1555573579377">
+        <mark key="'" line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/assets/heart.flr" timestamp="1555655729040">
+        <mark key="'" line="58" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/tag.dart" timestamp="1555401289347">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="33" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/main.dart" timestamp="1555562975466">
+        <mark key="'" line="52" column="6" />
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="26" column="54" />
+        <mark key="^" line="26" column="54" />
+        <mark key="." line="26" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/tag_chips.dart" timestamp="1555316565460">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/android/app/build.gradle" timestamp="1555396798196">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+        <mark key="^" line="28" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" timestamp="1555479998019">
+        <mark key="'" line="216" column="0" />
+        <mark key="[" line="103" column="65" />
+        <mark key="]" line="103" column="73" />
+        <mark key="." line="103" column="73" />
+        <mark key="^" line="103" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" timestamp="1555637497613">
+        <mark key="'" line="75" column="17" />
+        <mark key="[" line="33" column="67" />
+        <mark key="]" line="33" column="67" />
+        <mark key="." line="33" column="67" />
+        <mark key="^" line="33" column="67" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" timestamp="1555577407294">
+        <mark key="'" line="48" column="11" />
+        <mark key="[" line="87" column="69" />
+        <mark key="]" line="87" column="70" />
+        <mark key="." line="87" column="70" />
+        <mark key="^" line="87" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/pubspec.yaml" timestamp="1555636023520">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="31" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/timeline.dart" timestamp="1555577402226">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" timestamp="1555485916110">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" timestamp="1555491685741">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" timestamp="1555639133729" />
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_bloc.dart" timestamp="1555549039723">
+        <mark key="'" line="11" column="52" />
+        <mark key="[" line="13" column="78" />
+        <mark key="]" line="13" column="79" />
+        <mark key="^" line="13" column="79" />
+        <mark key="." line="13" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_action.dart" timestamp="1555664088512">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/users/users_bloc.dart" timestamp="1555477990851">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/gestures/tap.dart" timestamp="1555640607442" />
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_action.dart" timestamp="1555549087590">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/config.dart" timestamp="1555635682542">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" timestamp="1555893907938">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/core/duration.dart" timestamp="1555649614994" />
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/mock/user_mock_data_source.dart" timestamp="1555308522012">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="24" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" timestamp="1555307969466">
+        <mark key="'" line="68" column="1" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="38" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/android/keystore/release.gradle" timestamp="1555396560491">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_bloc.dart" timestamp="1555664258727">
+        <mark key="'" line="6" column="63" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="6" />
+        <mark key="^" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" timestamp="1555637608402">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="100" column="49" />
+        <mark key="]" line="100" column="49" />
+        <mark key="^" line="100" column="49" />
+        <mark key="." line="100" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/model/easter_egg.dart" timestamp="1555664000840">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/view/component/banner_notification.dart" timestamp="1555473762497">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" timestamp="1555482591469">
+        <mark key="'" line="13" column="57" />
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="41" column="59" />
+        <mark key="." line="41" column="59" />
+        <mark key="^" line="41" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" timestamp="1555639844221">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/tag_detail/tag_detail_bloc.dart" timestamp="1555550381820">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="34" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/domain/post/post_action.dart" timestamp="1555377382290">
+        <mark key="'" line="15" column="30" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="^" line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/teamj/lib/bloc/bloc_provider.dart" timestamp="1555574076440">
+        <mark key="[" line="70" column="17" />
+        <mark key="]" line="70" column="17" />
+        <mark key="^" line="70" column="17" />
+        <mark key="." line="70" column="17" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="15" column="30" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_action.dart" />
+      <jump line="28" column="6" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
+      <jump line="10" column="2" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
+      <jump line="54" column="7" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
+      <jump line="70" column="17" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
+      <jump line="75" column="42" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
+      <jump line="113" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" />
+      <jump line="27" column="26" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="98" column="17" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="99" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="105" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="146" column="25" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
+      <jump line="27" column="4" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
+      <jump line="3" column="34" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
+      <jump line="8" column="19" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
+      <jump line="127" column="5" filename="$USER_HOME$/Projects/teamj/lib/model/remote/classified_tag.dart" />
+      <jump line="5" column="6" filename="$USER_HOME$/Projects/teamj/lib/model/remote/classified_tag.dart" />
+      <jump line="5" column="59" filename="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" />
+      <jump line="10" column="67" filename="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" />
+      <jump line="3" column="15" filename="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
+      <jump line="23" column="40" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
+      <jump line="52" column="7" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
+      <jump line="35" column="25" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
+      <jump line="25" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
+      <jump line="16" column="2" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
+      <jump line="13" column="51" filename="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" />
+      <jump line="33" column="23" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
+      <jump line="127" column="12" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
+      <jump line="185" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
+      <jump line="30" column="16" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
+      <jump line="46" column="2" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" />
+      <jump line="43" column="2" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" />
+      <jump line="43" column="11" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
+      <jump line="49" column="29" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
+      <jump line="57" column="29" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
+      <jump line="13" column="57" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/users_screen.dart" />
+      <jump line="3" column="29" filename="$USER_HOME$/Projects/teamj/lib/domain/users/users_bloc.dart" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/users/users_bloc.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/user_repository.dart" />
+      <jump line="23" column="8" filename="$USER_HOME$/Projects/teamj/lib/repository/user_repository.dart" />
+      <jump line="9" column="24" filename="$USER_HOME$/Projects/teamj/lib/view/screen/users_screen.dart" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" />
+      <jump line="17" column="7" filename="$USER_HOME$/Projects/teamj/lib/view/screen/users_screen.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/api_client.dart" />
+      <jump line="43" column="7" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
+      <jump line="89" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" />
+      <jump line="3" column="31" filename="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_bloc.dart" />
+      <jump line="11" column="52" filename="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_bloc.dart" />
+      <jump line="21" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
+      <jump line="14" column="2" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
+      <jump line="50" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
+      <jump line="96" column="11" filename="$USER_HOME$/Projects/teamj/lib/view/screen/tag_detail_screen.dart" />
+      <jump line="101" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
+      <jump line="9" column="65" filename="$USER_HOME$/Projects/teamj/lib/repository/post_repository.dart" />
+      <jump line="115" column="69" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
+      <jump line="39" column="25" filename="$USER_HOME$/Projects/teamj/lib/repository/post_repository.dart" />
+      <jump line="37" column="31" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
+      <jump line="51" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
+      <jump line="31" column="4" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
+      <jump line="32" column="45" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
+      <jump line="65" column="15" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
+      <jump line="1" column="10" filename="$USER_HOME$/Projects/teamj/lib/bloc/bloc.dart" />
+      <jump line="35" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
+      <jump line="48" column="11" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
+      <jump line="5" column="20" filename="$USER_HOME$/Projects/teamj/lib/model/remote/timeline.dart" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
+      <jump line="15" column="2" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
+      <jump line="177" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="176" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="153" column="53" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="93" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="165" column="42" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="1364" column="28" filename="$USER_HOME$/Projects/teamj/assets/heart.flr" />
+      <jump line="58" column="16" filename="$USER_HOME$/Projects/teamj/assets/heart.flr" />
+      <jump line="161" column="42" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="42" column="59" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="43" column="31" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
+      <jump line="11" column="24" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
+      <jump line="3" column="31" filename="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_bloc.dart" />
+      <jump line="5" column="63" filename="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_bloc.dart" />
+      <jump line="3" column="33" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
+      <jump line="21" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
+      <jump line="13" column="2" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
+    </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBTdHJlYW1CdWlsZGVyPGJvb2w+KAogICAgICBpbml0aWFsRGF0YTogZmFsc2UsCiAgICAgIHN0cmVhbTogYmxvYy5sb2FkaW5nU3RyZWFtLAogICAgICBidWlsZGVyOiAoY29udGV4dCwgc25hcHNob3QpIHsKICAgICAgICByZXR1cm4gVmlzaWJpbGl0eSgKICAgICAgICAgIHZpc2libGU6IHNuYXBzaG90LmRhdGEsCiAgICAgICAgICBjaGlsZDogQ29udGFpbmVyKAogICAgICAgICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKGNvbG9yOiBVSUNvbG9yLmJsYWNrNTApLAogICAgICAgICAgICBjaGlsZDogQ2VudGVyKAogICAgICAgICAgICAgIGNoaWxkOiBTaXplZEJveCgKICAgICAgICAgICAgICAgIGhlaWdodDogMTIwLAogICAgICAgICAgICAgICAgd2lkdGg6IDEyMCwKICAgICAgICAgICAgICAgIGNoaWxkOiBGbGFyZUFjdG9yKAogICAgICAgICAgICAgICAgICAnYXNzZXRzL2xvYWRlci5mbHInLAogICAgICAgICAgICAgICAgICBhbmltYXRpb246ICdsb2FkaW5nJywKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKTsKICAgICAgfSwKICAgICk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpcwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIEZ1dHVyZSgoKSBhc3luYyB7CiAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlLmRlbGF5ZWQoRHVyYXRpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXNsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZ1dHVyZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiA5Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IFNpemVkQm94KAogICAgICAgICAgICAgICAgaGVpZ2h0OiAxMjAsCiAgICAgICAgICAgICAgICB3aWR0aDogMTIwLA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB2b29sIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpcwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoAction</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
       </register>
     </registers>
     <search>
@@ -23,11 +439,113 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
+        <entry>action Debug</entry>
+        <entry>action Run</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action FindInPath</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
+        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F1</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F9</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
