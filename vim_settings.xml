@@ -426,7 +426,7 @@
         <text encoding="base64">ICBpcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -448,7 +448,6 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -457,6 +456,7 @@
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
