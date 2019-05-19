@@ -284,7 +284,8 @@
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/animated_list_sample/lib/main.dart" timestamp="1558236559858">
+      <file name="$USER_HOME$/Projects/animated_list_sample/lib/main.dart" timestamp="1558237454487">
+        <mark key="'" line="30" column="9" />
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
@@ -305,7 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="30" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_action.dart" />
       <jump line="28" column="6" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
       <jump line="10" column="2" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
@@ -405,6 +405,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
       <jump line="21" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
       <jump line="13" column="2" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
+      <jump line="30" column="9" filename="$USER_HOME$/Projects/animated_list_sample/lib/main.dart" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -438,7 +439,7 @@
         <text encoding="base64">ICAgICAgICAgIEZ1dHVyZSgoKSBhc3luYyB7CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -462,13 +463,13 @@
         <entry>action RenameElement</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Find</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
