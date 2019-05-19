@@ -284,6 +284,11 @@
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/animated_list_sample/lib/main.dart" timestamp="1558236559858">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" timestamp="1555491685741">
         <mark key="'" line="3" column="15" />
         <mark key="[" line="4" column="30" />
@@ -406,34 +411,34 @@
         <text encoding="base64">ICAgIHJldHVybiBTdHJlYW1CdWlsZGVyPGJvb2w+KAogICAgICBpbml0aWFsRGF0YTogZmFsc2UsCiAgICAgIHN0cmVhbTogYmxvYy5sb2FkaW5nU3RyZWFtLAogICAgICBidWlsZGVyOiAoY29udGV4dCwgc25hcHNob3QpIHsKICAgICAgICByZXR1cm4gVmlzaWJpbGl0eSgKICAgICAgICAgIHZpc2libGU6IHNuYXBzaG90LmRhdGEsCiAgICAgICAgICBjaGlsZDogQ29udGFpbmVyKAogICAgICAgICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKGNvbG9yOiBVSUNvbG9yLmJsYWNrNTApLAogICAgICAgICAgICBjaGlsZDogQ2VudGVyKAogICAgICAgICAgICAgIGNoaWxkOiBTaXplZEJveCgKICAgICAgICAgICAgICAgIGhlaWdodDogMTIwLAogICAgICAgICAgICAgICAgd2lkdGg6IDEyMCwKICAgICAgICAgICAgICAgIGNoaWxkOiBGbGFyZUFjdG9yKAogICAgICAgICAgICAgICAgICAnYXNzZXRzL2xvYWRlci5mbHInLAogICAgICAgICAgICAgICAgICBhbmltYXRpb246ICdsb2FkaW5nJywKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKTsKICAgICAgfSwKICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBvdmVycmlkZSBmdW4gb25DcmVhdGVWaWV3Cg==</text>
+        <text encoding="base64">ICBpbnQgZ2V0IGxlbmd0aCA9PiBfaXRlbXMubGVuZ3RoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBwcml2YXRlIHZhbCBhcmdzOiBQbGF5ZXJzRnJhZ21lbnRBcmdzIGJ5IG5hdkFyZ3MoKQo=</text>
+        <text encoding="base64">ICAKICBvdmVycmlkZSBmdW4gb25DcmVhdGVWaWV3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQ3VwCg==</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIHZhbCBhcmdzOiBQbGF5ZXJzRnJhZ21lbnRBcmdzIGJ5IG5hdkFyZ3MoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVmUK</text>
+        <text encoding="base64">ICAgICAgQ3VwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgVG9wCg==</text>
+        <text encoding="base64">ICAgICAgVmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU2Vydgo=</text>
+        <text encoding="base64">ICAgICAgVG9wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpcwo=</text>
+        <text encoding="base64">ICAgICAgU2Vydgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEZ1dHVyZSgoKSBhc3luYyB7CiAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlLmRlbGF5ZWQoRHVyYXRpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIEZ1dHVyZSgoKSBhc3luYyB7CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -454,16 +459,16 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
