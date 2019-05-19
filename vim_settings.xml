@@ -433,7 +433,7 @@
         <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlLmRlbGF5ZWQoRHVyYXRpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -448,7 +448,6 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
         <entry>action Debug</entry>
-        <entry>action Run</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
         <entry>action ParameterInfo</entry>
@@ -464,6 +463,7 @@
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
