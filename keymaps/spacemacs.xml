@@ -10,9 +10,6 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="meta semicolon" />
-  </action>
   <action id="Console.Execute">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
@@ -80,9 +77,6 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
-  <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
