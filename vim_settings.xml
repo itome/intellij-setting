@@ -14,17 +14,36 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift" timestamp="1558533964227" />
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleImageItem.swift" timestamp="1558534777898">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="30" />
+        <mark key="." line="44" column="30" />
+        <mark key="^" line="44" column="30" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25TdWNjZXNzOiA8I1QjIygoQnJhbmRQcm9kdWN0c1Jlc3BvbnNlKSAtPiBWb2lkKT8jIygoUEFUUkFNQVJLRVQuQnJhbmRQcm9kdWN0c1Jlc3BvbnNlKSAtPiBTd2lmdC5Wb2lkKT8jPikK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50Lm9uTG9hZGVkID0gb25Mb2FkZWQK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiXChhcnRpY2xlSXRlbS5jb250ZW50KTogXChzZWxmLmltYWdlVmlldy5pbWFnZT8uc2l6ZS53aWR0aCksIFwoc2VsZi5vbkxvYWRlZCkiKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChhcnRpY2xlSXRlbS5jb250ZW50KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25TdWNjZXNzOiA8I1QjIygoQnJhbmRQcm9kdWN0c1Jlc3BvbnNlKSAtPiBWb2lkKT8jIygoUEFUUkFNQVJLRVQuQnJhbmRQcm9kdWN0c1Jlc3BvbnNlKSAtPiBTd2lmdC5Wb2lkKT8jPikK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgbGV0IHByb2R1Y3RSZXBvc2l0b3J5OiBQcm9kdWN0UmVwb3NpdG9yeQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
+      </register>
+      <register name="-" type="4">
+        <text>?</text>
       </register>
     </registers>
     <search>
@@ -34,16 +53,24 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action SaveAll</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
