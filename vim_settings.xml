@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1558532975578">
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="59" column="30" />
-        <mark key="^" line="59" column="30" />
-        <mark key="." line="59" column="30" />
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1558535693098">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Brand/BrandActionCreator.swift" timestamp="1558531334405">
         <mark key="[" line="17" column="0" />
@@ -15,35 +14,50 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift" timestamp="1558533964227" />
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleImageItem.swift" timestamp="1558534777898">
-        <mark key="[" line="44" column="26" />
-        <mark key="]" line="44" column="30" />
-        <mark key="." line="44" column="30" />
-        <mark key="^" line="44" column="30" />
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleImageItem.swift" timestamp="1558536175810">
+        <mark key="'" line="19" column="44" />
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="46" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="19" column="44" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleImageItem.swift" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50Lm9uTG9hZGVkID0gb25Mb2FkZWQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyYXRpbykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiXChhcnRpY2xlSXRlbS5jb250ZW50KTogXChzZWxmLmltYWdlVmlldy5pbWFnZT8uc2l6ZS53aWR0aCksIFwoc2VsZi5vbkxvYWRlZCkiKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuYyBvbkltYWdlTG9hZGVkKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChhcnRpY2xlSXRlbS5jb250ZW50KQo=</text>
+        <text encoding="base64">ICAgIAogICAgdmFyIHJhdGlvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25TdWNjZXNzOiA8I1QjIygoQnJhbmRQcm9kdWN0c1Jlc3BvbnNlKSAtPiBWb2lkKT8jIygoUEFUUkFNQVJLRVQuQnJhbmRQcm9kdWN0c1Jlc3BvbnNlKSAtPiBTd2lmdC5Wb2lkKT8jPikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgcmF0aW8gPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGV0IHByb2R1Y3RSZXBvc2l0b3J5OiBQcm9kdWN0UmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChzZWxmLm9uTG9hZGVkKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kaXN0aW5jZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiXCgpIikK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50Lm9uTG9hZGVkID0gb25Mb2FkZWQK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>conten</text>
       </register>
     </registers>
     <search>
@@ -53,11 +67,11 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
@@ -69,6 +83,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
