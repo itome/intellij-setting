@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1558532975578">
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="30" />
+        <mark key="^" line="59" column="30" />
+        <mark key="." line="59" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Brand/BrandActionCreator.swift" timestamp="1558531334405">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -18,7 +24,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgbGV0IHByb2R1Y3RSZXBvc2l0b3J5OiBQcm9kdWN0UmVwb3NpdG9yeQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -32,6 +38,7 @@
         <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
