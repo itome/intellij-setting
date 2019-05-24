@@ -32,11 +32,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/Items/FeedArticleItem.swift" timestamp="1558692090618">
-        <mark key="'" line="4" column="10" />
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="16" />
-        <mark key="." line="60" column="16" />
-        <mark key="^" line="60" column="16" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/Foundation/Foundation.swift" timestamp="1558673782722" />
       <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/Foundation.NSURLRequest/Foundation.NSURLRequest.swift" timestamp="1558538572638">
@@ -50,6 +49,12 @@
         <mark key="^" line="21" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/ArticleItem.swift" timestamp="1558577879013" />
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleStore.swift" timestamp="1558694811232">
+        <mark key="[" line="5" column="67" />
+        <mark key="]" line="6" column="64" />
+        <mark key="^" line="6" column="64" />
+        <mark key="." line="6" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleImageItem.swift" timestamp="1558673231147">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="63" />
@@ -57,12 +62,13 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1558692418946">
-        <mark key="'" line="53" column="3" />
-        <mark key="[" line="60" column="72" />
-        <mark key="]" line="60" column="70" />
-        <mark key="." line="60" column="70" />
-        <mark key="^" line="60" column="70" />
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1558695119903">
+        <mark key="'" line="66" column="3" />
+        <mark key="k" line="61" column="8" />
+        <mark key="[" line="49" column="39" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="39" />
+        <mark key="^" line="49" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift" timestamp="1558539260374">
         <mark key="[" line="375" column="25" />
@@ -74,7 +80,7 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleHeadingItem.swift" timestamp="1558672837139">
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleHeadingItem.swift" timestamp="1558693202548">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="40" />
@@ -94,10 +100,10 @@
         <mark key="^" line="21" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Podfile" timestamp="1558691524185">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="6" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleFullImageItem.swift" timestamp="1558673575150">
         <mark key="[" line="9" column="0" />
@@ -134,37 +140,42 @@
         <text encoding="base64">ICAgICAgICBpbWFnZVZpZXcuaGVyby5pZCA9ICJhcnRpY2xlX3RodW1ibmFpbF9cKGFydGljbGU/LmlkID8/ICIiKSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZVYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZVYKICAgICAgICBhZGRUYXJnZXQoc2VsZiwgYWN0aW9uOiAjc2VsZWN0b3Ioc2VsZWN0ZWQpLCBmb3I6IC50b3VjaFVwSW5zaWRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGd1YXJkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRUYXJnZXQoc2VsZiwgYWN0aW9uOiAjc2VsZWN0b3Ioc2VsZWN0ZWQpLCBmb3I6IC50b3VjaFVwSW5zaWRlKQogICAgICAgIGltYWdlVgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRUYXJnZXQoc2VsZiwgYWN0aW9uOiAjc2VsZWN0b3Ioc2VsZWN0ZWQpLCBmb3I6IC50b3VjaFVwSW5zaWRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBib3R0b21TcGFjaW5nSXRlbXMgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbGwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGF3YWlrZUZyb21OaWIK</text>
+      <register name="6" type="4">
+        <text>,
+                        Section(
+                                id: &quot;ArticleRelatedItems&quot;,
+                                header: ViewNode(RelatedProductsHeaderComponent()
+                        )</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWlrZQo=</text>
+      <register name="7" type="4">
+        <text>article.items
+                            .flatMap { self?.contentItem(articleItem: $0, imageAspectRatio) ?? [] }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvYWQK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVYKICAgICAgICBhZGRUYXJnZXQoc2VsZiwgYWN0aW9uOiAjc2VsZWN0b3Ioc2VsZWN0ZWQpLCBmb3I6IC50b3VjaFVwSW5zaWRlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>renderContn</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -175,16 +186,16 @@
       <history-search />
       <history-cmd>
         <entry>action NextSplitter</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GoToLastTab</entry>
         <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
