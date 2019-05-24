@@ -22,10 +22,21 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/Items/FeedProductItem.swift" timestamp="1558691939704">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="55" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleSourceItemm.swift" timestamp="1558574801649">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/Items/FeedArticleItem.swift" timestamp="1558692090618">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+        <mark key="^" line="60" column="16" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/Foundation/Foundation.swift" timestamp="1558673782722" />
       <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/Foundation.NSURLRequest/Foundation.NSURLRequest.swift" timestamp="1558538572638">
@@ -46,16 +57,12 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1558674953626">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="50" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="88" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Brand/BrandActionCreator.swift" timestamp="1558531334405">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1558692418946">
+        <mark key="'" line="53" column="3" />
+        <mark key="[" line="60" column="72" />
+        <mark key="]" line="60" column="70" />
+        <mark key="." line="60" column="70" />
+        <mark key="^" line="60" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift" timestamp="1558539260374">
         <mark key="[" line="375" column="25" />
@@ -73,11 +80,24 @@
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleHeaderItem.swift" timestamp="1558692083173">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="68" />
+        <mark key="." line="50" column="45" />
+        <mark key="^" line="50" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleSourceItem.swift" timestamp="1558672868816">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="40" />
         <mark key="." line="21" column="40" />
         <mark key="^" line="21" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Podfile" timestamp="1558691524185">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleFullImageItem.swift" timestamp="1558673575150">
         <mark key="[" line="9" column="0" />
@@ -103,43 +123,48 @@
       <jump line="3" column="0" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleItemButtonItem.swift" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleImageItem.swift" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Views/Common/SpacingItem.swift" />
+      <jump line="51" column="3" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" />
+      <jump line="49" column="21" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleHeaderItem.swift" />
+      <jump line="3" column="10" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleHeaderItem.swift" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/Items/FeedArticleItem.swift" />
+      <jump line="4" column="10" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/Items/FeedArticleItem.swift" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENlbGxOb2RlKFNwYWNpbmdJdGVtKGhlaWdodDogMTYpKSwK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVZpZXcuaGVyby5pZCA9ICJhcnRpY2xlX3RodW1ibmFpbF9cKGFydGljbGU/LmlkID8/ICIiKSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVYKICAgICAgICBhZGRUYXJnZXQoc2VsZiwgYWN0aW9uOiAjc2VsZWN0b3Ioc2VsZWN0ZWQpLCBmb3I6IC50b3VjaFVwSW5zaWRlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRUYXJnZXQoc2VsZiwgYWN0aW9uOiAjc2VsZWN0b3Ioc2VsZWN0ZWQpLCBmb3I6IC50b3VjaFVwSW5zaWRlKQogICAgICAgIGltYWdlVgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQgPSBoZWkK</text>
+        <text encoding="base64">ICAgICAgICBhZGRUYXJnZXQoc2VsZiwgYWN0aW9uOiAjc2VsZWN0b3Ioc2VsZWN0ZWQpLCBmb3I6IC50b3VjaFVwSW5zaWRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpbml0KGhlaWdodDogSW50KSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvCg==</text>
+        <text encoding="base64">ICAgIGF3YWlrZUZyb21OaWIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXIgeyAkMCAhPSBuaWwgfQo=</text>
+        <text encoding="base64">ICAgIGF3YWlrZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAK</text>
+        <text encoding="base64">ICAgIGxvYWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>renderContn</text>
       </register>
     </registers>
     <search>
@@ -149,14 +174,16 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action SaveAll</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GoToLastTab</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
+        <entry>action FindInPath</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
