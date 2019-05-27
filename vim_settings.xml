@@ -29,33 +29,29 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/Foundation/Foundation.swift" timestamp="1558701325102" />
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Pods/RxSwift/RxSwift/Traits/Single.swift" timestamp="1558708904180">
         <mark key="[" line="82" column="125" />
         <mark key="]" line="82" column="124" />
         <mark key="^" line="82" column="124" />
         <mark key="." line="82" column="124" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/ArticleItem.swift" timestamp="1558577879013" />
-      <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/UIKit.UIGeometry/UIKit.UIGeometry.swift" timestamp="1558710599233" />
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Utilities/LoadMoreAdapter.swift" timestamp="1558710121406">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1558882985177">
-        <mark key="'" line="63" column="35" />
-        <mark key="k" line="65" column="8" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="124" column="5" />
-        <mark key="^" line="18" column="60" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1558958032880">
+        <mark key="'" line="73" column="35" />
+        <mark key="k" line="75" column="8" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift" timestamp="1558539260374">
         <mark key="[" line="375" column="25" />
         <mark key="]" line="375" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Pods/Alamofire/Source/Alamofire.swift" timestamp="1558700479038" />
       <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/UIKit.UICollectionViewFlowLayout/UIKit.UICollectionViewFlowLayout.swift" timestamp="1558711422729">
         <mark key="[" line="56" column="18" />
         <mark key="]" line="56" column="152" />
@@ -121,7 +117,6 @@
         <mark key="[" line="66" column="13" />
         <mark key="]" line="66" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Pods/Alamofire/Source/ParameterEncoding.swift" timestamp="1558700706907" />
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleVideoItem.swift" timestamp="1558672885246">
         <mark key="[" line="21" column="51" />
         <mark key="]" line="21" column="62" />
@@ -152,7 +147,6 @@
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="40" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/UIKit.UIViewController/UIKit.UIViewController.swift" timestamp="1558710344810" />
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Requests/Product/ProductRequest.GetProductDetail.swift" timestamp="1558698905553">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -242,7 +236,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>nil</text>
@@ -257,16 +251,17 @@
       <history-cmd>
         <entry>action NextSplitter</entry>
         <entry>action GoToLastTab</entry>
-        <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
