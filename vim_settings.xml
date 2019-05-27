@@ -68,11 +68,12 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/SendLikeViewController.swift" timestamp="1558969487389">
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/SendLikeViewController.swift" timestamp="1558970177120">
         <mark key="'" line="17" column="48" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="43" column="28" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/UIKit.UICollectionView/UIKit.UICollectionView.swift" timestamp="1558711580041">
         <mark key="[" line="141" column="17" />
@@ -238,37 +239,37 @@
         <text encoding="base64">CmV4dGVuc2lvbiBQcm9kdWN0Vmlld0NvbnRyb2xsZXI6IEZsb2F0aW5nUGFuZWxDb250cm9sbGVyRGVsZWdhdGUgewogICAgZnVuYyBmbG9hdGluZ1BhbmVsKF8gdmM6IEZsb2F0aW5nUGFuZWxDb250cm9sbGVyLCBsYXlvdXRGb3IgbmV3Q29sbGVjdGlvbjogVUlUcmFpdENvbGxlY3Rpb24pIC0+IEZsb2F0aW5nUGFuZWxMYXlvdXQ/IHsKICAgICAgICByZXR1cm4gUHJvZHVjdEZsb2F0aW5nUGFuZWxMYXlvdXQoKQogICAgfQp9CgpjbGFzcyBQcm9kdWN0RmxvYXRpbmdQYW5lbExheW91dDogRmxvYXRpbmdQYW5lbExheW91dCB7CiAgICB2YXIgaW5pdGlhbFBvc2l0aW9uOiBGbG9hdGluZ1BhbmVsUG9zaXRpb24gewogICAgICAgIHJldHVybiAuZnVsbAogICAgfQoKICAgIHZhciBzdXBwb3J0ZWRQb3NpdGlvbnM6IFNldDxGbG9hdGluZ1BhbmVsUG9zaXRpb24+IHsKICAgICAgICByZXR1cm4gWy5mdWxsXQogICAgfQoKICAgIGZ1bmMgaW5zZXRGb3IocG9zaXRpb246IEZsb2F0aW5nUGFuZWxQb3NpdGlvbikgLT4gQ0dGbG9hdD8gewogICAgICAgIHN3aXRjaCBwb3NpdGlvbiB7CiAgICAgICAgY2FzZSAuZnVsbDogcmV0dXJuIDE2CiAgICAgICAgZGVmYXVsdDogcmV0dXJuIG5pbAogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIC5mdWxsOiByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXRpbmdQYW5lbENvbnRyb2xsZXIudHJhY2soc2Nyb2xsVmlldzogdmMuY29sbGVjdGlvblZpZXcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1bmMgCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIC5mdWxsOiByZXR1cm4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgIGZ1bmMgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDUtMjcuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCmltcG9ydCBGb3VuZGF0aW9uCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyOiBVSUNvbGxlY3Rpb25WaWV3Rmxvd0xheW91dEFkYXB0ZXIoKSwK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDUtMjcuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCmltcG9ydCBGb3VuZGF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyOiBVSUNvbGxlY3Rpb25WaWV3Rmxvd0xheW91dEFkYXB0ZXIoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmMgb25UYXBQcm9kdWN0KHByb2R1Y3Q6IFNpbXBsZVByb2R1Y3QpIHsKICAgICAgICBQcm9kdWN0Vmlld0NvbnRyb2xsZXIucHJlc2VudCh2aWV3Q29udHJvbGxlcjogc2VsZiwgcHJvZHVjdElkOiBwcm9kdWN0LmlkKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiBVSUVkZ2VJbnNldHModG9wOiAwLCBsZWZ0OiAwLCBib3R0b206IDAsIHJpZ2h0OiAwKQo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmMgb25UYXBQcm9kdWN0KHByb2R1Y3Q6IFNpbXBsZVByb2R1Y3QpIHsKICAgICAgICBQcm9kdWN0Vmlld0NvbnRyb2xsZXIucHJlc2VudCh2aWV3Q29udHJvbGxlcjogc2VsZiwgcHJvZHVjdElkOiBwcm9kdWN0LmlkKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPyBVSUVkZ2VJbnNldHModG9wOiAwLCBsZWZ0OiAxNiwgYm90dG9tOiAxNiwgcmlnaHQ6IDE2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOiBVSUVkZ2VJbnNldHModG9wOiAwLCBsZWZ0OiAwLCBib3R0b206IDAsIHJpZ2h0OiAwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>ProductFloatingPanelLayout</text>
+        <text>tip</text>
       </register>
     </registers>
     <search>
@@ -285,12 +286,12 @@
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
