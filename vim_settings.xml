@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.0/3aa4e89e1a0b327d71fa1ebf2141ceb7e2fc45c7/exoplayer-core-2.10.0-sources.jar!/com/google/android/exoplayer2/Player.java" timestamp="1558924330588">
         <mark key="'" line="403" column="31" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.0/6a5da536f6d30a29b9f3038d8d645f39a29b798b/exoplayer-ui-2.10.0-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1558925526194">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.0/6a5da536f6d30a29b9f3038d8d645f39a29b798b/exoplayer-ui-2.10.0-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1558926216568">
         <mark key="'" line="220" column="24" />
         <mark key="[" line="769" column="24" />
         <mark key="]" line="769" column="24" />
@@ -44,7 +44,7 @@
     </jumps>
     <registers>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -60,10 +60,10 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action GoToLastTab</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
