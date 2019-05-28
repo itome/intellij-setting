@@ -398,7 +398,7 @@
         <text encoding="base64">cGFja2FnZSBqcC5jby5jeWJlcmFnZW50LmFuZHJvaWQuZ3B1aW1hZ2UuZ2xlczsKCnB1YmxpYyBjbGFzcyBFZ2xDb3JlIHsKfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>GPUImage</text>
@@ -422,15 +422,15 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
