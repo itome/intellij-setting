@@ -78,11 +78,6 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" timestamp="1558932356003">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.0/6a5da536f6d30a29b9f3038d8d645f39a29b798b/exoplayer-ui-2.10.0-sources.jar!/com/google/android/exoplayer2/ui/DefaultTimeBar.java" timestamp="1559019327953">
         <mark key="'" line="182" column="21" />
         <mark key="[" line="98" column="12" />
@@ -131,6 +126,9 @@
         <mark key="^" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1559020476232">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/java/jp/cldh/playground/ui/player/PlayerMockFragment.kt" timestamp="1558942973015">
         <mark key="[" line="65" column="51" />
         <mark key="]" line="66" column="58" />
@@ -148,6 +146,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light.xml" timestamp="1559020892180">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/ImageButton.java" timestamp="1558933171482">
         <mark key="'" line="71" column="13" />
@@ -185,11 +189,12 @@
         <mark key="." line="21" column="62" />
         <mark key="^" line="21" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" timestamp="1559019194935">
-        <mark key="'" line="180" column="39" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" timestamp="1559021217451">
+        <mark key="'" line="197" column="6" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="75" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="37" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_accent_primary_dark_rectangle_radius24.xml" timestamp="1558933268510">
         <mark key="'" line="0" column="0" />
@@ -203,6 +208,11 @@
         <mark key="]" line="31" column="78" />
         <mark key="." line="31" column="78" />
         <mark key="^" line="31" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle.xml" timestamp="1559020481015">
+        <mark key="'" line="1" column="32" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Repositories/ProductRepository.swift" timestamp="1558699598410">
         <mark key="[" line="25" column="35" />
@@ -288,43 +298,47 @@
       <jump line="59" column="31" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/ControllerView.kt" />
       <jump line="182" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.0/6a5da536f6d30a29b9f3038d8d645f39a29b798b/exoplayer-ui-2.10.0-sources.jar!/com/google/android/exoplayer2/ui/DefaultTimeBar.java" />
       <jump line="180" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
+      <jump line="99" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
+      <jump line="64" column="25" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
+      <jump line="1" column="32" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle.xml" />
+      <jump line="199" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Y2xpcENoaWxkcmVuPSJmYWxzZSIKICAgIGFuZHJvaWQ6Y2xpcFRvUGFkZGluZz0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YW5kcm9pZDphdHRyL3NlbGVjdGFibGVJdGVtQmFja2dyb3VuZEJvcmRlcmxlc3MiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSIyMGRwIgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2xpZ2h0Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxMGRwIgo=</text>
+        <text encoding="base64">ICAgICAgYmFja2dybwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6Y2xpcENoaWxkcmVuPSJmYWxzZSIKICAgIGFuZHJvaWQ6Y2xpcFRvUGFkZGluZz0iZmFsc2UiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Y2xpcENoaWxkcmVuPSJmYWxzZSIKICAgIGFuZHJvaWQ6Y2xpcFRvUGFkZGluZz0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci90cmFuc3BhcmVudCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsaXBUb1BhZGRpbmcgPSBmYWxzZSBjbGlwQ2hpbGRyZW4gPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci90cmFuc3BhcmVudCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Y2xpcENoaWxkcmVuPSJmYWxzZSIKICAgIGFuZHJvaWQ6Y2xpcFRvUGFkZGluZz0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19wbGF5ZXJfZnVsbCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Y2xpcENoaWxkcmVuPSJmYWxzZSIKICAgIGFuZHJvaWQ6Y2xpcFRvUGFkZGluZz0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci90cmFuc3BhcmVudCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpwYWRkaW5nRW5kPSIwZHAiCiAgICAgIGFuZHJvaWQ6cGFkZGluZ1N0YXJ0PSIwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci90cmFuc3BhcmVudCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iIgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci90cmFuc3BhcmVudCIK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>selec</text>
       </register>
     </registers>
     <search>
@@ -346,12 +360,12 @@
         <entry>action GotoImplementation</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
-        <entry>action NextSplitter</entry>
         <entry>action Find</entry>
+        <entry>action SaveAll</entry>
         <entry>action Back</entry>
+        <entry>action NextSplitter</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
       </history-cmd>
