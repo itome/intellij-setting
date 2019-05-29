@@ -9,6 +9,10 @@
         <mark key="." line="7" column="39" />
         <mark key="^" line="11" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/build/generated/source/r2/debug/jp/cldh/resources/R2.java" timestamp="1559096941579">
+        <mark key="[" line="448" column="24" />
+        <mark key="." line="448" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/EglCore.java" timestamp="1559054195815">
         <mark key="'" line="362" column="0" />
         <mark key="[" line="0" column="0" />
@@ -145,12 +149,12 @@
         <mark key="." line="21" column="40" />
         <mark key="^" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559095726622">
-        <mark key="'" line="42" column="7" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="133" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="138" column="5" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559097240397">
+        <mark key="'" line="142" column="23" />
+        <mark key="[" line="142" column="65" />
+        <mark key="]" line="142" column="65" />
+        <mark key="." line="142" column="65" />
+        <mark key="^" line="142" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/res/layout/activity_main.xml" timestamp="1559054754195">
         <mark key="[" line="30" column="0" />
@@ -412,43 +416,45 @@
       <jump line="41" column="49" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="121" column="28" filename="$USER_HOME$/Projects/love/android/features/player/build/generated/source/kapt/developDebug/jp/cldh/player/databinding/ViewPlayerControllerBindingImpl.java" />
       <jump line="142" column="12" filename="$USER_HOME$/Projects/love/android/features/player/build/generated/source/kapt/developDebug/jp/cldh/player/databinding/ViewPlayerControllerBindingImpl.java" />
+      <jump line="139" column="75" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="142" column="23" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkB7aXNGdWxsU2NyZWVuID8gQHN0cmluZy9jb250ZW50X2Rlc2NyaXB0aW9uX3BsYXllcl9taW4gOiBAc3RyaW5nL2NvbnRlbnRfZGVzY3JpcHRpb25fcGxheWVyX2Z1bGx9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNsZGgucmVzb3VyY2VzLlI7Cg==</text>
+        <text encoding="base64">ICAgIDx2YXJpYWJsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpzcmM9IkB7aXNQbGF5aW5nID8gQGRyYXdhYmxlL2ljX3BsYXllcl9wYXVzZSA6IEBkcmF3YWJsZS9pY19wbGF5ZXJfcGxheX0iCg==</text>
+        <text encoding="base64">ICAgIDxpbXBvcnQgdHlwZT0ianAuY2xkaC5zaWduaW4uQlIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpzcmM9IkB7aXNGdWxsU2NyZWVuID8gQGRyYXdhYmxlL2ljX3BsYXllcl9taW4gOiBAZHJhd2FibGUvaWNfcGxheWVyX2Z1bGx9Igo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3JjCg==</text>
+        <text encoding="base64">ICAgIDx2YXJpYWJsZQogICAgICBuYW1lPSIiCiAgICAgIHR5cGU9IiIKICAgICAgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASnZtU3RhdGljCiAgQEJpbmRpbmdBZGFwdGVyKCJjb250ZW50X2Rlc2NyaXB0aW9uX3JlcyIpCiAgZnVuIGJpbmRDb250cmVudERlc2NyaXB0aW9uUmVzKHZpZXc6IFRleHRWaWV3LCB2YWx1ZTogSW50KSB7CiAgICBpZiAodmFsdWUgIT0gMCkgewogICAgICB2aWV3LmNvbnRlbnREZXNjcmlwdGlvbiA9IHZpZXcuY29udGV4dC5yZXNvdXJjZXMuZ2V0U3RyaW5nKHZhbHVlKQogICAgfQogIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNsZGgucmVzb3VyY2VzLlI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmlldy5jb250ZW50RGVzY3JpcHRpb24gPSB2aWV3LmNvbnRleHQucmVzb3VyY2VzLmdldFN0cmluZyh2YWx1ZSkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpzcmM9IkB7aXNQbGF5aW5nID8gQGRyYXdhYmxlL2ljX3BsYXllcl9wYXVzZSA6IEBkcmF3YWJsZS9pY19wbGF5ZXJfcGxheX0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmlldy5zZXRUZXh0KHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpzcmM9IkB7aXNGdWxsU2NyZWVuID8gQGRyYXdhYmxlL2ljX3BsYXllcl9taW4gOiBAZHJhd2FibGUvaWNfcGxheWVyX2Z1bGx9Igo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgc3JjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGJpbmRpbmcuaXNQbGF5aW5nKQo=</text>
+        <text encoding="base64">ICBASnZtU3RhdGljCiAgQEJpbmRpbmdBZGFwdGVyKCJjb250ZW50X2Rlc2NyaXB0aW9uX3JlcyIpCiAgZnVuIGJpbmRDb250cmVudERlc2NyaXB0aW9uUmVzKHZpZXc6IFRleHRWaWV3LCB2YWx1ZTogSW50KSB7CiAgICBpZiAodmFsdWUgIT0gMCkgewogICAgICB2aWV3LmNvbnRlbnREZXNjcmlwdGlvbiA9IHZpZXcuY29udGV4dC5yZXNvdXJjZXMuZ2V0U3RyaW5nKHZhbHVlKQogICAgfQogIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXNGdWxsU2NyZWVuID8g</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -471,13 +477,13 @@
         <entry>action NextSplitter</entry>
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
