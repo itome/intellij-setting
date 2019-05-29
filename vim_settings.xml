@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/res/layout/activity_nav_host.xml" timestamp="1559114276623">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" timestamp="1559112539935" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/EglCore.java" timestamp="1559054195815">
+        <mark key="'" line="362" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="361" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" timestamp="1559053832458">
         <mark key="[" line="65" column="4" />
         <mark key="]" line="65" column="4" />
@@ -16,20 +17,20 @@
         <mark key="^" line="62" column="12" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.0/3aa4e89e1a0b327d71fa1ebf2141ceb7e2fc45c7/exoplayer-core-2.10.0-sources.jar!/com/google/android/exoplayer2/C.java" timestamp="1559109969000" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/VideoEncoderCore.java" timestamp="1559054137911">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="198" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/schedule/ScheduleFragmentsTest.kt" timestamp="1559114978421">
         <mark key="'" line="44" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" timestamp="1559104923868">
-        <mark key="'" line="16" column="15" />
-        <mark key="[" line="88" column="73" />
-        <mark key="]" line="88" column="85" />
-        <mark key="." line="88" column="85" />
-        <mark key="^" line="88" column="85" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/ViewBindingAdapters.kt" timestamp="1559093295914">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/di/TestCoreModule.kt" timestamp="1559122680979">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/.circleci/config.yml" timestamp="1559115683839">
         <mark key="[" line="141" column="20" />
@@ -53,18 +54,22 @@
         <mark key="." line="104" column="55" />
         <mark key="^" line="104" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/NetworkModule.kt" timestamp="1559118956720" />
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.java" timestamp="1559113320414">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/NetworkModule.kt" timestamp="1559122633156">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="75" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559098909821">
-        <mark key="'" line="139" column="52" />
-        <mark key="[" line="139" column="6" />
-        <mark key="]" line="139" column="5" />
-        <mark key="." line="139" column="5" />
-        <mark key="^" line="139" column="5" />
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/TextBindingAdapters.kt" timestamp="1559098478116">
+        <mark key="'" line="9" column="7" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="142" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.0/6a5da536f6d30a29b9f3038d8d645f39a29b798b/exoplayer-ui-2.10.0-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1559005536638">
+        <mark key="'" line="220" column="24" />
+        <mark key="[" line="236" column="10" />
+        <mark key="]" line="236" column="56" />
+        <mark key="^" line="1117" column="3" />
+        <mark key="." line="1117" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/installedapp/src/main/res/layout/activity_main.xml" timestamp="1559113875865">
         <mark key="'" line="0" column="0" />
@@ -77,44 +82,60 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponentProvider.kt" timestamp="1559118679157" />
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestAppModule.kt" timestamp="1559114954694" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponentProvider.kt" timestamp="1559122798530">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestAppModule.kt" timestamp="1559121960403" />
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageFilter.java" timestamp="1559054415812">
         <mark key="[" line="72" column="4" />
         <mark key="]" line="72" column="9" />
         <mark key="." line="72" column="9" />
         <mark key="^" line="72" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/TestApp.kt" timestamp="1559119387091">
-        <mark key="'" line="9" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestAppComponent.kt" timestamp="1559119205497" />
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt" timestamp="1559055953861" />
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageMovieWriter.java" timestamp="1559055878102">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="53" column="39" />
-        <mark key="]" line="53" column="39" />
-        <mark key="." line="53" column="45" />
-        <mark key="^" line="49" column="46" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/di/TestCoreComponent.kt" timestamp="1559122981262">
+        <mark key="j" line="13" column="45" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="47" />
+        <mark key="^" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559116051610">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/di/TestDeviceModule.kt" timestamp="1559122290988">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/DataSourceModule.kt" timestamp="1559119364704" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/build/generated/source/kapt/developDebug/jp/cldh/player/databinding/ViewPlayerControllerBindingImpl.java" timestamp="1559095908586">
+        <mark key="'" line="142" column="12" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/DataSourceModule.kt" timestamp="1559120489648" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/remote/AuthDataSource.kt" timestamp="1559120660344" />
       <file name="$USER_HOME$/Projects/love/android/installedapp/src/main/java/jp/cldh/app/ui/MainActivity.kt" timestamp="1559113460737" />
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/ActivityCamera.java" timestamp="1559055157827">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1559095538190" />
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/RepositoryModule.kt" timestamp="1559119012912" />
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/test/java/jp/cldh/player/PlayerControllerViewTest.kt" timestamp="1559110961203">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/RepositoryModule.kt" timestamp="1559121468208">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="25" column="91" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.0/6a5da536f6d30a29b9f3038d8d645f39a29b798b/exoplayer-ui-2.10.0-sources.jar!/com/google/android/exoplayer2/ui/DefaultTimeBar.java" timestamp="1559019327953">
+        <mark key="'" line="182" column="21" />
+        <mark key="[" line="98" column="12" />
+        <mark key="]" line="98" column="11" />
+        <mark key="^" line="98" column="11" />
+        <mark key="." line="98" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/di/TestRepositoryModule.kt" timestamp="1559121598375">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/TestNavHostActivity.kt" timestamp="1559114610785">
         <mark key="'" line="61" column="17" />
@@ -126,23 +147,51 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="63" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestRepositoryModule.kt" timestamp="1559114969194" />
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/CoreApp.kt" timestamp="1559118883221">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestRepositoryModule.kt" timestamp="1559121434186">
+        <mark key="'" line="12" column="11" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/MovieWriterActivity.kt" timestamp="1559054922920">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="54" column="2" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/CoreApp.kt" timestamp="1559122962875">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="16" column="48" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/BaseComponent.kt" timestamp="1559123018855">
+        <mark key="'" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader.kt" timestamp="1559055975310" />
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/GlUtil.java" timestamp="1559054269835">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="199" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponent.kt" timestamp="1559123054962">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreModule.kt" timestamp="1559122107607">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/di/TestNetworkModule.kt" timestamp="1559122689125">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.willowtreeapps.hyperion/hyperion-core/0.9.27/8485f97fd7bf7de081deb6e2c5fdeef06c8c2ac9/hyperion-core-0.9.27-sources.jar!/com/willowtreeapps/hyperion/core/internal/InstallationLifecycleDelegate.java" timestamp="1559122053087">
+        <mark key="'" line="59" column="17" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.0/6a5da536f6d30a29b9f3038d8d645f39a29b798b/exoplayer-ui-2.10.0-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" timestamp="1558950701758">
+        <mark key="'" line="488" column="4" />
+        <mark key="[" line="167" column="1" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="167" column="0" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559111062525">
         <mark key="[" line="80" column="4" />
@@ -150,32 +199,32 @@
         <mark key="^" line="80" column="29" />
         <mark key="." line="80" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1559098306947">
-        <mark key="'" line="40" column="49" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="69" column="78" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/TextureMovieEncoder.java" timestamp="1559054103611">
+        <mark key="'" line="397" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="398" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/search/player/SearchPlayerConditionsFragmentTest.kt" timestamp="1559113388819">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="238" column="0" />
         <mark key="]" line="244" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/createuser/src/main/java/jp/cldh/createuser/di/CreateUserComponent.kt" timestamp="1559120851045" />
       <file name="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" timestamp="1559104961683">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/EglSurfaceBase.java" timestamp="1559054232354">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="192" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/DeviceModule.kt" timestamp="1559122211273">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" timestamp="1559114895499">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="155" column="4" />
-        <mark key="]" line="155" column="3" />
-        <mark key="^" line="155" column="3" />
-        <mark key="." line="155" column="3" />
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/WindowSurface.java" timestamp="1559054312294">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="89" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt" timestamp="1559055984183">
         <mark key="[" line="35" column="0" />
@@ -183,14 +232,23 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" timestamp="1559024332767">
+        <mark key="'" line="201" column="6" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="89" column="42" />
+        <mark key="." line="117" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java" timestamp="1559056007290">
         <mark key="[" line="82" column="50" />
         <mark key="]" line="82" column="49" />
         <mark key="." line="82" column="49" />
         <mark key="^" line="82" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestCoreModule.kt" timestamp="1559119190669">
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestCoreModule.kt" timestamp="1559121731294">
         <mark key="'" line="5" column="11" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLES20.java" timestamp="1559034659652">
         <mark key="'" line="23" column="13" />
@@ -291,43 +349,51 @@
       <jump line="44" column="6" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/schedule/ScheduleFragmentsTest.kt" />
       <jump line="44" column="46" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/top/TopFragmentTest.kt" />
       <jump line="5" column="11" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestCoreModule.kt" />
+      <jump line="12" column="11" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestRepositoryModule.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponent.kt" />
+      <jump line="61" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.willowtreeapps.hyperion/hyperion-core/0.9.27/8485f97fd7bf7de081deb6e2c5fdeef06c8c2ac9/hyperion-core-0.9.27-sources.jar!/com/willowtreeapps/hyperion/core/internal/InstallationLifecycleDelegate.java" />
+      <jump line="59" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.willowtreeapps.hyperion/hyperion-core/0.9.27/8485f97fd7bf7de081deb6e2c5fdeef06c8c2ac9/hyperion-core-0.9.27-sources.jar!/com/willowtreeapps/hyperion/core/internal/InstallationLifecycleDelegate.java" />
+      <jump line="11" column="6" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/DeviceModule.kt" />
+      <jump line="10" column="11" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/CoreApp.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/CoreApp.kt" />
+      <jump line="5" column="10" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/BaseComponent.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>./gradlew testDevelopReleaseUnitTest</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBAU2luZ2xldG9uCiAgQFByb3ZpZGVzCiAgZnVuIHByb3ZpZGVPa0h0dHBDbGllbnRGb3JBcGkoCiAgICBhcHA6IENvbnRleHQsCiAgICBhcGlUb2tlblNlcnZpY2U6IEFwaVRva2VuU2VydmljZSwKICAgIGRldmljZTogRGV2aWNlSW5mbwogICk6IE9rSHR0cENsaWVudCA9IGJ1aWxkT2tIdHRwQ2xpZW50KGFwcCwgYXBpVG9rZW5TZXJ2aWNlLCBkZXZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb25WaWV3KHdpdGhJZChSLmlkLikpLmNoZWNrIHsgdmlldywgZSAtPgogICAgICB9CgogICAgICBvblZpZXcod2l0aElkKFIuaWQucmVjeWNsZXJfdG9wKSkuY2hlY2soaXRlbUNvdW50KDgpKQo=</text>
+        <text encoding="base64">ICAgIGNvcmVDb21wb25lbnQuaW5qZWN0KHRoaXMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGUpLmlzTnVsbCgpCiAgICAgICAgYXNzZXJ0VGhhdCgodmlldyBhcyBNdWx0aVN3aXRjaFZpZXcpLnNlbGVjdGVkSW5kZXgpLmlzRXF1YWxUbygxKQo=</text>
+        <text encoding="base64">ICAgIGNvcmVDb21wb25lbnQuaW5qZWN0KHRoaXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvRXZlcnkgeyBtb2NrS2VpcmluLmdldFRvcCgpIH0gcmV0dXJucyBkdW1teVRvcEtlaXJpbkNvbW1vblJlc3BvbnNlKCkK</text>
+        <text encoding="base64">ICAgIGNvcmVDb21wb25lbnQuaW5qZWN0KHRoaXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAVGVzdAoK</text>
+        <text encoding="base64">ICAgIGFwcDogQ29udGV4dCwKICAgIGFwaVRva2VuU2VydmljZTogQXBpVG9rZW5TZXJ2aWNlLAogICAgZGV2aWNlOiBEZXZpY2VJbmZvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQWNjZXNzaWJpbGl0eUNoZWNrcy5lbmFibGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QFNpbmdsZXRvbgpAUHJvdmlkZXMKZnVuIHByb3ZpZGVPa0h0dHBDbGllbnRGb3JBcGkoCiAgYXBwOiBDb250ZXh0LAogIGFwaVRva2VuU2VydmljZTogQXBpVG9rZW5TZXJ2aWNlLAogIGRldmljZTogRGV2aWNlSW5mbwopOiBPa0h0dHBDbGllbnQgPSBidWlsZE9rSHR0cENsaWVudChhcHAsIGFwaVRva2VuU2VydmljZSwgZGV2aWNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgQEJlZm9yZUNsYXNzIEBKdm1TdGF0aWMKICBmdW4gcHJlcGFyZSgpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZ2V0KCkgPSBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBpbml0aWFsaXplciBvZiBjcmVhdGVkIHByb3BlcnRpZXMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb20K</text>
+        <text encoding="base64">ICAgIHJldHVybiBhcHAuZ2V0U2hhcmVkUHJlZmVyZW5jZXMoIkNMIiwgQ29udGV4dC5NT0RFX1BSSVZBVEUpCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAVGVzdAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>switch_race_schedule</text>
+        <text encoding="base64">IDogQmFzZUNvbXBvbmVudDxDb3JlQXBwPg==</text>
       </register>
     </registers>
     <search>
@@ -342,21 +408,21 @@
         <entry>action Switcher</entry>
         <entry>.action GotoAction</entry>
         <entry>action CloseEditor</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action Run</entry>
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
