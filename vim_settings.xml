@@ -109,11 +109,11 @@
         <mark key="^" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/OSS/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/model/effects/filter/core/TitleEffect.kt" timestamp="1559198630063" />
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559208422693">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="106" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="62" column="57" />
+      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559210572115">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="90" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" timestamp="1559199903045">
         <mark key="'" line="0" column="0" />
@@ -158,7 +158,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559206524250">
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559210592727">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="31" column="71" />
         <mark key="]" line="31" column="83" />
@@ -283,40 +283,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIEZyYWdtZW50IHRlc3Qgc2hvdWxkIGJlIGluY2x1ZGVkIGluIGRlYnVnIGFwaywgc2VlIGh0dHBzOi8vaXNzdWV0cmFja2VyLmdvb2dsZS5jb20vaXNzdWVzLzEyMjMyMTE1MAo=</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5MaWZlQ3ljbGUuZXh0ZW5zaW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uKFZlcnNpb25zLkFuZHJvaWRYLlRlc3QuZnJhZ21lbnQpCg==</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5MaWZlQ3ljbGUuZXh0ZW5zaW9uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguVGVzdC5mcmFnbWVudCkK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguTGlmZUN5Y2xlLmV4dGVuc2lvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uOQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uKFZlcnNpb25zLkFuZHJvaWRYLlRlc3QuZnJhZ21lbnQpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguVGVzdC5mcmFnbWVudCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uOQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KQo=</text>
+        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uKFZlcnNpb25zLkFuZHJvaWRYLlRlc3QuZnJhZ21lbnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb25WaWV3KigpCg==</text>
+        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
-        <text>debugImplementation</text>
+        <text>testImplementation</text>
       </register>
     </registers>
     <search>
@@ -335,17 +335,17 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
