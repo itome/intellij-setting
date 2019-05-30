@@ -3,15 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/GPUImageSample/build.gradle" timestamp="1559199865594">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/TestCoreApp.kt" timestamp="1559179256239">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="67" />
+        <mark key="." line="17" column="67" />
+        <mark key="^" line="17" column="67" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.2.0-alpha01/533a0cd1a095abbdfd08a49c4d34bd0713977034/lifecycle-runtime-2.2.0-alpha01-sources.jar!/androidx/lifecycle/LifecycleRegistry.java" timestamp="1559205232114" />
       <file name="$USER_HOME$/Projects/winticket/android/versions.gradle" timestamp="1559194021609">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="35" />
         <mark key="." line="77" column="63" />
         <mark key="^" line="77" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/error/ErrorFragmentTest.kt" timestamp="1559201075838">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/res/layout/activity_nav_host.xml" timestamp="1559205563716">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+        <mark key="^" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/AndroidManifest.xml" timestamp="1559204517182">
         <mark key="[" line="8" column="0" />
@@ -25,17 +39,51 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559210572115">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="90" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" timestamp="1559199903045">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="62" />
+        <mark key="]" line="33" column="63" />
+        <mark key="." line="33" column="63" />
+        <mark key="^" line="33" column="63" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/installedapp/src/main/AndroidManifest.xml" timestamp="1559202389565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.1-alpha04/40a36b3426cde38b7eb2375034e358152366dc9a/junit-1.1.1-alpha04-sources.jar!/androidx/test/ext/junit/runners/AndroidJUnit4.java" timestamp="1559192833946">
-        <mark key="'" line="69" column="14" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponentProvider.kt" timestamp="1559126010166">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" timestamp="1559211980024">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/app/build/generated/ap_generated_sources/developDebug/out/androidx/databinding/DataBinderMapperImpl.java" timestamp="1559211924921" />
       <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" timestamp="1559205899192">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="77" />
         <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/app/src/main/AndroidManifest.xml" timestamp="1559202607298">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/main/res/layout/fragment_search_home.xml" timestamp="1559201439617">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/ui/TestNavHostActivity.kt" timestamp="1559205286920">
         <mark key="[" line="7" column="75" />
@@ -50,6 +98,13 @@
         <mark key="^" line="106" column="44" />
         <mark key="." line="107" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" timestamp="1559194852052">
+        <mark key="'" line="94" column="7" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/TestDeviceModule.kt" timestamp="1559181293003">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="19" />
@@ -63,6 +118,11 @@
         <mark key="^" line="16" column="48" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/OSS/cliplog-android/library/build.gradle" timestamp="1559203069497">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/TestCoreComponent.kt" timestamp="1559190333369">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="19" column="32" />
@@ -75,88 +135,15 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" timestamp="1559208413211">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559186256748">
-        <mark key="'" line="139" column="52" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="139" column="5" />
-      </file>
-      <file name="$USER_HOME$/OSS/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/model/Filter.kt" timestamp="1559200339446" />
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/TestCoreApp.kt" timestamp="1559179256239">
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="67" />
-        <mark key="." line="17" column="67" />
-        <mark key="^" line="17" column="67" />
-      </file>
-      <file name="$USER_HOME$/OSS/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/ui/renderer/GLVideoTextureView.kt" timestamp="1559197724607" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/annotations/4.1/b8503348f8a091b55d3dc9f928747d83c6244c5e/annotations-4.1-sources.jar!/org/robolectric/annotation/AccessibilityChecks.java" timestamp="1559200916263" />
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/error/ErrorFragmentTest.kt" timestamp="1559201075838">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/res/layout/activity_nav_host.xml" timestamp="1559205563716">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="42" />
-        <mark key="." line="14" column="42" />
-        <mark key="^" line="14" column="42" />
-      </file>
-      <file name="$USER_HOME$/OSS/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/model/effects/filter/core/TitleEffect.kt" timestamp="1559198630063" />
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559210572115">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="90" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" timestamp="1559199903045">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="62" />
-        <mark key="]" line="33" column="63" />
-        <mark key="." line="33" column="63" />
-        <mark key="^" line="33" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponentProvider.kt" timestamp="1559126010166">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/app/src/main/AndroidManifest.xml" timestamp="1559202607298">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="19" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/main/res/layout/fragment_search_home.xml" timestamp="1559201439617">
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="30" />
-        <mark key="^" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" timestamp="1559194852052">
-        <mark key="'" line="94" column="7" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="43" column="51" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/OSS/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/model/effects/filter/core/FadeOutEffect.kt" timestamp="1559198054091" />
-      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/MainActivity.kt" timestamp="1559199853690" />
-      <file name="$USER_HOME$/OSS/cliplog-android/library/build.gradle" timestamp="1559203069497">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/search/SearchHomeFragmentTest.kt" timestamp="1559201091709">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" timestamp="1559211529914">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559210592727">
         <mark key="'" line="34" column="0" />
@@ -165,8 +152,12 @@
         <mark key="." line="31" column="83" />
         <mark key="^" line="31" column="83" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/17fa7e6854f8d7a174632aaea1adcb71/material-1.1.0-alpha06/res/values/values.xml" timestamp="1559195473554">
-        <mark key="'" line="1718" column="17" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559186256748">
+        <mark key="'" line="139" column="52" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="139" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/winticket/android/mobile/build.gradle" timestamp="1559194025606">
         <mark key="[" line="174" column="62" />
@@ -174,14 +165,8 @@
         <mark key="." line="174" column="62" />
         <mark key="^" line="171" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/gradle.properties" timestamp="1559192431099">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/OSS/cliplog-android/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageFilterGroupEx.java" timestamp="1559198815772" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Utilities/LoadMoreAdapter.swift" />
-      <jump line="15" column="32" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" />
       <jump line="112" column="61" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" />
       <jump line="18" column="11" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" />
       <jump line="122" column="35" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" />
@@ -280,43 +265,45 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUImageSample/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5MaWZlQ3ljbGUuZXh0ZW5zaW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5MaWZlQ3ljbGUuZXh0ZW5zaW9uKQo=</text>
+        <text encoding="base64">CmltcG9ydCBhbmRyb2lkeC5kYXRhYmluZGluZy5NZXJnZWREYXRhQmluZGVyTWFwcGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguTGlmZUN5Y2xlLmV4dGVuc2lvbikK</text>
+        <text encoding="base64">cGFja2FnZSBqcC5jbGRoLnNpZ25pbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uKFZlcnNpb25zLkFuZHJvaWRYLlRlc3QuZnJhZ21lbnQpCg==</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24oImFuZHJvaWQuYXJjaC5saWZlY3ljbGU6bGl2ZWRhdGE6MS4xLjAiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguVGVzdC5mcmFnbWVudCkK</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5MaWZlQ3ljbGUuZXh0ZW5zaW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KQo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguTGlmZUN5Y2xlLmV4dGVuc2lvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uOQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uKFZlcnNpb25zLkFuZHJvaWRYLlRlc3QuZnJhZ21lbnQpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguVGVzdC5mcmFnbWVudCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KQo=</text>
+        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uOQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>testImplementation</text>
+        <text>Data</text>
       </register>
     </registers>
     <search>
@@ -338,14 +325,14 @@
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
         <entry>action Find</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
-        <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
