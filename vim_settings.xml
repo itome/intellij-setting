@@ -40,10 +40,7 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559210572115">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="90" column="28" />
+        <mark key="^" line="81" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" timestamp="1559199903045">
         <mark key="'" line="0" column="0" />
@@ -68,12 +65,6 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/app/build/generated/ap_generated_sources/developDebug/out/androidx/databinding/DataBinderMapperImpl.java" timestamp="1559211924921" />
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" timestamp="1559205899192">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="77" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/app/src/main/AndroidManifest.xml" timestamp="1559202607298">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="12" column="0" />
@@ -91,12 +82,11 @@
         <mark key="." line="7" column="74" />
         <mark key="^" line="7" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" timestamp="1559205910733">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="106" column="44" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" timestamp="1559266893811">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" timestamp="1559194852052">
         <mark key="'" line="94" column="7" />
@@ -141,9 +131,9 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" timestamp="1559211529914">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559210592727">
         <mark key="'" line="34" column="0" />
@@ -300,10 +290,10 @@
         <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uOQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
-        <text>Data</text>
+        <text>{</text>
       </register>
     </registers>
     <search>
@@ -323,9 +313,7 @@
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
@@ -333,6 +321,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
