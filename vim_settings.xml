@@ -49,6 +49,11 @@
         <mark key="." line="33" column="63" />
         <mark key="^" line="33" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/PasswordValidator.kt" timestamp="1559267892329">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/installedapp/src/main/AndroidManifest.xml" timestamp="1559202389565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="0" />
@@ -95,6 +100,7 @@
         <mark key="^" line="43" column="51" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/Validator.kt" timestamp="1559267609601" />
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/TestDeviceModule.kt" timestamp="1559181293003">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="19" />
@@ -118,6 +124,9 @@
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" timestamp="1559267639378">
+        <mark key="'" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" timestamp="1559190930455">
         <mark key="[" line="8" column="0" />
@@ -157,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="61" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" />
       <jump line="18" column="11" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" />
       <jump line="122" column="35" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" />
       <jump line="66" column="4" filename="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" />
@@ -257,40 +265,41 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" />
+      <jump line="15" column="44" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5MaWZlQ3ljbGUuZXh0ZW5zaW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmltcG9ydCBhbmRyb2lkeC5kYXRhYmluZGluZy5NZXJnZWREYXRhQmluZGVyTWFwcGVyCg==</text>
+        <text encoding="base64">ICAgIExvZy5kKCJob2dlaG9nZSIsICJwYXNzd29yZCByZWFkIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBqcC5jbGRoLnNpZ25pbgo=</text>
+        <text encoding="base64">CmltcG9ydCBhbmRyb2lkeC5kYXRhYmluZGluZy5NZXJnZWREYXRhQmluZGVyTWFwcGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24oImFuZHJvaWQuYXJjaC5saWZlY3ljbGU6bGl2ZWRhdGE6MS4xLjAiKQo=</text>
+        <text encoding="base64">cGFja2FnZSBqcC5jbGRoLnNpZ25pbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5MaWZlQ3ljbGUuZXh0ZW5zaW9uKQo=</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24oImFuZHJvaWQuYXJjaC5saWZlY3ljbGU6bGl2ZWRhdGE6MS4xLjAiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguTGlmZUN5Y2xlLmV4dGVuc2lvbikK</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5MaWZlQ3ljbGUuZXh0ZW5zaW9uKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uKFZlcnNpb25zLkFuZHJvaWRYLlRlc3QuZnJhZ21lbnQpCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguTGlmZUN5Y2xlLmV4dGVuc2lvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguVGVzdC5mcmFnbWVudCkK</text>
+        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uKFZlcnNpb25zLkFuZHJvaWRYLlRlc3QuZnJhZ21lbnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KQo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguVGVzdC5mcmFnbWVudCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWJ1Z0ltcGxlbWVudGF0aW9uOQo=</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -314,15 +323,15 @@
         <entry>action GotoImplementation</entry>
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
