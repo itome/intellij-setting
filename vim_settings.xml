@@ -23,6 +23,7 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/di/AppComponent.kt" timestamp="1559366808330" />
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyUserProto.kt" timestamp="1559287710692">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="0" />
@@ -33,12 +34,19 @@
         <mark key="[" line="18" column="16" />
         <mark key="]" line="18" column="87" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" timestamp="1559288338714">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInInstagramActivity.kt" timestamp="1559294614481">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/debug/java/work/newinnovations/director/util/Stethoes.kt" timestamp="1559366465007" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.30/1093224407fb1a6f5b79358044a2836bb3d899fd/kotlin-stdlib-1.3.30-sources.jar!/kotlin/Enum.kt" timestamp="1559294439487" />
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/TestCoreApp.kt" timestamp="1559288597952">
         <mark key="[" line="15" column="53" />
@@ -60,6 +68,7 @@
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/ReceptionDummyFragment.kt" timestamp="1559366399023" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-accessibility/3.2.0-alpha04/1ce650f91e16a300a352dc1bb6b8810ec679c7c9/espresso-accessibility-3.2.0-alpha04-sources.jar!/androidx/test/espresso/accessibility/AccessibilityChecks.java" timestamp="1559295957422" />
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" timestamp="1559297155380">
         <mark key="'" line="0" column="0" />
@@ -79,6 +88,13 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/error/ErrorFragmentTest.kt" timestamp="1559284645954">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/BrewFragment.kt" timestamp="1559366292913" />
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/data/proto/DummyUserProto.kt" timestamp="1559291216668">
         <mark key="[" line="31" column="11" />
         <mark key="]" line="31" column="40" />
@@ -95,6 +111,12 @@
         <mark key="]" line="22" column="22" />
         <mark key="^" line="20" column="21" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/repository/network/RetrofitFactory.kt" timestamp="1559366781201">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559297141200">
         <mark key="a" line="152" column="6" />
@@ -251,7 +273,7 @@
         <text encoding="base64">ICAgICAgdmFsIGluc3RhZ3JhbUNvZGUgPSAibW9ja19pbnN0YWdyYW1fY29kZSIKICAgICAgdmFsIGxvZ2luRGF0YSA9IEludGVudCgpCiAgICAgICAgLnB1dEV4dHJhKEtFWV9JTlNUQUdSQU1fQ09ERSwgaW5zdGFncmFtQ29kZSkKICAgICAgaXQub25BY3Rpdml0eVJlc3VsdChSRVFVRVNUX0lOU1RBR1JBTV9TSUdOX0lOLCBBY3Rpdml0eS5SRVNVTFRfT0ssIGxvZ2luRGF0YSkKICAgICAgY29WZXJpZnkoZXhhY3RseSA9IDEpIHsgYXV0aE1vY2suYXV0aEluc3RhZ3JhbShlcShpbnN0YWdyYW1Db2RlKSwgYW55KCkpIH0KICAgICAgY29WZXJpZnkoZXhhY3RseSA9IDEpIHsgZmlyZWJhc2VBdXRoZW50aWNhdG9yTW9jay5zaWduSW5XaXRoQ3VzdG9tVG9rZW4oZXEoQ1VTVE9NX1RPS0VOKSkgfQogICAgICBjb1ZlcmlmeShleGFjdGx5ID0gMSkgeyBhdXRoTW9jay5hdXRoKGVxKEZJUkVCQVNFX1RPS0VOKSkgfQogICAgICBjb1ZlcmlmeShleGFjdGx5ID0gMSkgeyB1c2VyTW9jay5nZXRVc2VyKCkgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>AccessibilityHierarchy</text>
@@ -269,10 +291,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>action Run</entry>
         <entry>.,.+7action ParameterInfo</entry>
-        <entry>action GotoAction</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
@@ -282,8 +302,10 @@
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
