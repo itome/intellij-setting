@@ -3,17 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" timestamp="1559270318206">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/error/ErrorFragmentTest.kt" timestamp="1559284645954">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/build/generated/source/buildConfig/develop/debug/jp/cldh/signin/BuildConfig.java" timestamp="1559293433997" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" timestamp="1559294622502">
+        <mark key="'" line="150" column="29" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="38" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/winticket/android/mobile/src/main/res/layout/fragment_error.xml" timestamp="1559284864170">
         <mark key="[" line="45" column="32" />
@@ -21,116 +17,107 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/AndroidManifest.xml" timestamp="1559282902285">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/data/proto/DummyAuthProto.kt" timestamp="1559291248889">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+        <mark key="^" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/PasswordValidator.kt" timestamp="1559267892329">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyUserProto.kt" timestamp="1559287710692">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" timestamp="1559282800188">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/repository/FirebaseAuthenticatorRepository.kt" timestamp="1559292564913">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/AndroidManifest.xml" timestamp="1559279141842" />
-      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/TestCoreApp.kt" timestamp="1559282263795" />
-      <file name="$USER_HOME$/Projects/love/android/app/src/main/AndroidManifest.xml" timestamp="1559270409124">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="19" column="39" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInInstagramActivity.kt" timestamp="1559294614481">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/test/build.gradle.kts" timestamp="1559281635237">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.30/1093224407fb1a6f5b79358044a2836bb3d899fd/kotlin-stdlib-1.3.30-sources.jar!/kotlin/Enum.kt" timestamp="1559294439487" />
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/TestCoreApp.kt" timestamp="1559288597952">
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="78" />
+        <mark key="^" line="15" column="78" />
+        <mark key="." line="15" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/test/build.gradle.kts" timestamp="1559292048213">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" timestamp="1559284340363">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/race/prediction/PredictionFragmentTest.kt" timestamp="1559295229795">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559279434947">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/activity_sign_in_instagram.xml" timestamp="1559294726336">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" timestamp="1559278041226">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
-      <file name="$USER_HOME$/OSS/cliplog-android/library/build.gradle" timestamp="1559203069497">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" timestamp="1559284372836">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-accessibility/3.2.0-alpha04/1ce650f91e16a300a352dc1bb6b8810ec679c7c9/espresso-accessibility-3.2.0-alpha04-sources.jar!/androidx/test/espresso/accessibility/AccessibilityChecks.java" timestamp="1559295957422" />
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" timestamp="1559297155380">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="69" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/search/SearchHomeFragmentTest.kt" timestamp="1559201091709">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" timestamp="1559279296088">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559284622888">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="3" column="103" />
-        <mark key="^" line="3" column="103" />
-      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/proto/UserProto.java" timestamp="1559291149325" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/annotations/4.3-alpha-2/5a0bb3f53f89416259082819160e54198666468a/annotations-4.3-alpha-2-sources.jar!/org/robolectric/annotation/AccessibilityChecks.java" timestamp="1559283607710">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" timestamp="1559284010802" />
-      <file name="$USER_HOME$/Projects/love/android/gradle.properties" timestamp="1559272137616">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/UserStore.kt" timestamp="1559293421864">
+        <mark key="'" line="45" column="46" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/data/proto/DummyUserProto.kt" timestamp="1559291216668">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="40" />
+        <mark key="." line="31" column="40" />
+        <mark key="^" line="31" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/AndroidManifest.xml" timestamp="1559279141842" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1559294784704">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInTwitterActivity.kt" timestamp="1559294600092">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559297141200">
+        <mark key="a" line="152" column="6" />
+        <mark key="'" line="72" column="9" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/store/UserStoreTest.kt" timestamp="1559293991386">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="219" column="52" />
+        <mark key="^" line="75" column="51" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/themes.xml" timestamp="1559278559349">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="77" />
       </file>
-      <file name="/fragment.java" timestamp="1559279434968">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" timestamp="1559293436016">
+        <mark key="'" line="33" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_accent_primary_dark_rectangle_radius24.xml" />
-      <jump line="71" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/ImageButton.java" />
-      <jump line="41" column="23" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
-      <jump line="156" column="37" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
-      <jump line="12" column="1" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
-      <jump line="163" column="25" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
-      <jump line="173" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
-      <jump line="55" column="34" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/ControllerView.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/ControllerView.kt" />
-      <jump line="59" column="31" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/ControllerView.kt" />
-      <jump line="182" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.0/6a5da536f6d30a29b9f3038d8d645f39a29b798b/exoplayer-ui-2.10.0-sources.jar!/com/google/android/exoplayer2/ui/DefaultTimeBar.java" />
-      <jump line="180" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
-      <jump line="99" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
-      <jump line="64" column="25" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
-      <jump line="1" column="32" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle.xml" />
-      <jump line="199" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_controller.xml" />
-      <jump line="4" column="8" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle.xml" />
-      <jump line="1" column="7" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_oval.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_oval.xml" />
-      <jump line="23" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLES20.java" />
-      <jump line="10" column="15" filename="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" />
       <jump line="396" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/TextureMovieEncoder.java" />
       <jump line="198" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/VideoEncoderCore.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/EglCore.java" />
@@ -183,7 +170,6 @@
       <jump line="13" column="11" filename="$USER_HOME$/Projects/love/android/features/test/src/test/java/jp/cldh/test/di/TestRepositoryModule.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/test/build.gradle.kts" />
       <jump line="57" column="28" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
       <jump line="49" column="12" filename="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/fragment_player_mock.xml" />
@@ -209,43 +195,66 @@
       <jump line="106" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
       <jump line="10" column="11" filename="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" />
+      <jump line="34" column="6" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
+      <jump line="128" column="24" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
+      <jump line="45" column="46" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/UserStore.kt" />
+      <jump line="46" column="2" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="6" column="32" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyAuthProto.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyAuthProto.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyUserProto.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/core/build.gradle.kts" />
+      <jump line="21" column="7" filename="$USER_HOME$/Projects/love/android/features/signin/proguard-rules.pro" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/proguard-rules.pro" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/proguard-rules.pro" />
+      <jump line="81" column="24" filename="$USER_HOME$/Projects/love/android/features/test/proguard-rules.pro" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/test/proguard-rules.pro" />
+      <jump line="25" column="6" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" />
+      <jump line="75" column="29" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="87" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="33" column="55" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" />
+      <jump line="146" column="29" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
+      <jump line="131" column="67" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="96" column="61" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="73" column="9" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb21wYW5pb24gb2JqZWN0IHsKICAgIEBCZWZvcmVDbGFzcwogICAgQEp2bVN0YXRpYwogICAgZnVuIGVuYWJsZUFjY2Vzc2liaWxpdHlDaGVja3MoKSB7CiAgICAgIEFjY2Vzc2liaWxpdHlDaGVja3MuZW5hYmxlKCkuc2V0UnVuQ2hlY2tzRnJvbVJvb3RWaWV3KHRydWUpCiAgICB9CiAgfQoK</text>
+        <text encoding="base64">ICAgIGNsZWFyTW9ja3MobW9ja0tlaXJpbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5yb2JvbGVjdHJpYy5hbm5vdGF0aW9uLkFjY2Vzc2liaWxpdHlDaGVja3MK</text>
+        <text encoding="base64">ICB9CgogIGZ1biBjbGVhckFsbE1vY2tzKCkgewogICAgY2xlYXJNb2NrcyhhdXRoTW9jaywgdXNlck1vY2ssIGZpcmViYXNlQXV0aGVudGljYXRvck1vY2ssIHR3aXR0ZXJVc2VyTW9jaykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEFjY2Vzc2liaWxpdHlDaGVja3MoZW5hYmxlZCA9IHRydWUpCg==</text>
+        <text encoding="base64">ICBAVGVzdAogIGZ1biB0ZXN0U3RhcnRUd2l0dGVyU2lnbkluKCkgewogICAgRnJhZ21lbnRTY2VuYXJpby5sYXVuY2hJbkNvbnRhaW5lcihTaWduSW5GcmFnbWVudDo6Y2xhc3MuamF2YSkub25GcmFnbWVudCB7CiAgICAgIG9uVmlldyh3aXRoSWQoUi5pZC5pbWFnZV9idXR0b25fc2lnbl9pbl90d2l0dGVyKSkucGVyZm9ybShjbGljaygpKQogICAgICBvblZpZXcod2l0aElkKFIuaWQuc2lnbl9pbl90b29sYmFyKSkuY2hlY2sobWF0Y2hlcyhpc0Rpc3BsYXllZCgpKSkKICAgIH0KICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAVGVzdAogIGZ1biB0ZXN0U3RhcnRJbnN0YWdyYW1TaWduSW4oKSB7CiAgICBGcmFnbWVudFNjZW5hcmlvLmxhdW5jaEluQ29udGFpbmVyKFNpZ25JbkZyYWdtZW50OjpjbGFzcy5qYXZhKS5vbkZyYWdtZW50IHsKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLmltYWdlX2J1dHRvbl9zaWduX2luX2luc3RhZ3JhbSkpLnBlcmZvcm0oY2xpY2soKSkKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnNpZ25faW5fdG9vbGJhcikpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCiAgICB9CiAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CiAgQFRlc3QKICBmdW4gdGVzdFN0YXJ0VHdpdHRlclNpZ25JbigpIHsKICAgIEZyYWdtZW50U2NlbmFyaW8ubGF1bmNoSW5Db250YWluZXIoU2lnbkluRnJhZ21lbnQ6OmNsYXNzLmphdmEpLm9uRnJhZ21lbnQgewogICAgICBvblZpZXcod2l0aElkKFIuaWQuaW1hZ2VfYnV0dG9uX3NpZ25faW5fdHdpdHRlcikpLnBlcmZvcm0oY2xpY2soKSkKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnNpZ25faW5fdG9vbGJhcikpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCiAgICB9CiAgfQoKICBAVGVzdAogIGZ1biB0ZXN0U3RhcnRJbnN0YWdyYW1TaWduSW4oKSB7CiAgICBGcmFnbWVudFNjZW5hcmlvLmxhdW5jaEluQ29udGFpbmVyKFNpZ25JbkZyYWdtZW50OjpjbGFzcy5qYXZhKS5vbkZyYWdtZW50IHsKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLmltYWdlX2J1dHRvbl9zaWduX2luX2luc3RhZ3JhbSkpLnBlcmZvcm0oY2xpY2soKSkKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnNpZ25faW5fdG9vbGJhcikpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICBjb25zdCB2YWwgY29yZSA9ICJhbmRyb2lkeC50ZXN0OmNvcmU6MS4yLjAtYWxwaGEwNCIKICAgICAgY29uc3QgdmFsIHJ1bm5lciA9ICJhbmRyb2lkeC50ZXN0OnJ1bm5lcjoxLjIuMC1hbHBoYTA0IgogICAgICBjb25zdCB2YWwgcnVsZXMgPSAiYW5kcm9pZHgudGVzdDpydWxlczoxLjIuMC1hbHBoYTA0IgogICAgICBjb25zdCB2YWwganVuaXQgPSAiYW5kcm9pZHgudGVzdC5leHQ6anVuaXQ6MS4xLjEtYWxwaGEwNCIKICAgICAgY29uc3QgdmFsIHRydXRoID0gImFuZHJvaWR4LnRlc3QuZXh0OnRydXRoOjEuMi4wLWFscGhhMDQiCiAgICAgIHByaXZhdGUgY29uc3QgdmFsIGVzcHJlc3NvVmVyc2lvbiA9ICIzLjIuMC1hbHBoYTA0Igo+Pj4+Pj4+IEFkZCBzaWduIGluIGZyYWdtZW50IHRlc3QK</text>
+        <text encoding="base64">ICAgIHZhbCBhcHAgPSBBcHBsaWNhdGlvblByb3ZpZGVyLmdldEFwcGxpY2F0aW9uQ29udGV4dDxUZXN0Q29yZUFwcD4oKQogICAgKGFwcC5jb3JlQ29tcG9uZW50IGFzIFRlc3RDb3JlQ29tcG9uZW50KS5pbmplY3QodGhpcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdmFsIGZyYWdtZW50ID0gImFuZHJvaWR4LmZyYWdtZW50OmZyYWdtZW50LXRlc3Rpbmc6MS4xLjAtYWxwaGEwNyIK</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGVzKAogICAgICAgICAgd2l0aFRleHQoCiAgICAgICAgICAgIGFwcC5nZXRTdHJpbmcoUmVzUi5zdHJpbmcuc2lnbl9pbl90ZXJtc19vZl9zZXJ2aWNlX3ByZSkgKwogICAgICAgICAgICAgIGFwcC5nZXRTdHJpbmcoUmVzUi5zdHJpbmcuc2lnbl9pbl90ZXJtc19vZl9zZXJ2aWNlKSArCiAgICAgICAgICAgICAgYXBwLmdldFN0cmluZyhSZXNSLnN0cmluZy5zaWduX2luX3Rlcm1zX29mX3NlcnZpY2Vfc3VmKQogICAgICAgICAgKQogICAgICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5yb2JvbGVjdHJpYy5hbm5vdGF0aW9uLkFjY2Vzc2liaWxpdHlDaGVja3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEFjY2Vzc2liaWxpdHlDaGVja3MK</text>
+        <text encoding="base64">ICAgIHZhbCBhcHAgPSBBcHBsaWNhdGlvblByb3ZpZGVyLmdldEFwcGxpY2F0aW9uQ29udGV4dDxUZXN0Q29yZUFwcD4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUm9ib2xlY3RyaWMub25DbGljaygpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGluc3RhZ3JhbUNvZGUgPSAibW9ja19pbnN0YWdyYW1fY29kZSIKICAgICAgdmFsIGxvZ2luRGF0YSA9IEludGVudCgpCiAgICAgICAgLnB1dEV4dHJhKEtFWV9JTlNUQUdSQU1fQ09ERSwgaW5zdGFncmFtQ29kZSkKICAgICAgaXQub25BY3Rpdml0eVJlc3VsdChSRVFVRVNUX0lOU1RBR1JBTV9TSUdOX0lOLCBBY3Rpdml0eS5SRVNVTFRfT0ssIGxvZ2luRGF0YSkKICAgICAgY29WZXJpZnkoZXhhY3RseSA9IDEpIHsgYXV0aE1vY2suYXV0aEluc3RhZ3JhbShlcShpbnN0YWdyYW1Db2RlKSwgYW55KCkpIH0KICAgICAgY29WZXJpZnkoZXhhY3RseSA9IDEpIHsgZmlyZWJhc2VBdXRoZW50aWNhdG9yTW9jay5zaWduSW5XaXRoQ3VzdG9tVG9rZW4oZXEoQ1VTVE9NX1RPS0VOKSkgfQogICAgICBjb1ZlcmlmeShleGFjdGx5ID0gMSkgeyBhdXRoTW9jay5hdXRoKGVxKEZJUkVCQVNFX1RPS0VOKSkgfQogICAgICBjb1ZlcmlmeShleGFjdGx5ID0gMSkgeyB1c2VyTW9jay5nZXRVc2VyKCkgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>AccessibilityHierarchy</text>
       </register>
     </registers>
     <search>
@@ -255,26 +264,26 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action CloseEditor</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action RenameElement</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action Switcher</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action Find</entry>
-        <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
+        <entry>.,.+7action ParameterInfo</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action FindInPath</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action GotoImplementation</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
+        <entry>action Back</entry>
+        <entry>action Find</entry>
+        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
