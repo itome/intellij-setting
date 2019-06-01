@@ -40,6 +40,7 @@
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" timestamp="1559267639378">
         <mark key="'" line="15" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/MainActivity.kt" timestamp="1559405890660" />
       <file name="$USER_HOME$/Projects/love/android/features/core/build.gradle.kts" timestamp="1559287737664">
         <mark key="'" line="0" column="0" />
       </file>
@@ -275,7 +276,7 @@
         <text encoding="base64">ICAgIHZhbCBhcHAgPSBBcHBsaWNhdGlvblByb3ZpZGVyLmdldEFwcGxpY2F0aW9uQ29udGV4dDxUZXN0Q29yZUFwcD4oKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>AccessibilityHierarchy</text>
@@ -301,13 +302,13 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action GotoAction</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
