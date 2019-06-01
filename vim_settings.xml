@@ -3,449 +3,283 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/teamj/lib/main.dart" timestamp="1555562975466">
-        <mark key="'" line="52" column="6" />
-        <mark key="[" line="25" column="45" />
-        <mark key="]" line="26" column="54" />
-        <mark key="^" line="26" column="54" />
-        <mark key="." line="26" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/android/keystore/release.gradle" timestamp="1555396560491">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" timestamp="1555893907938">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/api_client.dart" timestamp="1555648633438">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" timestamp="1555479998019">
-        <mark key="'" line="216" column="0" />
-        <mark key="[" line="103" column="65" />
-        <mark key="]" line="103" column="73" />
-        <mark key="." line="103" column="73" />
-        <mark key="^" line="103" column="73" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" timestamp="1555485916110">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_bloc.dart" timestamp="1555664258727">
-        <mark key="'" line="6" column="63" />
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="6" />
-        <mark key="^" line="18" column="6" />
-        <mark key="." line="18" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/post/post_action.dart" timestamp="1555377382290">
-        <mark key="'" line="15" column="30" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_bloc.dart" timestamp="1555549039723">
-        <mark key="'" line="11" column="52" />
-        <mark key="[" line="13" column="78" />
-        <mark key="]" line="13" column="79" />
-        <mark key="^" line="13" column="79" />
-        <mark key="." line="13" column="79" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/config.dart" timestamp="1555635682542">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/banner_notification.dart" timestamp="1555473762497">
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_action.dart" timestamp="1555549087590">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/new_post/new_post_error.dart" timestamp="1555304930738">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-        <mark key="." line="4" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" timestamp="1555664425366">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="31" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" timestamp="1555577407294">
-        <mark key="'" line="48" column="11" />
-        <mark key="[" line="87" column="69" />
-        <mark key="]" line="87" column="70" />
-        <mark key="." line="87" column="70" />
-        <mark key="^" line="87" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" timestamp="1555637497613">
-        <mark key="'" line="75" column="17" />
-        <mark key="[" line="33" column="67" />
-        <mark key="]" line="33" column="67" />
-        <mark key="." line="33" column="67" />
-        <mark key="^" line="33" column="67" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/user/user_action.dart" timestamp="1555310057309">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="23" />
-        <mark key="^" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/main/kotlin/jp/winticket/mobile/ui/players/PlayersFragment.kt" timestamp="1556644632324">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" timestamp="1555569491312">
-        <mark key="'" line="11" column="67" />
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="50" column="24" />
-        <mark key="." line="50" column="24" />
-        <mark key="^" line="50" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/model/easter_egg.dart" timestamp="1555664000840">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
-      </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" timestamp="1558370157912">
-        <mark key="'" line="1001" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/bloc/bloc.dart" timestamp="1555573579377">
-        <mark key="'" line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/animated_list_sample/lib/main.dart" timestamp="1558360737264">
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="27" />
-        <mark key="." line="53" column="27" />
-        <mark key="^" line="53" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" timestamp="1555491685741">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="44" />
-        <mark key="^" line="6" column="33" />
-        <mark key="." line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/new_post_screen.dart" timestamp="1555307969466">
-        <mark key="'" line="68" column="1" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/UserStore.kt" timestamp="1559293421864">
+        <mark key="'" line="45" column="46" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-        <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/main/kotlin/jp/winticket/mobile/di/ActivityBuilder.kt" timestamp="1556638821163">
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" timestamp="1559294622502">
+        <mark key="'" line="150" column="29" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="38" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/error/ErrorFragmentTest.kt" timestamp="1559284645954">
         <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/android/app/build.gradle" timestamp="1555396798196">
-        <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
-        <mark key="^" line="28" column="23" />
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/main/res/layout/fragment_error.xml" timestamp="1559284864170">
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="45" column="44" />
+        <mark key="^" line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" timestamp="1555482591469">
-        <mark key="'" line="13" column="57" />
-        <mark key="[" line="41" column="53" />
-        <mark key="]" line="41" column="59" />
-        <mark key="." line="41" column="59" />
-        <mark key="^" line="41" column="59" />
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/data/proto/DummyAuthProto.kt" timestamp="1559291248889">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+        <mark key="^" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/users_screen.dart" timestamp="1555480098461">
-        <mark key="'" line="19" column="7" />
-        <mark key="[" line="38" column="75" />
-        <mark key="]" line="38" column="75" />
-        <mark key="^" line="38" column="75" />
-        <mark key="." line="38" column="75" />
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/data/proto/DummyUserProto.kt" timestamp="1559291216668">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="40" />
+        <mark key="." line="31" column="40" />
+        <mark key="^" line="31" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/tag.dart" timestamp="1555401289347">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="39" column="23" />
-        <mark key="^" line="33" column="25" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyUserProto.kt" timestamp="1559287710692">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/assets/heart.flr" timestamp="1555655729040">
-        <mark key="'" line="58" column="16" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/repository/FirebaseAuthenticatorRepository.kt" timestamp="1559292564913">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/storage_remote_data_source.dart" timestamp="1555483911792">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" timestamp="1555579277783">
-        <mark key="[" line="76" column="43" />
-        <mark key="]" line="76" column="49" />
-        <mark key="^" line="76" column="49" />
-        <mark key="." line="76" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/pubspec.yaml" timestamp="1555636023520">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="31" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/users/users_bloc.dart" timestamp="1555477990851">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" timestamp="1555578854284">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/users/users_action.dart" timestamp="1555478247278">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/model/remote/timeline.dart" timestamp="1555577402226">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_action.dart" timestamp="1555664088512">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" timestamp="1555662557297">
-        <mark key="'" line="43" column="31" />
-        <mark key="[" line="162" column="32" />
-        <mark key="]" line="162" column="29" />
-        <mark key="." line="162" column="29" />
-        <mark key="^" line="162" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/mock/user_mock_data_source.dart" timestamp="1555308522012">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1559368139784">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="24" column="2" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/tag_detail/tag_detail_bloc.dart" timestamp="1555550381820">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="34" column="53" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" timestamp="1559288338714">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/tag_chips.dart" timestamp="1555316565460">
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="15" />
-        <mark key="^" line="22" column="15" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInInstagramActivity.kt" timestamp="1559294614481">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/bloc/bloc_provider.dart" timestamp="1555574076440">
-        <mark key="[" line="70" column="17" />
-        <mark key="]" line="70" column="17" />
-        <mark key="^" line="70" column="17" />
-        <mark key="." line="70" column="17" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/build.gradle.kts" timestamp="1559287737664">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" timestamp="1555639844221">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="17" column="5" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1559294784704">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" timestamp="1555637608402">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="100" column="49" />
-        <mark key="]" line="100" column="49" />
-        <mark key="^" line="100" column="49" />
-        <mark key="." line="100" column="49" />
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/TestCoreApp.kt" timestamp="1559288597952">
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="78" />
+        <mark key="^" line="15" column="78" />
+        <mark key="." line="15" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_action.dart" timestamp="1555405489454">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInTwitterActivity.kt" timestamp="1559294600092">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/repository/remote/classsify_remote_data_source.dart" timestamp="1555483895954">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="28" />
+      <file name="$USER_HOME$/Projects/love/android/features/test/build.gradle.kts" timestamp="1559292048213">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/teamj/lib/domain/user/user_bloc.dart" timestamp="1555482569800">
-        <mark key="'" line="37" column="30" />
-        <mark key="[" line="51" column="57" />
-        <mark key="]" line="51" column="63" />
-        <mark key="." line="51" column="63" />
-        <mark key="^" line="51" column="63" />
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/race/prediction/PredictionFragmentTest.kt" timestamp="1559295229795">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/activity_sign_in_instagram.xml" timestamp="1559294726336">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/usbserial/FtdiSerialPort.kt" timestamp="1559374076170" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" timestamp="1559267639378">
+        <mark key="'" line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" timestamp="1559297155380">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/repository/network/RetrofitFactory.kt" timestamp="1559366781201">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559297141200">
+        <mark key="a" line="152" column="6" />
+        <mark key="'" line="72" column="9" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/store/UserStoreTest.kt" timestamp="1559293991386">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="219" column="52" />
+        <mark key="^" line="75" column="51" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/annotations/4.3-alpha-2/5a0bb3f53f89416259082819160e54198666468a/annotations-4.3-alpha-2-sources.jar!/org/robolectric/annotation/AccessibilityChecks.java" timestamp="1559283607710">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/themes.xml" timestamp="1559278559349">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="77" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" timestamp="1559293436016">
+        <mark key="'" line="33" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
-      <jump line="70" column="17" filename="$USER_HOME$/Projects/teamj/lib/model/remote/post.dart" />
-      <jump line="75" column="42" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
-      <jump line="113" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" />
-      <jump line="27" column="26" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="98" column="17" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="99" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="105" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="146" column="25" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
-      <jump line="27" column="4" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
-      <jump line="3" column="34" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
-      <jump line="8" column="19" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
-      <jump line="127" column="5" filename="$USER_HOME$/Projects/teamj/lib/model/remote/classified_tag.dart" />
-      <jump line="5" column="6" filename="$USER_HOME$/Projects/teamj/lib/model/remote/classified_tag.dart" />
-      <jump line="5" column="59" filename="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" />
-      <jump line="10" column="67" filename="$USER_HOME$/Projects/teamj/lib/domain/favorite_tag/favorite_tag_bloc.dart" />
-      <jump line="3" column="15" filename="$USER_HOME$/Projects/teamj/lib/repository/tag_repository.dart" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
-      <jump line="23" column="40" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
-      <jump line="52" column="7" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
-      <jump line="35" column="25" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
-      <jump line="25" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
-      <jump line="16" column="2" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
-      <jump line="13" column="51" filename="$USER_HOME$/Projects/teamj/lib/domain/login/login_bloc.dart" />
-      <jump line="33" column="23" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
-      <jump line="127" column="12" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
-      <jump line="185" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_drawer.dart" />
-      <jump line="30" column="16" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
-      <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
-      <jump line="46" column="2" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" />
-      <jump line="43" column="2" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_bloc.dart" />
-      <jump line="43" column="11" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
-      <jump line="41" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/timeline/timeline_action.dart" />
-      <jump line="49" column="29" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
-      <jump line="57" column="29" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
-      <jump line="13" column="57" filename="$USER_HOME$/Projects/teamj/lib/domain/post/post_bloc.dart" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/users_screen.dart" />
-      <jump line="3" column="29" filename="$USER_HOME$/Projects/teamj/lib/domain/users/users_bloc.dart" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/teamj/lib/domain/users/users_bloc.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/user_repository.dart" />
-      <jump line="23" column="8" filename="$USER_HOME$/Projects/teamj/lib/repository/user_repository.dart" />
-      <jump line="9" column="24" filename="$USER_HOME$/Projects/teamj/lib/view/screen/users_screen.dart" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/timeline_item.dart" />
-      <jump line="17" column="7" filename="$USER_HOME$/Projects/teamj/lib/view/screen/users_screen.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/api_client.dart" />
-      <jump line="43" column="7" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
-      <jump line="89" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/user_remote_data_source.dart" />
-      <jump line="3" column="31" filename="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_bloc.dart" />
-      <jump line="11" column="52" filename="$USER_HOME$/Projects/teamj/lib/domain/timelines/timelines_bloc.dart" />
-      <jump line="21" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
-      <jump line="14" column="2" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/favorite_tag_screen.dart" />
-      <jump line="96" column="11" filename="$USER_HOME$/Projects/teamj/lib/view/screen/tag_detail_screen.dart" />
-      <jump line="101" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
-      <jump line="9" column="65" filename="$USER_HOME$/Projects/teamj/lib/repository/post_repository.dart" />
-      <jump line="115" column="69" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
-      <jump line="39" column="25" filename="$USER_HOME$/Projects/teamj/lib/repository/post_repository.dart" />
-      <jump line="37" column="31" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
-      <jump line="51" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
-      <jump line="31" column="4" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
-      <jump line="32" column="45" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
-      <jump line="65" column="15" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
-      <jump line="1" column="10" filename="$USER_HOME$/Projects/teamj/lib/bloc/bloc.dart" />
-      <jump line="35" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timeline_screen.dart" />
-      <jump line="48" column="11" filename="$USER_HOME$/Projects/teamj/lib/view/screen/timelines_screen.dart" />
-      <jump line="5" column="20" filename="$USER_HOME$/Projects/teamj/lib/model/remote/timeline.dart" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
-      <jump line="15" column="2" filename="$USER_HOME$/Projects/teamj/lib/repository/remote/post_remote_data_source.dart" />
-      <jump line="177" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="176" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="153" column="53" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="93" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="165" column="42" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="1364" column="28" filename="$USER_HOME$/Projects/teamj/assets/heart.flr" />
-      <jump line="58" column="16" filename="$USER_HOME$/Projects/teamj/assets/heart.flr" />
-      <jump line="161" column="42" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="42" column="59" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="43" column="31" filename="$USER_HOME$/Projects/teamj/lib/view/screen/post_detail_screen.dart" />
-      <jump line="11" column="24" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
-      <jump line="15" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
-      <jump line="3" column="31" filename="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_bloc.dart" />
-      <jump line="5" column="63" filename="$USER_HOME$/Projects/teamj/lib/domain/easter_egg/easter_egg_bloc.dart" />
-      <jump line="3" column="33" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/teamj/lib/view/component/loader.dart" />
-      <jump line="21" column="10" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
-      <jump line="13" column="2" filename="$USER_HOME$/Projects/teamj/lib/view/component/easter_egg_screen.dart" />
-      <jump line="30" column="9" filename="$USER_HOME$/Projects/animated_list_sample/lib/main.dart" />
-      <jump line="96" column="25" filename="$USER_HOME$/Projects/animated_list_sample/lib/main.dart" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/animated_list_sample/lib/main.dart" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/animated_list_sample/lib/main.dart" />
-      <jump line="919" column="11" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
-      <jump line="1546" column="0" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
-      <jump line="1001" column="16" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/EglCore.java" />
+      <jump line="362" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/EglCore.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/WindowSurface.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageMovieWriter.java" />
+      <jump line="43" column="7" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="41" column="49" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="121" column="28" filename="$USER_HOME$/Projects/love/android/features/player/build/generated/source/kapt/developDebug/jp/cldh/player/databinding/ViewPlayerControllerBindingImpl.java" />
+      <jump line="142" column="12" filename="$USER_HOME$/Projects/love/android/features/player/build/generated/source/kapt/developDebug/jp/cldh/player/databinding/ViewPlayerControllerBindingImpl.java" />
+      <jump line="142" column="23" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="34" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="9" column="7" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/TextBindingAdapters.kt" />
+      <jump line="139" column="52" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="16" column="15" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" />
+      <jump line="9" column="11" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/TestApp.kt" />
+      <jump line="24" column="31" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/search/player/SearchPlayerConditionsFragmentTest.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/search/player/SearchPlayerConditionsFragmentTest.kt" />
+      <jump line="18" column="37" filename="$USER_HOME$/Projects/love/android/installedapp/src/main/res/layout/activity_main.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/installedapp/src/main/res/layout/activity_main.xml" />
+      <jump line="61" column="17" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/TestNavHostActivity.kt" />
+      <jump line="209" column="37" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" />
+      <jump line="44" column="6" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/schedule/ScheduleFragmentsTest.kt" />
+      <jump line="44" column="46" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/top/TopFragmentTest.kt" />
+      <jump line="5" column="11" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestCoreModule.kt" />
+      <jump line="12" column="11" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/di/TestRepositoryModule.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponent.kt" />
+      <jump line="61" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.willowtreeapps.hyperion/hyperion-core/0.9.27/8485f97fd7bf7de081deb6e2c5fdeef06c8c2ac9/hyperion-core-0.9.27-sources.jar!/com/willowtreeapps/hyperion/core/internal/InstallationLifecycleDelegate.java" />
+      <jump line="59" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.willowtreeapps.hyperion/hyperion-core/0.9.27/8485f97fd7bf7de081deb6e2c5fdeef06c8c2ac9/hyperion-core-0.9.27-sources.jar!/com/willowtreeapps/hyperion/core/internal/InstallationLifecycleDelegate.java" />
+      <jump line="11" column="6" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/DeviceModule.kt" />
+      <jump line="10" column="11" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/CoreApp.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/CoreApp.kt" />
+      <jump line="5" column="10" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/BaseComponent.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/CoreApp.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" />
+      <jump line="105" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/core/1.2.0-alpha04/bf7f0dde39409a322a5c64fb225e875787f1fb86/core-1.2.0-alpha04-sources.jar!/androidx/test/core/app/ActivityScenario.java" />
+      <jump line="204" column="8" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" />
+      <jump line="28" column="42" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="94" column="7" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" />
+      <jump line="39" column="24" filename="$USER_HOME$/Projects/winticket/android/mobile/src/main/kotlin/jp/winticket/mobile/di/AppComponent.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="48" column="18" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="50" column="68" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="32" column="8" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/createuser/build.gradle.kts" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/repository/AuthTest.kt" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/love/android/features/core/build.gradle.kts" />
+      <jump line="13" column="11" filename="$USER_HOME$/Projects/love/android/features/test/src/test/java/jp/cldh/test/di/TestRepositoryModule.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/test/build.gradle.kts" />
+      <jump line="57" column="28" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="49" column="12" filename="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/fragment_player_mock.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/love/android/features/core/build.gradle.kts" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/TestCoreApp.kt" />
+      <jump line="52" column="43" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/gradle.properties" />
+      <jump line="69" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.1-alpha04/40a36b3426cde38b7eb2375034e358152366dc9a/junit-1.1.1-alpha04-sources.jar!/androidx/test/ext/junit/runners/AndroidJUnit4.java" />
+      <jump line="18" column="15" filename="$USER_HOME$/Projects/love/android/app/src/main/AndroidManifest.xml" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/love/android/app/src/main/AndroidManifest.xml" />
+      <jump line="1718" column="17" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/17fa7e6854f8d7a174632aaea1adcb71/material-1.1.0-alpha06/res/values/values.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUImageSample/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" />
+      <jump line="15" column="44" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" />
+      <jump line="163" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
+      <jump line="0" column="27" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="78" column="18" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
+      <jump line="107" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
+      <jump line="106" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
+      <jump line="10" column="11" filename="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" />
+      <jump line="34" column="6" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
+      <jump line="128" column="24" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
+      <jump line="45" column="46" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/UserStore.kt" />
+      <jump line="46" column="2" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="6" column="32" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyAuthProto.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyAuthProto.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyUserProto.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/core/build.gradle.kts" />
+      <jump line="21" column="7" filename="$USER_HOME$/Projects/love/android/features/signin/proguard-rules.pro" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/proguard-rules.pro" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/proguard-rules.pro" />
+      <jump line="81" column="24" filename="$USER_HOME$/Projects/love/android/features/test/proguard-rules.pro" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/test/proguard-rules.pro" />
+      <jump line="25" column="6" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" />
+      <jump line="75" column="29" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="87" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="33" column="55" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" />
+      <jump line="146" column="29" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
+      <jump line="131" column="67" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="96" column="61" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="73" column="9" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>'package:flutter/src/painting/basic_types.dart': Failed assertion: line 222 pos 10: 'textDirection</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNsZWFyTW9ja3MobW9ja0tlaXJpbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWNvbkJ1dHRvbigKICAgICAgICAgICAgICBpY29uOiBjb25zdCBJY29uKEljb25zLnJlbW92ZV9jaXJjbGUpLAogICAgICAgICAgICAgIG9uUHJlc3NlZDogX3JlbW92ZSwKICAgICAgICAgICAgICB0b29sdGlwOiAncmVtb3ZlIHRoZSBzZWxlY3RlZCBpdGVtJywKICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXJkZAo=</text>
+        <text encoding="base64">ICB9CgogIGZ1biBjbGVhckFsbE1vY2tzKCkgewogICAgY2xlYXJNb2NrcyhhdXRoTW9jaywgdXNlck1vY2ssIGZpcmViYXNlQXV0aGVudGljYXRvck1vY2ssIHR3aXR0ZXJVc2VyTW9jaykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBCYXI6IEFwcEJhcigKICAgICAgICAgIAogICAgICAgICksCg==</text>
+        <text encoding="base64">ICBAVGVzdAogIGZ1biB0ZXN0U3RhcnRUd2l0dGVyU2lnbkluKCkgewogICAgRnJhZ21lbnRTY2VuYXJpby5sYXVuY2hJbkNvbnRhaW5lcihTaWduSW5GcmFnbWVudDo6Y2xhc3MuamF2YSkub25GcmFnbWVudCB7CiAgICAgIG9uVmlldyh3aXRoSWQoUi5pZC5pbWFnZV9idXR0b25fc2lnbl9pbl90d2l0dGVyKSkucGVyZm9ybShjbGljaygpKQogICAgICBvblZpZXcod2l0aElkKFIuaWQuc2lnbl9pbl90b29sYmFyKSkuY2hlY2sobWF0Y2hlcyhpc0Rpc3BsYXllZCgpKSkKICAgIH0KICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBAVGVzdAogIGZ1biB0ZXN0U3RhcnRJbnN0YWdyYW1TaWduSW4oKSB7CiAgICBGcmFnbWVudFNjZW5hcmlvLmxhdW5jaEluQ29udGFpbmVyKFNpZ25JbkZyYWdtZW50OjpjbGFzcy5qYXZhKS5vbkZyYWdtZW50IHsKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLmltYWdlX2J1dHRvbl9zaWduX2luX2luc3RhZ3JhbSkpLnBlcmZvcm0oY2xpY2soKSkKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnNpZ25faW5fdG9vbGJhcikpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCiAgICB9CiAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb2Rka28K</text>
+        <text encoding="base64">CiAgQFRlc3QKICBmdW4gdGVzdFN0YXJ0VHdpdHRlclNpZ25JbigpIHsKICAgIEZyYWdtZW50U2NlbmFyaW8ubGF1bmNoSW5Db250YWluZXIoU2lnbkluRnJhZ21lbnQ6OmNsYXNzLmphdmEpLm9uRnJhZ21lbnQgewogICAgICBvblZpZXcod2l0aElkKFIuaWQuaW1hZ2VfYnV0dG9uX3NpZ25faW5fdHdpdHRlcikpLnBlcmZvcm0oY2xpY2soKSkKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnNpZ25faW5fdG9vbGJhcikpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCiAgICB9CiAgfQoKICBAVGVzdAogIGZ1biB0ZXN0U3RhcnRJbnN0YWdyYW1TaWduSW4oKSB7CiAgICBGcmFnbWVudFNjZW5hcmlvLmxhdW5jaEluQ29udGFpbmVyKFNpZ25JbkZyYWdtZW50OjpjbGFzcy5qYXZhKS5vbkZyYWdtZW50IHsKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLmltYWdlX2J1dHRvbl9zaWduX2luX2luc3RhZ3JhbSkpLnBlcmZvcm0oY2xpY2soKSkKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnNpZ25faW5fdG9vbGJhcikpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWN0aW8K</text>
+        <text encoding="base64">ICAgIHZhbCBhcHAgPSBBcHBsaWNhdGlvblByb3ZpZGVyLmdldEFwcGxpY2F0aW9uQ29udGV4dDxUZXN0Q29yZUFwcD4oKQogICAgKGFwcC5jb3JlQ29tcG9uZW50IGFzIFRlc3RDb3JlQ29tcG9uZW50KS5pbmplY3QodGhpcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmFkZGsK</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGVzKAogICAgICAgICAgd2l0aFRleHQoCiAgICAgICAgICAgIGFwcC5nZXRTdHJpbmcoUmVzUi5zdHJpbmcuc2lnbl9pbl90ZXJtc19vZl9zZXJ2aWNlX3ByZSkgKwogICAgICAgICAgICAgIGFwcC5nZXRTdHJpbmcoUmVzUi5zdHJpbmcuc2lnbl9pbl90ZXJtc19vZl9zZXJ2aWNlKSArCiAgICAgICAgICAgICAgYXBwLmdldFN0cmluZyhSZXNSLnN0cmluZy5zaWduX2luX3Rlcm1zX29mX3NlcnZpY2Vfc3VmKQogICAgICAgICAgKQogICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaGVhCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhcHAgPSBBcHBsaWNhdGlvblByb3ZpZGVyLmdldEFwcGxpY2F0aW9uQ29udGV4dDxUZXN0Q29yZUFwcD4oKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
-        <text>_insert</text>
+        <text>AccessibilityHierarchy</text>
       </register>
     </registers>
     <search>
@@ -455,24 +289,26 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
-        <entry>action Debug</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action FindUsages</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action GotoSuperMethod</entry>
+        <entry>action Switcher</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
+        <entry>action Run</entry>
+        <entry>.,.+7action ParameterInfo</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action GotoImplementation</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action RenameElement</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Debug</entry>
+        <entry>action Find</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
-        <entry>action Back</entry>
         <entry>action GotoAction</entry>
-        <entry>action Find</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -485,83 +321,29 @@
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>pressed F1</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed BACK_SLASH</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>pressed F9</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>shift ctrl pressed 6</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
