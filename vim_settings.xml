@@ -97,6 +97,7 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/ui/common/PreviewPresenter.kt" timestamp="1559406828154" />
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559297141200">
         <mark key="a" line="152" column="6" />
         <mark key="'" line="72" column="9" />
@@ -106,6 +107,12 @@
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" timestamp="1559293436016">
         <mark key="'" line="33" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/ui/session/SessionActivity.kt" timestamp="1559406934646">
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="79" column="13" />
+        <mark key="^" line="79" column="13" />
+        <mark key="." line="79" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyUserProto.kt" timestamp="1559287710692">
         <mark key="'" line="1" column="0" />
@@ -303,11 +310,11 @@
         <entry>action Debug</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
