@@ -92,6 +92,7 @@
         <mark key="^" line="15" column="78" />
         <mark key="." line="15" column="78" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.co.cyberagent.android/gpuimage/2.0.3/5c2d98bd3883c5de16ae66cb918965a67678d71f/gpuimage-2.0.3-sources.jar!/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1559465930533" />
       <file name="$USER_HOME$/Projects/winticket/android/mobile/src/main/res/layout/fragment_error.xml" timestamp="1559284864170">
         <mark key="[" line="45" column="32" />
         <mark key="]" line="45" column="44" />
@@ -311,7 +312,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>context</text>
@@ -336,14 +337,14 @@
         <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
         <entry>action Run</entry>
-        <entry>action Find</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
+        <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
