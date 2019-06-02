@@ -296,7 +296,7 @@
         <text encoding="base64">CiAgICAgICAgdmFsIHZpZGVvVHJhY2tTZWxlY3Rpb25GYWN0b3J5ID0gQWRhcHRpdmVUcmFja1NlbGVjdGlvbi5GYWN0b3J5KG51bGwpCiAgICAgICAgdmFsIHRyYWNrU2VsZWN0b3IgPSBEZWZhdWx0VHJhY2tTZWxlY3Rvcih2aWRlb1RyYWNrU2VsZWN0aW9uRmFjdG9yeSkKCiAgICAgICAgcGxheWVyID0gRXhvUGxheWVyRmFjdG9yeS5uZXdTaW1wbGVJbnN0YW5jZSh0aGlzLCB0cmFja1NlbGVjdG9yKQogICAgICAgIGdwdUltYWdlUGxheWVyVmlldy5yZXF1ZXN0Rm9jdXMoKQogICAgICAgIGdwdUltYWdlUGxheWVyVmlldy51c2VDb250cm9sbGVyID0gdHJ1ZQogICAgICAgIGdwdUltYWdlUGxheWVyVmlldy5wbGF5ZXIgPSBwbGF5ZXIKCiAgICAgICAgdmFsIGRhdGFTb3VyY2VGYWN0b3J5OiBEYXRhU291cmNlLkZhY3RvcnkgPSBEYXRhU291cmNlLkZhY3RvcnkgeyBBc3NldERhdGFTb3VyY2UodGhpcykgfQogICAgICAgIHZhbCB2aWRlb1NvdXJjZSA9IEV4dHJhY3Rvck1lZGlhU291cmNlKAogICAgICAgICAgICBVcmkucGFyc2UoImFzc2V0czovLy9iaWdfYnVja19idW5ueS5tcDQiKSwKICAgICAgICAgICAgZGF0YVNvdXJjZUZhY3RvcnksCiAgICAgICAgICAgIERlZmF1bHRFeHRyYWN0b3JzRmFjdG9yeSgpLAogICAgICAgICAgICBudWxsLAogICAgICAgICAgICBudWxsCiAgICAgICAgKQogICAgICAgIHBsYXllci5wcmVwYXJlKHZpZGVvU291cmNlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>gl</text>
@@ -321,14 +321,14 @@
         <entry>action RenameElement</entry>
         <entry>action Run</entry>
         <entry>action FindInPath</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
