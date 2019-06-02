@@ -116,6 +116,7 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/ui/common/PreviewPresenter.kt" timestamp="1559476150036" />
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559297141200">
         <mark key="a" line="152" column="6" />
         <mark key="'" line="72" column="9" />
@@ -177,9 +178,11 @@
       <file name="/fragment.java" timestamp="1559452098328">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/ui/renderer/VideoRenderer.kt" timestamp="1559476116190">
+        <mark key="'" line="195" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="49" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="121" column="28" filename="$USER_HOME$/Projects/love/android/features/player/build/generated/source/kapt/developDebug/jp/cldh/player/databinding/ViewPlayerControllerBindingImpl.java" />
       <jump line="142" column="12" filename="$USER_HOME$/Projects/love/android/features/player/build/generated/source/kapt/developDebug/jp/cldh/player/databinding/ViewPlayerControllerBindingImpl.java" />
       <jump line="142" column="23" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
@@ -279,6 +282,7 @@
       <jump line="100" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.co.cyberagent.android/gpuimage/2.0.3/5c2d98bd3883c5de16ae66cb918965a67678d71f/gpuimage-2.0.3-sources.jar!/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
       <jump line="219" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.1/b2f8ea79a2aca96f67170d30351da3360961ed56/exoplayer-core-2.10.1-sources.jar!/com/google/android/exoplayer2/source/ExtractorMediaSource.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/MainActivity.kt" />
+      <jump line="195" column="0" filename="$USER_HOME$/Projects/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/ui/renderer/VideoRenderer.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -312,7 +316,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action FindInPath</text>
       </register>
       <register name="-" type="4">
         <text>context</text>
@@ -334,17 +338,17 @@
         <entry>action GotoImplementation</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
-        <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
         <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Back</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
