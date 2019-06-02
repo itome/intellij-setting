@@ -37,12 +37,11 @@
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" timestamp="1559267639378">
-        <mark key="'" line="15" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/MainActivity.kt" timestamp="1559405890660" />
-      <file name="$USER_HOME$/Projects/love/android/features/core/build.gradle.kts" timestamp="1559287737664">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/MainActivity.kt" timestamp="1559453362041">
+        <mark key="[" line="42" column="60" />
+        <mark key="]" line="42" column="67" />
+        <mark key="." line="42" column="67" />
+        <mark key="^" line="42" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/build.gradle.kts" timestamp="1559292048213">
         <mark key="[" line="26" column="0" />
@@ -97,6 +96,17 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/res/layout/activity_main.xml" timestamp="1559452887758">
+        <mark key="'" line="75" column="14" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="29" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.co.cyberagent.android/gpuimage/2.0.3/5c2d98bd3883c5de16ae66cb918965a67678d71f/gpuimage-2.0.3-sources.jar!/jp/co/cyberagent/android/gpuimage/filter/GPUImageFilterGroup.java" timestamp="1559453274651">
+        <mark key="[" line="230" column="16" />
+        <mark key="]" line="230" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/store/UserStoreTest.kt" timestamp="1559293991386">
         <mark key="[" line="216" column="0" />
         <mark key="]" line="219" column="52" />
@@ -110,9 +120,6 @@
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInViewModel.kt" timestamp="1559293436016">
-        <mark key="'" line="33" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/ui/session/SessionActivity.kt" timestamp="1559406934646">
         <mark key="[" line="79" column="15" />
@@ -154,9 +161,16 @@
         <mark key="." line="31" column="40" />
         <mark key="^" line="31" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/GPUImazeZoomBlurFilter.java" timestamp="1559452108039">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="72" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1559452098328">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/EglCore.java" />
       <jump line="362" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/EglCore.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/gles/WindowSurface.java" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageMovieWriter.java" />
@@ -256,43 +270,44 @@
       <jump line="73" column="9" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
       <jump line="68" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" />
+      <jump line="70" column="14" filename="$USER_HOME$/Projects/GPUImageSample/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsZWFyTW9ja3MobW9ja0tlaXJpbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VwaWFUb25lRmlsdGVyLnNldEludGVuc2l0eShyYW5nZShwcm9ncmVzcywgMC4wZiwgMi4wZikpCiAgICAgICAgICAgIGZpbHRlckdyb3VwLnVwZGF0ZU1lcmdlZEZpbHRlcnMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgem9vbUJsdXJGaWx0ZXIuc2V0Qmx1clNpemUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9CgogIGZ1biBjbGVhckFsbE1vY2tzKCkgewogICAgY2xlYXJNb2NrcyhhdXRoTW9jaywgdXNlck1vY2ssIGZpcmViYXNlQXV0aGVudGljYXRvck1vY2ssIHR3aXR0ZXJVc2VyTW9jaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VwaWFUb25lRmlsdGVyLnNldEludGVuc2l0eShyYW5nZShwcm9ncmVzcywgMC4wZiwgMi4wZikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAVGVzdAogIGZ1biB0ZXN0U3RhcnRUd2l0dGVyU2lnbkluKCkgewogICAgRnJhZ21lbnRTY2VuYXJpby5sYXVuY2hJbkNvbnRhaW5lcihTaWduSW5GcmFnbWVudDo6Y2xhc3MuamF2YSkub25GcmFnbWVudCB7CiAgICAgIG9uVmlldyh3aXRoSWQoUi5pZC5pbWFnZV9idXR0b25fc2lnbl9pbl90d2l0dGVyKSkucGVyZm9ybShjbGljaygpKQogICAgICBvblZpZXcod2l0aElkKFIuaWQuc2lnbl9pbl90b29sYmFyKSkuY2hlY2sobWF0Y2hlcyhpc0Rpc3BsYXllZCgpKSkKICAgIH0KICB9Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBAVGVzdAogIGZ1biB0ZXN0U3RhcnRJbnN0YWdyYW1TaWduSW4oKSB7CiAgICBGcmFnbWVudFNjZW5hcmlvLmxhdW5jaEluQ29udGFpbmVyKFNpZ25JbkZyYWdtZW50OjpjbGFzcy5qYXZhKS5vbkZyYWdtZW50IHsKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLmltYWdlX2J1dHRvbl9zaWduX2luX2luc3RhZ3JhbSkpLnBlcmZvcm0oY2xpY2soKSkKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnNpZ25faW5fdG9vbGJhcikpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCiAgICB9CiAgfQoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgQFRlc3QKICBmdW4gdGVzdFN0YXJ0VHdpdHRlclNpZ25JbigpIHsKICAgIEZyYWdtZW50U2NlbmFyaW8ubGF1bmNoSW5Db250YWluZXIoU2lnbkluRnJhZ21lbnQ6OmNsYXNzLmphdmEpLm9uRnJhZ21lbnQgewogICAgICBvblZpZXcod2l0aElkKFIuaWQuaW1hZ2VfYnV0dG9uX3NpZ25faW5fdHdpdHRlcikpLnBlcmZvcm0oY2xpY2soKSkKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnNpZ25faW5fdG9vbGJhcikpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCiAgICB9CiAgfQoKICBAVGVzdAogIGZ1biB0ZXN0U3RhcnRJbnN0YWdyYW1TaWduSW4oKSB7CiAgICBGcmFnbWVudFNjZW5hcmlvLmxhdW5jaEluQ29udGFpbmVyKFNpZ25JbkZyYWdtZW50OjpjbGFzcy5qYXZhKS5vbkZyYWdtZW50IHsKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLmltYWdlX2J1dHRvbl9zaWduX2luX2luc3RhZ3JhbSkpLnBlcmZvcm0oY2xpY2soKSkKICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnNpZ25faW5fdG9vbGJhcikpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCiAgICB9CiAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcHAgPSBBcHBsaWNhdGlvblByb3ZpZGVyLmdldEFwcGxpY2F0aW9uQ29udGV4dDxUZXN0Q29yZUFwcD4oKQogICAgKGFwcC5jb3JlQ29tcG9uZW50IGFzIFRlc3RDb3JlQ29tcG9uZW50KS5pbmplY3QodGhpcykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVzKAogICAgICAgICAgd2l0aFRleHQoCiAgICAgICAgICAgIGFwcC5nZXRTdHJpbmcoUmVzUi5zdHJpbmcuc2lnbl9pbl90ZXJtc19vZl9zZXJ2aWNlX3ByZSkgKwogICAgICAgICAgICAgIGFwcC5nZXRTdHJpbmcoUmVzUi5zdHJpbmcuc2lnbl9pbl90ZXJtc19vZl9zZXJ2aWNlKSArCiAgICAgICAgICAgICAgYXBwLmdldFN0cmluZyhSZXNSLnN0cmluZy5zaWduX2luX3Rlcm1zX29mX3NlcnZpY2Vfc3VmKQogICAgICAgICAgKQogICAgICAgICkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgR1BVSW1hZ2VGaWx0ZXJHcm91cChsaXN0T2YocGl4ZWxhdGlvbkZpbHRlciwgc2VwaWFUb25lRmlsdGVyLCB6b29tQmx1ckZpbHRlcikpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VwaWFTZWVrQmFyLnNldAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChlbmQgLSBzdGFydCkgKiBwZXJjZW50YWdlIC8gMTAwLjBmICsgc3RhcnQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJhbmdlKHBlcmNlbnRhZ2U6IEludCwgc3RhcnQ6IEludCwgZW5kOiBJbnQpOiBGbG9hdCB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChlbmQgLSBzdGFydCkgKiBwZXJjZW50YWdlIC8gMTAwLjBmICsgc3RhcnQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcHAgPSBBcHBsaWNhdGlvblByb3ZpZGVyLmdldEFwcGxpY2F0aW9uQ29udGV4dDxUZXN0Q29yZUFwcD4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBzcAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
-        <text>AccessibilityHierarchy</text>
+        <text>percentage</text>
       </register>
     </registers>
     <search>
@@ -302,7 +317,6 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action GotoSuperMethod</entry>
         <entry>action Switcher</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>.,.+7action ParameterInfo</entry>
@@ -313,15 +327,16 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Back</entry>
-        <entry>action Run</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Back</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
