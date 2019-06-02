@@ -43,8 +43,8 @@
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" timestamp="1559267639378">
         <mark key="'" line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/opengl/GLSurfaceView.java" timestamp="1559462438336" />
-      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/MainActivity.kt" timestamp="1559464333075">
+      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/MainActivity.kt" timestamp="1559464356564">
+        <mark key="'" line="59" column="0" />
         <mark key="[" line="66" column="35" />
         <mark key="]" line="67" column="41" />
         <mark key="." line="67" column="41" />
@@ -65,13 +65,11 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" timestamp="1559462667715">
-        <mark key="[" line="36" column="65" />
-        <mark key="]" line="36" column="65" />
-        <mark key="^" line="36" column="65" />
-        <mark key="." line="36" column="65" />
+      <file name="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" timestamp="1559464512945">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.1/b2f8ea79a2aca96f67170d30351da3360961ed56/exoplayer-core-2.10.1-sources.jar!/com/google/android/exoplayer2/Player.java" timestamp="1559463498653" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1559368139784">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="67" column="0" />
@@ -84,7 +82,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" timestamp="1559463503947" />
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1559294784704">
         <mark key="[" line="46" column="25" />
         <mark key="]" line="46" column="52" />
@@ -118,7 +115,6 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/cliplog-android/library/src/main/java/jp/ameba/example/cliplog/ui/common/PreviewPresenter.kt" timestamp="1559444405785" />
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559297141200">
         <mark key="a" line="152" column="6" />
         <mark key="'" line="72" column="9" />
@@ -180,10 +176,8 @@
       <file name="/fragment.java" timestamp="1559452098328">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.co.cyberagent.android/gpuimage/2.0.3/5c2d98bd3883c5de16ae66cb918965a67678d71f/gpuimage-2.0.3-sources.jar!/jp/co/cyberagent/android/gpuimage/filter/GPUImageFilter.java" timestamp="1559459660107" />
     </filemarks>
     <jumps>
-      <jump line="43" column="7" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="41" column="49" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="121" column="28" filename="$USER_HOME$/Projects/love/android/features/player/build/generated/source/kapt/developDebug/jp/cldh/player/databinding/ViewPlayerControllerBindingImpl.java" />
       <jump line="142" column="12" filename="$USER_HOME$/Projects/love/android/features/player/build/generated/source/kapt/developDebug/jp/cldh/player/databinding/ViewPlayerControllerBindingImpl.java" />
@@ -283,22 +277,23 @@
       <jump line="584" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.co.cyberagent.android/gpuimage/2.0.3/5c2d98bd3883c5de16ae66cb918965a67678d71f/gpuimage-2.0.3-sources.jar!/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
       <jump line="100" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.co.cyberagent.android/gpuimage/2.0.3/5c2d98bd3883c5de16ae66cb918965a67678d71f/gpuimage-2.0.3-sources.jar!/jp/co/cyberagent/android/gpuimage/GPUImageView.java" />
       <jump line="219" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.1/b2f8ea79a2aca96f67170d30351da3360961ed56/exoplayer-core-2.10.1-sources.jar!/com/google/android/exoplayer2/source/ExtractorMediaSource.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdwdUltYWdlVmlldzogR1BVSW1hZ2VWaWV3IGJ5IGxhenkgeyBmaW5kVmlld0J5SWQ8R1BVSW1hZ2VWaWV3PihSLmlkLmdwdV9pbWFnZV92aWV3KSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gUHJlcGFyZSB0aGUgcGxheWVyIHdpdGggdGhlIHNvdXJjZS4gCg==</text>
+        <text encoding="base64">ICAgICAgY29tcGlsZU9wdGlvbnMgewogICAgICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgSmF2YVZlcnNpb24uVkVSU0lPTl8xXzgKICAgICAgICB0YXJnZXRDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsIHZpZGVvVHJhY2tTZWxlY3Rpb25GYWN0b3J5ID0gQWRhcHRpdmVUcmFja1NlbGVjdGlvbi5GYWN0b3J5KG51bGwpCiAgICAgICAgdmFsIHRyYWNrU2VsZWN0b3IgPSBEZWZhdWx0VHJhY2tTZWxlY3Rvcih2aWRlb1RyYWNrU2VsZWN0aW9uRmFjdG9yeSkKCiAgICAgICAgcGxheWVyID0gRXhvUGxheWVyRmFjdG9yeS5uZXdTaW1wbGVJbnN0YW5jZSh0aGlzLCB0cmFja1NlbGVjdG9yKQogICAgICAgIGdwdUltYWdlUGxheWVyVmlldy5yZXF1ZXN0Rm9jdXMoKQogICAgICAgIGdwdUltYWdlUGxheWVyVmlldy51c2VDb250cm9sbGVyID0gdHJ1ZQogICAgICAgIGdwdUltYWdlUGxheWVyVmlldy5wbGF5ZXIgPSBwbGF5ZXIKCiAgICAgICAgdmFsIGRhdGFTb3VyY2VGYWN0b3J5OiBEYXRhU291cmNlLkZhY3RvcnkgPSBEYXRhU291cmNlLkZhY3RvcnkgeyBBc3NldERhdGFTb3VyY2UodGhpcykgfQogICAgICAgIHZhbCB2aWRlb1NvdXJjZSA9IEV4dHJhY3Rvck1lZGlhU291cmNlKAogICAgICAgICAgICBVcmkucGFyc2UoImFzc2V0czovLy9iaWdfYnVja19idW5ueS5tcDQiKSwKICAgICAgICAgICAgZGF0YVNvdXJjZUZhY3RvcnksCiAgICAgICAgICAgIERlZmF1bHRFeHRyYWN0b3JzRmFjdG9yeSgpLAogICAgICAgICAgICBudWxsLAogICAgICAgICAgICBudWxsCiAgICAgICAgKQogICAgICAgIHBsYXllci5wcmVwYXJlKHZpZGVvU291cmNlKQo=</text>
+        <text encoding="base64">Ly8gUHJlcGFyZSB0aGUgcGxheWVyIHdpdGggdGhlIHNvdXJjZS4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gVGhpcyBpcyB0aGUgTWVkaWFTb3VyY2UgcmVwcmVzZW50aW5nIHRoZSBtZWRpYSB0byBiZSBwbGF5ZWQuCg==</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIHZpZGVvVHJhY2tTZWxlY3Rpb25GYWN0b3J5ID0gQWRhcHRpdmVUcmFja1NlbGVjdGlvbi5GYWN0b3J5KG51bGwpCiAgICAgICAgdmFsIHRyYWNrU2VsZWN0b3IgPSBEZWZhdWx0VHJhY2tTZWxlY3Rvcih2aWRlb1RyYWNrU2VsZWN0aW9uRmFjdG9yeSkKCiAgICAgICAgcGxheWVyID0gRXhvUGxheWVyRmFjdG9yeS5uZXdTaW1wbGVJbnN0YW5jZSh0aGlzLCB0cmFja1NlbGVjdG9yKQogICAgICAgIGdwdUltYWdlUGxheWVyVmlldy5yZXF1ZXN0Rm9jdXMoKQogICAgICAgIGdwdUltYWdlUGxheWVyVmlldy51c2VDb250cm9sbGVyID0gdHJ1ZQogICAgICAgIGdwdUltYWdlUGxheWVyVmlldy5wbGF5ZXIgPSBwbGF5ZXIKCiAgICAgICAgdmFsIGRhdGFTb3VyY2VGYWN0b3J5OiBEYXRhU291cmNlLkZhY3RvcnkgPSBEYXRhU291cmNlLkZhY3RvcnkgeyBBc3NldERhdGFTb3VyY2UodGhpcykgfQogICAgICAgIHZhbCB2aWRlb1NvdXJjZSA9IEV4dHJhY3Rvck1lZGlhU291cmNlKAogICAgICAgICAgICBVcmkucGFyc2UoImFzc2V0czovLy9iaWdfYnVja19idW5ueS5tcDQiKSwKICAgICAgICAgICAgZGF0YVNvdXJjZUZhY3RvcnksCiAgICAgICAgICAgIERlZmF1bHRFeHRyYWN0b3JzRmFjdG9yeSgpLAogICAgICAgICAgICBudWxsLAogICAgICAgICAgICBudWxsCiAgICAgICAgKQogICAgICAgIHBsYXllci5wcmVwYXJlKHZpZGVvU291cmNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVGhpcyBpcyB0aGUgTWVkaWFTb3VyY2UgcmVwcmVzZW50aW5nIHRoZSBtZWRpYSB0byBiZSBwbGF5ZWQuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -307,13 +302,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdmlkZW9QbGF5ZXIgPSBmaW5kVmlld0J5SWQoUi5pZC52aWRlb19wbGF5ZXIpIGFzIFNpbXBsZUV4b1BsYXllclZpZXcK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdmlkZW9QbGF5ZXIgPSBmaW5kVmlld0J5SWQoUi5pZC52aWRlb19wbGF5ZXIpIGFzIFNpbXBsZUV4b1BsYXllclZpZXcK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQuZXhvcGxheWVyOmV4b3BsYXllci1kYXNoOjIuWC5YJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Macro.OptimizeImportAndReformatCode</text>
@@ -338,16 +333,16 @@
         <entry>action GotoImplementation</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
-        <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
         <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
