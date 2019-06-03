@@ -18,6 +18,7 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/res/layout/activity_nav_host.xml" timestamp="1559548754238" />
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/data/proto/DummyAuthProto.kt" timestamp="1559291248889">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="41" />
@@ -37,12 +38,11 @@
         <mark key="." line="31" column="40" />
         <mark key="^" line="31" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559545617119">
-        <mark key="'" line="89" column="57" />
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="2" />
+      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559556217528">
+        <mark key="'" line="88" column="57" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/AccessibilityChecker.kt" timestamp="1559541708171">
         <mark key="[" line="12" column="28" />
@@ -66,11 +66,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="67" column="31" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.2.0-beta01/5d1b7f5b3c2877929324f5c846da358995c9af6d/espresso-core-3.2.0-beta01-sources.jar!/androidx/test/espresso/matcher/ViewMatchers.java" timestamp="1559530889835">
-        <mark key="'" line="434" column="25" />
-        <mark key="[" line="539" column="37" />
-        <mark key="]" line="539" column="58" />
       </file>
       <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-5.4.1-bin/e75iq110yv9r9wt1a6619x2xm/gradle-5.4.1/lib/gradle-kotlin-dsl-5.4.1.jar!/org/gradle/kotlin/dsl/ProjectExtensions.kt" timestamp="1559544755536" />
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1559531872790">
@@ -116,11 +111,27 @@
         <mark key="^" line="129" column="12" />
         <mark key="." line="129" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/ui/TestNavHostActivity.kt" timestamp="1559548781201">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/TestNavHostActivity.kt" timestamp="1559547928836">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/usbserial/FtdiSerialPort.kt" timestamp="1559378158734">
         <mark key="[" line="186" column="4" />
         <mark key="]" line="186" column="3" />
         <mark key="^" line="186" column="3" />
         <mark key="." line="186" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/ui/TestNavActivity.kt" timestamp="1559547846672">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" timestamp="1559267639378">
         <mark key="'" line="15" column="44" />
@@ -134,19 +145,15 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" timestamp="1559543283403">
-        <mark key="'" line="50" column="13" />
+      <file name="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" timestamp="1559554760758">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559533262170">
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559548419200">
         <mark key="a" line="160" column="6" />
-        <mark key="'" line="21" column="25" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="75" column="3" />
-        <mark key="." line="68" column="7" />
-        <mark key="^" line="97" column="62" />
+        <mark key="'" line="160" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/store/UserStoreTest.kt" timestamp="1559293991386">
         <mark key="[" line="216" column="0" />
@@ -166,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="7" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/TextBindingAdapters.kt" />
-      <jump line="139" column="52" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="16" column="15" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" />
       <jump line="9" column="11" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/TestApp.kt" />
       <jump line="24" column="31" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/search/player/SearchPlayerConditionsFragmentTest.kt" />
@@ -266,43 +270,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
       <jump line="50" column="13" filename="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" />
       <jump line="89" column="57" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" />
+      <jump line="86" column="45" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
+      <jump line="172" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhjbHVkZShncm91cCA9ICJjb20uZ29vZ2xlLmd1YXZhIiwgbW9kdWxlID0gImxpc3RlbmFibGVmdXR1cmUiKQo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguVGVzdC5jb3JlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuaW50ZXJuYWwuaW1wbGRlcC5vcmcuanVuaXQuZXhwZXJpbWVudGFsLmNhdGVnb3JpZXMuQ2F0ZWdvcmllcy5DYXRlZ29yeUZpbHRlci5leGNsdWRlCg==</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmNvcmUpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVzb2x1dGlvblN0cmF0ZWd5LmZvcmNlKCJhbmRyb2lkeC50ZXN0OmNvcmU6IikK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LCBjbG9zdXJlT2Y8Q29uZmlndXJhdGlvbj4gewogICAgICBleGNsdWRlKGdyb3VwID0gImFuZHJvaWR4LnRlc3QiLCBtb2R1bGUgPSAiY29yZSIpCiAgICB9IGFzIENsb3N1cmU8Q29uZmlndXJhdGlvbj4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhjbHVkZShncm91cCA9ICJjb20uZ29vZ2xlLmd1YXZhIiwgbW9kdWxlID0gImxpc3RlbmFibGVmdXR1cmUiKQo=</text>
+        <text encoding="base64">ICAgICAgdGhpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaXQK</text>
+      </register>
+      <register name="5" type="4">
+        <text>.apply {
+    }</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">IHsKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhjbHVkZShncm91cCA9ICJhbmRyb2lkeC50ZXN0LmVzcHJlc3NvIiwgbW9kdWxlID0gImVzcHJlc3NvLWNvcmUiKQo=</text>
+      <register name="7" type="4">
+        <text>{
+    }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLmFydGlmYWN0cy5Nb2R1bGVEZXBlbmRlbmN5Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhjbHVkZQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhjbHUK</text>
+        <text encoding="base64">ICAgICAgaXQK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>core</text>
       </register>
     </registers>
     <search>
@@ -312,26 +321,26 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>.,.+7action ParameterInfo</entry>
         <entry>action SplitVertically</entry>
         <entry>action Debug</entry>
-        <entry>action RenameElement</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoAction</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action FindInPath</entry>
-        <entry>action Find</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Switcher</entry>
+        <entry>action RenameElement</entry>
+        <entry>action FindInPath</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
