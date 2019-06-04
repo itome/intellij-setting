@@ -428,7 +428,7 @@
         <text encoding="base64">ICAgIHRoaXMK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>commonAndroid</text>
@@ -457,10 +457,10 @@
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>action NextSplitter</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
