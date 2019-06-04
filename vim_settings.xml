@@ -38,6 +38,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/build.gradle" timestamp="1559611597415">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/data/proto/DummyAuthProto.kt" timestamp="1559291248889">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="41" />
@@ -49,6 +54,13 @@
         <mark key="]" line="31" column="40" />
         <mark key="." line="31" column="40" />
         <mark key="^" line="31" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559613437703">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="178" column="9" />
+        <mark key="]" line="178" column="9" />
+        <mark key="." line="178" column="33" />
+        <mark key="^" line="174" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_reception.xml" timestamp="1559564623089">
         <mark key="[" line="36" column="0" />
@@ -89,6 +101,9 @@
         <mark key="]" line="31" column="37" />
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
+      </file>
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-5.4.1-bin/e75iq110yv9r9wt1a6619x2xm/gradle-5.4.1/lib/gradle-kotlin-dsl-5.4.1.jar!/org/gradle/kotlin/dsl/ProjectExtensions.kt" timestamp="1559611666902">
+        <mark key="'" line="64" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1559531872790">
         <mark key="[" line="52" column="37" />
@@ -145,7 +160,6 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kai-morich/usb-serial-for-android/1.7.0/205b52356563559e32cc0b510bb9b93f60770bde/usb-serial-for-android-1.7.0-sources.jar!/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" timestamp="1559568144325" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/usbserial/FtdiSerialPort.kt" timestamp="1559378158734">
         <mark key="[" line="186" column="4" />
         <mark key="]" line="186" column="3" />
@@ -177,6 +191,20 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="4" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/5.4.1/gradle-kotlin-dsl-accessors/5kn1tawqhlvkb3x1ef3waa1tt/cache/src/org/gradle/kotlin/dsl/DebugImplementationConfigurationAccessors.kt" timestamp="1559613090910">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="81" column="29" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/5.4.1/gradle-kotlin-dsl-accessors/5kn1tawqhlvkb3x1ef3waa1tt/cache/src/org/gradle/kotlin/dsl/ImplementationConfigurationAccessors.kt" timestamp="1559612438503">
+        <mark key="[" line="68" column="1" />
+        <mark key="]" line="68" column="1" />
+        <mark key="." line="68" column="1" />
+        <mark key="^" line="68" column="1" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/5.4.1/gradle-kotlin-dsl-accessors/5kn1tawqhlvkb3x1ef3waa1tt/cache/src/org/gradle/kotlin/dsl/TestImplementationConfigurationAccessors.kt" timestamp="1559613040483">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="81" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/navigation/navigation_main.xml" timestamp="1559565246627">
         <mark key="[" line="19" column="52" />
         <mark key="]" line="19" column="52" />
@@ -194,6 +222,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="14" column="46" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" timestamp="1559613111143">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/store/UserStoreTest.kt" timestamp="1559293991386">
         <mark key="[" line="216" column="0" />
@@ -223,9 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/installedapp/src/main/res/layout/activity_main.xml" />
-      <jump line="61" column="17" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/TestNavHostActivity.kt" />
-      <jump line="209" column="37" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/player/PlayerFragmentTest.kt" />
       <jump line="44" column="6" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/schedule/ScheduleFragmentsTest.kt" />
       <jump line="44" column="46" filename="$USER_HOME$/Projects/winticket/android/mobile/src/test/kotlin/jp/winticket/mobile/ui/top/TopFragmentTest.kt" />
@@ -323,43 +353,48 @@
       <jump line="43" column="47" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" />
+      <jump line="64" column="35" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-5.4.1-bin/e75iq110yv9r9wt1a6619x2xm/gradle-5.4.1/lib/gradle-kotlin-dsl-5.4.1.jar!/org/gradle/kotlin/dsl/ProjectExtensions.kt" />
+      <jump line="94" column="4" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" />
+      <jump line="75" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>toByteArray(StandardCharsets.US_ASCII)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CmZ1biBEZXBlbmRlbmN5SGFuZGxlci5yZWxlYXNlSW1wbGVtZW50YXRpb24oCiAgZGVwZW5kZW5jeU5vdGF0aW9uOiBTdHJpbmcsCiAgZGVwZW5kZW5jeUNvbmZpZ3VyYXRpb246IEFjdGlvbjxFeHRlcm5hbE1vZHVsZURlcGVuZGVuY3k+Cik6IEV4dGVybmFsTW9kdWxlRGVwZW5kZW5jeSA9IGFkZERlcGVuZGVuY3lUbygKICB0aGlzLCAicmVsZWFzZUltcGxlbWVudGF0aW9uIiwgZGVwZW5kZW5jeU5vdGF0aW9uLCBkZXBlbmRlbmN5Q29uZmlndXJhdGlvbgopCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIERlcGVuZGVuY3lIYW5kbGVyLmRlYnVnSW1wbGVtZW50YXRpb24oZGVwZW5kZW5jeU5vdGF0aW9uOiBBbnkpOiBEZXBlbmRlbmN5PyA9CiAgYWRkKCJkZWJ1Z0ltcGxlbWVudGF0aW9uIiwgZGVwZW5kZW5jeU5vdGF0aW9uKQoK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Dependency = addDependencyTo(
+  this, &quot;debugImplementation&quot;, dependencyNotation, dependencyConfiguration
+)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIERlcGVuZGVuY3lIYW5kbGVyLnRlc3RJbXBsZW1lbnRhdGlvbihkZXBlbmRlbmN5Tm90YXRpb246IEFueSk6IERlcGVuZGVuY3k/ID0KICBhZGQoInRlc3RJbXBsZW1lbnRhdGlvbiIsIGRlcGVuZGVuY3lOb3RhdGlvbikKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBhZGREZXBlbmRlbmN5VG8oCiAgdGhpcywgInRlc3RJbXBsZW1lbnRhdGlvbiIsIGRlcGVuZGVuY3lOb3RhdGlvbiwgZGVwZW5kZW5jeUNvbmZpZ3VyYXRpb24KKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0LnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0LnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgIC8vIEZyYWdtZW50IHRlc3Qgc2hvdWxkIGJlIGluY2x1ZGVkIGluIGRlYnVnIGFwaywgc2VlIGh0dHBzOi8vaXNzdWV0cmFja2VyLmdvb2dsZS5jb20vaXNzdWVzLzEyMjMyMTE1MAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0LnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgIGRlYnVnSW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguVGVzdC5mcmFnbWVudCkgewogICAgICBleGNsdWRlKGdyb3VwPSJhbmRyb2lkeC50ZXN0IiwgbW9kdWxlPSJjb3JlIikKICAgICAgZXhjbHVkZShncm91cD0iYW5kcm9pZHgudGVzdCIsIG1vZHVsZT0ibW9uaXRvciIpCiAgICB9CiAgICB0ZXN0SW1wbGVtZW50YXRpb24oVmVyc2lvbnMuQW5kcm9pZFguVGVzdC5mcmFnbWVudCkgewogICAgICBleGNsdWRlKGdyb3VwPSJhbmRyb2lkeC50ZXN0IiwgbW9kdWxlPSJjb3JlIikKICAgICAgZXhjbHVkZShncm91cD0iYW5kcm9pZHgudGVzdCIsIG1vZHVsZT0ibW9uaXRvciIpCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBJT0V4awogICAgICB9Cg==</text>
+        <text encoding="base64">ICAvLyBGcmFnbWVudCB0ZXN0IHNob3VsZCBiZSBpbmNsdWRlZCBpbiBkZWJ1ZyBhcGssIHNlZSBodHRwczovL2lzc3VldHJhY2tlci5nb29nbGUuY29tL2lzc3Vlcy8xMjIzMjExNTAKICBkZWJ1Z0ltcGxlbWVudGF0aW9uKFZlcnNpb25zLkFuZHJvaWRYLlRlc3QuZnJhZ21lbnQpIHsKICAgIGV4Y2x1ZGUoZ3JvdXA9ImFuZHJvaWR4LnRlc3QiLCBtb2R1bGU9ImNvcmUiKQogICAgZXhjbHVkZShncm91cD0iYW5kcm9pZHgudGVzdCIsIG1vZHVsZT0ibW9uaXRvciIpCiAgfQogIHRlc3RJbXBsZW1lbnRhdGlvbihWZXJzaW9ucy5BbmRyb2lkWC5UZXN0LmZyYWdtZW50KSB7CiAgICBleGNsdWRlKGdyb3VwPSJhbmRyb2lkeC50ZXN0IiwgbW9kdWxlPSJjb3JlIikKICAgIGV4Y2x1ZGUoZ3JvdXA9ImFuZHJvaWR4LnRlc3QiLCBtb2R1bGU9Im1vbml0b3IiKQogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>PARITY_NONE</text>
+        <text>releaseImplementation</text>
       </register>
     </registers>
     <search>
@@ -374,20 +409,20 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action Switcher</entry>
-        <entry>action FindInPath</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
-        <entry>action Find</entry>
         <entry>action FindUsages</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action Run</entry>
+        <entry>action FindInPath</entry>
+        <entry>action Find</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action NextSplitter</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
