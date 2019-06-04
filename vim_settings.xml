@@ -158,12 +158,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" timestamp="1559569226246">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" timestamp="1559572462327">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="62" column="46" />
-        <mark key="]" line="62" column="46" />
-        <mark key="." line="62" column="46" />
-        <mark key="^" line="62" column="46" />
+        <mark key="[" line="55" column="78" />
+        <mark key="]" line="55" column="87" />
+        <mark key="." line="55" column="87" />
+        <mark key="^" line="55" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/drawable/ic_back_white.xml" timestamp="1559563900987">
         <mark key="[" line="6" column="28" />
@@ -356,10 +356,10 @@
         <text encoding="base64">ICAgICAgICB0aHJvdyBJT0V4awogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>PARITY_NONE</text>
       </register>
     </registers>
     <search>
@@ -377,18 +377,18 @@
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SaveAll</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
