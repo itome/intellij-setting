@@ -3,12 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1559634213211">
-        <mark key="'" line="687" column="24" />
-        <mark key="[" line="999" column="0" />
-        <mark key="]" line="999" column="16" />
-        <mark key="^" line="793" column="9" />
-        <mark key="." line="793" column="9" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.1/b2f8ea79a2aca96f67170d30351da3360961ed56/exoplayer-core-2.10.1-sources.jar!/com/google/android/exoplayer2/util/Util.java" timestamp="1559722223382" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1559725231392">
+        <mark key="'" line="773" column="15" />
+        <mark key="[" line="1127" column="0" />
+        <mark key="]" line="1127" column="48" />
+        <mark key="^" line="851" column="5" />
+        <mark key="." line="851" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/InstagramSignInWebView.kt" timestamp="1559615757674">
+        <mark key="'" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Locale.java" timestamp="1559722199762">
+        <mark key="'" line="897" column="25" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/7837f95bdff9f797003454247fef02b78d49ae75/accessibility-test-framework-2.0.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" timestamp="1559700877186">
+        <mark key="'" line="73" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1559701263085">
         <mark key="'" line="76" column="0" />
@@ -29,11 +39,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1559718465713">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="75" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="151" column="38" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1559725260170">
+        <mark key="'" line="171" column="39" />
+        <mark key="[" line="92" column="28" />
+        <mark key="]" line="93" column="19" />
+        <mark key="." line="93" column="19" />
+        <mark key="^" line="93" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/test/java/jp/cldh/player/TestPlayerControllerFragment.kt" timestamp="1559713758951">
         <mark key="[" line="3" column="0" />
@@ -47,6 +58,9 @@
         <mark key="]" line="11" column="25" />
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-5.4.1-bin/e75iq110yv9r9wt1a6619x2xm/gradle-5.4.1/lib/gradle-kotlin-dsl-5.4.1.jar!/org/gradle/kotlin/dsl/ProjectExtensions.kt" timestamp="1559611666902">
+        <mark key="'" line="64" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1559703206372">
         <mark key="'" line="142" column="8" />
@@ -70,11 +84,28 @@
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/test/java/jp/cldh/player/PlayerControllerViewTest.kt" timestamp="1559713487242" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0-alpha05/84ecfc87147b26533855a62c0f678affed03924c/appcompat-1.1.0-alpha05-sources.jar!/androidx/appcompat/app/AppCompatActivity.java" timestamp="1559713053929" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/9c25ae3792b96a21431d6e935cdf001a65994297/accessibility-test-framework-2.0-sources.jar!/main/java/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.java" timestamp="1559700479419">
+        <mark key="'" line="62" column="33" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/SpeakableTextPresentViewCheck.class" timestamp="1559703148101">
         <mark key="[" line="43" column="28" />
         <mark key="]" line="43" column="27" />
         <mark key="^" line="43" column="27" />
         <mark key="." line="43" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" timestamp="1559721776328">
+        <mark key="'" line="83" column="23" />
+        <mark key="[" line="126" column="58" />
+        <mark key="]" line="126" column="59" />
+        <mark key="^" line="126" column="59" />
+        <mark key="." line="126" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" timestamp="1559723784387">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="58" />
+        <mark key="." line="3" column="58" />
+        <mark key="^" line="3" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559711319068">
         <mark key="'" line="120" column="4" />
@@ -88,12 +119,11 @@
         <mark key="]" line="159" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559713844096">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="163" column="9" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="141" column="28" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559723548091">
+        <mark key="'" line="186" column="6" />
+        <mark key="[" line="162" column="49" />
+        <mark key="]" line="162" column="78" />
+        <mark key="." line="162" column="49" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" timestamp="1559701976890">
         <mark key="'" line="28" column="28" />
@@ -107,24 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1718" column="17" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/17fa7e6854f8d7a174632aaea1adcb71/material-1.1.0-alpha06/res/values/values.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUImageSample/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" />
-      <jump line="15" column="44" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" />
-      <jump line="163" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
-      <jump line="0" column="27" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/DataBindingMapperImpl.kt" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
-      <jump line="78" column="18" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
-      <jump line="107" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
-      <jump line="106" column="0" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/AndroidConfig.kt" />
-      <jump line="10" column="11" filename="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" />
-      <jump line="34" column="6" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
-      <jump line="128" column="24" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/SignInFragment.kt" />
-      <jump line="45" column="46" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/UserStore.kt" />
-      <jump line="46" column="2" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
       <jump line="6" column="32" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyAuthProto.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/proto/DummyAuthProto.kt" />
@@ -154,7 +166,6 @@
       <jump line="434" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.2.0-beta01/5d1b7f5b3c2877929324f5c846da358995c9af6d/espresso-core-3.2.0-beta01-sources.jar!/androidx/test/espresso/matcher/ViewMatchers.java" />
       <jump line="8" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.mockk/mockk-common/1.9.3/7f2d6bc3390a76edeba34947e0de6d2314645f25/mockk-common-1.9.3.jar!/io/mockk/impl/eval/VerifyBlockEvaluator.kotlin_metadata" />
       <jump line="21" column="25" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
       <jump line="50" column="13" filename="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" />
       <jump line="89" column="57" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" />
@@ -207,43 +218,62 @@
       <jump line="142" column="8" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" />
       <jump line="139" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="83" column="23" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
+      <jump line="158" column="41" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="897" column="25" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Locale.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
+      <jump line="152" column="36" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="23" column="7" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
+      <jump line="164" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="10" column="19" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="186" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="157" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="95" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="147" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="174" column="78" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="122" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="139" column="22" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="773" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
+      <jump line="152" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoIlBsYXllckNvbnRyb2xsZXJWaWV3IiwiQWRkIGNhbGxiYWNrOiAke3RoaXM6OnVwZGF0ZVByb2dyZXNzfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWVrVG9UaW1lQmFyUG9zaXRpb24ocGxheWVyLCBwb3NpdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+        <text encoding="base64">ICAgIHNlZWtUbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcudGltZUJhckNvbnRyb2xsZXIuYWRkTGlzdGVuZXIodGhpcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdHRyZW1vdmVDYWxsYmFja3ModGhpczo6dXBkYXRlUHJvZ3Jlc3MpCg==</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb25WaWV3LnNldFRleHQoVXRpbC5nZXRTdHJpbmdGb3JUaW1lKGZvcm1hdEJ1aWxkZXIsIGZvcm1hdHRlciwgcG9zaXRpb24pKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkB7aXNGdWxsU2NyZWVuID8gUi5zdHJpbmcuY29udGVudF9kZXNjcmlwdGlvbl9wbGF5ZXJfbWluIDogUi5zdHJpbmcuY29udGVudF9kZXNjcmlwdGlvbl9wbGF5ZXJfZnVsbH0iCg==</text>
+        <text encoding="base64">ICAgIGlmIChwb3NpdGlvblZpZXcgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2V0V2kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhcmdldFZpZXcuc2V0SGVpZwo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucG9zaXRpb24gPSBwb3NpdGlvbi50b0Zvcm1hdHRlZFRleHQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZpdHkuYWRkQ29udGVudFZpZXcodGFyZ2V0LCApCg==</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uU2NydWJTdGFydCh0aW1lQmFyOiBUaW1lQmFyPywgcG9zaXRpb246IExvbmcpIHsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>Util.getStringForTime(</text>
       </register>
     </registers>
     <search>
@@ -260,14 +290,14 @@
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
-        <entry>action Find</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
