@@ -246,7 +246,7 @@
         <text encoding="base64">ICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkB7aXNGdWxsU2NyZWVuID8gUi5zdHJpbmcuY29udGVudF9kZXNjcmlwdGlvbl9wbGF5ZXJfbWluIDogUi5zdHJpbmcuY29udGVudF9kZXNjcmlwdGlvbl9wbGF5ZXJfZnVsbH0iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>action Debug</text>
       </register>
       <register name="-" type="4">
         <text>Versions.AndroidX.Test.espressoAccessibility</text>
@@ -270,15 +270,15 @@
         <entry>action GotoImplementation</entry>
         <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action Debug</entry>
-        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
