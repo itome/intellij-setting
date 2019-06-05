@@ -248,7 +248,7 @@
         <text encoding="base64">ICAgICAgdmFsIGFwcCA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>targetView</text>
@@ -269,18 +269,18 @@
         <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
-        <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Back</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
