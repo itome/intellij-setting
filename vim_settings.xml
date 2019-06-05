@@ -171,11 +171,11 @@
         <mark key="." line="21" column="62" />
         <mark key="^" line="21" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductInfoItem.swift" timestamp="1559749342816">
-        <mark key="[" line="48" column="67" />
-        <mark key="]" line="48" column="67" />
-        <mark key="^" line="48" column="67" />
-        <mark key="." line="48" column="67" />
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductInfoItem.swift" timestamp="1559751001803">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="41" column="67" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleActionCreator.swift" timestamp="1558709008592">
         <mark key="[" line="31" column="22" />
@@ -272,34 +272,34 @@
         <text encoding="base64">ICAgIEBJQk91dGxldCB3ZWFrIHZhciBjb2xsZWN0aW9uVmlldzogVUlDb2xsZWN0aW9uVmlldyEKCiAgICBwcml2YXRlIGxhenkgdmFyIHJlbmRlcmVyID0gUmVuZGVyZXIoCiAgICAgICAgdGFyZ2V0OiBjb2xsZWN0aW9uVmlldywKICAgICAgICBhZGFwdGVyOiBNdWx0aXBsZVNwYWNpbmdBZGFwdGVyKAogICAgICAgICAgICBpbnNldEZvclNlY3Rpb246IHNlbGYuaW5zZXRGb3JTZWN0aW9uLAogICAgICAgICAgICBpbnRlckl0ZW1TcGFjaW5nRm9yU2VjdGlvbjogbmlsLAogICAgICAgICAgICBsaW5lU3BhY2luZ0ZvclNlY3Rpb246IHNlbGYubGluZVNwYWNpbmdGb3JTZWN0aW9uKSwKICAgICAgICB1cGRhdGVyOiBVSUNvbGxlY3Rpb25WaWV3VXBkYXRlcigpCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW5jIGF3YWtlRnJvbU5pYigpIHsKICAgICAgICBzdXBlci5hd2FrZUZyb21OaWIoKQogICAgICAgIGZhdm9yaXRlSW1hZ2VWaWV3LmFkZEdlc3R1cmVSZWNvZ25pemVyKFVJVGFwR2VzdHVyZVJlY29nbml6ZXIodGFyZ2V0OiBzZWxmLCBhY3Rpb246ICNzZWxlY3RvcihzZWxlY3RlZCkpKQogICAgfQoKICAgIEBvYmpjIHByaXZhdGUgZnVuYyBzZWxlY3RlZCgpIHsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXQgcHJvZHVjdCA9IHByb2R1Y3QgewogICAgICAgICAgICBvblRhcEZhdm9yaXRlPyhwcm9kdWN0KQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgU0tVQWN0aW9uIHZpZXcgY29udHJvbGxlcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICAgICAgICAgIFNlY3Rpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6ICJBcnRpY2xlSXRlbXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcjogVmlld05vZGUoQXJ0aWNsZUhlYWRlckNvbXBvbmVudChhcnRpY2xlOiBhcnRpY2xlKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2VsbHM6IGFydGljbGVJdGVtcyArIFtDZWxsTm9kZShTcGFjaW5nSXRlbShoZWlnaHQ6IDMyKSldCiAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgIFNlY3Rpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6ICJBcnRpY2xlUmVsYXRlZEl0ZW1zIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXI6IFZpZXdOb2RlKFJlbGF0ZWRQcm9kdWN0c0hlYWRlckNvbXBvbmVudCgpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZWxsczogcHJvZHVjdEl0ZW1zCiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfSkuZGlzcG9zZWQoYnk6IGJhZykKCiAgICAgICAgaWYgbGV0IGFydGljbGVJZCA9IGFydGljbGVJZCB7IGFjdGlvbkNyZWF0b3IucmVsb2FkKGFydGljbGVJZDogYXJ0aWNsZUlkKS5kaXNwb3NlZChieTogYmFnKSB9Cj09PT09PT0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSZWZvcm1hdCBjb2RlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSZWZvcm1hdCBjb2RlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgQmVoYXZpb3JSZWxheS5jb21iaW5lTGF0ZXN0KHN0b3JlLmFydGljbGUsIHN0b3JlLnJlbGF0ZWRQcm9kdWN0cywgc3RvcmUuaW1hZ2VBc3BlY3RSYXRpbykgeyAoJDAsICQxLCAkMikgfQo9PT09PT09Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgU0tVQWN0aW9uIHZpZXcgY29udHJvbGxlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICAgICAgICAgIFNlY3Rpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6ICJBcnRpY2xlSXRlbXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcjogVmlld05vZGUoQXJ0aWNsZUhlYWRlckNvbXBvbmVudChhcnRpY2xlOiBhcnRpY2xlKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2VsbHM6IGFydGljbGVJdGVtcyArIFtDZWxsTm9kZShTcGFjaW5nSXRlbShoZWlnaHQ6IDMyKSldCiAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgIFNlY3Rpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6ICJBcnRpY2xlUmVsYXRlZEl0ZW1zIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXI6IFZpZXdOb2RlKFJlbGF0ZWRQcm9kdWN0c0hlYWRlckNvbXBvbmVudCgpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZWxsczogcHJvZHVjdEl0ZW1zCiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfSkuZGlzcG9zZWQoYnk6IGJhZykKCiAgICAgICAgaWYgbGV0IGFydGljbGVJZCA9IGFydGljbGVJZCB7IGFjdGlvbkNyZWF0b3IucmVsb2FkKGFydGljbGVJZDogYXJ0aWNsZUlkKS5kaXNwb3NlZChieTogYmFnKSB9Cj09PT09PT0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBSZWZvcm1hdCBjb2RlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBSZWZvcm1hdCBjb2RlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgc2l6aW5nIGluZm8K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgQmVoYXZpb3JSZWxheS5jb21iaW5lTGF0ZXN0KHN0b3JlLmFydGljbGUsIHN0b3JlLnJlbGF0ZWRQcm9kdWN0cywgc3RvcmUuaW1hZ2VBc3BlY3RSYXRpbykgeyAoJDAsICQxLCAkMikgfQo9PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>b</text>
@@ -321,11 +321,11 @@
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
+        <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
