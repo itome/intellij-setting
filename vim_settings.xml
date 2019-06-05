@@ -70,10 +70,10 @@
         <mark key="[" line="56" column="18" />
         <mark key="]" line="56" column="152" />
       </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/SKUAction/Items/SKUActionItem.swift" timestamp="1558974840047">
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="49" />
-        <mark key="." line="34" column="49" />
+      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/SKUAction/Items/SKUActionItem.swift" timestamp="1559740289547">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
         <mark key="^" line="34" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Utilities/MultipleInsetsAdapter.swift" timestamp="1558711013663">
@@ -92,12 +92,6 @@
       <file name="$APPLICATION_HOME_DIR$/Resources/module_cache_10E1001.zip!/5.0.1/x86_64/iphonesimulator12.2/UIKit.UICollectionView/UIKit.UICollectionView.swift" timestamp="1558711580041">
         <mark key="[" line="141" column="17" />
         <mark key="]" line="141" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/Podfile" timestamp="1558973626256">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleFullImageItem.swift" timestamp="1558673575150">
         <mark key="[" line="9" column="0" />
@@ -146,23 +140,12 @@
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" timestamp="1558973429064">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/Items/ArticleVideoItem.swift" timestamp="1558672885246">
         <mark key="[" line="21" column="51" />
         <mark key="]" line="21" column="62" />
         <mark key="." line="21" column="62" />
         <mark key="^" line="21" column="62" />
-      </file>
-      <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductInfoItem.swift" timestamp="1558973364166">
-        <mark key="'" line="48" column="33" />
-        <mark key="j" line="16" column="44" />
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleActionCreator.swift" timestamp="1558709008592">
         <mark key="[" line="31" column="22" />
@@ -285,7 +268,7 @@
         <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>likeViewController</text>
@@ -303,15 +286,15 @@
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ParameterInfo</entry>
         <entry>action RenameElement</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action GotoAction</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
