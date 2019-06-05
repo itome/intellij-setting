@@ -3,18 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559621085768">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1559699915609">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/test/java/jp/cldh/player/PlayerControllerViewTest.kt" timestamp="1559703183513">
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="24" column="89" />
-        <mark key="." line="24" column="60" />
-        <mark key="^" line="24" column="59" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1559634213211">
         <mark key="'" line="687" column="24" />
         <mark key="[" line="999" column="0" />
@@ -25,9 +13,6 @@
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/InstagramSignInWebView.kt" timestamp="1559615757674">
         <mark key="'" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/9c25ae3792b96a21431d6e935cdf001a65994297/accessibility-test-framework-2.0-sources.jar!/main/java/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.java" timestamp="1559700479419">
-        <mark key="'" line="62" column="33" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/7837f95bdff9f797003454247fef02b78d49ae75/accessibility-test-framework-2.0.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" timestamp="1559700877186">
         <mark key="'" line="73" column="24" />
       </file>
@@ -37,12 +22,6 @@
         <mark key="]" line="94" column="64" />
         <mark key="." line="94" column="30" />
         <mark key="^" line="64" column="56" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/SpeakableTextPresentViewCheck.class" timestamp="1559703148101">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="27" />
-        <mark key="^" line="43" column="27" />
-        <mark key="." line="43" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/AccessibilityChecker.kt" timestamp="1559701625871">
         <mark key="'" line="12" column="8" />
@@ -58,12 +37,11 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559703213567">
-        <mark key="'" line="120" column="4" />
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="72" column="15" />
-        <mark key="^" line="72" column="15" />
-        <mark key="." line="72" column="15" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/test/java/jp/cldh/player/TestPlayerControllerFragment.kt" timestamp="1559713758951">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" timestamp="1559620237571">
         <mark key="'" line="0" column="0" />
@@ -75,22 +53,8 @@
       <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-5.4.1-bin/e75iq110yv9r9wt1a6619x2xm/gradle-5.4.1/lib/gradle-kotlin-dsl-5.4.1.jar!/org/gradle/kotlin/dsl/ProjectExtensions.kt" timestamp="1559611666902">
         <mark key="'" line="64" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559703401908">
-        <mark key="'" line="47" column="7" />
-        <mark key="[" line="140" column="35" />
-        <mark key="]" line="141" column="28" />
-        <mark key="." line="141" column="28" />
-        <mark key="^" line="141" column="28" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" timestamp="1559701976890">
-        <mark key="'" line="28" column="28" />
-        <mark key="[" line="107" column="81" />
-        <mark key="]" line="107" column="80" />
-        <mark key="^" line="107" column="80" />
-        <mark key="." line="107" column="80" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1559703206372">
-        <mark key="'" line="141" column="8" />
+        <mark key="'" line="142" column="8" />
         <mark key="[" line="104" column="25" />
         <mark key="]" line="104" column="49" />
         <mark key="^" line="52" column="75" />
@@ -103,13 +67,54 @@
         <mark key="." line="45" column="5" />
         <mark key="^" line="45" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1559702130197">
+      <file name="/Dummy.txt" timestamp="1559621085768">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1559699915609">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/test/java/jp/cldh/player/PlayerControllerViewTest.kt" timestamp="1559713487242" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0-alpha05/84ecfc87147b26533855a62c0f678affed03924c/appcompat-1.1.0-alpha05-sources.jar!/androidx/appcompat/app/AppCompatActivity.java" timestamp="1559713053929" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/9c25ae3792b96a21431d6e935cdf001a65994297/accessibility-test-framework-2.0-sources.jar!/main/java/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.java" timestamp="1559700479419">
+        <mark key="'" line="62" column="33" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/SpeakableTextPresentViewCheck.class" timestamp="1559703148101">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="27" />
+        <mark key="^" line="43" column="27" />
+        <mark key="." line="43" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInFragmentTest.kt" timestamp="1559711319068">
+        <mark key="'" line="120" column="4" />
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="15" />
+        <mark key="^" line="72" column="15" />
+        <mark key="." line="72" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/test/res/layout/fragment_test_controller.xml" timestamp="1559713845023">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="159" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559713844096">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="160" column="9" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="141" column="28" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" timestamp="1559701976890">
+        <mark key="'" line="28" column="28" />
+        <mark key="[" line="107" column="81" />
+        <mark key="]" line="107" column="80" />
+        <mark key="^" line="107" column="80" />
+        <mark key="." line="107" column="80" />
+      </file>
+      <file name="/fragment.java" timestamp="1559712064804">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="15" filename="$USER_HOME$/Projects/love/android/app/src/main/AndroidManifest.xml" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/love/android/app/src/main/AndroidManifest.xml" />
       <jump line="1718" column="17" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/17fa7e6854f8d7a174632aaea1adcb71/material-1.1.0-alpha06/res/values/values.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUImageSample/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" />
@@ -208,43 +213,45 @@
       <jump line="73" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/7837f95bdff9f797003454247fef02b78d49ae75/accessibility-test-framework-2.0.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" />
       <jump line="69" column="7" filename="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" />
       <jump line="142" column="8" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" />
+      <jump line="139" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>image_button_sign_in_line</text>
+      <register name="0" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGxheW91dAogIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIKICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCiAgPgogIDxkYXRhPgogICAgPGltcG9ydCB0eXBlPSJqcC5jbGRoLnJlc291cmNlcy5SIi8+CiAgICA8dmFyaWFibGUKICAgICAgbmFtZT0iaXNQbGF5aW5nIgogICAgICB0eXBlPSJib29sZWFuIgogICAgICAvPgogICAgPHZhcmlhYmxlCiAgICAgIG5hbWU9ImlzRnVsbFNjcmVlbiIKICAgICAgdHlwZT0iYm9vbGVhbiIKICAgICAgLz4KICA8L2RhdGE+CgogIDxhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0CiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICA+CgogICAgPFZpZXcKICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2JsYWNrXzYwIgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgLz4KCiAgICA8SW1hZ2VCdXR0b24KICAgICAgYW5kcm9pZDppZD0iQCtpZC9idXR0b25fY29udHJvbGxlcl9wbGF5IgogICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iODhkcCIKICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI4OGRwIgogICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yaXBwbGVfbGlnaHRfb3ZhbCIKICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkB7aXNQbGF5aW5nID8gUi5zdHJpbmcuY29udGVudF9kZXNjcmlwdGlvbl9wbGF5ZXJfcGF1c2UgOiBSLnN0cmluZy5jb250ZW50X2Rlc2NyaXB0aW9uX3BsYXllcl9wbGF5fSIKICAgICAgYW5kcm9pZDpwYWRkaW5nPSIyMGRwIgogICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICBhbmRyb2lkOnNyYz0iQHtpc1BsYXlpbmcgPyBSLmRyYXdhYmxlLmljX3BsYXllcl9wYXVzZSA6IFIuZHJhd2FibGUuaWNfcGxheWVyX3BsYXl9IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgdG9vbHM6c3JjPSJAZHJhd2FibGUvaWNfcGxheWVyX3BsYXkiCiAgICAgIC8+CgogICAgPEltYWdlQnV0dG9uCiAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uX2NvbnRyb2xsZXJfc3RlcF9iYWNrIgogICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjRkcCIKICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI2NGRwIgogICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjhkcCIKICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2xpZ2h0X292YWwiCiAgICAgIGFuZHJvaWQ6Y29udGVudERlc2NyaXB0aW9uPSJAc3RyaW5nL2NvbnRlbnRfZGVzY3JpcHRpb25fc3RlcF9iYWNrIgogICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCiAgICAgIGFuZHJvaWQ6c2NhbGVUeXBlPSJmaXRDZW50ZXIiCiAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaWNfc3RlcF9iYWNrIgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2J1dHRvbl9jb250cm9sbGVyX3BsYXkiCiAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b1N0YXJ0T2Y9IkBpZC9idXR0b25fY29udHJvbGxlcl9wbGF5IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL2J1dHRvbl9jb250cm9sbGVyX3BsYXkiCiAgICAgIC8+CgogICAgPEltYWdlVmlldwogICAgICBhbmRyb2lkOmlkPSJAK2lkL2ltYWdlX2NvbnRyb2xsZXJfc3RlcF9iYWNrXzEwIgogICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMzJkcCIKICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMmRwIgogICAgICBhbmRyb2lkOmltcG9ydGFudEZvckFjY2Vzc2liaWxpdHk9Im5vIgogICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljX3N0ZXBfMTAiCiAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJAaWQvYnV0dG9uX2NvbnRyb2xsZXJfc3RlcF9iYWNrIgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQGlkL2J1dHRvbl9jb250cm9sbGVyX3N0ZXBfYmFjayIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvYnV0dG9uX2NvbnRyb2xsZXJfc3RlcF9iYWNrIgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL2J1dHRvbl9jb250cm9sbGVyX3N0ZXBfYmFjayIKICAgICAgLz4KCiAgICA8SW1hZ2VCdXR0b24KICAgICAgYW5kcm9pZDppZD0iQCtpZC9idXR0b25fY29udHJvbGxlcl9zdGVwX2ZvcndhcmQiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI2NGRwIgogICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjY0ZHAiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI4ZHAiCiAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3JpcHBsZV9saWdodF9vdmFsIgogICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQHN0cmluZy9jb250ZW50X2Rlc2NyaXB0aW9uX3N0ZXBfZm9yd2FyZCIKICAgICAgYW5kcm9pZDpwYWRkaW5nPSIxNmRwIgogICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljX3N0ZXBfZm9yd2FyZCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9idXR0b25fY29udHJvbGxlcl9wbGF5IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAaWQvYnV0dG9uX2NvbnRyb2xsZXJfcGxheSIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9idXR0b25fY29udHJvbGxlcl9wbGF5IgogICAgICAvPgoKICAgIDxJbWFnZVZpZXcKICAgICAgYW5kcm9pZDppZD0iQCtpZC9pbWFnZV9jb250cm9sbGVyX3N0ZXBfZm9yd2FyZF8xMCIKICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjMyZHAiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzJkcCIKICAgICAgYW5kcm9pZDppbXBvcnRhbnRGb3JBY2Nlc3NpYmlsaXR5PSJubyIKICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImZpdENlbnRlciIKICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19zdGVwXzEwIgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2J1dHRvbl9jb250cm9sbGVyX3N0ZXBfZm9yd2FyZCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9IkBpZC9idXR0b25fY29udHJvbGxlcl9zdGVwX2ZvcndhcmQiCiAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL2J1dHRvbl9jb250cm9sbGVyX3N0ZXBfZm9yd2FyZCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9idXR0b25fY29udHJvbGxlcl9zdGVwX2ZvcndhcmQiCiAgICAgIC8+CgogICAgPEltYWdlQnV0dG9uCiAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uX2NvbnRyb2xsZXJfY2xvc2VfbW9kYWwiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI0OGRwIgogICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjQ4ZHAiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iOGRwIgogICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yaXBwbGVfbGlnaHRfb3ZhbCIKICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkBzdHJpbmcvY29udGVudF9kZXNjcmlwdGlvbl9jbG9zZV9tb2RhbCIKICAgICAgYW5kcm9pZDpwYWRkaW5nPSIxMmRwIgogICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljX2Nsb3NlX21vZGFsIgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAvPgoKICAgIDxJbWFnZUJ1dHRvbgogICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbl9jb250cm9sbGVyX3F1YWxpdHlfc2V0dGluZyIKICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjQ4ZHAiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNDhkcCIKICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSI4ZHAiCiAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3JpcHBsZV9saWdodF9vdmFsIgogICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQHN0cmluZy9jb250ZW50X2Rlc2NyaXB0aW9uX3F1YWxpdHlfc2V0dGluZyIKICAgICAgYW5kcm9pZDpwYWRkaW5nPSIxMmRwIgogICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljX3F1YWxpdHkiCiAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b1N0YXJ0T2Y9IkBpZC9idXR0b25fY29udHJvbGxlcl9jbG9zZV9tb2RhbCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgLz4KCiAgICA8SW1hZ2VCdXR0b24KICAgICAgYW5kcm9pZDppZD0iQCtpZC9idXR0b25fY29udHJvbGxlcl9wbGF5ZXJfZnVsbCIKICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjQ4ZHAiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNDhkcCIKICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSI4ZHAiCiAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3JpcHBsZV9saWdodF9vdmFsIgogICAgICBhbmRyb2lkOnBhZGRpbmc9IjEyZHAiCiAgICAgIGFuZHJvaWQ6c2NhbGVUeXBlPSJmaXRDZW50ZXIiCiAgICAgIGFuZHJvaWQ6c3JjPSJAe2lzRnVsbFNjcmVlbiA/IFIuZHJhd2FibGUuaWNfcGxheWVyX21pbiA6IFIuZHJhd2FibGUuaWNfcGxheWVyX2Z1bGx9IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICB0b29sczpzcmM9IkBkcmF3YWJsZS9pY19wbGF5ZXJfZnVsbCIKICAgICAgLz4KCiAgICA8Y29tLmdvb2dsZS5hbmRyb2lkLmV4b3BsYXllcjIudWkuRGVmYXVsdFRpbWVCYXIKICAgICAgYW5kcm9pZDppZD0iQCtpZC90aW1lX2Jhcl9jb250cm9sbGVyIgogICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgIGFwcDpzY3J1YmJlcl9kaXNhYmxlZF9zaXplPSIwZHAiCiAgICAgIGFwcDpzY3J1YmJlcl9kcmFnZ2VkX3NpemU9IjBkcCIKICAgICAgYXBwOnNjcnViYmVyX2VuYWJsZWRfc2l6ZT0iMGRwIgogICAgICAvPgogIDwvYW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dD4KPC9sYXlvdXQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQHN0cmluZy9jb250ZW50X2Rlc2NyaXB0aW9uX3NpZ25faW5fbGluZSIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQHN0cmluZy9jb250ZW50X2Rlc2NyaXB0aW9uX3NpZ25faW5fbWFpbCIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0VGhyb3dFeGNlcHRpb25Gb3JFcnJvcnModHJ1ZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdmFsIGVzcHJlc3NvQWNjZXNzaWJpbGl0eSA9ICJhbmRyb2lkeC50ZXN0LmVzcHJlc3NvOmVzcHJlc3NvLWFjY2Vzc2liaWxpdHk6JGVzcHJlc3NvVmVyc2lvbiIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQHN0cmluZy9jb250ZW50X2Rlc2NyaXB0aW9uX3NpZ25faW5fbWFpbCIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0UnVuQ2hlY2tzRnJvbVJvb3RWaWV3KHRydWUpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzLnRvU3RyaW5nKCkpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkB7aXNGdWxsU2NyZWVuID8gUi5zdHJpbmcuY29udGVudF9kZXNjcmlwdGlvbl9wbGF5ZXJfbWluIDogUi5zdHJpbmcuY29udGVudF9kZXNjcmlwdGlvbl9wbGF5ZXJfZnVsbH0iCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgc2V0V2kK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRhcmdldFZpZXcuc2V0SGVpZwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYWN0aXZpdHkuYWRkQ29udGVudFZpZXcodGFyZ2V0LCApCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEFjY2Vzc2liaWxpdHlDaGVja2VyLmNoZWNrKHRhcmdldFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuYnV0dG9uX2NvbnRyb2xsZXJfcGxheWVyX2Z1bGwpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmFsIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgTGF5b3V0SW5mbGF0ZXIuZnJvbShhY3Rpdml0eSkuaW5mbGF0ZSgpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGFwcCA9IAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>Versions.AndroidX.Test.espressoAccessibility</text>
+        <text>targetView</text>
       </register>
     </registers>
     <search>
@@ -258,22 +265,22 @@
         <entry>action Switcher</entry>
         <entry>action RenameElement</entry>
         <entry>action FindUsages</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action SplitVertically</entry>
-        <entry>action Run</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
