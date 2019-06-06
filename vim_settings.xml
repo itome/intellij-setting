@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/UserStore.kt" timestamp="1559811272597">
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="64" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/createuser/src/main/res/layout/fragment_create_user.xml" timestamp="1559799663040">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="66" />
@@ -81,6 +85,10 @@
         <mark key="]" line="33" column="11" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/SnsProfile.kt" timestamp="1559811311795">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" timestamp="1559701228844">
         <mark key="'" line="74" column="7" />
         <mark key="[" line="45" column="6" />
@@ -103,6 +111,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/9c25ae3792b96a21431d6e935cdf001a65994297/accessibility-test-framework-2.0-sources.jar!/main/java/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.java" timestamp="1559700479419">
         <mark key="'" line="62" column="33" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.8.2/59640023b2acd760eaf881589e22b2d65cda756c/arrow-core-0.8.2-sources.jar!/arrow/core/Option.kt" timestamp="1559811301714" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/SpeakableTextPresentViewCheck.class" timestamp="1559703148101">
         <mark key="[" line="43" column="28" />
         <mark key="]" line="43" column="27" />
@@ -261,8 +270,8 @@
       <jump line="78" column="62" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25TZWVrUmVwZWF0Rm9yd2FyZFN0YXJ0KCkgewogIH0KICAKICBwcml2YXRlIGZ1biBvblJlcGVhdFNlZWtGb3J3YXJkKCkgewogIH0KICAKICBwcml2YXRlIGZ1biBvblNlZWtSZXBlYXRGb3J3YXJkRW5kKCkgewogIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGF0YSBjbGFzcyBTbnNQcm9maWxlKAogIHZhbCBuYW1lOiBTdHJpbmcsCiAgdmFsIHRodW1ibmFpbDogT3B0aW9uPFN0cmluZz4KKQ==</text>
       </register>
       <register name="1" type="4">
         <text>{
@@ -298,7 +307,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text>onRepeat</text>
@@ -324,13 +333,13 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action ParameterInfo</entry>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
