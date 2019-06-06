@@ -58,9 +58,9 @@
         <mark key="^" line="22" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1559815209047">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/test/java/jp/cldh/player/TestPlayerControllerFragment.kt" timestamp="1559713758951">
         <mark key="[" line="3" column="0" />
@@ -327,7 +327,7 @@
         <text encoding="base64">ICAgIGJpbmRpbmcucmVwZWF0Rm9yd2FyZER1cmF0aW9uICs9IFNFRUtfRk9SV0FSRF9NUyAvIDEwMDAKICAgIHBsYXllcj8uZmFzdEZvcndhcmQoU0VFS19GT1JXQVJEX01TKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text>RippleDrawable</text>
@@ -355,11 +355,11 @@
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
