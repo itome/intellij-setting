@@ -58,11 +58,11 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1559877043088">
-        <mark key="'" line="92" column="37" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1559880026541">
+        <mark key="'" line="246" column="39" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsAction.kt" timestamp="1559826431602">
         <mark key="[" line="3" column="23" />
@@ -192,9 +192,6 @@
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559877649595">
         <mark key="'" line="19" column="7" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek.xml" timestamp="1559877118324">
         <mark key="[" line="0" column="0" />
@@ -206,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="51" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="94" column="49" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="33" column="67" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="200" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
@@ -306,40 +302,41 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_oval.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_oval.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek.xml" />
+      <jump line="246" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>@drawable/ripple_light_rectangle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpmb3JlZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2xpZ2h0X3JlY3RhbmdsZSIK</text>
+        <text encoding="base64">ICAgICAgKGJ1dHRvbkNvbnRyb2xsZXJSZXBlYXRCYWNrLmJhY2tncm91bmQgYXM/IFJpcHBsZURyYXdhYmxlKT8uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8aXRlbSBhbmRyb2lkOmlkPSJAYW5kcm9pZDppZC9tYXNrIj4KICAgIDxzaGFwZSBhbmRyb2lkOnNoYXBlPSJyZWN0YW5nbGUiPgogICAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3JpcHBsZV9saWdodF9tYXNrIi8+CiAgICA8L3NoYXBlPgogIDwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpmb3JlZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2xpZ2h0X3JlY3RhbmdsZSIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICA8aXRlbSBhbmRyb2lkOmlkPSJAYW5kcm9pZDppZC9tYXNrIj4KICAgIDxzaGFwZSBhbmRyb2lkOnNoYXBlPSJyZWN0YW5nbGUiPgogICAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3JpcHBsZV9saWdodF9tYXNrIi8+CiAgICA8L3NoYXBlPgogIDwvaXRlbT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2xpZ2h0X292YWwiCg==</text>
+        <text encoding="base64">ICA8aXRlbSBhbmRyb2lkOmlkPSJAYW5kcm9pZDppZC9tYXNrIj4KICAgIDxzaGFwZSBhbmRyb2lkOnNoYXBlPSJyZWN0YW5nbGUiPgogICAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3JpcHBsZV9saWdodF9tYXNrIi8+CiAgICA8L3NoYXBlPgogIDwvaXRlbT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjUxMmRwIgogICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjUxMmRwIgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2xpZ2h0X292YWwiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjUxMmRwIgogICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjUxMmRwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKGJ1dHRvbkNvbnRyb2xsZXJSZXBlYXRCYWNrLmJhY2tncm91bmQgYXM/IFJpcHBsZURyYXdhYmxlKT8uc2V0SG90c3BvdEJvdW5kcyggKSAK</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKGJ1dHRvbkNvbnRyb2xsZXJSZXBlYXRCYWNrLmJhY2tncm91bmQgYXM/IFJpcHBsZURyYXdhYmxlKT8ucmFkaXVzID0K</text>
+        <text encoding="base64">ICAgICAgKGJ1dHRvbkNvbnRyb2xsZXJSZXBlYXRCYWNrLmJhY2tncm91bmQgYXM/IFJpcHBsZURyYXdhYmxlKT8uc2V0SG90c3BvdEJvdW5kcyggKSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmFkaQo=</text>
+        <text encoding="base64">ICAgICAgKGJ1dHRvbkNvbnRyb2xsZXJSZXBlYXRCYWNrLmJhY2tncm91bmQgYXM/IFJpcHBsZURyYXdhYmxlKT8ucmFkaXVzID0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>ripple_light_oval</text>
@@ -368,10 +365,10 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
