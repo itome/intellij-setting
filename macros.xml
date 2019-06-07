@@ -1,6 +1,7 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="OptimizeImportAndReformatCode">
+      <action id="OptimizeImports" />
       <action id="ReformatCode" />
     </macro>
   </component>
