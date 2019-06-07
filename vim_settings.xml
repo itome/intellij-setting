@@ -109,12 +109,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559890306279">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559893105940">
         <mark key="'" line="19" column="7" />
-        <mark key="[" line="53" column="36" />
-        <mark key="]" line="53" column="65" />
-        <mark key="." line="53" column="65" />
-        <mark key="^" line="53" column="65" />
+        <mark key="[" line="49" column="47" />
+        <mark key="]" line="50" column="32" />
+        <mark key="." line="50" column="32" />
+        <mark key="^" line="50" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/build.gradle" timestamp="1559825191620">
         <mark key="[" line="3" column="31" />
@@ -157,12 +157,20 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1559892846860">
+        <mark key="'" line="111" column="2" />
+        <mark key="[" line="98" column="44" />
+        <mark key="]" line="98" column="44" />
+        <mark key="." line="98" column="44" />
+        <mark key="^" line="98" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsAction.kt" timestamp="1559826431602">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/build/intermediates/res/merged/develop/debug/layout/exo_simple_player_view.xml" timestamp="1559892639456" />
       <file name="$USER_HOME$/Projects/love/android/features/player/src/test/java/jp/cldh/player/TestPlayerControllerFragment.kt" timestamp="1559713758951">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="33" />
@@ -261,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="10" column="19" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="186" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="157" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
@@ -271,7 +278,6 @@
       <jump line="122" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="139" column="22" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="773" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
-      <jump line="152" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="695" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
       <jump line="1127" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
       <jump line="55" column="7" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
@@ -361,43 +367,45 @@
       <jump line="8" column="8" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_forward.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_forward.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_back.xml" />
+      <jump line="152" column="31" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="111" column="2" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJpcHBsZSB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3JpcHBsZV9saWdodCIKICA+CiAgPGl0ZW0KICAgIGFuZHJvaWQ6aWQ9IkBhbmRyb2lkOmlkL21hc2siCiAgICBhbmRyb2lkOmRyYXdhYmxlPSJAZHJhd2FibGUvdmVjdG9yX3BsYXllcl9zZWVrX3JlcGVhdF9mb3J3YXJkX2JhY2tncm91bmQiCiAgICAvPgo8L3JpcHBsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
+        <text encoding="base64">ICAgICAgaW50ZXJtaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6ZmlsbEFscGhhPSIwLjMiCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpZ24ucHJvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6ZmlsbEFscGhhPSIwLjMiCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpzdHJva2VBbHBoYT0iMC4zIgo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpzdHJva2VBbHBoYT0iMC4zIgo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJvZ3Jlc3NDb250cm9sbGVyLnZpc2kK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6ZmlsbEFscGhhPSIwLjMiCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvZ3VpZGVsaW5lX2NvbnRyb2xsZXJfcmVwZWF0X2ZvcndhcmRfc3RhcnQiCg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpvdXRsaW5lQW1iaWVudFNoYWRvd0NvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAgIGFuZHJvaWQ6b3V0bGluZVNwb3RTaGFkb3dDb2xvcj0iQGNvbG9yL3doaXRlIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5HdWlkZWxpbmUKICAgICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfY29udHJvbGxlcl9yZXBlYXRfZm9yd2FyZF9zdGFydCIKICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRHdWlkZV9lbmQ9IjE0NGRwIgogICAgICAvPgoK</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpmb3JlZ3JvdW5kVGludD0iQGNvbG9yL3doaXRlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2xpZ2h0X292YWwiCg==</text>
+        <text encoding="base64">ICAgICAgd2lkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>ripple_player_seek_repeat_forward</text>
+        <text>progress</text>
       </register>
     </registers>
     <search>
@@ -410,7 +418,6 @@
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action GoToLastTab</entry>
-        <entry>action FindInPath</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Find</entry>
@@ -419,13 +426,14 @@
         <entry>.action SaveAll</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
+        <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
