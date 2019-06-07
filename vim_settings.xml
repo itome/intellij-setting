@@ -80,12 +80,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559896259069">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559900371886">
         <mark key="'" line="73" column="12" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="53" column="67" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="47" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/animator/seek_repeat_appear_down.xml" timestamp="1559886864837">
         <mark key="'" line="0" column="6" />
@@ -99,10 +99,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/shape_player_progress.xml" timestamp="1559896789652">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/shape_player_progress.xml" timestamp="1559900493104">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/animator/seek_repeat_appear_up.xml" timestamp="1559886639687">
         <mark key="'" line="0" column="0" />
@@ -225,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="139" column="22" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="773" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
       <jump line="695" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
@@ -322,37 +322,38 @@
       <jump line="99" column="22" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="116" column="2" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="73" column="12" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/shape_player_progress.xml" />
       <jump line="14" column="4" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/shape_player_progress.xml" />
+      <jump line="0" column="13" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/shape_player_progress.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/shape_player_progress.xml" />
+      <jump line="6" column="34" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/shape_player_progress.xml" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcm9ncmVzc0NvbnRyb2xsZXIudmlzaWJpbGl0eT0gVmlldy5WSVNJQkxFCg==</text>
+      <register name="0" type="4">
+        <text>@drawable/shape_player_progress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHJvdGF0ZSB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgYW5kcm9pZDpmcm9tRGVncmVlcz0iMCIKICBhbmRyb2lkOnBpdm90WD0iNTAlIgogIGFuZHJvaWQ6cGl2b3RZPSI1MCUiCiAgYW5kcm9pZDp0b0RlZ3JlZXM9IjM2MCIKICA+CgogIDxzaGFwZQogICAgYW5kcm9pZDppbm5lclJhZGl1c1JhdGlvPSIzIgogICAgYW5kcm9pZDpzaGFwZT0icmluZyIKICAgIGFuZHJvaWQ6dGhpY2tuZXNzUmF0aW89IjgiCiAgICBhbmRyb2lkOnVzZUxldmVsPSJmYWxzZSIKICAgID4KCiAgICA8c2l6ZQogICAgICBhbmRyb2lkOndpZHRoPSI0OGRpcCIKICAgICAgYW5kcm9pZDpoZWlnaHQ9IjQ4ZGlwIgogICAgICAvPgoKICAgIDxncmFkaWVudAogICAgICBhbmRyb2lkOmNlbnRlckNvbG9yPSJzb21lY29sb3IiCiAgICAgIGFuZHJvaWQ6Y2VudGVyWT0iMC41MCIKICAgICAgYW5kcm9pZDplbmRDb2xvcj0ic29tZWNvbG9yIgogICAgICBhbmRyb2lkOnN0YXJ0Q29sb3I9InNvbWVjb2xvciIKICAgICAgYW5kcm9pZDp0eXBlPSJzd2VlcCIKICAgICAgYW5kcm9pZDp1c2VMZXZlbD0iZmFsc2UiCiAgICAgIC8+CiAgPC9zaGFwZT4KPC9yb3RhdGU+Cg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlPSJ0cnVlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlVGludD0iQGNvbG9yL3doaXRlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpwcm9ncmVzc0RyYXdhYmxlPSIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlVGludD0iQGNvbG9yL3doaXRlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHJvdGF0ZQogIGFuZHJvaWQ6ZnJvbURlZ3JlZXM9IjAiCiAgYW5kcm9pZDpwaXZvdFg9IjUwJSIKICBhbmRyb2lkOnBpdm90WT0iNTAlIgogIGFuZHJvaWQ6dG9EZWdyZWVzPSIzNjAiCiAgPgoKICA8c2hhcGUKICAgIGFuZHJvaWQ6aW5uZXJSYWRpdXNSYXRpbz0iMyIKICAgIGFuZHJvaWQ6c2hhcGU9InJpbmciCiAgICBhbmRyb2lkOnRoaWNrbmVzc1JhdGlvPSI4IgogICAgYW5kcm9pZDp1c2VMZXZlbD0iZmFsc2UiCiAgICA+CgogICAgPHNpemUKICAgICAgYW5kcm9pZDpoZWlnaHQ9IjQ4ZGlwIgogICAgICBhbmRyb2lkOndpZHRoPSI0OGRpcCIKICAgICAgLz4KCiAgICA8Z3JhZGllbnQKICAgICAgYW5kcm9pZDpjZW50ZXJDb2xvcj0ic29tZWNvbG9yIgogICAgICBhbmRyb2lkOmNlbnRlclk9IjAuNTAiCiAgICAgIGFuZHJvaWQ6ZW5kQ29sb3I9InNvbWVjb2xvciIKICAgICAgYW5kcm9pZDpzdGFydENvbG9yPSJzb21lY29sb3IiCiAgICAgIGFuZHJvaWQ6dHlwZT0ic3dlZXAiCiAgICAgIGFuZHJvaWQ6dXNlTGV2ZWw9ImZhbHNlIgogICAgICAvPgoKICA8L3NoYXBlPgoKPC9yb3RhdGU+Cg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlPSJ0cnVlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8L2l0ZW0+CjwvbGF5ZXItbGlzdD4K</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpwcm9ncmVzc0RyYXdhYmxlPSJAZHJhd2FibGUvc2hhcGVfcGxheWVyX3Byb2dyZXNzIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGxheWVyLWxpc3QgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KICA8aXRlbSBhbmRyb2lkOmlkPSJAYW5kcm9pZDppZC9wcm9ncmVzcyI+Cg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlPSJ0cnVlIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGxheWVyLWxpc3QgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KICA8aXRlbSBhbmRyb2lkOmlkPSJAYW5kcm9pZDppZC9wcm9ncmVzcyI+Cg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlRHJhd2FibGU9IkBkcmF3YWJsZS9zaGFwZV9wbGF5ZXJfcHJvZ3Jlc3MiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -361,7 +362,7 @@
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI=</text>
+        <text>270</text>
       </register>
     </registers>
     <search>
@@ -380,16 +381,16 @@
         <entry>action GotoSuperMethod</entry>
         <entry>.action SaveAll</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
