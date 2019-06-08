@@ -126,6 +126,7 @@
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/ui/InstagramSignInWebView.kt" timestamp="1559615757674">
         <mark key="'" line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Utilities/Auth.swift" timestamp="1559964619611" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Locale.java" timestamp="1559722199762">
         <mark key="'" line="897" column="25" />
       </file>
@@ -387,7 +388,7 @@
         <text encoding="base64">ICAgIEFuaW1hdG9yU2V0KCkuYXBwbHkgewogICAgICBwbGF5VG9nZXRoZXIoCiAgICAgICAgT2JqZWN0QW5pbWF0b3Iub2ZGbG9hdChiaW5kaW5nLmltYWdlQ29udHJvbGxlclN0ZXBCYWNrMTAsICJ0cmFuc2xhdGlvblkiLCAwRiwgLTIwRiksCiAgICAgICAgT2JqZWN0QW5pbWF0b3Iub2ZGbG9hdChiaW5kaW5nLmltYWdlQ29udHJvbGxlclN0ZXBCYWNrMTAsICJhbHBoYSIsIDFGLCAwRiksCiAgICAgICkKICAgICAgZHVyYXRpb24gPSAxMDAKICAgICAgc3RhcnQoKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>imageControllerStepBack10</text>
@@ -413,13 +414,13 @@
         <entry>.action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
