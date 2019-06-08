@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1559931308890">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1559966153345">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/animator/anim_seek_repeat_forward_start.xml" timestamp="1559884065005">
         <mark key="[" line="6" column="0" />
@@ -20,22 +21,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/anim/anim_seek_repeat_forward_start.xml" timestamp="1559883958852">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1559718406822">
         <mark key="[" line="16784" column="0" />
         <mark key="]" line="16784" column="0" />
         <mark key="." line="16784" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_controller_repeat.xml" timestamp="1559786533684">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/proguard-rules.pro" timestamp="1559929704311">
         <mark key="'" line="0" column="0" />
@@ -48,18 +37,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/fragment_design_mock.xml" timestamp="1559814291939">
-        <mark key="[" line="41" column="7" />
-        <mark key="]" line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ViewExt.kt" timestamp="1559886034030">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-      </file>
       <file name="/fragment.kt" timestamp="1559699915609">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,42 +46,21 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/RepeatSeekClickListener.kt" timestamp="1559802825343">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/fragment_playground.xml" timestamp="1559876964471">
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="28" />
-        <mark key="^" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle.xml" timestamp="1559877503130">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" timestamp="1559931031572">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle_radius4_black_surface_light.xml" timestamp="1559889541971">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="9" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" timestamp="1559967696920">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="^" line="24" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/test/res/layout/fragment_test_controller.xml" timestamp="1559713845023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="159" column="9" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_forward.xml" timestamp="1559890279910">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559904192875">
         <mark key="'" line="73" column="12" />
@@ -140,6 +96,12 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/StartServiceRequest.kt" timestamp="1559966650038">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="7" column="57" />
+        <mark key="." line="7" column="57" />
+        <mark key="^" line="7" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsException.kt" timestamp="1559931116673">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -158,19 +120,7 @@
         <mark key="." line="100" column="0" />
         <mark key="^" line="239" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsAction.kt" timestamp="1559826431602">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/build/intermediates/res/merged/develop/debug/layout/exo_simple_player_view.xml" timestamp="1559892639456" />
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/test/java/jp/cldh/player/TestPlayerControllerFragment.kt" timestamp="1559713758951">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_playground.xml" timestamp="1559930288993">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="37" />
@@ -183,45 +133,22 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/RepeatSeekGestureDetector.kt" timestamp="1559802569980">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-      </file>
       <file name="/Dummy.txt" timestamp="1559895536774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/animator/seek_repeat_scale.xml" timestamp="1559884338584">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/SuicaSalesRequest.kt" timestamp="1559966729685">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="62" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/SuicaSalesRequest.kt" timestamp="1559929474534">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" timestamp="1559930944071">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" timestamp="1559965980088">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="51" column="53" />
-        <mark key="." line="51" column="53" />
-        <mark key="^" line="51" column="53" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/SpeakableTextPresentViewCheck.class" timestamp="1559703148101">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="27" />
-        <mark key="^" line="43" column="27" />
-        <mark key="." line="43" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsFinalizeAction.kt" timestamp="1559826973523">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="56" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="97" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="39" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_oval.xml" timestamp="1559889546624">
         <mark key="'" line="0" column="0" />
@@ -230,16 +157,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1559831629531">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsInitAction.kt" timestamp="1559827530095">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1559966606007">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_back.xml" timestamp="1559890287343">
         <mark key="[" line="6" column="32" />
@@ -257,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1127" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
       <jump line="55" column="7" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="91" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle.xml" />
@@ -357,43 +278,44 @@
       <jump line="57" column="35" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/proguard-rules.pro" />
+      <jump line="5" column="12" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/SuicaSalesRequest.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhdW5jaChEaXNwYXRjaGVycy5NYWluKSB7CiAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHJlcXVpcmVDb250ZXh0KCksIGUuY2F1c2UudG9TdHJpbmcoKSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkKICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>&quot;Debug: request from device&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChwb3J0ID09IG51bGwpIHRocm93IEpNdXBzRXhjZXB0aW9uLk5vRGV2aWNlRm91bmRFeGNlcHRpb24K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgc2VxdWVuY2VOdW1iZXIgPSAxMDAsCiAgICAgIGN1cnJlbnRTZXJ2aWNlID0gIlN1aWNhIiwKICAgICAgYW1vdW50ID0gNTAwMCwKICAgICAgdHJhaW5pbmdNb2RlID0gdHJ1ZSwKICAgICAgYWRkaXRpb25hbFNlY3VyaXR5SW5mb3JtYXRpb24gPSAiIgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NBY3Rpb24oSk11cHNSZXF1ZXN0U3VpY2FTYWxlc0FjdGlvbihwb3J0KSkK</text>
+        <text encoding="base64">ICBAU2VyaWFsTmFtZSgiU2VxdWVuY2VOdW1iZXIiKSB2YWwgc2VxdWVuY2VOdW1iZXI6IEludCwKICBAU2VyaWFsTmFtZSgiQ3VycmVudFNlcnZpY2UiKSB2YWwgY3VycmVudFNlcnZpY2U6IFN0cmluZywKICBAU2VyaWFsTmFtZSgiQW1vdW50IikgdmFsIGFtb3VudDogSW50LAogIEBTZXJpYWxOYW1lKCJUcmFpbmluZ01vZGUiKSB2YWwgdHJhaW5pbmdNb2RlOiBCb29sZWFuLAogIEBTZXJpYWxOYW1lKCJBZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbiIpIHZhbCBhZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbjogU3RyaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvcnQ/Lgo=</text>
+        <text encoding="base64">ICBAU2VyaWFsTmFtZSgiQ3VycmVudFNlcnZpY2UiKSB2YWwgY3VycmVudFNlcnZpY2U6IFN0cmluZywKICBAU2VyaWFsTmFtZSgiQW1vdW50IikgdmFsIGFtb3VudDogSW50LAogIEBTZXJpYWxOYW1lKCJUcmFpbmluZ01vZGUiKSB2YWwgdHJhaW5pbmdNb2RlOiBCb29sZWFuLAogIEBTZXJpYWxOYW1lKCJBZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbiIpIHZhbCBhZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbjogU3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHBvcnQ/Lgo=</text>
+        <text encoding="base64">ICAgIHBvcnQ/LmxldCB7ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGlmIChzdGF0dXMgIT0gU3RhdHVzLkRJU0NPTk5FQ1RFRCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IFN0YXR1cy5SRUFEWQo=</text>
+        <text encoding="base64">ICAgIHBvcnQgPSBwcm9jZXNzQWN0aW9uKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbGFzcyAK</text>
+        <text encoding="base64">ICAgIEptdQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcnQud3JpdGUoKQo=</text>
+        <text encoding="base64">QFVuc3RhYmxlRGVmYXVsdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>this::class.java.simpleName</text>
       </register>
     </registers>
     <search>
@@ -408,21 +330,21 @@
         <entry>action GoToLastTab</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>.action SaveAll</entry>
         <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
-        <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
