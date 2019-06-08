@@ -51,11 +51,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" timestamp="1559967696920">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-        <mark key="^" line="24" column="27" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" timestamp="1559968499788">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="25" column="42" />
+        <mark key="^" line="25" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/test/res/layout/fragment_test_controller.xml" timestamp="1559713845023">
         <mark key="[" line="0" column="0" />
@@ -133,7 +133,7 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559895536774">
+      <file name="/Dummy.txt" timestamp="1559968380584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/SuicaSalesRequest.kt" timestamp="1559966729685">
@@ -149,6 +149,13 @@
         <mark key="]" line="51" column="97" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="39" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsInitializeAction.kt" timestamp="1559968538055">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="44" column="37" />
+        <mark key="." line="44" column="37" />
+        <mark key="^" line="44" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_oval.xml" timestamp="1559889546624">
         <mark key="'" line="0" column="0" />
@@ -281,41 +288,41 @@
       <jump line="5" column="12" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/SuicaSalesRequest.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>&quot;Debug: request from device&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBqc29uID0gSnNvbi5zdHJpbmdpZnkoU3VpY2FTYWxlc1JlcXVlc3Quc2VyaWFsaXplcigpLCByZXF1ZXN0KQogICAgTG9nLmQoIkRlYnVnOiByZXF1ZXN0IG1lc3NhZ2UiLCBqc29uLnRvUmVxdWVzdE1lc3NhZ2UoKS5mb2xkKCIiKSB7IGFjYywgYnl0ZSAtPiAiJGFjYywgJGJ5dGUiIH0pCiAgICBwb3J0LndyaXRlKGpzb24udG9SZXF1ZXN0TWVzc2FnZSgpLCAxMDApCiAgICB2YWwgYnVmZmVyID0gQnl0ZUFycmF5KDEwMjQpCiAgICB2YWwgYnl0ZVNpemUgPSBwb3J0LnJlYWQoYnVmZmVyLCAxMDAwKQogICAgTG9nLmQoIkRlYnVnOiByZXNwb25zZSIsIGJ1ZmZlci5mb2xkKCIiKSB7IGFjYywgYnl0ZSAtPiAiJGFjYywgJGJ5dGUiIH0pCiAgICBMb2cuZCgiRGVidWc6IHJlc3BvbnNlIG1lc3NhZ2UiLCBidWZmZXIuc2xpY2UoMC4uYnl0ZVNpemUpLnRvQnl0ZUFycmF5KCkudG9SZXNwb25zZVN0cmluZygpKQogICAgcG9ydC53cml0ZShieXRlQXJyYXlPZigweDEwLCAweDA2KSwgMTAwKQoKICAgIHZhbCByZXNwb25zZUJ1ZmZlciA9IEJ5dGVBcnJheSgxMDI0KQogICAgdmFsIHJlc3BvbnNlQnl0ZVNpemUgPSBwb3J0LnJlYWQocmVzcG9uc2VCdWZmZXIsIDEwMDApCiAgICBMb2cuZCgiRGVidWc6IHJlcXVlc3QgZnJvbSBkZXZpY2UiLCByZXNwb25zZUJ1ZmZlci5mb2xkKCIiKSB7IGFjYywgYnl0ZSAtPiAiJGFjYywgJGJ5dGUiIH0pCiAgICBMb2cuZCgKICAgICAgIkRlYnVnOiByZXF1ZXN0IG1lc3NhZ2UgZnJvbSBkZXZpY2UiLAogICAgICByZXNwb25zZUJ1ZmZlci5zbGljZSgwLi5yZXNwb25zZUJ5dGVTaXplKS50b0J5dGVBcnJheSgpLnRvUmVzcG9uc2VTdHJpbmcoKQogICAgKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2VxdWVuY2VOdW1iZXIgPSAxMDAsCiAgICAgIGN1cnJlbnRTZXJ2aWNlID0gIlN1aWNhIiwKICAgICAgYW1vdW50ID0gNTAwMCwKICAgICAgdHJhaW5pbmdNb2RlID0gdHJ1ZSwKICAgICAgYWRkaXRpb25hbFNlY3VyaXR5SW5mb3JtYXRpb24gPSAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAU2VyaWFsTmFtZSgiU2VxdWVuY2VOdW1iZXIiKSB2YWwgc2VxdWVuY2VOdW1iZXI6IEludCwKICBAU2VyaWFsTmFtZSgiQ3VycmVudFNlcnZpY2UiKSB2YWwgY3VycmVudFNlcnZpY2U6IFN0cmluZywKICBAU2VyaWFsTmFtZSgiQW1vdW50IikgdmFsIGFtb3VudDogSW50LAogIEBTZXJpYWxOYW1lKCJUcmFpbmluZ01vZGUiKSB2YWwgdHJhaW5pbmdNb2RlOiBCb29sZWFuLAogIEBTZXJpYWxOYW1lKCJBZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbiIpIHZhbCBhZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbjogU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgc2VxdWVuY2VOdW1iZXIgPSAxMDAsCiAgICAgIGN1cnJlbnRTZXJ2aWNlID0gIlN1aWNhIiwKICAgICAgYW1vdW50ID0gNTAwMCwKICAgICAgdHJhaW5pbmdNb2RlID0gdHJ1ZSwKICAgICAgYWRkaXRpb25hbFNlY3VyaXR5SW5mb3JtYXRpb24gPSAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAU2VyaWFsTmFtZSgiQ3VycmVudFNlcnZpY2UiKSB2YWwgY3VycmVudFNlcnZpY2U6IFN0cmluZywKICBAU2VyaWFsTmFtZSgiQW1vdW50IikgdmFsIGFtb3VudDogSW50LAogIEBTZXJpYWxOYW1lKCJUcmFpbmluZ01vZGUiKSB2YWwgdHJhaW5pbmdNb2RlOiBCb29sZWFuLAogIEBTZXJpYWxOYW1lKCJBZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbiIpIHZhbCBhZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbjogU3RyaW5nCg==</text>
+        <text encoding="base64">ICBAU2VyaWFsTmFtZSgiU2VxdWVuY2VOdW1iZXIiKSB2YWwgc2VxdWVuY2VOdW1iZXI6IEludCwKICBAU2VyaWFsTmFtZSgiQ3VycmVudFNlcnZpY2UiKSB2YWwgY3VycmVudFNlcnZpY2U6IFN0cmluZywKICBAU2VyaWFsTmFtZSgiQW1vdW50IikgdmFsIGFtb3VudDogSW50LAogIEBTZXJpYWxOYW1lKCJUcmFpbmluZ01vZGUiKSB2YWwgdHJhaW5pbmdNb2RlOiBCb29sZWFuLAogIEBTZXJpYWxOYW1lKCJBZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbiIpIHZhbCBhZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbjogU3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnQ/LmxldCB7ICB9Cg==</text>
+        <text encoding="base64">ICBAU2VyaWFsTmFtZSgiQ3VycmVudFNlcnZpY2UiKSB2YWwgY3VycmVudFNlcnZpY2U6IFN0cmluZywKICBAU2VyaWFsTmFtZSgiQW1vdW50IikgdmFsIGFtb3VudDogSW50LAogIEBTZXJpYWxOYW1lKCJUcmFpbmluZ01vZGUiKSB2YWwgdHJhaW5pbmdNb2RlOiBCb29sZWFuLAogIEBTZXJpYWxOYW1lKCJBZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbiIpIHZhbCBhZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbjogU3RyaW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGF0dXMgIT0gU3RhdHVzLkRJU0NPTk5FQ1RFRCkK</text>
+        <text encoding="base64">ICAgIHBvcnQ/LmxldCB7ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvcnQgPSBwcm9jZXNzQWN0aW9uKCkK</text>
+        <text encoding="base64">ICAgIGlmIChzdGF0dXMgIT0gU3RhdHVzLkRJU0NPTk5FQ1RFRCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEptdQo=</text>
+        <text encoding="base64">ICAgIHBvcnQgPSBwcm9jZXNzQWN0aW9uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFVuc3RhYmxlRGVmYXVsdAo=</text>
+        <text encoding="base64">ICAgIEptdQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>this::class.java.simpleName</text>
+        <text>SuicaSalesRequest</text>
       </register>
     </registers>
     <search>
@@ -337,14 +344,14 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
