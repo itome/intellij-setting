@@ -238,7 +238,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/drawable/RippleDrawable.java" timestamp="1559876877315" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsInitAction.kt" timestamp="1559827530095">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="14" column="0" />
@@ -411,7 +410,6 @@
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action GotoAction</entry>
         <entry>.action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
@@ -420,6 +418,7 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
