@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Requests/Favorites/AddFavoriteRequest.swift" timestamp="1560081166097">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/animator/seek_repeat_appear_down.xml" timestamp="1559886864837">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="14" column="21" />
@@ -34,6 +40,7 @@
         <mark key="." line="98" column="48" />
         <mark key="^" line="98" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Favorites/FavoritesViewController.swift" timestamp="1560080886763" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1559831671979">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="16" column="0" />
@@ -74,6 +81,11 @@
         <mark key="." line="100" column="0" />
         <mark key="^" line="239" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Requests/Favorites/GetFavoritesRequest.swift" timestamp="1560081156825">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Login/LoginViewController.swift" timestamp="1560076266341">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -90,10 +102,6 @@
         <mark key="]" line="16" column="6" />
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ic_badge_plan_standard.xml" timestamp="1559889007321">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Repositories/LoginRepository.swift" timestamp="1560075533158">
         <mark key="[" line="9" column="38" />
@@ -129,10 +137,21 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/User.swift" timestamp="1560081556330">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle_radius4_black_surface_light.xml" timestamp="1559889541971">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/TagProduct.swift" timestamp="1560081401703">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_forward.xml" timestamp="1559890279910">
         <mark key="'" line="0" column="0" />
@@ -157,12 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="695" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
-      <jump line="1127" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
-      <jump line="55" column="7" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="91" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle.xml" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_oval.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_controller_repeat.xml" />
       <jump line="153" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="155" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
@@ -257,43 +270,49 @@
       <jump line="239" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="57" column="35" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="98" column="30" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Requests/Favorites/AddFavoriteRequest.swift" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Requests/Favorites/GetFavoritesRequest.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Requests/Favorites/GetFavoritesRequest.swift" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/User.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/TagProduct.swift" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/TagProduct.swift" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25DcmVhdG9yLnJlbG9hZChpZDogcHJvZHVjdElkKS5kaXNwb3NlZChieTogYmFnKQo=</text>
+        <text encoding="base64">c3RydWN0IFRhZ1Byb2R1Y3QgewogICAgbGV0IHRhZ05hbWU6IFN0cmluZwogICAgbGV0IHByb2R1Y3RzOiBbU2ltcGxlUHJvZHVjdF0KICAgIAogICAgaW5pdChqc29uOiBKU09OKSB7CiAgICAgICAgc2VsZi50YWdOYW1lID0ganNvblsidGFnX25hbWUiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYucHJvZHVjdHMgPSBqc29uWyJwcm9kdWN0cyJdLm1hcCB7IFNpbXBsZVByb2R1Y3QoanNvbjogJDAuMSkgfQogICAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCB0YWdOYW1lOiBTdHJpbmcKICAgIGxldCBwcm9kdWN0czogW1NpbXBsZVByb2R1Y3RdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVXNlciB7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEF1dGgudG9rZW4gPSB0b2tlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAub25OZXgK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDYtMDkuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCmltcG9ydCBGb3VuZGF0aW9uCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAgeyB0b2tlbiBpbgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">cG9ydCBGb3VuZGF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZS5jcmVhdGUoc3Vic2NyaWJlOiB7IG9ic2VydmVyIGluIG9ic2VydmVyKCkgfSkK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDYtMDkuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZWtuLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZmxhdE1hcCg8I1QjI3NlbGVjdG9yOiBAZXNjYXBpbmcgKFQuUmVzcG9uc2UpIHRocm93cyAtPiBTaW5nbGU8Uj4jI0Blc2NhcGluZyAoVC5SZXNwb25zZSkgdGhyb3dzIC0+IFJ4U3dpZnQuU2luZ2xlPFI+Iz4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuZmxhdE1hcCB7IHRva2VuIGluICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEF1dGgudG9rZW4gPSB0b2tlbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>m</text>
       </register>
     </registers>
     <search>
@@ -311,7 +330,6 @@
         <entry>action GotoSuperMethod</entry>
         <entry>.action SaveAll</entry>
         <entry>action RenameElement</entry>
-        <entry>action FindInPath</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GoToLastTab</entry>
@@ -320,9 +338,10 @@
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
