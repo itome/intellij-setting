@@ -27,6 +27,11 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/Product.swift" timestamp="1560090361101">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsFinalizeAction.kt" timestamp="1559831451913">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="4" column="72" />
@@ -123,6 +128,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/Sys.swift" timestamp="1560090704034">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsInitializeAction.kt" timestamp="1559831275947">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="42" column="16" />
@@ -137,11 +148,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/User.swift" timestamp="1560081556330">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/User.swift" timestamp="1560090498781">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="1" />
+        <mark key="." line="36" column="51" />
+        <mark key="^" line="36" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle_radius4_black_surface_light.xml" timestamp="1559889541971">
         <mark key="'" line="0" column="0" />
@@ -176,9 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_controller_repeat.xml" />
-      <jump line="153" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="155" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="35" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="193" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
@@ -276,43 +285,46 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/User.swift" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/TagProduct.swift" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/TagProduct.swift" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/Sys.swift" />
+      <jump line="11" column="24" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/User.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/User.swift" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">c3RydWN0IFRhZ1Byb2R1Y3QgewogICAgbGV0IHRhZ05hbWU6IFN0cmluZwogICAgbGV0IHByb2R1Y3RzOiBbU2ltcGxlUHJvZHVjdF0KICAgIAogICAgaW5pdChqc29uOiBKU09OKSB7CiAgICAgICAgc2VsZi50YWdOYW1lID0ganNvblsidGFnX25hbWUiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYucHJvZHVjdHMgPSBqc29uWyJwcm9kdWN0cyJdLm1hcCB7IFNpbXBsZVByb2R1Y3QoanNvbjogJDAuMSkgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IFN3aWZ0eUpTT04KCnN0cnVjdCBVc2VyIHsKICAgIGxldCBpZDogU3RyaW5nCiAgICBsZXQgZW1haWw6IFN0cmluZwogICAgbGV0IGZpcnN0TmFtZTogU3RyaW5nCiAgICBsZXQgbGFzdE5hbWU6IFN0cmluZwogICAgbGV0IGZpcnN0TmFtZUthbmE6IFN0cmluZwogICAgbGV0IGxhc3ROYW1lS2FuYTogU3RyaW5nCiAgICBsZXQgcGhvbmVIZWFkOiBTdHJpbmcKICAgIGxldCBwaG9uZUJvZHk6IFN0cmluZwogICAgbGV0IHBob25lRm9vdDogU3RyaW5nCiAgICBsZXQgcG9zdENvZGVUb3A6IFN0cmluZwogICAgbGV0IHBvc3RDb2RlQm90dG9tOiBTdHJpbmcKICAgIGxldCBwcmVmZWN0dXJlOiBTdHJpbmcKICAgIGxldCBhZGRyZXNzMTogU3RyaW5nCiAgICBsZXQgYWRkcmVzczI6IFN0cmluZwogICAgbGV0IGJpcnRoRGF5OiBEYXRlCiAgICBsZXQgcGFzc3dvcmQ6IFN0cmluZwogICAgCiAgICBpbml0KGpzb246IEpTT04pIHsKICAgICAgICBzZWxmLmlkID0ganNvblsiaWQiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYuZW1haWwgPSBqc29uWyJlbWFpbCJdLnN0cmluZ1ZhbHVlCiAgICAgICAgc2VsZi5maXJzdE5hbWUgPSBqc29uWyJmaXJzdF9uYW1lIl0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLmxhc3ROYW1lID0ganNvblsibGFzdF9uYW1lIl0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLmZpcnN0TmFtZUthbmEgPSBqc29uWyJmaXJzdF9uYW1lX2thbmEiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYubGFzdE5hbWVLYW5hID0ganNvblsibGFzdF9uYW1lX2thbmEiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYucGhvbmVIZWFkID0ganNvblsicGhvbmVfaGVhZCJdLnN0cmluZ1ZhbHVlCiAgICAgICAgc2VsZi5waG9uZUJvZHkgPSBqc29uWyJwaG9uZV9ib2R5Il0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLnBob25lRm9vdCA9IGpzb25bInBob25lX2Zvb3QiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYucG9zdENvZGVUb3AgPSBqc29uWyJwb3N0X2NvZGVfdG9wIl0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLnBvc3RDb2RlQm90dG9tID0ganNvblsicG9zdF9jb2RlX2JvdHRvbSJdLnN0cmluZ1ZhbHVlCiAgICAgICAgc2VsZi5wcmVmZWN0dXJlID0ganNvblsicHJlZmVjdHVyZSJdLnN0cmluZ1ZhbHVlCiAgICAgICAgc2VsZi5hZGRyZXNzMSA9IGpzb25bImFkZHJlc3MxIl0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLmFkZHJlc3MyID0ganNvblsiYWRkcmVzczIiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYuYmlydGhEYXkgPSBEYXRlLmZyb21hdChmcm9tOiBqc29uWyJiaXJ0aF9kYXkiXS5zdHJpbmdWYWx1ZSkgPz8gRGF0ZSgpCiAgICAgICAgc2VsZi5wYXNzd29yZCA9IGpzb25bInBhc3N3b3JkIl0uc3RyaW5nVmFsdWUKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCB0YWdOYW1lOiBTdHJpbmcKICAgIGxldCBwcm9kdWN0czogW1NpbXBsZVByb2R1Y3RdCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0ganNvblsiaWQiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYuZW1haWwgPSBqc29uWyJlbWFpbCJdLnN0cmluZ1ZhbHVlCiAgICAgICAgc2VsZi5maXJzdE5hbWUgPSBqc29uWyJmaXJzdF9uYW1lIl0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLmxhc3ROYW1lID0ganNvblsibGFzdF9uYW1lIl0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLmZpcnN0TmFtZUthbmEgPSBqc29uWyJmaXJzdF9uYW1lX2thbmEiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYubGFzdE5hbWVLYW5hID0ganNvblsibGFzdF9uYW1lX2thbmEiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYucGhvbmVIZWFkID0ganNvblsicGhvbmVfaGVhZCJdLnN0cmluZ1ZhbHVlCiAgICAgICAgc2VsZi5waG9uZUJvZHkgPSBqc29uWyJwaG9uZV9ib2R5Il0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLnBob25lRm9vdCA9IGpzb25bInBob25lX2Zvb3QiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYucG9zdENvZGVUb3AgPSBqc29uWyJwb3N0X2NvZGVfdG9wIl0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLnBvc3RDb2RlQm90dG9tID0ganNvblsicG9zdF9jb2RlX2JvdHRvbSJdLnN0cmluZ1ZhbHVlCiAgICAgICAgc2VsZi5wcmVmZWN0dXJlID0ganNvblsicHJlZmVjdHVyZSJdLnN0cmluZ1ZhbHVlCiAgICAgICAgc2VsZi5hZGRyZXNzMSA9IGpzb25bImFkZHJlc3MxIl0uc3RyaW5nVmFsdWUKICAgICAgICBzZWxmLmFkZHJlc3MyID0ganNvblsiYWRkcmVzczIiXS5zdHJpbmdWYWx1ZQogICAgICAgIHNlbGYuYmlydGhEYXkgPSBEYXRlLmZyb21hdChmcm9tOiBqc29uWyJiaXJ0aF9kYXkiXS5zdHJpbmdWYWx1ZSkgPz8gRGF0ZSgpCiAgICAgICAgc2VsZi5wYXNzd29yZCA9IGpzb25bInBhc3N3b3JkIl0uc3RyaW5nVmFsdWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlciB7Cn0K</text>
+        <text encoding="base64">ICAgIGxldCBpZDogU3RyaW5nCiAgICBsZXQgZW1haWw6IFN0cmluZwogICAgbGV0IGZpcnN0TmFtZTogU3RyaW5nCiAgICBsZXQgbGFzdE5hbWU6IFN0cmluZwogICAgbGV0IGZpcnN0TmFtZUthbmE6IFN0cmluZwogICAgbGV0IGxhc3ROYW1lS2FuYTogU3RyaW5nCiAgICBsZXQgcGhvbmVIZWFkOiBTdHJpbmcKICAgIGxldCBwaG9uZUJvZHk6IFN0cmluZwogICAgbGV0IHBob25lRm9vdDogU3RyaW5nCiAgICBsZXQgcG9zdENvZGVUb3A6IFN0cmluZwogICAgbGV0IHBvc3RDb2RlQm90dG9tOiBTdHJpbmcKICAgIGxldCBwcmVmZWN0dXJlOiBTdHJpbmcKICAgIGxldCBhZGRyZXNzMTogU3RyaW5nCiAgICBsZXQgYWRkcmVzczI6IFN0cmluZwogICAgbGV0IGJpcnRoRGF5OiBEYXRlCiAgICBsZXQgcGFzc3dvcmQ6IFN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDYtMDkuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCmltcG9ydCBGb3VuZGF0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDYtMDkuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCmltcG9ydCBGb3VuZGF0aW9uCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhZ05hbWUgPSBqc29uWyJ0YWdfbmFtZSJdLnN0cmluZ1ZhbHVlCiAgICAgICAgc2VsZi5wcm9kdWN0cyA9IGpzb25bInByb2R1Y3RzIl0ubWFwIHsgU2ltcGxlUHJvZHVjdChqc29uOiAkMC4xKSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cG9ydCBGb3VuZGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBsc2UuZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDYtMDkuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCg==</text>
+        <text encoding="base64">ICAgIGxldCB0YWdOYW1lOiBTdHJpbmcKICAgIGxldCBwcm9kdWN0czogW1NpbXBsZVByb2R1Y3RdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgVXNlciB7Cn0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEF1dGgudG9rZW4gPSB0b2tlbgo=</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDYtMDkuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCmltcG9ydCBGb3VuZGF0aW9uCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>User</text>
       </register>
     </registers>
     <search>
@@ -337,11 +349,11 @@
         <entry>action ParameterInfo</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
