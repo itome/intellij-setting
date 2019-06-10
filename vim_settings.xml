@@ -8,12 +8,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/di/SignInMailModule.kt" timestamp="1560134386040">
-        <mark key="[" line="33" column="1" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/di/SignInMailModule.kt" timestamp="1560134386040" />
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/drawable/ripple_seek_repeat_back.xml" timestamp="1559889160040">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -55,6 +50,13 @@
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560139289060">
+        <mark key="'" line="70" column="35" />
+        <mark key="[" line="105" column="31" />
+        <mark key="]" line="105" column="31" />
+        <mark key="." line="105" column="39" />
+        <mark key="^" line="104" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/proguard-rules.pro" timestamp="1559929704311">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="0" />
@@ -70,9 +72,10 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/usb/UsbDeviceConnection.java" timestamp="1559987607440">
         <mark key="'" line="221" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/RepeatSeekListener.kt" timestamp="1559902413148">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/RepeatSeekListener.kt" timestamp="1560138695648">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="57" column="0" />
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_jmups_playground.xml" timestamp="1559981506477">
@@ -115,6 +118,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/StepSeekListener.kt" timestamp="1560139267740">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsInitializeAction.kt" timestamp="1559984980903">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="37" column="76" />
@@ -153,13 +161,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1559904192875">
-        <mark key="'" line="73" column="12" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="47" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_back.xml" timestamp="1559890287343">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="72" />
@@ -171,10 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="185" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="100" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="83" column="62" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="61" column="45" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="228" column="51" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="212" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
@@ -271,43 +268,47 @@
       <jump line="12" column="53" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsCancelAction.kt" />
       <jump line="11" column="17" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" />
       <jump line="221" column="26" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/usb/UsbDeviceConnection.java" />
+      <jump line="2" column="2" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/RepeatSeekListener.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/RepeatSeekListener.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/StepSeekListener.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/StepSeekListener.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvcnQ/LmxldCB7IHByb2Nlc3NBY3Rpb24oSk11cHNGaW5hbGl6ZUFjdGlvbihpdCkpIH0K</text>
+        <text encoding="base64">ICAgIHRoaXM6Om9uU2Vla1JlcGVhdEZvcndhcmRTdGFydCwKICAgIHRoaXM6Om9uU2Vla1JlcGVhdEZvcndhcmQsCiAgICB0aGlzOjpvblNlZWtSZXBlYXRGb3J3YXJkRW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMud3JpdGUoYnl0ZUFycmF5T2YoMHgxMCwgMHgwNiksIDEwMCkK</text>
+        <text encoding="base64">b3ZlcnJpZGUgZnVuIG9uVG91Y2godjogVmlldz8sIGV2ZW50OiBNb3Rpb25FdmVudD8pOiBCb29sZWFuIHsKICAgIHdoZW4gKGV2ZW50Py5hY3Rpb24pIHsKICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4gewogICAgICAgIHY/LnBlcmZvcm1DbGljaygpCiAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gZmFsc2UKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3VycmVudEV2ZW50VGltZU1pbGxzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCiAgICAgICAgdj8ucmVtb3ZlQ2FsbGJhY2tzKHNlZWtFbmRBY3Rpb24pCiAgICAgICAgdj8ucG9zdERlbGF5ZWQoc2Vla0VuZEFjdGlvbiwgU0VFS19SRVBFQVRfSU5URVJWQUwpCgogICAgICAgIGlmIChzZWVraW5nKSB7CiAgICAgICAgICBpZiAoY3VycmVudEV2ZW50VGltZU1pbGxzIC0gcHJldmlvdXNFdmVudFRpbWVNaWxscyA8IFNFRUtfUkVQRUFUX0lOVEVSVkFMKSB7CiAgICAgICAgICAgIG9uU2Vla1JlcGVhdCgpCiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIG9uU2Vla1N0YXJ0KCkKICAgICAgICAgIHNlZWtpbmcgPSB0cnVlCiAgICAgICAgfQoKICAgICAgICBwcmV2aW91c0V2ZW50VGltZU1pbGxzID0gY3VycmVudEV2ZW50VGltZU1pbGxzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvcnQud2FpdEFDSygpCg==</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NBY3Rpb24oKQo=</text>
+        <text encoding="base64">QFN1cHByZXNzTGludCgiQ2xpY2thYmxlVmlld0FjY2Vzc2liaWxpdHkiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnQK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhciBzdGVwcGluZ0JhY2s6IEJvb2xlYW4gPSBmYWxzZQogIHByaXZhdGUgdmFyIHN0ZXBwaW5nRm93YXJkOiBCb29sZWFuID0gZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvcnQK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcuYnV0dG9uQ29udHJvbGxlclN0ZXBGb3J3YXJkLmlzQ2xpY2thYmxlID0gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICBzdXNwZW5kIGZ1bgo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcuYnV0dG9uQ29udHJvbGxlclN0ZXBGb3J3YXJkLmlzQ2xpY2thYmxlID0gZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcuYnV0dG9uQ29udHJvbGxlclN0ZXBCYWNrLmlzQ2xpY2thYmxlID0gdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3VidHJhY3RWYWx1ZSA9IFN1aWNhU2FsZXNSZXF1ZXN0LlN1YnRyYWN0VmFsdWUoCiAgICAgICAgc2VxdWVuY2VOdW1iZXIgPSAxMDAsCiAgICAgICAgY3VycmVudFNlcnZpY2UgPSAiU3VpY2EiLAogICAgICAgIGFtb3VudCA9IDUwMDAsCiAgICAgICAgdHJhaW5pbmdNb2RlID0gdHJ1ZSwKICAgICAgICBhZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbiA9ICIiCiAgICAgICkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcuYnV0dG9uQ29udHJvbGxlclN0ZXBCYWNrLmlzQ2xpY2thYmxlID0gZmFsc2UK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>internal</text>
+        <text>setOnTouchListener</text>
       </register>
     </registers>
     <search>
@@ -325,18 +326,18 @@
         <entry>.action SaveAll</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Find</entry>
-        <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
