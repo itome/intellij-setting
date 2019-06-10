@@ -8,6 +8,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/di/SignInMailModule.kt" timestamp="1560134386040">
+        <mark key="[" line="33" column="1" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/drawable/ripple_seek_repeat_back.xml" timestamp="1559889160040">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -48,13 +54,6 @@
         <mark key="]" line="21" column="17" />
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1559904181148">
-        <mark key="'" line="57" column="35" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="239" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/proguard-rules.pro" timestamp="1559929704311">
         <mark key="'" line="0" column="0" />
@@ -305,10 +304,10 @@
         <text encoding="base64">ICAgICAgc3VidHJhY3RWYWx1ZSA9IFN1aWNhU2FsZXNSZXF1ZXN0LlN1YnRyYWN0VmFsdWUoCiAgICAgICAgc2VxdWVuY2VOdW1iZXIgPSAxMDAsCiAgICAgICAgY3VycmVudFNlcnZpY2UgPSAiU3VpY2EiLAogICAgICAgIGFtb3VudCA9IDUwMDAsCiAgICAgICAgdHJhaW5pbmdNb2RlID0gdHJ1ZSwKICAgICAgICBhZGRpdGlvbmFsU2VjdXJpdHlJbmZvcm1hdGlvbiA9ICIiCiAgICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJ5dGVBcnJheU9mKDB4MTAsIDB4MDYp</text>
+        <text>internal</text>
       </register>
     </registers>
     <search>
@@ -324,7 +323,6 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>.action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
@@ -338,6 +336,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
