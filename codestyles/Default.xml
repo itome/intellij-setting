@@ -44,8 +44,11 @@
   </XML>
   <codeStyleSettings language="Swift">
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
@@ -143,7 +146,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
