@@ -146,6 +146,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1560259154495">
+        <mark key="'" line="70" column="26" />
+        <mark key="[" line="60" column="42" />
+        <mark key="]" line="60" column="43" />
+        <mark key="." line="60" column="42" />
+        <mark key="^" line="60" column="66" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/anim/tims_start_interpolator.xml" timestamp="1560144707471">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="49" />
@@ -291,10 +298,10 @@
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>button_controller_step_back</text>
+        <text>6</text>
       </register>
     </registers>
     <search>
@@ -316,14 +323,14 @@
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
