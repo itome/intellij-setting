@@ -85,17 +85,22 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/NetworkModule.kt" timestamp="1560242771526">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/activity_player_mock.xml" timestamp="1560235004424">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560233315343">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560238617727">
         <mark key="'" line="220" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="138" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/anim/linear_interpolator.xml" timestamp="1560144771532">
         <mark key="[" line="0" column="0" />
@@ -137,6 +142,13 @@
         <mark key="]" line="16" column="8" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560243692814">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="194" column="8" />
+        <mark key="]" line="194" column="37" />
+        <mark key="." line="194" column="37" />
+        <mark key="^" line="194" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" timestamp="1560221355589">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="33" />
@@ -149,12 +161,12 @@
         <mark key="." line="61" column="89" />
         <mark key="^" line="61" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/DoubleTapSeekListener.kt" timestamp="1560236776547">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/DoubleTapSeekListener.kt" timestamp="1560239603250">
         <mark key="'" line="18" column="9" />
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+        <mark key="^" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" timestamp="1560226838429">
         <mark key="[" line="218" column="19" />
@@ -174,10 +186,10 @@
         <mark key="." line="63" column="53" />
         <mark key="^" line="63" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/StepSeekListener.kt" timestamp="1560235747070">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/StepSeekListener.kt" timestamp="1560239608375">
         <mark key="'" line="18" column="39" />
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="63" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="49" />
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
@@ -224,19 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/anim/progress_interminate_ratation.xml" />
-      <jump line="3" column="2" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/anim/progress_interminate_ratation.xml" />
-      <jump line="20" column="8" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/interpolator/linear.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/interpolator/linear.xml" />
-      <jump line="14" column="0" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/interpolator/trim_start_interpolator.xml" />
-      <jump line="2" column="3" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/interpolator/linear_interpolator.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/interpolator/linear_interpolator.xml" />
-      <jump line="15" column="28" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/drawable/vector_drawable_progress_bar_large.xml" />
-      <jump line="28" column="22" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/drawable/vector_drawable_progress_bar_large.xml" />
-      <jump line="39" column="1" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/drawable/vector_drawable_progress_bar_large.xml" />
-      <jump line="13" column="31" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/vector_progress_bar.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/vector_progress_bar.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/shape_player_progress.xml" />
       <jump line="25" column="34" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/drawable/vector_drawable_progress_bar_medium.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/drawable/vector_drawable_progress_bar_medium.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/vector_progress_bar.xml" />
@@ -278,7 +277,6 @@
       <jump line="81" column="37" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="216" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="299" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
-      <jump line="63" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="15" column="56" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/StepSeekListener.kt" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/StepSeekListener.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/DoubleTapSeekListener.kt" />
@@ -296,7 +294,6 @@
       <jump line="17" column="17" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="16" column="12" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/exo_player_control_view.xml" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
-      <jump line="64" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="6" column="7" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="8" column="10" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
@@ -324,43 +321,58 @@
       <jump line="452" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="18" column="9" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/DoubleTapSeekListener.kt" />
+      <jump line="0" column="21" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="65" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="132" column="32" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="140" column="42" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="23" column="17" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="31" column="31" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="122" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="157" column="21" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="57" column="58" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="63" column="52" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="64" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="184" column="27" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="155" column="44" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="166" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>Looper.getMainLooper()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b25fY29udHJvbGxlcl9zdGVwX2JhY2suaXNDbGlja2FibGUgPSBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxGcmFtZUxheW91dAogICAgICBhbmRyb2lkOmlkPSJAK2lkL2xheW91dF9wbGF5ZXJfbW9ja19wbGF5ZXIiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMGRwIgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnREaW1lbnNpb25SYXRpbz0iaCwxNjo5IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgPgoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsYXllcj8uYWRkTGlzdGVuZXIodGhpcykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgTG9nLmQoIkRvdWJsZVRhcEZvcndhcmRHZXN0dXJlIiwgIm9uRG91YmxlVGFwIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgTG9nLmQoIkRvdWJsZVRhcEZvcndhcmRHZXN0dXJlIiwgIm9uRG93biIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgTG9nLmQoIkRvdWJsZVRhcEZvcndhcmRHZXN0dXJlIiwgIm9uU2luZ2xlVGFwQ29uZmlybWVkIikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25Eb3VibGVUYXBFdmVudChlOiBNb3Rpb25FdmVudD8pOiBCb29sZWFuIHsKICAgICAgTG9nLmQoIkRvdWJsZVRhcEZvcndhcmRHZXN0dXJlIiwgIm9uRG91YmxlVGFwRXZlbnQiKQogICAgICByZXR1cm4gc3VwZXIub25Eb3VibGVUYXBFdmVudChlKQogICAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBpc1BsYXlpbmcgPQo=</text>
+        <text encoding="base64">ICAgICAgLmFkZEludGVyY2VwdG9yKEh0dHBMb2dnaW5nSW50ZXJjZXB0b3IgeyBUaW1iZXIudGFnKCJPa0h0dHAiKS52KGl0KSB9LmFwcGx5IHsKICAgICAgICBsZXZlbCA9IEh0dHBMb2dnaW5nSW50ZXJjZXB0b3IuTGV2ZWwuQk9EWQogICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwbGF5ZXIgIT0gbnVsbAo=</text>
+        <text encoding="base64">ICAgIAogICAgb25TaG93Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbAoK</text>
+        <text encoding="base64">ICAgIGZ1bgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGhhbmRsZXI/Lgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>button_controller_step_back</text>
       </register>
     </registers>
     <search>
@@ -377,19 +389,19 @@
         <entry>action GotoImplementation</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action RenameElement</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
