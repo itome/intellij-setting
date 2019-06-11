@@ -291,7 +291,7 @@
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>button_controller_step_back</text>
@@ -316,7 +316,6 @@
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
@@ -324,6 +323,7 @@
         <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
