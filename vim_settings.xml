@@ -108,12 +108,12 @@
       <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/activity_player_mock.xml" timestamp="1560318643386">
         <mark key="^" line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560323746680">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560334303219">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="226" column="31" />
-        <mark key="]" line="226" column="30" />
-        <mark key="." line="226" column="30" />
-        <mark key="^" line="226" column="30" />
+        <mark key="[" line="217" column="23" />
+        <mark key="]" line="217" column="23" />
+        <mark key="." line="217" column="23" />
+        <mark key="^" line="217" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/UserStore.kt" timestamp="1560313527171">
         <mark key="[" line="0" column="24" />
@@ -180,7 +180,7 @@
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560331969632">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560333874001">
         <mark key="'" line="223" column="0" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="87" column="24" />
@@ -263,6 +263,7 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="93" column="21" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/DefaultTimeBar.java" timestamp="1560334204018" />
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_back.xml" timestamp="1559890287343">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="72" />
@@ -404,7 +405,7 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGJ5IGxhenkgew==</text>
@@ -430,13 +431,13 @@
         <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action Back</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
