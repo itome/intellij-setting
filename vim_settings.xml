@@ -44,6 +44,11 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player.xml" timestamp="1560318615694">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1560270894446">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -92,10 +97,11 @@
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560244462633">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560318798674">
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="63" column="23" />
+        <mark key="." line="63" column="23" />
+        <mark key="^" line="63" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" timestamp="1560233573083">
         <mark key="[" line="21" column="33" />
@@ -128,9 +134,6 @@
         <mark key="]" line="24" column="11" />
         <mark key="." line="24" column="11" />
         <mark key="^" line="24" column="11" />
-      </file>
-      <file name="/fragment.kt" timestamp="1560259728191">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/SuicaSalesRequest.kt" timestamp="1560265337663">
         <mark key="'" line="7" column="12" />
@@ -242,10 +245,11 @@
         <mark key="." line="62" column="6" />
         <mark key="^" line="62" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/activity_player_mock.xml" timestamp="1560235004424">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/activity_player_mock.xml" timestamp="1560318643386">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560316521191">
         <mark key="'" line="12" column="2" />
@@ -365,37 +369,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVsYXkoREVGQVVMVF9SRUFEX0lOVEVSVkFMX01JTExTKQo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpjbGlwVG9QYWRkaW5nPSJmYWxzZSIKICAgICAgYW5kcm9pZDpjbGlwQ2hpbGRyZW49ImZhbHNlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0Lkd1aWRlbGluZQogICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfY29udHJvbGxlcl9wcm9ncmVzc19zdGFydCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50R3VpZGVfYmVnaW49Ii0xMmRwIgogICAgLz4K</text>
+        <text encoding="base64">ICBjbGlwVG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgY2xpcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCJEZWJ1ZzogcmVzcG9uc2VTdHJpbmciLCByZXNwb25zZVN0cmluZykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXNwb25zZVN0cmluZyA9IAo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlPSJ0cnVlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgICAgY2xpcFQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlci5yZXBsYQo=</text>
+        <text encoding="base64">CiAgPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0Lkd1aWRlbGluZQogICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfY29udHJvbGxlcl9wcm9ncmVzc19zdGFydCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50R3VpZGVfYmVnaW49Ii0xMmRwIgogICAgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGIK</text>
+        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcGEK</text>
+        <text encoding="base64">ICAgIExvZy5kKCJEZWJ1ZzogcmVzcG9uc2VTdHJpbmciLCByZXNwb25zZVN0cmluZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBidWZmZXIucmUK</text>
+        <text encoding="base64">ICAgIHZhbCByZXNwb25zZVN0cmluZyA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>@id/guideline_controller_progress_start</text>
@@ -413,21 +417,21 @@
         <entry>action GoToLastTab</entry>
         <entry>.action SaveAll</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action FindInPath</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Find</entry>
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Back</entry>
         <entry>action GotoAction</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action FindInPath</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
