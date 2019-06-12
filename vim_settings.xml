@@ -115,6 +115,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" timestamp="1560319748953">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="13" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/JMupsRequest.kt" timestamp="1560265237541">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="24" />
@@ -246,10 +252,7 @@
         <mark key="^" line="62" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/activity_player_mock.xml" timestamp="1560318643386">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="29" column="32" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560316521191">
         <mark key="'" line="12" column="2" />
@@ -372,34 +375,34 @@
         <text encoding="base64">ICAgICAgYW5kcm9pZDpjbGlwVG9QYWRkaW5nPSJmYWxzZSIKICAgICAgYW5kcm9pZDpjbGlwQ2hpbGRyZW49ImZhbHNlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjbGlwVG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2xpcAo=</text>
+        <text encoding="base64">ICBpZCgia290bGluLWFuZHJvaWQtZXh0ZW5zaW9ucyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBjbGlwVG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgY2xpcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2xpcFQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0Lkd1aWRlbGluZQogICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfY29udHJvbGxlcl9wcm9ncmVzc19zdGFydCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50R3VpZGVfYmVnaW49Ii0xMmRwIgogICAgLz4K</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlPSJ0cnVlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgY2xpcFQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCJEZWJ1ZzogcmVzcG9uc2VTdHJpbmciLCByZXNwb25zZVN0cmluZykK</text>
+        <text encoding="base64">CiAgPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0Lkd1aWRlbGluZQogICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfY29udHJvbGxlcl9wcm9ncmVzc19zdGFydCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50R3VpZGVfYmVnaW49Ii0xMmRwIgogICAgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXNwb25zZVN0cmluZyA9IAo=</text>
+        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
         <text>@id/guideline_controller_progress_start</text>
@@ -426,12 +429,12 @@
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
         <entry>action SaveAll</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
