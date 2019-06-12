@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/UserStore.kt" timestamp="1560311466268" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/UserStore.kt" timestamp="1560313527171">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/widget/CountSupportedTextInputWrapper.kt" timestamp="1560149759834">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -88,7 +93,6 @@
         <mark key="^" line="21" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560244462633">
-        <mark key="'" line="21" column="2" />
         <mark key="[" line="205" column="0" />
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
@@ -244,7 +248,7 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560244489200">
-        <mark key="'" line="220" column="51" />
+        <mark key="'" line="1" column="51" />
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
@@ -390,7 +394,7 @@
         <text encoding="base64">ICAgIHZhbCBidWZmZXIucmUK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>responseString</text>
@@ -413,16 +417,16 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Find</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
