@@ -394,7 +394,7 @@
         <text encoding="base64">ICAgIHZhbCBidWZmZXIucmUK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>responseString</text>
@@ -425,8 +425,8 @@
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
