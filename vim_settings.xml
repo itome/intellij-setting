@@ -15,9 +15,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="55" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values/attrs.xml" timestamp="1560145233159">
-        <mark key="'" line="6298" column="20" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/drawable/vector_drawable_progress_bar_large.xml" timestamp="1560146360478">
         <mark key="'" line="39" column="1" />
         <mark key="[" line="15" column="0" />
@@ -53,6 +50,13 @@
         <mark key="]" line="123" column="17" />
         <mark key="^" line="123" column="17" />
         <mark key="." line="123" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Settlement/SettlementViewController.swift" timestamp="1560340575721">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="73" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/anim/progress_interminate_ratation.xml" timestamp="1560142416484">
         <mark key="[" line="19" column="25" />
@@ -126,6 +130,11 @@
         <mark key="]" line="17" column="49" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" timestamp="1560340110202">
+        <mark key="'" line="57" column="61" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/vector_progress_bar.xml" timestamp="1560153290249">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="41" />
@@ -186,9 +195,6 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/usb/UsbDeviceConnection.java" timestamp="1559987607440">
-        <mark key="'" line="221" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" timestamp="1560149418800">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="43" />
@@ -208,7 +214,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" timestamp="1560148202282" />
       <file name="/Dummy.txt" timestamp="1560147419943">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,6 +229,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Carts/CartViewController.swift" timestamp="1560339715191" />
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/interpolator/linear.xml" timestamp="1560142715245">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -285,6 +291,10 @@
         <mark key="]" line="17" column="49" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Article/ArticleViewController.swift" timestamp="1560340511089">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="76" column="5" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b49530c52c05e76001307a9f0717314/exoplayer-ui-2.10.1/res/layout/exo_simple_player_view.xml" timestamp="1560147585075">
         <mark key="'" line="0" column="27" />
         <mark key="[" line="0" column="0" />
@@ -306,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_rectangle_radius4_black_surface_light.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_light_oval.xml" />
       <jump line="8" column="8" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_forward.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_forward.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_back.xml" />
@@ -406,43 +414,45 @@
       <jump line="17" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/StepSeekListener.kt" />
       <jump line="64" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="74" column="27" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Settlement/SettlementViewController.swift" />
+      <jump line="57" column="61" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcuYnV0dG9uQ29udHJvbGxlclN0ZXBCYWNrLmlzQ2xpY2thYmxlID0gZmFsc2UK</text>
+        <text encoding="base64">CiAgICBzdGF0aWMgZnVuYyBwdXNoKHZpZXdDb250cm9sbGVyOiBVSVZpZXdDb250cm9sbGVyLCBhcnRpY2xlSWQ6IFN0cmluZykgewogICAgICAgIGlmIGxldCB2YyA9IHZpZXdDb250cm9sbGVyLnN0b3J5Ym9hcmQ/Lmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJBcnRpY2xlVmlld0NvbnRyb2xsZXIiKSBhcz8gQXJ0aWNsZVZpZXdDb250cm9sbGVyIHsKICAgICAgICAgICAgdmMuYXJ0aWNsZUlkID0gYXJ0aWNsZUlkCiAgICAgICAgICAgIHZpZXdDb250cm9sbGVyLm5hdmlnYXRpb25Db250cm9sbGVyPy5wdXNoVmlld0NvbnRyb2xsZXIodmMsIGFuaW1hdGVkOiB0cnVlKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBGb3J3YXJkKCkgewogICAgYmluZGluZy5idXR0b25Db250cm9sbGVyU3RlcEZvcndhcmQuaXNDbGlja2FibGUgPSBmYWxzZQogICAgb25TdGVwRm9yd2FyZCgpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmM/Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBGb3J3YXJkU3RhcnQoKSB7CiAgICBiaW5kaW5nLmJ1dHRvbkNvbnRyb2xsZXJTdGVwRm9yd2FyZC5pc0NsaWNrYWJsZSA9IGZhbHNlCiAgICBvblN0ZXBGb3J3YXJkU3RhcnQoKQogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmMuYXJ0aWNsZUlkID0gYXJ0aWNsZUlkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBCYWNrRW5kKCkgewogICAgYmluZGluZy5idXR0b25Db250cm9sbGVyU3RlcEJhY2suaXNDbGlja2FibGUgPSB0cnVlCiAgICBvblN0ZXBCYWNrRW5kKCkKICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBCYWNrKCkgewogICAgYmluZGluZy5idXR0b25Db250cm9sbGVyU3RlcEJhY2suaXNDbGlja2FibGUgPSBmYWxzZQogICAgb25TdGVwQmFjaygpCiAgfQo=</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDYtMTIuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCmltcG9ydCBGb3VuZGF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBCYWNrU3RhcnQoKSB7CiAgICBiaW5kaW5nLmJ1dHRvbkNvbnRyb2xsZXJTdGVwQmFjay5pc0NsaWNrYWJsZSA9IGZhbHNlCiAgICBvblN0ZXBCYWNrU3RhcnQoKQogIH0K</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBGb3J3YXJkKCkgewogICAgYmluZGluZy5idXR0b25Db250cm9sbGVyU3RlcEZvcndhcmQuaXNDbGlja2FibGUgPSBmYWxzZQogICAgb25TdGVwRm9yd2FyZCgpCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvbkRvdWJsZVQK</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBGb3J3YXJkU3RhcnQoKSB7CiAgICBiaW5kaW5nLmJ1dHRvbkNvbnRyb2xsZXJTdGVwRm9yd2FyZC5pc0NsaWNrYWJsZSA9IGZhbHNlCiAgICBvblN0ZXBGb3J3YXJkU3RhcnQoKQogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8PDw8PDw8IEhFQUQK</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBCYWNrRW5kKCkgewogICAgYmluZGluZy5idXR0b25Db250cm9sbGVyU3RlcEJhY2suaXNDbGlja2FibGUgPSB0cnVlCiAgICBvblN0ZXBCYWNrRW5kKCkKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gc2hvd1BsYXlCdXR0b24oKSB7CiAgICBiaW5kaW5nLmJ1dHRvbkNvbnRyb2xsZXJQbGF5LmFwcGx5IHsKICAgICAgaXNJbnZpc2libGUgPSBmYWxzZQogICAgICBpc0NsaWNrYWJsZSA9IHRydWUKICAgIH0KICB9CgogIHByaXZhdGUgZnVuIGhpZGVQbGF5QnV0dG9uKCkgewogICAgYmluZGluZy5idXR0b25Db250cm9sbGVyUGxheS5hcHBseSB7CiAgICAgIGlzSW52aXNpYmxlID0gdHJ1ZQogICAgICBpc0NsaWNrYWJsZSA9IGZhbHNlCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBCYWNrKCkgewogICAgYmluZGluZy5idXR0b25Db250cm9sbGVyU3RlcEJhY2suaXNDbGlja2FibGUgPSBmYWxzZQogICAgb25TdGVwQmFjaygpCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gb25Eb3VibGVUYXBCYWNrU3RhcnQoKSB7CiAgICBiaW5kaW5nLmJ1dHRvbkNvbnRyb2xsZXJTdGVwQmFjay5pc0NsaWNrYWJsZSA9IGZhbHNlCiAgICBvblN0ZXBCYWNrU3RhcnQoKQogIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>Settole</text>
       </register>
     </registers>
     <search>
@@ -463,15 +473,15 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action RenameElement</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
-        <entry>action GotoAction</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
