@@ -254,12 +254,12 @@
       <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/activity_player_mock.xml" timestamp="1560318643386">
         <mark key="^" line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560322957921">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560323746680">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="49" column="17" />
-        <mark key="." line="49" column="17" />
-        <mark key="^" line="221" column="47" />
+        <mark key="[" line="226" column="31" />
+        <mark key="]" line="226" column="30" />
+        <mark key="." line="226" column="30" />
+        <mark key="^" line="226" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_back.xml" timestamp="1559890287343">
         <mark key="[" line="6" column="32" />
@@ -403,7 +403,7 @@ handler?.</text>
         <text encoding="base64">ICBjbGlwVG8K</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>this@PlayerControllerView.</text>
@@ -433,9 +433,9 @@ handler?.</text>
         <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
