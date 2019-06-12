@@ -117,9 +117,9 @@
         <mark key="^" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" timestamp="1560322202971">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/JMupsRequest.kt" timestamp="1560265237541">
         <mark key="[" line="3" column="20" />
@@ -141,6 +141,7 @@
         <mark key="." line="24" column="11" />
         <mark key="^" line="24" column="11" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" timestamp="1560329103923" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/SuicaSalesRequest.kt" timestamp="1560265337663">
         <mark key="'" line="7" column="12" />
         <mark key="[" line="21" column="0" />
@@ -252,7 +253,7 @@
         <mark key="^" line="62" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/activity_player_mock.xml" timestamp="1560318643386">
-        <mark key="^" line="29" column="32" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560323746680">
         <mark key="'" line="0" column="0" />
@@ -403,7 +404,7 @@ handler?.</text>
         <text encoding="base64">ICBjbGlwVG8K</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>this@PlayerControllerView.</text>
@@ -426,16 +427,16 @@ handler?.</text>
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
