@@ -247,11 +247,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560244489200">
-        <mark key="'" line="1" column="51" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560316521191">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="221" column="42" />
+        <mark key="]" line="221" column="47" />
+        <mark key="." line="221" column="47" />
+        <mark key="^" line="221" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/drawable/ripple_player_seek_repeat_back.xml" timestamp="1559890287343">
         <mark key="[" line="6" column="32" />
@@ -261,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="6" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/anim/progress_indeterminate.xml" />
       <jump line="17" column="21" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/interpolator/trim_start_interpolator.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/interpolator/trim_start_interpolator.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/anim/tims_start_interpolator.xml" />
@@ -361,43 +361,44 @@
       <jump line="7" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsCancelAction.kt" />
       <jump line="22" column="17" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" />
       <jump line="7" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" />
+      <jump line="12" column="2" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVsYXkoREVGQVVMVF9SRUFEX0lOVEVSVkFMX01JTExTKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCJEZWJ1ZzogcmVzcG9uc2VTdHJpbmciLCByZXNwb25zZVN0cmluZykK</text>
+        <text encoding="base64">CiAgPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0Lkd1aWRlbGluZQogICAgYW5kcm9pZDppZD0iQCtpZC9ndWlkZWxpbmVfY29udHJvbGxlcl9wcm9ncmVzc19zdGFydCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50R3VpZGVfYmVnaW49Ii0xMmRwIgogICAgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXNwb25zZVN0cmluZyA9IAo=</text>
+        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgIExvZy5kKCJEZWJ1ZzogcmVzcG9uc2VTdHJpbmciLCByZXNwb25zZVN0cmluZykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlci5yZXBsYQo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXNwb25zZVN0cmluZyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGIK</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcGEK</text>
+        <text encoding="base64">ICAgIGJ1ZmZlci5yZXBsYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBidWZmZXIucmUK</text>
+        <text encoding="base64">ICAgIGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZ1biBwYXJzZVJlc3BvbnNlKGJ1ZmZlcjogQnl0ZUFycmF5KTogVHJpcGxlPFJlc3BvbnNlQ29kZT8sIENvbW1hbmRDb2RlPywgU3RyaW5nPiB7CiAgICB2YWwgcmVzcG9uc2VTdHJpbmcgPSBTdHJpbmcoYnVmZmVyLCBTdGFuZGFyZENoYXJzZXRzLlVTX0FTQ0lJKQo=</text>
+        <text encoding="base64">ICAgIHJlcGEK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHZhbCBidWZmZXIucmUK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>responseString</text>
+        <text>@id/guideline_controller_progress_start</text>
       </register>
     </registers>
     <search>
@@ -420,13 +421,13 @@
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
