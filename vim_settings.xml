@@ -40,10 +40,6 @@
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1560402708655">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="54" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="64" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" timestamp="1560153257232">
         <mark key="'" line="1" column="0" />
@@ -309,7 +305,7 @@
         <text encoding="base64">Ly8gRGlzcGF0Y2ggdG91Y2ggZXZlbnQgZm9yIFRpbWVCYXIuCi8vIEJvdHRvbSBwYXJ0IG9mIHRpbWUgYmFyIGlzIHJlbmRlcmVkIG91dHNpZGUgb2YgcGxheWVyIHZpZXcsIHNvIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -331,17 +327,17 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
