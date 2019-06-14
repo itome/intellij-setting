@@ -22,6 +22,11 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/DeviceOrientationManager.kt" timestamp="1560482053407">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/drawable/vector_drawable_progress_bar_large.xml" timestamp="1560146360478">
         <mark key="'" line="39" column="1" />
         <mark key="[" line="15" column="0" />
@@ -270,37 +275,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b25Db250cm9sbGVyUGxheS5zZXRJbWFnZVJlc291cmNlKFIuZHJhd2FibGUuaWNfcGxheWVyX3BhdXNlKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXF1ZXN0ZWQgIT0gT3JpZW50YXRpb24uVU5TUEVDSUZJRUQgJiYgaXNBdXRvUm90YXRlU2V0dGluZ0VuYWJsZWQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGlzUGxheWluZykgewogICAgICAgIHAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXF1ZXN0ZWQgIT0gT3JpZW50YXRpb24uVU5TUEVDSUZJRUQgJiYgaXNBdXRvUm90YXRlU2V0dGluZ0VuYWJsZWQoKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXF1ZXN0ZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgaWYgKGlzUGxheWluZykgewogICAgICAgIHAKICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlzUGxheWluZyA9IGlzUGxheWluZwogICAgc2V0KHZhbHVlKSB7CiAgICAgIGZpZWxkID0gdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldCh2YWx1ZSkgewogICAgICBmaWVsZCA9IHZhbHVlCiAgICAgIGlmICh2YWx1ZSkgewogICAgICAgIGJ1dHRvbkNvbnRyb2xsZXJQbGF5LnNldEltYWdlUmVzb3VyY2UoUmVzUi5kcmF3YWJsZS5pY19wbGF5ZXJfcGF1c2UpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgYnV0dG9uQ29udHJvbGxlclBsYXkuc2V0SW1hZ2VSZXNvdXJjZShSZXNSLmRyYXdhYmxlLmljX3BsYXllcl9wbGF5KQogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgPEltYWdlQnV0dG9uCiAgICBhbmRyb2lkOmlkPSJAaWQvZXhvX3BhdXNlIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Ijg4ZHAiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Ijg4ZHAiCiAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yaXBwbGVfbGlnaHRfb3ZhbCIKICAgIGFuZHJvaWQ6Y29udGVudERlc2NyaXB0aW9uPSJAc3RyaW5nL2NvbnRlbnRfZGVzY3JpcHRpb25fcGxheWVyX3BhdXNlIgogICAgYW5kcm9pZDpwYWRkaW5nPSIyMGRwIgogICAgYW5kcm9pZDpzY2FsZVR5cGU9ImZpdENlbnRlciIKICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaWNfcGxheWVyX3BhdXNlIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAvPgo=</text>
+        <text encoding="base64">ICAgIGlzUGxheWluZyA9IGlzUGxheWluZwogICAgc2V0KHZhbHVlKSB7CiAgICAgIGZpZWxkID0gdmFsdWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYnV0dG9uQ29udHJvbGxlclBsYXkuc2V0SW1hZ2VSZXNvdXJjZSgpCg==</text>
+        <text encoding="base64">ICAgIHNldCh2YWx1ZSkgewogICAgICBmaWVsZCA9IHZhbHVlCiAgICAgIGlmICh2YWx1ZSkgewogICAgICAgIGJ1dHRvbkNvbnRyb2xsZXJQbGF5LnNldEltYWdlUmVzb3VyY2UoUmVzUi5kcmF3YWJsZS5pY19wbGF5ZXJfcGF1c2UpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgYnV0dG9uQ29udHJvbGxlclBsYXkuc2V0SW1hZ2VSZXNvdXJjZShSZXNSLmRyYXdhYmxlLmljX3BsYXllcl9wbGF5KQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGxheQo=</text>
+        <text encoding="base64">CiAgPEltYWdlQnV0dG9uCiAgICBhbmRyb2lkOmlkPSJAaWQvZXhvX3BhdXNlIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Ijg4ZHAiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Ijg4ZHAiCiAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yaXBwbGVfbGlnaHRfb3ZhbCIKICAgIGFuZHJvaWQ6Y29udGVudERlc2NyaXB0aW9uPSJAc3RyaW5nL2NvbnRlbnRfZGVzY3JpcHRpb25fcGxheWVyX3BhdXNlIgogICAgYW5kcm9pZDpwYWRkaW5nPSIyMGRwIgogICAgYW5kcm9pZDpzY2FsZVR5cGU9ImZpdENlbnRlciIKICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaWNfcGxheWVyX3BhdXNlIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJ1dHRvbkNvbnRyb2xsZXJQbGF5LnZpc2kK</text>
+        <text encoding="base64">ICAgICAgYnV0dG9uQ29udHJvbGxlclBsYXkuc2V0SW1hZ2VSZXNvdXJjZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aXNQbGF5aW5nIA==</text>
@@ -323,16 +328,16 @@
         <entry>action ParameterInfo</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action FindInPath</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
-        <entry>action Back</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
