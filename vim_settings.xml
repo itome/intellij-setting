@@ -14,7 +14,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1560475773808" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1560496417195" />
       <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout-land/activity_player_mock.xml" timestamp="1560402834714">
         <mark key="'" line="13" column="47" />
         <mark key="[" line="10" column="0" />
@@ -44,10 +44,13 @@
         <mark key="]" line="19" column="5" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560496364829">
+        <mark key="'" line="200" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" timestamp="1560495137710">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/build.gradle.kts" timestamp="1560322202971">
         <mark key="[" line="13" column="0" />
@@ -181,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="45" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="42" column="30" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="118" column="51" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="0" column="10" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
@@ -281,6 +283,7 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player.xml" />
       <jump line="45" column="2" filename="$USER_HOME$/Projects/love/android/features/playground/src/main/java/jp/cldh/playground/ui/player/PlayerMockActivity.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/love/android/features/playground/src/main/java/jp/cldh/playground/ui/player/PlayerMockActivity.kt" />
+      <jump line="200" column="23" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -314,7 +317,7 @@
         <text encoding="base64">ICBhbmRyb2lkOmNsaXBDaGlsZHJlbj0iZmFsc2UiCiAgYW5kcm9pZDpjbGlwVG9QYWRkaW5nPSJmYWxzZSIK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aXNQbGF5aW5nIA==</text>
@@ -338,15 +341,15 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
-        <entry>action Find</entry>
-        <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Find</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
