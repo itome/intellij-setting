@@ -323,7 +323,7 @@
         <text encoding="base64">ICBvdmVycmlkZSBmdW4gaXNWaXNpYmxlKCk6IEJvb2xlYW4gPSBpc0NvbnRyb2xsZXJWaXNpYmxlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGlmICghaXNDb250ZW50VmlzaWJsZSkgYnV0dG9uQ29udHJvbGxlclN0ZXBGb3J3YXJkLmlzVmlzaWJsZSA9IGZhbHNlIA==</text>
@@ -346,7 +346,6 @@
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
         <entry>action SearchEverywhere</entry>
@@ -356,6 +355,7 @@
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
