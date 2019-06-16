@@ -124,11 +124,12 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Settlement/SettlementViewController.swift" timestamp="1560664900731">
-        <mark key="[" line="60" column="9" />
-        <mark key="]" line="61" column="25" />
-        <mark key="." line="61" column="25" />
-        <mark key="^" line="61" column="25" />
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Settlement/SettlementViewController.swift" timestamp="1560694438458">
+        <mark key="'" line="34" column="3" />
+        <mark key="[" line="61" column="25" />
+        <mark key="]" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+        <mark key="^" line="64" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsInitializeAction.kt" timestamp="1560260109418">
         <mark key="'" line="0" column="14" />
@@ -211,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="78" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="75" column="18" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
@@ -311,45 +311,46 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/Array+.swift" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/Array+.swift" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/Array+.swift" />
+      <jump line="34" column="3" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Settlement/SettlementViewController.swift" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>CartItem.deserialize(items: cartItems).rawString() ?? &quot;&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRJdGVtVG9TdG9yYWdlKGtleTogZ2V0Q2FydEtleSgpLCB2YWx1ZTogIntcIlJUVy0yODYtMDAzLTAwLTAwMVwiOntcImlkXCI6XCI1Y2M5NGQ4YTM0NzQ5ODQ2MWU0ZWU5NzBcIixcIml0ZW1fY29kZVwiOlwiUlRXLTI4Ni0wMDMtMDAtMDAxXCIsXCJuYW1lXCI6XCJmcm9udCByaWJib24gY290dG9uIGZsb3dlciBibG91c2VcIixcImJyYW5kXCI6XCJmZWxpY2l0YVwiLFwicHJpY2VcIjp7XCJub3dcIjozOTgwLFwibm9ybWFsXCI6Mzk4MH0sXCJpbWFnZVwiOlwiaHR0cHM6Ly9wYXRyYS5pbWdpeC5uZXQvaW1hZ2VzLzIwMTktMDYtMDgvZmQzZWNkYjgtNzNmOC00MjhlLThlOWUtZmY0ZjYxMGU2NDk5LkpQR1wiLFwiZGlzcGxheV9uYW1lXCI6XCJXSElURVwiLFwicXVhbnRpdHlcIjoxfX0iKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChnZXRDYXJ0S2V5KCkpCiAgICAgICAgcHJpbnQoQ2FydEl0ZW0uZGVzZXJpYWxpemUoaXRlbXM6IGNhcnRJdGVtcykucmF3U3RyaW5nKG9wdGlvbnM6IC5zb3J0ZWRLZXlzKSA/PyAiIikK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChnZXRDYXJ0S2V5KCkpCiAgICAgICAgcHJpbnQoQ2FydEl0ZW0uZGVzZXJpYWxpemUoaXRlbXM6IGNhcnRJdGVtcykucmF3U3RyaW5nKG9wdGlvbnM6IC5zb3J0ZWRLZXlzKSA/PyAiIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRJdGVtVG9TdG9yYWdlKGtleTogU2V0dGxlbWVudFZpZXdDb250cm9sbGVyLlBBVFJBX1RPS0VOX01BTkFHRV9LRVksIHZhbHVlOiB0b2tlbikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRJdGVtVG9TdG9yYWdlKGtleTogZ2V0Q2FydEtleSgpLCB2YWx1ZTogIntcIlJUVy0yODYtMDAzLTAwLTAwMVwiOntcImlkXCI6XCI1Y2M5NGQ4YTM0NzQ5ODQ2MWU0ZWU5NzBcIixcIml0ZW1fY29kZVwiOlwiUlRXLTI4Ni0wMDMtMDAtMDAxXCIsXCJuYW1lXCI6XCJmcm9udCByaWJib24gY290dG9uIGZsb3dlciBibG91c2VcIixcImJyYW5kXCI6XCJmZWxpY2l0YVwiLFwicHJpY2VcIjp7XCJub3dcIjozOTgwLFwibm9ybWFsXCI6Mzk4MH0sXCJpbWFnZVwiOlwiaHR0cHM6Ly9wYXRyYS5pbWdpeC5uZXQvaW1hZ2VzLzIwMTktMDYtMDgvZmQzZWNkYjgtNzNmOC00MjhlLThlOWUtZmY0ZjYxMGU2NDk5LkpQR1wiLFwiZGlzcGxheV9uYW1lXCI6XCJXSElURVwiLFwicXVhbnRpdHlcIjoxfX0iKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiBsZXQgc3RyaW5nID0gc3RyLGxldCBkYXQgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>{
         
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmlsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICA/PyAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLy8gUmV0dXJucyB0aGUgZWxlbWVudCBhdCB0aGUgc3BlY2lmaWVkIGluZGV4IGlmIGl0IGlzIHdpdGhpbiBib3VuZHMsIG90aGVyd2lzZSBuaWwuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXh0ZW5zaW9uIEFycmF5IHdoZXJlIEVsZW1lbnQ6IERlZmF1bHRWYWx1ZVByb3RvY29sIHsKICAgIHN1YnNjcmlwdChzYWZlIGluZGV4OiBJbnQpIC0+IEVsZW1lbnQgewogICAgICAgIHJldHVybiBzZWxmW2ZvcmNlOiBpbmRleF0gPz8gRWxlbWVudC5kZWZhdWx0VmFsdWUKICAgIH0KfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXh0ZW5zaW9uIEFycmF5IHsKICAgIHN1YnNjcmlwdChmb3JjZSBpbmRleDogSW50KSAtPiBFbGVtZW50PyB7CiAgICAgICAgc3dpdGNoIGluZGV4IHsKICAgICAgICBjYXNlIHNlbGYuaW5kaWNlczoKICAgICAgICAgICAgcmV0dXJuIHNlbGZbaW5kZXhdCiAgICAgICAgCiAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgcmV0dXJuIG5pbAogICAgICAgIH0KICAgIH0KfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDYtMTYuCi8vIENvcHlyaWdodCAoYykgMjAxOSBQQVRSQS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8KCmltcG9ydCBGb3VuZGF0aW9uCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
-        <text>cartIte</text>
+        <text>rawString</text>
       </register>
     </registers>
     <search>
@@ -370,15 +371,15 @@
         <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
         <entry>action GoToLastTab</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
-        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
