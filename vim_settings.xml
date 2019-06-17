@@ -26,6 +26,7 @@
         <mark key="^" line="87" column="75" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/widget/ImageCropView.kt" timestamp="1560759352482" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1560749537721">
         <mark key="'" line="596" column="18" />
         <mark key="[" line="638" column="0" />
@@ -175,7 +176,7 @@
         <mark key="." line="73" column="24" />
         <mark key="^" line="73" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560755685276">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560756961380">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" timestamp="1560588691827">
@@ -333,7 +334,7 @@
         <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjJkcCIK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text>player_time_bar_unplayed</text>
@@ -354,18 +355,18 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoSuperMethod</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
-        <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action Find</entry>
+        <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
