@@ -67,9 +67,9 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1560593422623">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1560770470762">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="110" column="43" />
+        <mark key="[" line="110" column="45" />
         <mark key="]" line="110" column="45" />
         <mark key="." line="110" column="45" />
         <mark key="^" line="110" column="45" />
@@ -182,12 +182,12 @@
         <mark key="." line="73" column="24" />
         <mark key="^" line="73" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560764614522">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560770054447">
         <mark key="'" line="212" column="47" />
-        <mark key="[" line="194" column="79" />
-        <mark key="]" line="194" column="122" />
-        <mark key="^" line="194" column="78" />
-        <mark key="." line="194" column="79" />
+        <mark key="[" line="166" column="5" />
+        <mark key="]" line="166" column="4" />
+        <mark key="^" line="166" column="4" />
+        <mark key="." line="166" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" timestamp="1560588691827">
         <mark key="[" line="6" column="0" />
@@ -344,10 +344,10 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBleG9QbGF5LmlzVmlzaWJsZSA9ICFpc0J1ZmZlcmluZyAmJiAhaXNQbGF5aW5nCiAgICBleG9QYXVzZS5pc1Zpc2libGUgPSAhaXNCdWZmZXJpbmcgJiYgaXNQbGF5aW5nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>parent</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
@@ -373,10 +373,10 @@
         <entry>action SplitVertically</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
