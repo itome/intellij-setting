@@ -8,10 +8,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1560833562739">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerControlView.java" timestamp="1560834759388">
         <mark key="'" line="596" column="18" />
-        <mark key="[" line="638" column="0" />
-        <mark key="]" line="640" column="7" />
+        <mark key="[" line="1013" column="0" />
+        <mark key="]" line="1016" column="5" />
         <mark key="^" line="641" column="5" />
         <mark key="." line="641" column="5" />
       </file>
@@ -24,8 +24,11 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560833503098">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1560834811771">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1560780618499">
         <mark key="'" line="28" column="47" />
@@ -62,6 +65,12 @@
         <mark key="]" line="11" column="83" />
         <mark key="." line="11" column="83" />
         <mark key="^" line="11" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/ext/PlayerViewExt.kt" timestamp="1560835267070">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="21" column="42" />
+        <mark key="^" line="29" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" timestamp="1560575499958">
         <mark key="'" line="17" column="0" />
@@ -243,37 +252,37 @@
         <text encoding="base64">ICAgICAgdmFsIGJ1ZmZlciA9IEJ5dGVBcnJheSgxMDI0KS5ydW4geyBzbGljZSgwIHVudGlsIHJlYWQodGhpcywgREVGQVVMVF9USU1FX09VVF9NSUxMUykpLnRvQnl0ZUFycmF5KCkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNsZGguY29yZS5kYXRhYmluZGluZy5GcmFnbWVudEJhc2VCaW5kaW5nLmJpbmQK</text>
+        <text encoding="base64">ICByZXR1cm4gaWYgKGNvbnRyb2xsZXI/LmlzVmlzaWJsZSA9PSB0cnVlKSB7CiAgICBjb250cm9sbGVyLmRpc3BhdGNoVG91Y2hFdmVudChlKQogIH0gZWxzZSB7CiAgICBmYWxzZQogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNsZGgucHJvZ3JhbXZpZXdlci5kYXRhYmluZGluZy5BY3Rpdml0eVByb2dyYW1WaWV3ZXJCaW5kaW5nCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgYmluZGluZzogQWN0aXZpdHlQcm9ncmFtVmlld2VyQmluZGluZwo=</text>
+        <text encoding="base64">ICBpZiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChidWZmZXIuaXNFbXB0eSgpKSByZXR1cm4K</text>
+        <text encoding="base64">ICBpZiAoY29udHJvbGxlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB7CiAgICAgICAgICBqCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICB0aW1lYmVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmJ1ZmZlci5zbGkK</text>
+        <text encoding="base64">ICBmaW5kVmlldwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UudmFsdWUgPSBTdHJpbmcocmVzcG9uc2VCdWZmZXIsIFN0YW5kYXJkQ2hhcnNldHMuVVNfQVNDSUkpCg==</text>
+        <text encoding="base64">CiAgQFN1cHByZXNzTGludCgiQ2xpY2thYmxlVmlld0FjY2Vzc2liaWxpdHkiKQogIG92ZXJyaWRlIGZ1biBvblRvdWNoRXZlbnQoZXZlbnQ6IE1vdGlvbkV2ZW50Pyk6IEJvb2xlYW4gewogICAgcmV0dXJuIGV4b1Byb2dyZXNzLmRpc3BhdGNoVG91Y2hFdmVudChldmVudCkgfHwgc3VwZXIub25Ub3VjaEV2ZW50KGV2ZW50KQogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXNwb25zZUJ1ZmZlciA9IGlmIChzZW1pQ29sb25JbmRleCA+IDI3KSB7CiAgICB9IGVsc2UgewogICAgICBieXRlQXJyYXlPZigpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcmVtb3ZlQ2FsbGJhY2tzKGhpZGVBY3Rpb24pOwogICAgfSBlbHNlIGlmIChldi5nZXRBY3Rpb24oKSA9PSBNb3Rpb25FdmVudC5BQ1RJT05fVVApIHsKICAgICAgaGlkZUFmdGVyVGltZW91dCgpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>dis</text>
       </register>
     </registers>
     <search>
@@ -291,18 +300,18 @@
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
         <entry>action SplitVertically</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Find</entry>
+        <entry>action Back</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
