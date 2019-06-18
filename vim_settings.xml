@@ -182,12 +182,12 @@
         <mark key="." line="403" column="55" />
         <mark key="^" line="403" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560828549798">
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560829238832">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="166" column="5" />
-        <mark key="]" line="166" column="4" />
-        <mark key="^" line="166" column="4" />
-        <mark key="." line="166" column="4" />
+        <mark key="[" line="197" column="1" />
+        <mark key="]" line="197" column="0" />
+        <mark key="^" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" timestamp="1560588691827">
         <mark key="[" line="6" column="0" />
@@ -347,7 +347,7 @@
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -367,15 +367,15 @@
         <entry>action FindInPath</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action SplitVertically</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
