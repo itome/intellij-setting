@@ -182,8 +182,8 @@
         <mark key="." line="403" column="55" />
         <mark key="^" line="403" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560826503847">
-        <mark key="'" line="255" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1560828549798">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="166" column="5" />
         <mark key="]" line="166" column="4" />
         <mark key="^" line="166" column="4" />
@@ -211,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="12" column="35" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="28" column="33" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="11" column="32" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
@@ -297,7 +296,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="234" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="167" column="21" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="201" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="58" column="4" filename="$USER_HOME$/Projects/love/android/features/playground/src/main/java/jp/cldh/playground/ui/player/PlayerMockActivity.kt" />
       <jump line="212" column="47" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
@@ -311,6 +309,8 @@
       <jump line="170" column="1" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="28" column="47" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="255" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="194" column="121" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -344,7 +344,7 @@
         <text encoding="base64">ICAgICAgYnVmZmVyLnNsaWNlKChzZW1pQ29sb25JbmRleCAtIDI3KS4uc2VtaUNvbG9uSW5kZXgpLnRvQnl0ZUFycmF5KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZWxzZSA=</text>
@@ -375,8 +375,8 @@
         <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
