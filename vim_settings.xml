@@ -415,7 +415,7 @@
         <text encoding="base64">ICAgICAgICBVc2VyKAogICAgICAgICAgaWQgPSBpdC5pZC5zb21lKCksCiAgICAgICAgICBuYW1lID0gaXQubmFtZS5zb21lKCksCiAgICAgICAgICB0aHVtYiA9IGl0LmltYWdlVXJsLnRvT3B0aW9uKCksCiAgICAgICAgICBwbGFuID0gd2hlbiAoaXQucGxhbikgewogICAgICAgICAgICBVc2VyUHJvdG8uVXNlci5QbGFuLkZSRUUgLT4gVXNlclBsYW4uRlJFRQogICAgICAgICAgICBVc2VyUHJvdG8uVXNlci5QbGFuLlNUQU5EQVJEIC0+IFVzZXJQbGFuLlNUQU5EQVJECiAgICAgICAgICAgIFVzZXJQcm90by5Vc2VyLlBsYW4uUFJFTUlVTSAtPiBVc2VyUGxhbi5QUkVNSVVNCiAgICAgICAgICAgIGVsc2UgLT4gVXNlclBsYW4uR1VFU1QKICAgICAgICAgIH0KICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>R</text>
@@ -443,11 +443,11 @@
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
