@@ -257,6 +257,7 @@
         <mark key="^" line="797" column="3" />
         <mark key="." line="797" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/ImageBindingAdapter.kt" timestamp="1561015401291" />
       <file name="/fragment.java" timestamp="1560997378309">
         <mark key="[" line="0" column="0" />
       </file>
@@ -395,7 +396,7 @@
         <text encoding="base64">ICAgICAgdG9wdG90b3AK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>mypage</text>
@@ -424,10 +425,10 @@
         <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
