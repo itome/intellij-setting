@@ -497,7 +497,7 @@
         <text encoding="base64">ICAKICBwcml2YXRlIHZhbCAK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>_program</text>
@@ -523,13 +523,13 @@
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
         <entry>action GotoAction</entry>
-        <entry>action Run</entry>
         <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
