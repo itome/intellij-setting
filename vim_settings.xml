@@ -81,6 +81,7 @@
       <file name="/Dummy.txt" timestamp="1560588478154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/NSObject+.swift" timestamp="1561221031940" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" timestamp="1560575499958">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="40" column="0" />
@@ -295,7 +296,7 @@
         <text encoding="base64">ICAgIHNlbmRSZXF1ZXN0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>2000</text>
@@ -316,18 +317,18 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoImplementation</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ParameterInfo</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
