@@ -267,7 +267,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/player/GPUPlayerRenderer.java" timestamp="1560965954398">
+      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/player/GPUPlayerRenderer.java" timestamp="1561257727794">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
@@ -426,7 +426,7 @@
         <text encoding="base64">ICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJbWFnZUJpdG1hcChmaW5hbCBCaXRtYXAgYml0bWFwLCBmaW5hbCBib29sZWFuIHJlY3ljbGUpIHsKICAgICAgICBpZiAoYml0bWFwID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgcnVuT25EcmF3KG5ldyBSdW5uYWJsZSgpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBCaXRtYXAgcmVzaXplZEJpdG1hcCA9IG51bGw7CiAgICAgICAgICAgICAgICBpZiAoYml0bWFwLmdldFdpZHRoKCkgJSAyID09IDEpIHsKICAgICAgICAgICAgICAgICAgICByZXNpemVkQml0bWFwID0gQml0bWFwLmNyZWF0ZUJpdG1hcChiaXRtYXAuZ2V0V2lkdGgoKSArIDEsIGJpdG1hcC5nZXRIZWlnaHQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpdG1hcC5Db25maWcuQVJHQl84ODg4KTsKICAgICAgICAgICAgICAgICAgICBDYW52YXMgY2FuID0gbmV3IENhbnZhcyhyZXNpemVkQml0bWFwKTsKICAgICAgICAgICAgICAgICAgICBjYW4uZHJhd0FSR0IoMHgwMCwgMHgwMCwgMHgwMCwgMHgwMCk7CiAgICAgICAgICAgICAgICAgICAgY2FuLmRyYXdCaXRtYXAoYml0bWFwLCAwLCAwLCBudWxsKTsKICAgICAgICAgICAgICAgICAgICBhZGRlZFBhZGRpbmcgPSAxOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBhZGRlZFBhZGRpbmcgPSAwOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGdsVGV4dHVyZUlkID0gT3BlbkdsVXRpbHMubG9hZFRleHR1cmUoCiAgICAgICAgICAgICAgICAgICAgICAgIHJlc2l6ZWRCaXRtYXAgIT0gbnVsbCA/IHJlc2l6ZWRCaXRtYXAgOiBiaXRtYXAsIGdsVGV4dHVyZUlkLCByZWN5Y2xlKTsKICAgICAgICAgICAgICAgIGlmIChyZXNpemVkQml0bWFwICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXNpemVkQml0bWFwLnJlY3ljbGUoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGltYWdlV2lkdGggPSBiaXRtYXAuZ2V0V2lkdGgoKTsKICAgICAgICAgICAgICAgIGltYWdlSGVpZ2h0ID0gYml0bWFwLmdldEhlaWdodCgpOwogICAgICAgICAgICAgICAgYWRqdXN0SW1hZ2VTY2FsaW5nKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>tciwxName</text>
@@ -457,8 +457,8 @@
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
