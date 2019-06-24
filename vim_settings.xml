@@ -678,7 +678,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>option</text>
@@ -701,7 +701,6 @@
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
@@ -711,6 +710,7 @@
         <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
