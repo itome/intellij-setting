@@ -471,11 +471,11 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" timestamp="1561048457789">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-        <mark key="^" line="14" column="32" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" timestamp="1561374444890">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/model/ProgramViewerInfoModel.kt" timestamp="1561105094618">
         <mark key="'" line="29" column="49" />
@@ -634,7 +634,7 @@
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>thank_you</text>
+        <text>black</text>
       </register>
     </registers>
     <search>
@@ -654,14 +654,14 @@
         <entry>action GotoImplementation</entry>
         <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action ParameterInfo</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
       </history-cmd>
