@@ -52,12 +52,12 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1561188954536">
-        <mark key="'" line="13" column="29" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="73" column="26" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1561381399224">
+        <mark key="'" line="14" column="29" />
+        <mark key="[" line="26" column="72" />
+        <mark key="]" line="26" column="82" />
+        <mark key="." line="26" column="82" />
+        <mark key="^" line="26" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/drawable/shape_rectangle_white_radius_24px.xml" timestamp="1561191194418">
         <mark key="[" line="5" column="0" />
@@ -601,41 +601,41 @@
       <jump line="24" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcudGV4dFBheW1lbnRNZXNzYWdlLnNldFRleHQoUi5zdHJpbmcucGF5bWVudF9jb21wbGV0ZWQpCiAgICAgICAgICBiaW5kaW5nLnRleHRQYXltZW50U3ViTWVzc2FnZS5zZXRUZXh0KFIuc3RyaW5nLnRoYW5rX3lvdSkKICAgICAgICAgIGJpbmRpbmcuaW1hZ2VQYXltZW50Q2hlY2suaXNWaXNpYmxlID0gdHJ1ZQogICAgICAgICAgYmluZGluZy5idXR0b25QYXltZW50QmFjay5pc1Zpc2libGUgPSBmYWxzZQo=</text>
+      <register name="0" type="4">
+        <text>!usbManager.hasPermission(driver.device)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcudGV4dFBheW1lbnQK</text>
+        <text encoding="base64">ICAgIExvZy5kKCJEZWJ1ZyBhbGxEcml2ZXJzIiwgYWxsRHJpdmVycy50b1N0cmluZygpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnRleHRQYXltZW50TWVzc2FnZS5zZXRUZXh0KFIuc3RyaW5nLnBheW1lbnRfY29tcGxldGVkKQogICAgICAgIGJpbmRpbmcudGV4dFBheW1lbnRTdWJNZXNzYWdlLnNldFRleHQoUi5zdHJpbmcudGhhbmtfeW91KQogICAgICAgIGJpbmRpbmcuaW1hZ2VQYXltZW50Q2hlY2suaXNWaXNpYmxlID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcudGV4dFBheW1lbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHJlcXVpcmVDb250ZXh0KCksIGUubWVzc2FnZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnRleHRQYXltZW50TWVzc2FnZS5zZXRUZXh0KFIuc3RyaW5nLnBheW1lbnRfY29tcGxldGVkKQogICAgICAgIGJpbmRpbmcudGV4dFBheW1lbnRTdWJNZXNzYWdlLnNldFRleHQoUi5zdHJpbmcudGhhbmtfeW91KQogICAgICAgIGJpbmRpbmcuaW1hZ2VQYXltZW50Q2hlY2suaXNWaXNpYmxlID0gdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRhZ2dlci5hbmRyb2lkLnN1cHBvcnQuRGFnZ2VyQXBwQ29tcGF0QWN0aXZpdHkK</text>
+        <text encoding="base64">ICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHJlcXVpcmVDb250ZXh0KCksIGUubWVzc2FnZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBzdXNwZW5kIGZ1biByZXF1ZXN0U2FsZXMoKSB7CiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGRhZ2dlci5hbmRyb2lkLnN1cHBvcnQuRGFnZ2VyQXBwQ29tcGF0QWN0aXZpdHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWVzdFNhbGVzKCkKICAgICAgbGF1bmNoKERpc3BhdGNoZXJzLk1haW4pIHsKICAgICAgfQo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBzdXNwZW5kIGZ1biByZXF1ZXN0U2FsZXMoKSB7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHdoZW4gKGFyZ3MucGF5bWVudFNlcnZpY2UpIHsKICAgICAgICBQYXltZW50U2VydmljZS5TVUlDQSAtPiBqTXVwc01hbmFnZXIucmVxdWVzdFN1aWNhU2FsZXMoYXJncy5tZW51LnByaWNlKQogICAgICAgIFBheW1lbnRTZXJ2aWNlLldBT04gLT4gak11cHNNYW5hZ2VyLnJlcXVlc3RXQU9OU2FsZXMoYXJncy5tZW51LnByaWNlKQogICAgICAgIFBheW1lbnRTZXJ2aWNlLk5BTkFDTyAtPiBqTXVwc01hbmFnZXIucmVxdWVzdE5hbmFjb1NhbGVzKGFyZ3MubWVudS5wcmljZSkKICAgICAgICBQYXltZW50U2VydmljZS5FRFkgLT4gak11cHNNYW5hZ2VyLnJlcXVlc3RFZHlTYWxlcyhhcmdzLm1lbnUucHJpY2UpCiAgICAgIH0KICAgIH0gY2F0Y2ggKGU6IFRocm93YWJsZSkgewogICAgICBsYXVuY2goRGlzcGF0Y2hlcnMuTWFpbikgewogICAgICAgIFRvYXN0Lm1ha2VUZXh0KHJlcXVpcmVDb250ZXh0KCksIGUubWVzc2FnZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdFNhbGVzKCkKICAgICAgbGF1bmNoKERpc3BhdGNoZXJzLk1haW4pIHsKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHdoZW4gKGFyZ3MucGF5bWVudFNlcnZpY2UpIHsKICAgICAgICBQYXltZW50U2VydmljZS5TVUlDQSAtPiBqTXVwc01hbmFnZXIucmVxdWVzdFN1aWNhU2FsZXMoYXJncy5tZW51LnByaWNlKQogICAgICAgIFBheW1lbnRTZXJ2aWNlLldBT04gLT4gak11cHNNYW5hZ2VyLnJlcXVlc3RXQU9OU2FsZXMoYXJncy5tZW51LnByaWNlKQogICAgICAgIFBheW1lbnRTZXJ2aWNlLk5BTkFDTyAtPiBqTXVwc01hbmFnZXIucmVxdWVzdE5hbmFjb1NhbGVzKGFyZ3MubWVudS5wcmljZSkKICAgICAgICBQYXltZW50U2VydmljZS5FRFkgLT4gak11cHNNYW5hZ2VyLnJlcXVlc3RFZHlTYWxlcyhhcmdzLm1lbnUucHJpY2UpCiAgICAgIH0KICAgIH0gY2F0Y2ggKGU6IFRocm93YWJsZSkgewogICAgICBsYXVuY2goRGlzcGF0Y2hlcnMuTWFpbikgewogICAgICAgIFRvYXN0Lm1ha2VUZXh0KHJlcXVpcmVDb250ZXh0KCksIGUubWVzc2FnZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29yb3V0aW5lU2NvcGUgewo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>!</text>
       </register>
     </registers>
     <search>
@@ -658,13 +658,13 @@
         <entry>action Find</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
