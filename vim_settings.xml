@@ -471,7 +471,8 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" timestamp="1561374444890">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" timestamp="1561377159754">
+        <mark key="'" line="0" column="36" />
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="32" />
         <mark key="." line="6" column="32" />
@@ -498,8 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="48" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsStartServiceAction.kt" />
-      <jump line="24" column="1" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_playground.xml" />
       <jump line="0" column="30" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_playground.xml" />
       <jump line="388" column="30" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" />
       <jump line="78" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" />
@@ -598,6 +597,8 @@
       <jump line="50" column="74" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/PaymentFragment.kt" />
       <jump line="19" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" />
+      <jump line="0" column="36" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -631,7 +632,7 @@
         <text encoding="base64">ICAgICAgY29yb3V0aW5lU2NvcGUgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>black</text>
@@ -656,7 +657,6 @@
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
@@ -664,6 +664,7 @@
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
