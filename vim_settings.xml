@@ -148,6 +148,7 @@
         <mark key="^" line="50" column="88" />
         <mark key="." line="50" column="88" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/proto/ProgramProto.java" timestamp="1561431951257" />
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/di/info/ProgramViewerInfoModule.kt" timestamp="1560925345688">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="31" />
@@ -246,17 +247,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/TextBindingAdapters.kt" timestamp="1561429432834">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/TextBindingAdapters.kt" timestamp="1561430669763">
+        <mark key="[" line="186" column="52" />
+        <mark key="]" line="186" column="76" />
+        <mark key="^" line="186" column="76" />
+        <mark key="." line="186" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" timestamp="1561105894353">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="25" />
-        <mark key="^" line="15" column="25" />
-        <mark key="." line="15" column="25" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" timestamp="1561431917458">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/repository/Program.kt" timestamp="1560907315229">
         <mark key="[" line="4" column="13" />
@@ -507,12 +508,12 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/model/ProgramViewerInfoModel.kt" timestamp="1561426797562">
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/model/ProgramViewerInfoModel.kt" timestamp="1561431185446">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-        <mark key="^" line="21" column="18" />
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
+        <mark key="^" line="34" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_payment.xml" timestamp="1561209531436">
         <mark key="'" line="16" column="48" />
@@ -635,43 +636,43 @@
         <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6dGV4dFN0eWxlIj5ib2xkPC9pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuY29tbWl0IHsKICAgICAgYWRkKFIuaWQuZnJhbWVfcHJvZ3JhbV92aWV3ZXJfaW5mbywgUHJvZ3JhbVZpZXdlckluZm9GcmFnbWVudCgpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChvcmllbnRhdGlvbk1hbmFnZXIuKQo=</text>
+        <text encoding="base64">ICAgIGhhc0NvbW1pbm5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChmaW5kVmlld0J5SWQ8PigpKQo=</text>
+        <text encoding="base64">ICAgIHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuY29tbWl0IHsKICAgICAgYWRkKFIuaWQuZnJhbWVfcHJvZ3JhbV92aWV3ZXJfaW5mbywgUHJvZ3JhbVZpZXdlckluZm9GcmFnbWVudCgpKQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIChvcmllbnRhdGlvbk1hbmFnZXIuKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChmaW5kVmlld0J5SWQ8PigpKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmICgpCg==</text>
-      </register>
-      <register name="5" type="8">
-        <text>binding.
-binding.</text>
-      </register>
-      <register name="6" type="8">
-        <text>binding.
-binding.</text>
       </register>
       <register name="7" type="8">
         <text>binding.
+binding.</text>
+      </register>
+      <register name="8" type="8">
+        <text>binding.
+binding.</text>
+      </register>
+      <register name="9" type="8">
+        <text>binding.
 binding.
 binding.
 binding.
 binding.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcuYnV0dG9uUHJvZ3JhbVZpZXdlckluZm9TaGFyZS5zZXRPbkNsaWNrTGlzdGVuZXIgeyBzaGFyZUNsaWNrTGlzdGVuZXIocHJvZ3JhbSkgfQogICAgYmluZGluZy5pc0ZyZWUgPSBwcm9ncmFtLnZpZXdpbmdSZXN0cmljdGlvbiA9PSBQcm9ncmFtUHJvdG8uVmlld2luZ1Jlc3RyaWN0aW9uLkZSRUUKICAgIGJpbmRpbmcuaXNOZXcgPSBwcm9ncmFtLmlzTmV3KCkKICAgIGJpbmRpbmcudGl0bGUgPSBwcm9ncmFtLnRpdGxlCiAgICBiaW5kaW5nLmRlc2NyaXB0aW9uID0gcHJvZ3JhbS5kZXNjcmlwdGlvbgogICAgd2hlbiB7CiAgICAgIHByb2dyYW0uaGFzT25kZW1hbmQgLT4gewogICAgICAgIGJpbmRpbmcucmVsZWFzZURhdGUgPSBwcm9ncmFtLm9uZGVtYW5kVGVybVN0YXJ0LnRvTG9jYWxEYXRlVGltZSgpCiAgICAgICAgYmluZGluZy5lbmREYXRlID0gcHJvZ3JhbS5vbmRlbWFuZFRlcm1FbmQudG9Mb2NhbERhdGVUaW1lKCkKICAgICAgfQogICAgICBwcm9ncmFtLmhhc09uYWlyIC0+IHsKICAgICAgICBiaW5kaW5nLnJlbGVhc2VEYXRlID0gcHJvZ3JhbS5vbmFpclRlcm1TdGFydC50b0xvY2FsRGF0ZVRpbWUoKQogICAgICAgIGJpbmRpbmcuZW5kRGF0ZSA9IHByb2dyYW0ub25haXJUZXJtRW5kLnRvTG9jYWxEYXRlVGltZSgpCiAgICAgIH0KICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZpZXcudmlzaWJpbGl0eSA9IGlmICh2YWx1ZSkgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5HT05FCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action ParameterInfo</text>
+        <text>action Find</text>
       </register>
       <register name="-" type="4">
-        <text>ProgramViewerInfoFragment</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
@@ -689,18 +690,18 @@ binding.</text>
         <entry>action GotoSuperMethod</entry>
         <entry>action GoToLastTab</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
-        <entry>action Find</entry>
-        <entry>action Run</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Back</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
