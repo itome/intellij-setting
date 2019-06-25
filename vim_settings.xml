@@ -36,7 +36,7 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1561449936861">
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1561450936681">
         <mark key="'" line="102" column="2" />
         <mark key="[" line="126" column="28" />
         <mark key="]" line="126" column="55" />
@@ -246,7 +246,7 @@
         <text encoding="base64">ICAgICAgc2NlbmFyaW8K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGlmIChwcm9ncmFtLmlzQmVmb3JlUHVibGlzaCgpKQ==</text>
@@ -270,15 +270,15 @@
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Back</entry>
         <entry>action Run</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
