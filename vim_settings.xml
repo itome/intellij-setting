@@ -24,17 +24,18 @@
         <mark key="." line="37" column="75" />
         <mark key="^" line="37" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/ProgramBadge.kt" timestamp="1561456770816">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/proto/ProgramProto.java" timestamp="1561431951257" />
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/VideoQualitySettingBottomSheetDialogFragment.kt" timestamp="1561444776826">
         <mark key="'" line="21" column="6" />
         <mark key="[" line="56" column="10" />
         <mark key="]" line="56" column="46" />
         <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/model/SpaceHeight16dpModel.kt" timestamp="1561437420057">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="15" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1561450936681">
         <mark key="'" line="102" column="2" />
@@ -49,17 +50,19 @@
         <mark key="^" line="42" column="25" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" timestamp="1561456239736">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="124" column="44" />
+        <mark key="]" line="124" column="48" />
+        <mark key="." line="124" column="48" />
+        <mark key="^" line="124" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/build/generated/source/buildConfig/develop/debug/jp/cldh/core/BuildConfig.java" timestamp="1561441060817" />
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/model_video_quality_setting_bottom_sheet_item_with_description.xml" timestamp="1561447427845">
         <mark key="[" line="61" column="41" />
         <mark key="]" line="61" column="28" />
         <mark key="." line="61" column="28" />
         <mark key="^" line="61" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/top/SignInFragmentTest.kt" timestamp="1561436074159">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/SelectPaymentFragment.kt" timestamp="1561209933877">
         <mark key="'" line="14" column="6" />
@@ -95,9 +98,6 @@
         <mark key="'" line="508" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/DeviceOrientationManager.kt" timestamp="1561441830868" />
-      <file name="/Dummy.txt" timestamp="1561437430369">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerInfoFragment.kt" timestamp="1561448334482">
         <mark key="[" line="19" column="62" />
         <mark key="]" line="19" column="68" />
@@ -113,11 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="16" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5962d7ce92c03cb23fd32f42952fec8/protolite-well-known-types-16.0.1/jars/classes.jar!/com/google/protobuf/Timestamp.class" />
-      <jump line="48" column="36" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/TextBindingAdapters.kt" />
-      <jump line="7" column="19" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/TextBindingAdapters.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/build.gradle.kts" />
-      <jump line="0" column="37" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/model_program_viewer_info.xml" />
       <jump line="126" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/model_program_viewer_info.xml" />
       <jump line="135" column="30" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/model_program_viewer_info.xml" />
       <jump line="97" column="31" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
@@ -213,43 +208,48 @@
       <jump line="94" column="14" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
       <jump line="95" column="14" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
       <jump line="102" column="2" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
+      <jump line="24" column="8" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
+      <jump line="92" column="12" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
+      <jump line="54" column="18" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>test-programid-t2-ps1-vr0-63</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1biBQcm9ncmFtUHJvdG8uUHJvZ3JhbS5pc0JlZm9yZVB1Ymxpc2goKTogQm9vbGVhbiB7CiAgdmFsIGN1cnJlbnQgPSBMb2NhbERhdGVUaW1lLm5vdyhab25lSWQuc3lzdGVtRGVmYXVsdCgpKQoKICB2YWwgc3RhcnRUaW1lU3RhbXAgPSB3aGVuIHsKICAgIGhhc09uZGVtYW5kIC0+IG9uZGVtYW5kVGVybVN0YXJ0CiAgICBoYXNPbmFpciAtPiBvbmFpclRlcm1TdGFydAogICAgaGFzQ29tbWluZyAtPiBwdWJsaXNoVGVybVN0YXJ0CiAgICBlbHNlIC0+IHJldHVybiBmYWxzZQogIH0KICByZXR1cm4gY3VycmVudC5pc0JlZm9yZShzdGFydFRpbWVTdGFtcD8udG9Mb2NhbERhdGVUaW1lKCkpCn0K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNsZGguY29yZS51dGlsLmV4dC5pc0JlZm9yZVB1Ymxpc2gK</text>
+        <text encoding="base64">ICA8Y29sb3IgbmFtZT0iYmx1ZSI+I0Y1QTYyMzxjb2xvcj4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIG51bGwgZWxzZQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvCiAgMTI3REI4Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PQogICAgICAgICAgICBudWxsIGVsc2Ug</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkYXRhIGNsYXNzIENvbWluZzogUHJvZ3JhbVN0YXR1cygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmZ1biBQcm9ncmFtUHJvdG8uUHJvZ3JhbS5pc0JlZm9yZVB1Ymxpc2goKTogQm9vbGVhbiB7CiAgdmFsIGN1cnJlbnQgPSBMb2NhbERhdGVUaW1lLm5vdyhab25lSWQuc3lzdGVtRGVmYXVsdCgpKQoKICB2YWwgc3RhcnRUaW1lU3RhbXAgPSB3aGVuIHsKICAgIGhhc09uZGVtYW5kIC0+IG9uZGVtYW5kVGVybVN0YXJ0CiAgICBoYXNPbmFpciAtPiBvbmFpclRlcm1TdGFydAogICAgaGFzQ29tbWluZyAtPiBwdWJsaXNoVGVybVN0YXJ0CiAgICBlbHNlIC0+IHJldHVybiBmYWxzZQogIH0KICByZXR1cm4gY3VycmVudC5pc0JlZm9yZShzdGFydFRpbWVTdGFtcD8udG9Mb2NhbERhdGVUaW1lKCkpCn0K</text>
+        <text encoding="base64">ICB2YWwgQAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAub25GcmFnbWVudCB7Ci8vICAgICAgfQo=</text>
+        <text encoding="base64">ICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzY2VuYXJpby5tb3ZlVG9TdGF0ZShMaWZlY3ljbGUuU3RhdGUuQ1JFQVRFRCkKICAgICAgICBBY2Nlc3NpYmlsaXR5Q2hlY2tlci5jaGVjayhpdC5yZXF1aXJlRGlhbG9nKCkucmVxdWlyZVZpZXdCeUlkKGFuZHJvaWQuUi5pZC5jb250ZW50KSkK</text>
+        <text encoding="base64">c2VhbGVkIGNsYXNzIFByb2dyYW0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjZW5hcmlvLm1vdmVUb1N0YXRlKExpZmVjeWNsZS5TdGF0ZS5DUkVBVEVEKQo=</text>
+        <text encoding="base64">CmZ1biBQcm9ncmFtUHJvdG8uUHJvZ3JhbS5pc0JlZm9yZVB1Ymxpc2goKTogQm9vbGVhbiB7CiAgdmFsIGN1cnJlbnQgPSBMb2NhbERhdGVUaW1lLm5vdyhab25lSWQuc3lzdGVtRGVmYXVsdCgpKQoKICB2YWwgc3RhcnRUaW1lU3RhbXAgPSB3aGVuIHsKICAgIGhhc09uZGVtYW5kIC0+IG9uZGVtYW5kVGVybVN0YXJ0CiAgICBoYXNPbmFpciAtPiBvbmFpclRlcm1TdGFydAogICAgaGFzQ29tbWluZyAtPiBwdWJsaXNoVGVybVN0YXJ0CiAgICBlbHNlIC0+IHJldHVybiBmYWxzZQogIH0KICByZXR1cm4gY3VycmVudC5pc0JlZm9yZShzdGFydFRpbWVTdGFtcD8udG9Mb2NhbERhdGVUaW1lKCkpCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2NlbmFyaW8K</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNsZGguY29yZS51dGlsLmV4dC5pc0JlZm9yZVB1Ymxpc2gK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmIChwcm9ncmFtLmlzQmVmb3JlUHVibGlzaCgpKQ==</text>
+        <text>Some</text>
       </register>
     </registers>
     <search>
@@ -271,14 +271,14 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
-        <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
