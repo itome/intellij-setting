@@ -97,10 +97,20 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/VideoQualitySettingBottomSheetDialogFragment.kt" timestamp="1561444776826">
+        <mark key="'" line="21" column="6" />
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="56" column="46" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/model/SpaceHeight16dpModel.kt" timestamp="1561437420057">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1561444152060">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/ViewBindingAdapter.kt" timestamp="1561426510886">
         <mark key="[" line="43" column="0" />
@@ -448,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="7" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/model_program_viewer_info.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerInfoFragment.kt" />
       <jump line="4" column="15" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/dimens.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/core/build.gradle.kts" />
@@ -548,39 +557,38 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/model/SpaceHeight16dpModel.kt" />
       <jump line="24" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" />
+      <jump line="21" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/VideoQualitySettingBottomSheetDialogFragment.kt" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>supportFragmentManager.commit {
-          add(R.id.frame_program_viewer_info, ProgramViewerInfoFragment())
-        }</text>
+        <text encoding="base64">IGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8yMzIwNzM2NQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZnJhbWVQcm9ncmFtVmlld2VySW5mbz8ubGV0IHsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzeXN0ZW1VaVZpc2liaWxpdHk6IEludAogICAgZ2V0KCkgPQogICAgICBpZiAocmVzb3VyY2VzLmNvbmZpZ3VyYXRpb24ub3JpZW50YXRpb24gPT0gQ29uZmlndXJhdGlvbi5PUklFTlRBVElPTl9MQU5EU0NBUEUpIHsKICAgICAgICBWaWV3LlNZU1RFTV9VSV9GTEFHX0ZVTExTQ1JFRU4gb3IKICAgICAgICAgIFZpZXcuU1lTVEVNX1VJX0ZMQUdfSElERV9OQVZJR0FUSU9OIG9yCiAgICAgICAgICBWaWV3LlNZU1RFTV9VSV9GTEFHX0lNTUVSU0lWRV9TVElDS1kKICAgICAgfSBlbHNlIHsKICAgICAgICBWaWV3LlNZU1RFTV9VSV9GTEFHX1ZJU0lCTEUKICAgICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgZnJhbWVQcm9ncmFtVmlld2VySW5mbz8ubGV0IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpdAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmUoZnJhZ20pCg==</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbW92ZQo=</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmUoZnJhZ20pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBpZiAoZmluZFZpZXdCeUlkPFZpZXc+KFIuaWQuZnJhbWVfcHJvZ3JhbV92aWV3ZXJfaW5mbykgIT0gbnVsbCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbW92ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlci5jb21taXQgewogICAgICAgIGFkZChSLmlkLmZyYW1lX3Byb2dyYW1fdmlld2VyX2luZm8sIFByb2dyYW1WaWV3ZXJJbmZvRnJhZ21lbnQoKSkKICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBpZiAoZmluZFZpZXdCeUlkPFZpZXc+KFIuaWQuZnJhbWVfcHJvZ3JhbV92aWV3ZXJfaW5mbykgIT0gbnVsbCkgewogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlci5jb21taXQgewogICAgICAgIGFkZChSLmlkLmZyYW1lX3Byb2dyYW1fdmlld2VyX2luZm8sIFByb2dyYW1WaWV3ZXJJbmZvRnJhZ21lbnQoKSkKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
@@ -608,11 +616,11 @@
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
