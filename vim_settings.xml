@@ -7,6 +7,12 @@
         <mark key="[" line="25" column="13" />
         <mark key="]" line="25" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerInfoController.kt" timestamp="1561600040574">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" timestamp="1561540819289">
         <mark key="[" line="63" column="39" />
         <mark key="]" line="64" column="37" />
@@ -307,7 +313,7 @@
         <text encoding="base64">ICAKICBvYmplY3QgVGhyZWV0ZW4gewogICAgcHJpdmF0ZSBjb25zdCB2YWwgdGhyZWV0ZW5icFZlcnNpb24gPSAiIgogIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>Coming</text>
@@ -337,9 +343,9 @@
         <entry>action FindInPath</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
