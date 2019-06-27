@@ -31,10 +31,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_welcome.xml" timestamp="1561645046692">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_welcome.xml" timestamp="1561646228264">
+        <mark key="[" line="204" column="30" />
+        <mark key="]" line="204" column="36" />
+        <mark key="^" line="204" column="36" />
+        <mark key="." line="204" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/layout/model_artist.xml" timestamp="1561437614573">
         <mark key="[" line="9" column="29" />
@@ -422,14 +423,14 @@
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
         <entry>action ParameterInfo</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action SaveAll</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
