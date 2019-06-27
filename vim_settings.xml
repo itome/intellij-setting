@@ -71,6 +71,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/util/ext/LiveDataExtKtTest.kt" timestamp="1561627499851">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in_mail.xml" timestamp="1561527336735">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -149,11 +153,10 @@
         <mark key="." line="9" column="80" />
         <mark key="^" line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" timestamp="1561626454038">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="42" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/util/ext/ProgramExtTest.kt" timestamp="1561628014077">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/5f95e3cc34b116a8024f2af42f66e257d2e28ccb/glide-4.9.0-sources.jar!/com/bumptech/glide/RequestManager.java" timestamp="1561612930776">
         <mark key="'" line="532" column="30" />
@@ -270,40 +273,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgY3VycmVudCA9IExvY2FsRGF0ZVRpbWUubm93KFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpCiAgcmV0dXJuIGhhc0NvbWluZyAmJgogICAgY3VycmVudC5pc0FmdGVyKHB1Ymxpc2hUZXJtU3RhcnQ/LnRvTG9jYWxEYXRlVGltZSgpKSAmJgogICAgY3VycmVudC5pc0JlZm9yZShwdWJsaXNoVGVybVN0YXJ0Py50b0xvY2FsRGF0ZVRpbWUoKT8ucGx1c0RheXMoNykpCg==</text>
+        <text encoding="base64">QFJ1bldpdGgoQW5kcm9pZEpVbml0NDo6Y2xhc3MpCmNsYXNzIExpdmVEYXRhRXh0S3RUZXN0IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXVybiAK</text>
+        <text encoding="base64">ICAgICAgLnNldGhhcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgY3VycmVudCA9IExvY2FsRGF0ZVRpbWUubm93KFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpCgogIHZhbCBzdGFydFRpbWVTdGFtcCA9IHdoZW4gewogICAgaGFzT25kZW1hbmQgLT4gb25kZW1hbmRUZXJtU3RhcnQKICAgIGhhc09uYWlyIC0+IG9uYWlyVGVybVN0YXJ0CiAgICBoYXNDb21pbmcgLT4gcHVibGlzaFRlcm1TdGFydAogICAgZWxzZSAtPiByZXR1cm4gZmFsc2UKICB9CiAgcmV0dXJuIGN1cnJlbnQuaXNCZWZvcmUoc3RhcnRUaW1lU3RhbXA/LnRvTG9jYWxEYXRlVGltZSgpPy5wbHVzRGF5cyg3KSkK</text>
+        <text encoding="base64">ICAgICAgLnNldFB1Ymxpc2hUZXJtU3RhcnQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjdXJyZW4K</text>
+        <text encoding="base64">ICB0ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">ICB0ZXN0QmVmb3JlUHJvZ3JhbVN0YXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmZ1biBQcm9ncmFtUHJvdG8uUHJvZ3JhbS5pc05ld09uYWlyKCk6IEJvb2xlYW4gewogIHZhbCBjdXJyZW50ID0gTG9jYWxEYXRlVGltZS5ub3coWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkKICByZXR1cm4gaGFzT25haXIgJiYKICAgIGN1cnJlbnQuaXNBZnRlcihvbmFpclRlcm1TdGFydD8udG9Mb2NhbERhdGVUaW1lKCkpICYmCiAgICBjdXJyZW50LmlzQmVmb3JlKG9uYWlyVGVybVN0YXJ0Py50b0xvY2FsRGF0ZVRpbWUoKT8ucGx1c0RheXMoNykpCn0K</text>
+        <text encoding="base64">ICBAVGVzdAogIHRlc3RQcm9ncmFtU3RhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmZ1biBQcm9ncmFtUHJvdG8uUHJvZ3JhbS5pc05ld09uZGVtYW5kKCk6IEJvb2xlYW4gewogIHZhbCBjdXJyZW50ID0gTG9jYWxEYXRlVGltZS5ub3coWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkKCiAgcmV0dXJuIGlmIChoYXNPbmRlbWFuZCkgewogICAgaWYgKGhhc09uYWlyKSB7CiAgICAgIGlzTmV3T25haXIoKQogICAgfSBlbHNlIHsKICAgICAgY3VycmVudC5pc0FmdGVyKG9uZGVtYW5kVGVybVN0YXJ0Py50b0xvY2FsRGF0ZVRpbWUoKSkgJiYKICAgICAgICBjdXJyZW50LmlzQmVmb3JlKG9uYWlyVGVybVN0YXJ0Py50b0xvY2FsRGF0ZVRpbWUoKT8ucGx1c0RheXMoNykpCiAgICB9CiAgfSBlbHNlIHsKICAgIGZhbHNlCiAgfQp9Cg==</text>
+        <text encoding="base64">ICByZXVybiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gaGFzT25kZW1hbmQgJiYKICAgICgoaGFzT25haXIgJiYgaXNOZXdPbmFpcigpKSB8fAogIAo=</text>
+        <text encoding="base64">ICB2YWwgY3VycmVudCA9IExvY2FsRGF0ZVRpbWUubm93KFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpCgogIHZhbCBzdGFydFRpbWVTdGFtcCA9IHdoZW4gewogICAgaGFzT25kZW1hbmQgLT4gb25kZW1hbmRUZXJtU3RhcnQKICAgIGhhc09uYWlyIC0+IG9uYWlyVGVybVN0YXJ0CiAgICBoYXNDb21pbmcgLT4gcHVibGlzaFRlcm1TdGFydAogICAgZWxzZSAtPiByZXR1cm4gZmFsc2UKICB9CiAgcmV0dXJuIGN1cnJlbnQuaXNCZWZvcmUoc3RhcnRUaW1lU3RhbXA/LnRvTG9jYWxEYXRlVGltZSgpPy5wbHVzRGF5cyg3KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICByZXR1cm4gaWYgKGhhc09uZGVtYW5kKSB7CiAgICBpZiAoaGFzT25haXIpIHsKICAgICAgaXNOZXdPbmFpcigpCiAgICB9IGVsc2UgewogICAgfQogIH0gZWxzZSB7CiAgICBmYWxzZQogIH0K</text>
+        <text encoding="base64">ICAgIGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>hasComing</text>
+        <text>LocalDateTime</text>
       </register>
     </registers>
     <search>
@@ -324,15 +327,15 @@
         <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
