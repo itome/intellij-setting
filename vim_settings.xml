@@ -3,21 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.sdk.android/tweet-composer/3.3.0/7d151ca31f53ba46a8afcb864eb975c4c607beed/tweet-composer-3.3.0-sources.jar!/com/twitter/sdk/android/tweetcomposer/internal/util/ObservableScrollView.java" timestamp="1561528451978">
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="25" column="13" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerInfoController.kt" timestamp="1561600040574">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" timestamp="1561540819289">
-        <mark key="[" line="63" column="39" />
-        <mark key="]" line="64" column="37" />
-        <mark key="." line="64" column="37" />
-        <mark key="^" line="64" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/layout/model_artist.xml" timestamp="1561437614573">
         <mark key="[" line="9" column="29" />
@@ -44,12 +34,11 @@
         <mark key="^" line="16" column="11" />
         <mark key="." line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1561533068690">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="114" column="4" />
-        <mark key="]" line="114" column="29" />
-        <mark key="^" line="114" column="29" />
-        <mark key="." line="114" column="29" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player.xml" timestamp="1561603929383" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/animator/show_controller.xml" timestamp="1561603437362">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_remind_mail_password.xml" timestamp="1561527271424">
         <mark key="[" line="14" column="13" />
@@ -57,18 +46,11 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" timestamp="1561542498401">
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/top/SignInFragmentTest.kt" timestamp="1561530848098">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="41" />
-        <mark key="." line="194" column="20" />
-        <mark key="^" line="194" column="20" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1561604038523">
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
+        <mark key="^" line="39" column="42" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5962d7ce92c03cb23fd32f42952fec8/protolite-well-known-types-16.0.1/jars/classes.jar!/com/google/protobuf/Timestamp.class" timestamp="1561531187769">
         <mark key="[" line="208" column="156" />
@@ -76,19 +58,18 @@
         <mark key="^" line="208" column="155" />
         <mark key="." line="208" column="155" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/ProgramBadge.kt" timestamp="1561542946182">
-        <mark key="'" line="62" column="25" />
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/ProgramBadge.kt" timestamp="1561603092029">
+        <mark key="'" line="45" column="39" />
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="45" column="38" />
+        <mark key="^" line="45" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1561528674726">
-        <mark key="'" line="252" column="44" />
-        <mark key="[" line="56" column="32" />
-        <mark key="]" line="56" column="38" />
-        <mark key="^" line="56" column="38" />
-        <mark key="." line="56" column="38" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/animator/hide_controller.xml" timestamp="1561602557063">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in_mail.xml" timestamp="1561527336735">
         <mark key="[" line="15" column="0" />
@@ -96,11 +77,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" timestamp="1561532948835">
-        <mark key="'" line="208" column="0" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ViewExt.kt" timestamp="1561603223157">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" timestamp="1561542512348">
         <mark key="'" line="0" column="0" />
@@ -146,17 +126,22 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1561540257739">
-        <mark key="[" line="114" column="32" />
-        <mark key="]" line="114" column="30" />
-        <mark key="^" line="114" column="30" />
-        <mark key="." line="114" column="30" />
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1561604379630">
+        <mark key="'" line="96" column="34" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" timestamp="1561525398445">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/ViewBindingAdapter.kt" timestamp="1561525883651">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" timestamp="1561603111420">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" timestamp="1561539949069">
         <mark key="'" line="15" column="0" />
@@ -164,12 +149,6 @@
         <mark key="]" line="40" column="65" />
         <mark key="." line="40" column="65" />
         <mark key="^" line="40" column="65" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/model/ProgramViewerInfoModel.kt" timestamp="1561513052116">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/local/ProgramStatusTest.kt" timestamp="1561540134347">
         <mark key="'" line="0" column="14" />
@@ -180,11 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="66" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_select_payment.xml" />
-      <jump line="15" column="46" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/values/strings.xml" />
-      <jump line="226" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_select_payment.xml" />
-      <jump line="63" column="13" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_select_payment.xml" />
-      <jump line="19" column="46" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/navigation/navigation_main.xml" />
       <jump line="38" column="52" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/navigation/navigation_main.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_select_payment.xml" />
       <jump line="13" column="79" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_payment.xml" />
@@ -232,9 +206,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
       <jump line="103" column="8" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
       <jump line="94" column="14" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
-      <jump line="95" column="14" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
       <jump line="102" column="2" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
       <jump line="24" column="8" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
       <jump line="92" column="12" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
       <jump line="54" column="18" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
@@ -280,43 +252,50 @@
       <jump line="646" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" />
       <jump line="62" column="25" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/ProgramBadge.kt" />
+      <jump line="99" column="11" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="119" column="31" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="47" column="39" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/ProgramBadge.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
+      <jump line="98" column="4" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
+      <jump line="95" column="34" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkK</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25Qcm9ncmFtVmlld2VyQ2xvc2VNb2RhbD8uYWxwaGEgPSBpdAogICAgICAgIGJ1dHRvblByb2dyYW1WaWV3ZXJQbGF5ZXJGdWxsPy5hbHBoYSA9IGl0CiAgICAgICAgYnV0dG9uUHJvZ3JhbVZpZXdlclBsYXllck1pbmk/LmFscGhhID0gaXQKICAgICAgICBidXR0b25Qcm9ncmFtVmlld2VyUXVhbGl0eVNldHRpbmc/LmFscGhhID0gaXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXBwOgo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucm9vdC5pc1Zpc2libGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZXQoKSA9IFByb2dyYW1TdGF0dXMuTGl2ZS5zb21lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdG9wdG90b3AK</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25Qcm9ncmFtVmlld2VyQ2xvc2VNb2RhbD8uYWxwaGEgPSBpdAogICAgICAgIGJ1dHRvblByb2dyYW1WaWV3ZXJQbGF5ZXJGdWxsPy5hbHBoYSA9IGl0CiAgICAgICAgYnV0dG9uUHJvZ3JhbVZpZXdlclBsYXllck1pbmk/LmFscGhhID0gaXQKICAgICAgICBidXR0b25Qcm9ncmFtVmlld2VyUXVhbGl0eVNldHRpbmc/LmFscGhhID0gaXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMmRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0T2Y8SW50PigpLmZvckVhY2ggeyAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9pbWFnZV9wcm9ncmFtX3ZpZXdlcl9wcm9ncmFtX2JhZGdlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9pbWFnZV9wcm9ncmFtX3ZpZXdlcl9wcm9ncmFtX2JhZGdlIgo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25Qcm9ncmFtVmlld2VyQ2xvc2VNb2RhbD8uID0gaXQKICAgICAgICBidXR0b25Qcm9ncmFtVmlld2VyUGxheWVyRnVsbD8uYWxwaGEgPSBpdAogICAgICAgIGJ1dHRvblByb2dyYW1WaWV3ZXJQbGF5ZXJNaW5pPy5hbHBoYSA9IGl0CiAgICAgICAgYnV0dG9uUHJvZ3JhbVZpZXdlclF1YWxpdHlTZXR0aW5nPy5hbHBoYSA9IGl0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9pbWFnZV9wcm9ncmFtX3ZpZXdlcl9wcm9ncmFtX2JhZGdlIgo=</text>
+        <text encoding="base64">ICAgIGxvYWRBbmltYXRvcihSLmFuaW1hdG9yLmhpZGVfY29udHJvbGxlcikuYXBwbHkge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZm9sZAo=</text>
+        <text encoding="base64">ICAgICAgZG9PbkVuZCB7IHN1cGVyLmhpZGUoKSB9CiAgICAgIHN0YXJ0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBvYmplY3QgVGhyZWV0ZW4gewogICAgcHJpdmF0ZSBjb25zdCB2YWwgdGhyZWV0ZW5icFZlcnNpb24gPSAiIgogIH0K</text>
+        <text encoding="base64">ICAgICAgZG9PbkVuZCB7ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>Coming</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
@@ -331,21 +310,21 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GoToLastTab</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action Find</entry>
-        <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action Run</entry>
         <entry>action RenameElement</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action Find</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
