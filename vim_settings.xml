@@ -202,13 +202,6 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/com/android/printspooler/widget/PreviewPageFrame.java" timestamp="1560954936213">
         <mark key="'" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1561188954536">
-        <mark key="'" line="13" column="29" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="73" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/di/info/ProgramViewerInfoComponent.kt" timestamp="1560925389402">
         <mark key="[" line="31" column="62" />
         <mark key="]" line="34" column="57" />
@@ -696,13 +689,6 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1560777099928">
-        <mark key="'" line="22" column="17" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="106" />
-        <mark key="^" line="98" column="35" />
-        <mark key="." line="98" column="35" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/animator/hide_controller.xml" timestamp="1560749318258">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -889,7 +875,7 @@
         <text encoding="base64">ICAgICAgICBQbGF5ZXIuVmlkZW9Db21wb25lbnQgbmV3VmlkZW9Db21wb25lbnQgPSBwbGF5ZXIuZ2V0VmlkZW9Db21wb25lbnQoKTsKICAgICAgICBpZiAobmV3VmlkZW9Db21wb25lbnQgIT0gbnVsbCkgewogICAgICAgICAgICBuZXdWaWRlb0NvbXBvbmVudC5zZXRWaWRlb1N1cmZhY2VWaWV3KHRoaXMpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>aspectRatio</text>
@@ -907,7 +893,6 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SplitVertically</entry>
-        <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQmFjaw==</entry>
         <entry>action Run</entry>
         <entry>action GotoSuperMethod</entry>
@@ -922,6 +907,7 @@
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
