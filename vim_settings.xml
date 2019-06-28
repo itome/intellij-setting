@@ -9,11 +9,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" timestamp="1561696636559">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/model_program_viewer_info.xml" timestamp="1561699387487">
+        <mark key="[" line="61" column="66" />
+        <mark key="]" line="61" column="64" />
+        <mark key="^" line="61" column="64" />
+        <mark key="." line="61" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/layout/model_artist.xml" timestamp="1561437614573">
         <mark key="[" line="9" column="29" />
@@ -78,11 +78,8 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" timestamp="1561690297727">
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" timestamp="1561699279112">
         <mark key="'" line="8" column="19" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="102" />
-        <mark key="." line="8" column="97" />
         <mark key="^" line="8" column="97" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5962d7ce92c03cb23fd32f42952fec8/protolite-well-known-types-16.0.1/jars/classes.jar!/com/google/protobuf/Timestamp.class" timestamp="1561531187769">
@@ -107,13 +104,17 @@
         <mark key="^" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/ClickableSpanInfoCheck.class" timestamp="1561697853782" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/9c25ae3792b96a21431d6e935cdf001a65994297/accessibility-test-framework-2.0-sources.jar!/main/java/com/google/android/apps/common/testing/accessibility/framework/AccessibilityCheckPreset.java" timestamp="1561698895215" />
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ViewExt.kt" timestamp="1561603223157">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" timestamp="1561542512348">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/ClickableSpanViewCheck.class" timestamp="1561698638744">
+        <mark key="[" line="44" column="123" />
+        <mark key="]" line="44" column="197" />
+        <mark key="^" line="44" column="23" />
+        <mark key="." line="44" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/repository/ProgramRepositoryImpl.kt" timestamp="1561613689176">
         <mark key="[" line="9" column="87" />
@@ -144,6 +145,7 @@
         <mark key="]" line="10" column="26" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/RedundantContentDescInfoCheck.class" timestamp="1561698593614" />
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" timestamp="1561448594997">
         <mark key="[" line="40" column="16" />
         <mark key="]" line="40" column="67" />
@@ -189,16 +191,19 @@
         <mark key="." line="9" column="80" />
         <mark key="^" line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/util/ext/ProgramExtTest.kt" timestamp="1561690121467">
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/util/ext/ProgramExtTest.kt" timestamp="1561699872170">
         <mark key="'" line="0" column="28" />
-        <mark key="[" line="61" column="46" />
-        <mark key="]" line="61" column="45" />
-        <mark key="." line="61" column="45" />
-        <mark key="^" line="61" column="45" />
+        <mark key="[" line="37" column="62" />
+        <mark key="]" line="37" column="62" />
+        <mark key="." line="37" column="62" />
+        <mark key="^" line="37" column="60" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/5f95e3cc34b116a8024f2af42f66e257d2e28ccb/glide-4.9.0-sources.jar!/com/bumptech/glide/RequestManager.java" timestamp="1561612930776">
-        <mark key="'" line="532" column="30" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" timestamp="1561699755525">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" timestamp="1561698771386" />
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/local/ProgramStatusTest.kt" timestamp="1561540134347">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="58" column="56" />
@@ -208,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/PaymentFragment.kt" />
       <jump line="19" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" />
@@ -308,43 +312,44 @@
       <jump line="0" column="28" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/util/ext/ProgramExtTest.kt" />
       <jump line="0" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" />
+      <jump line="49" column="30" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>Editable TextView should not have a contentDescription.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIAogICAgdmFsIG1vY2tQcm9ncmFtMiA9IG1vY2tQcm9ncmFtQnVpbGRlcgogICAgICAuc2V0T25haXJUZXJtU3RhcnQoY3VycmVudC5wbHVzRGF5cygzKS50b1RpbWVzdGFtcCgpKQogICAgICAuc2V0T25kZW1hbmRUZXJtU3RhcnQoY3VycmVudC5wbHVzRGF5cyg0KS50b1RpbWVzdGFtcCgpKQogICAgICAuc2V0UHVibGlzaFRlcm1TdGFydChjdXJyZW50Lm1pbnVzRGF5cyg3KS5taW51c1NlY29uZHMoMSkudG9UaW1lc3RhbXAoKSkKICAgICAgLmJ1aWxkKCkKICAgIGFzc2VydFRoYXQobW9ja1Byb2dyYW0yLmlzTmV3Q29taW5nVmlkZW8oKSkuaXNUcnVlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMmprc3AiCg==</text>
+        <text encoding="base64">ICAgIGN1cnIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnNldE9uYWlyVGVybVN0YXJ0KGN1cnJlbnQucGx1c0RheXMoMykudG9UaW1lc3RhbXAoKSkKICAgICAgLnNldE9uZGVtYW5kVGVybVN0YXJ0KGN1cnJlbnQucGx1c0RheXMoNCkudG9UaW1lc3RhbXAoKSkKICAgICAgLnNldFB1Ymxpc2hUZXJtU3RhcnQoY3VycmVudC5taW51c0RheXMoMikudG9UaW1lc3RhbXAoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAgPC0tLS0tLS0tPgogICAqCiAgICovCg==</text>
+        <text encoding="base64">ICAgICAgLnNldEhhc0NvbWluZyh0cnVlKQogICAgICAuc2V0SGFzT25haXIodHJ1ZSkKICAgICAgLnNldEhhc09uZGVtYW5kKHRydWUpCiAgICAgIC5zZXRPbmFpclRlcm1TdGFydChjdXJyZW50LnBsdXNEYXlzKDMpLnRvVGltZXN0YW1wKCkpCiAgICAgIC5zZXRPbmRlbWFuZFRlcm1TdGFydChjdXJyZW50LnBsdXNEYXlzKDQpLnRvVGltZXN0YW1wKCkpCiAgICAgIC5zZXRQdWJsaXNoVGVybVN0YXJ0KGN1cnJlbnQubWludXNEYXlzKDIpLnRvVGltZXN0YW1wKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCBtb2NrUHJvZ3JhbSA9IFByb2dyYW1Qcm90by5Qcm9ncmFtLm5ld0J1aWxkZXIoKQogICAgICAuc2V0SGFzQ29taW5nKHRydWUpCiAgICAgIC5zZXRIYXNPbmFpcih0cnVlKQogICAgICAuc2V0SGFzT25kZW1hbmQodHJ1ZSkKICAgICAgLnNldE9uYWlyVGVybVN0YXJ0KGN1cnJlbnQucGx1c0RheXMoMykudG9UaW1lc3RhbXAoKSkKICAgICAgLnNldE9uZGVtYW5kVGVybVN0YXJ0KGN1cnJlbnQucGx1c0RheXMoNCkudG9UaW1lc3RhbXAoKSkKICAgICAgLnNldFB1Ymxpc2hUZXJtU3RhcnQoY3VycmVudC5taW51c0RheXMoMikudG9UaW1lc3RhbXAoKSkKICAgICAgLmJ1aWxkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnNldE9uYWlyVGVybVN0YXJ0KGN1cnJlbnQubWludXNEYXlzKDEpLnRvVGltZXN0YW1wKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMmprc3AiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxzZXQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvKioKICAgKiAgPC0tLS0tLS0tPgogICAqCiAgICovCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgKiAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBjdXJyZW50ID0K</text>
+        <text encoding="base64">ICAgICAgLnNldE9uYWlyVGVybVN0YXJ0KGN1cnJlbnQubWludXNEYXlzKDEpLnRvVGltZXN0YW1wKCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>plusDays</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -362,18 +367,18 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Find</entry>
         <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action Find</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action GotoAction</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
