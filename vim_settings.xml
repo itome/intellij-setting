@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" timestamp="1561708077297">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="41" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabStockerAction.kt" timestamp="1561786594375">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/model_program_viewer_info.xml" timestamp="1561699387487">
         <mark key="[" line="61" column="66" />
@@ -27,6 +27,25 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerDownAction.kt" timestamp="1561786024289">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="79" />
+        <mark key="." line="10" column="79" />
+        <mark key="^" line="10" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareConstant.kt" timestamp="1561785010391">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareConstants.kt" timestamp="1561784255833">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/layout/include_on_boarding_background.xml" timestamp="1561525862511">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="16" column="11" />
@@ -39,15 +58,11 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" timestamp="1561711436132">
-        <mark key="'" line="92" column="76" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="41" />
-        <mark key="^" line="106" column="5" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/AccessibilityPlayground/build.gradle" timestamp="1561707183370">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefUpAction.kt" timestamp="1561785981018">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="75" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5962d7ce92c03cb23fd32f42952fec8/protolite-well-known-types-16.0.1/jars/classes.jar!/com/google/protobuf/Timestamp.class" timestamp="1561531187769">
         <mark key="[" line="208" column="156" />
@@ -55,9 +70,11 @@
         <mark key="^" line="208" column="155" />
         <mark key="." line="208" column="155" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" timestamp="1561707468293">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="62" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerUpAction.kt" timestamp="1561786064318">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="79" />
+        <mark key="." line="10" column="79" />
+        <mark key="^" line="10" column="79" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/ClickableSpanViewCheck.class" timestamp="1561698638744">
         <mark key="[" line="44" column="123" />
@@ -83,6 +100,19 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefRightAction.kt" timestamp="1561785962816">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="75" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/HardwareAction.kt" timestamp="1561785883945">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_up_mail.xml" timestamp="1561527275152">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="14" />
@@ -101,25 +131,17 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/util/ext/ProgramExtTest.kt" timestamp="1561702606931">
-        <mark key="'" line="0" column="28" />
-        <mark key="[" line="84" column="49" />
-        <mark key="]" line="84" column="49" />
-        <mark key="." line="84" column="49" />
-        <mark key="^" line="28" column="60" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/Tx.kt" timestamp="1561783017800">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" timestamp="1561702639041">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/5f95e3cc34b116a8024f2af42f66e257d2e28ccb/glide-4.9.0-sources.jar!/com/bumptech/glide/RequestManager.java" timestamp="1561612930776">
-        <mark key="'" line="532" column="30" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" timestamp="1561712069632">
-        <mark key="'" line="45" column="32" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="136" column="9" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/RotateTurnTableAction.kt" timestamp="1561786727278">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="61" />
+        <mark key="." line="5" column="61" />
+        <mark key="^" line="5" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerInfoController.kt" timestamp="1561600040574">
         <mark key="[" line="8" column="0" />
@@ -127,18 +149,35 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/AccessibilityPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1561713664001">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="41" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="41" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/StretchStockerHandAction.kt" timestamp="1561786522248">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="17" column="56" />
+        <mark key="." line="5" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/build.gradle" timestamp="1561703193696">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerAction.kt" timestamp="1561786836102">
+        <mark key="[" line="15" column="60" />
+        <mark key="]" line="16" column="58" />
+        <mark key="^" line="16" column="58" />
+        <mark key="." line="16" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/RotateChefAction.kt" timestamp="1561786136347">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareAction.kt" timestamp="1561783745658">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefLeftAction.kt" timestamp="1561785960711">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/model_video_quality_setting_bottom_sheet_item_with_description.xml" timestamp="1561447427845">
         <mark key="[" line="61" column="41" />
@@ -146,21 +185,11 @@
         <mark key="." line="61" column="28" />
         <mark key="^" line="61" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/LocalDateTimeExt.kt" timestamp="1561702434151">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="61" />
-        <mark key="^" line="9" column="61" />
-        <mark key="." line="9" column="61" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1561710221788">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="23" />
-        <mark key="]" line="91" column="38" />
-        <mark key="." line="113" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-accessibility/3.2.0/1ce650f91e16a300a352dc1bb6b8810ec679c7c9/espresso-accessibility-3.2.0-sources.jar!/androidx/test/espresso/accessibility/AccessibilityChecks.java" timestamp="1561712809245">
-        <mark key="'" line="51" column="14" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefDownAction.kt" timestamp="1561785978982">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1561687920149">
         <mark key="[" line="2" column="5" />
@@ -168,35 +197,24 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/AccessibilityChecker.kt" timestamp="1561711411659">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/top/SignInFragmentTest.kt" timestamp="1561703773966">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/7837f95bdff9f797003454247fef02b78d49ae75/accessibility-test-framework-2.0.jar!/com/google/android/apps/common/testing/accessibility/framework/DuplicateSpeakableTextViewHierarchyCheck.class" timestamp="1561704775459">
         <mark key="[" line="62" column="16" />
         <mark key="]" line="62" column="15" />
         <mark key="^" line="62" column="15" />
         <mark key="." line="62" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1561786740482">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="101" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in_mail.xml" timestamp="1561527336735">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" timestamp="1561542512348">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/AccessibilityPlayground/app/build.gradle" timestamp="1561710664956">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerInfoFragment.kt" timestamp="1561448334482">
         <mark key="[" line="19" column="62" />
@@ -216,6 +234,19 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabChefAction.kt" timestamp="1561786555541">
+        <mark key="'" line="2" column="49" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerLeftAction.kt" timestamp="1561786034640">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="79" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/DuplicateClickableBoundsInfoCheck.class" timestamp="1561711873585">
         <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="15" />
@@ -228,25 +259,18 @@
         <mark key="." line="9" column="80" />
         <mark key="^" line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/AccessibilityPlayground/app/src/test/java/team/itome/accessibilityplayground/AccessibilityChecker.kt" timestamp="1561712513431">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="24" column="41" />
-        <mark key="^" line="24" column="41" />
-        <mark key="." line="24" column="41" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerRightAction.kt" timestamp="1561786045093">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1561783807678">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/top/SignInFragmentTest.kt" />
-      <jump line="0" column="31" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerActivityTest.kt" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/model/SpaceHeight16dpModel.kt" />
-      <jump line="24" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/java/jp/cldh/signin/utils/ViewExt.kt" />
-      <jump line="21" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/VideoQualitySettingBottomSheetDialogFragment.kt" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
-      <jump line="103" column="8" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
-      <jump line="94" column="14" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
-      <jump line="102" column="2" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
       <jump line="24" column="8" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
       <jump line="92" column="12" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
       <jump line="54" column="18" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
@@ -337,48 +361,53 @@
       <jump line="45" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.1/c2d6267c3ad0435ddf9e27a94a0e0af4ca3fdfbb/accessibility-test-framework-2.1.jar!/com/google/android/apps/common/testing/accessibility/framework/integrations/espresso/AccessibilityValidator.class" />
       <jump line="51" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-accessibility/3.2.0/1ce650f91e16a300a352dc1bb6b8810ec679c7c9/espresso-accessibility-3.2.0-sources.jar!/androidx/test/espresso/accessibility/AccessibilityChecks.java" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/AccessibilityPlayground/app/src/main/res/layout/activity_main.xml" />
+      <jump line="2" column="42" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerUpAction.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerDownAction.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerRightAction.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerRightAction.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerDownAction.kt" />
+      <jump line="2" column="16" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefDownAction.kt" />
+      <jump line="2" column="38" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerLeftAction.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefRightAction.kt" />
+      <jump line="17" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
+      <jump line="2" column="49" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabChefAction.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWNjZXNzaWJpbGl0eUNoZWNrZXIuY2hlY2soYWN0aXZpdHkuZmluZFZpZXdCeUlkKFIuaWQucm9vdF92aWV3KSkK</text>
+        <text encoding="base64">ICAgIHR4VHVyblRhYmxlLnZhbHVlID0gd2hlbiAodHhUdXJuVGFibGUudmFsdWUpIHsKICAgICAgMCAtPiAxCiAgICAgIDEgLT4gMCAvLyBGSVhNRQogICAgICAyIC0+IDEKICAgICAgZWxzZSAtPiAwCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3RleHRfdmlld19zbWFsbCIK</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICA8SW1hZ2VWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pbWFnZV92aWV3X3dpdGhvdXRfY29udGVudF9kZXNjcmlwdGlvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNTZkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjU2ZHAiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19sYXVuY2hlcl9mb3JlZ3JvdW5kIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2NvbG9yUHJpbWFyeURhcmsiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIxNmRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvYnV0dG9uX3NtYWxsIiAvPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIxNmRwIgogICAgICAgIGFuZHJvaWQ6dGV4dD0i4oaQIOiqreOBv+S4iuOBkuaWh+OBruOBquOBhEltYWdlVmlldyIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2ltYWdlX3ZpZXdfd2l0aG91dF9jb250ZW50X2Rlc2NyaXB0aW9uIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvRW5kT2Y9IkBpZC9pbWFnZV92aWV3X3dpdGhvdXRfY29udGVudF9kZXNjcmlwdGlvbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL2ltYWdlX3ZpZXdfd2l0aG91dF9jb250ZW50X2Rlc2NyaXB0aW9uIgogICAgICAgIHRvb2xzOmlnbm9yZT0iSGFyZGNvZGVkVGV4dCIgLz4KCiAgICA8QnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9idXR0b25fZHVwbGljYXRlX2JvdW5kc18xIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI2NGRwIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2NvbG9yUHJpbWFyeSIKICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iI0ZGRkZGRiIKICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iOGRwIgogICAgICAgIGFuZHJvaWQ6Y2xpY2thYmxlPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZ0VuZD0iOGRwIgogICAgICAgIGFuZHJvaWQ6dGV4dD0i6YeN44Gq44Gj44Gm44GE44KL44Oc44K/44OzIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iMTZkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL2ltYWdlX3ZpZXdfd2l0aG91dF9jb250ZW50X2Rlc2NyaXB0aW9uIgogICAgICAgIHRvb2xzOmlnbm9yZT0iSGFyZGNvZGVkVGV4dCxTbWFsbFNwIiAvPgoKICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbl9kdXBsaWNhdGVfYm91bmRzXzIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjQ4ZHAiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JQcmltYXJ5RGFyayIKICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iI0ZGRkZGRiIKICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iOGRwIgogICAgICAgIGFuZHJvaWQ6Y2xpY2thYmxlPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZ0VuZD0iOGRwIgogICAgICAgIGFuZHJvaWQ6dGV4dD0i6YeN44Gq44Gj44Gm44GE44KL44Oc44K/44OzIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvYnV0dG9uX2R1cGxpY2F0ZV9ib3VuZHNfMSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9idXR0b25fZHVwbGljYXRlX2JvdW5kc18xIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvYnV0dG9uX2R1cGxpY2F0ZV9ib3VuZHNfMSIKICAgICAgICB0b29sczppZ25vcmU9IkhhcmRjb2RlZFRleHQsU21hbGxTcCIgLz4KCg==</text>
+        <text encoding="base64">ICB2YXIgdHhJbml0OiBNdXRhYmxlTGl2ZURhdGE8SW50PiA9IE11dGFibGVMaXZlRGF0YTxJbnQ+KCkuYXBwbHkgeyB2YWx1ZSA9IDAgfQogIHZhciB0eFJldHVybk9yaWdpbjogTXV0YWJsZUxpdmVEYXRhPEludD4gPSBNdXRhYmxlTGl2ZURhdGE8SW50PigpLmFwcGx5IHsgdmFsdWUgPSAwIH0KICB2YXIgdHhUdXJuVGFibGU6IE11dGFibGVMaXZlRGF0YTxJbnQ+ID0gTXV0YWJsZUxpdmVEYXRhPEludD4oKS5hcHBseSB7IHZhbHVlID0gMCB9CiAgdmFyIHR4Q2hlZlg6IE11dGFibGVMaXZlRGF0YTxJbnQ+ID0gTXV0YWJsZUxpdmVEYXRhPEludD4oKS5hcHBseSB7IHZhbHVlID0gMCB9CiAgdmFyIHR4Q2hlZlk6IE11dGFibGVMaXZlRGF0YTxJbnQ+ID0gTXV0YWJsZUxpdmVEYXRhPEludD4oKS5hcHBseSB7IHZhbHVlID0gMCB9CiAgdmFyIHR4Q2hlZlJvdGF0aW9uOiBNdXRhYmxlTGl2ZURhdGE8SW50PiA9IE11dGFibGVMaXZlRGF0YTxJbnQ+KCkuYXBwbHkgeyB2YWx1ZSA9IDAgfQogIHZhciB0eENoZWZIYW5kR3JhYjogTXV0YWJsZUxpdmVEYXRhPEludD4gPSBNdXRhYmxlTGl2ZURhdGE8SW50PigpLmFwcGx5IHsgdmFsdWUgPSAwIH0KICB2YXIgdHhTdG9ja2VyWDogTXV0YWJsZUxpdmVEYXRhPEludD4gPSBNdXRhYmxlTGl2ZURhdGE8SW50PigpLmFwcGx5IHsgdmFsdWUgPSAwIH0KICB2YXIgdHhTdG9ja2VyWTogTXV0YWJsZUxpdmVEYXRhPEludD4gPSBNdXRhYmxlTGl2ZURhdGE8SW50PigpLmFwcGx5IHsgdmFsdWUgPSAwIH0KICB2YXIgdHhTdG9ja2VySGFuZFN0cmV0Y2g6IE11dGFibGVMaXZlRGF0YTxJbnQ+ID0gTXV0YWJsZUxpdmVEYXRhPEludD4oKS5hcHBseSB7IHZhbHVlID0gMCB9CiAgdmFyIHR4U3RvY2tlckhhbmRHcmFiOiBNdXRhYmxlTGl2ZURhdGE8SW50PiA9IE11dGFibGVMaXZlRGF0YTxJbnQ+KCkuYXBwbHkgeyB2YWx1ZSA9IDAgfQogIHZhciB0eEVtZXJnZW5jeTogTXV0YWJsZUxpdmVEYXRhPEludD4gPSBNdXRhYmxlTGl2ZURhdGE8SW50PigpLmFwcGx5IHsgdmFsdWUgPSAwIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRfdmlld19sb3dfY29udHJhc3QiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IuOCs+ODs+ODiOODqeOCueODiOOBruS9juOBhFRleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iMTZkcCIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNnNwIgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSIjREREREREIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0X3ZpZXdfc21hbGwiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IuaWh+Wtl+OCteOCpOOCuuOBruWwj+OBleOBhFRleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjExc3AiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIxNmRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdGV4dF92aWV3X2xvd19jb250cmFzdCIKICAgICAgICB0b29sczppZ25vcmU9IkhhcmRjb2RlZFRleHQsU21hbGxTcCIgLz4KCg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWNjZXNzaWJpbGl0eUNoZWNrZXIuY2hlY2soYWN0aXZpdHkuZmluZFZpZXdCeUlkKFIuaWQudGV4dF92aWV3X2xvd19jb250cmFzdCkpCiAgICAgICAgICAgIEFjY2Vzc2liaWxpdHlDaGVja2VyLmNoZWNrKGFjdGl2aXR5LmZpbmRWaWV3QnlJZChSLmlkLmJ1dHRvbl9zbWFsbCkpCiAgICAgICAgICAgIEFjY2Vzc2liaWxpdHlDaGVja2VyLmNoZWNrKGFjdGl2aXR5LmZpbmRWaWV3QnlJZChSLmlkLmJ1dHRvbl9kdXBsaWNhdGVfYm91bmRzXzEpKQogICAgICAgICAgICBBY2Nlc3NpYmlsaXR5Q2hlY2tlci5jaGVjayhhY3Rpdml0eS5maW5kVmlld0J5SWQoUi5pZC5idXR0b25fZHVwbGljYXRlX2JvdW5kc18yKSkK</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczppZ25vcmU9IkhhcmRjb2RlZFRleHQiIAo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBmdW4gb25SZXNwb25zZShyeDogUngpIHsKICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text>object :
-                AccessibilityCheckResult.AccessibilityCheckResultDescriptor() {
-                override fun describeView(view: View?): String {
-                    return HumanReadables.describe(view)
-                }
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB2YWx1ZTogSW50LAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgdmFyNSA9IGVycm9ycy5pdGVyYXRvcigpOwoKICAgICAgICAgICAgICAgIHdoaWxlKHZhcjUuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gKEFjY2Vzc2liaWxpdHlWaWV3Q2hlY2tSZXN1bHQpdmFyNS5uZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgTG9nLmUoIkFjY2Vzc2liaWxpdHlWYWxpZGF0b3IiLCB0aGlzLnJlc3VsdERlc2NyaXB0b3IuZGVzY3JpYmVSZXN1bHQocmVzdWx0KSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDAgLT4gMQogICAgZWxzZSAtPiAwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>192dp</text>
+        <text>current</text>
       </register>
     </registers>
     <search>
@@ -394,20 +423,20 @@
         <entry>action GoToLastTab</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Back</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
-        <entry>action SaveAll</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Find</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
