@@ -103,7 +103,7 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/OSS/ExoPlayerFilter/epf/src/main/java/com/daasuu/epf/EFramebufferObject.java" timestamp="1561905655248" />
+      <file name="$USER_HOME$/OSS/ExoPlayerFilter/epf/src/main/java/com/daasuu/epf/EFramebufferObject.java" timestamp="1561910579014" />
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_up_mail.xml" timestamp="1561527275152">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="14" />
@@ -191,7 +191,7 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/OSS/ExoPlayerFilter/epf/src/main/java/com/daasuu/epf/EPlayerRenderer.java" timestamp="1561907120762" />
+      <file name="$USER_HOME$/OSS/ExoPlayerFilter/epf/src/main/java/com/daasuu/epf/EPlayerRenderer.java" timestamp="1561910677948" />
       <file name="$USER_HOME$/OSS/ExoPlayerFilter/epf/src/main/java/com/daasuu/epf/EglUtil.java" timestamp="1561901461430">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="44" column="5" />
@@ -506,7 +506,7 @@
         <text encoding="base64">ICAgICAgICBHTEVTMjAuZ2xVc2VQcm9ncmFtKHNoYWRlclByb2dyYW0pCiAgICAgICAgdmFsIHBvc2l0aW9uQXR0cmlidXRlID0gR0xFUzIwLmdsR2V0QXR0cmliTG9jYXRpb24oc2hhZGVyUHJvZ3JhbSwgInZQb3NpdGlvbiIpCiAgICAgICAgR0xFUzIwLmdsRW5hYmxlVmVydGV4QXR0cmliQXJyYXkocG9zaXRpb25BdHRyaWJ1dGUpCgogICAgICAgIHZhbCB2ZXJ0ZXggPSBmbG9hdEFycmF5T2YoCiAgICAgICAgICAgIC0xLjBmLCAtMS4wZiwgMC4wZiwKICAgICAgICAgICAgMS4wZiwgLTEuMGYsIDAuMGYsCiAgICAgICAgICAgIDAuMGYsIDEuMGYsIDAuMGYKICAgICAgICApCiAgICAgICAgR0xFUzIwLmdsVmVydGV4QXR0cmliUG9pbnRlcigKICAgICAgICAgICAgcG9zaXRpb25BdHRyaWJ1dGUsCiAgICAgICAgICAgIHZlcnRleC5zaXplLAogICAgICAgICAgICBHTEVTMjAuR0xfRkxPQVQsCiAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAwLAogICAgICAgICAgICB2ZXJ0ZXgudG9GbG9hdEJ1ZmZlcigpCiAgICAgICAgKQogICAgICAgIEdMRVMyMC5nbERyYXdBcnJheXMoR0xFUzIwLkdMX1RSSUFOR0xFUywgMCwgdmVydGV4LnNpemUgLyAzKQogICAgICAgIEdMRVMyMC5nbERpc2FibGVWZXJ0ZXhBdHRyaWJBcnJheShwb3NpdGlvbkF0dHJpYnV0ZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -535,10 +535,10 @@
         <entry>action SaveAll</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
