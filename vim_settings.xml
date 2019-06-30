@@ -314,7 +314,7 @@
         <text encoding="base64">ICAgIHRoaXMudHggPSBjdXJyZW50QWN0aW9uPy5leGVjdXRlKHR4KSA/OiB0eAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHsgfQ==</text>
@@ -339,14 +339,14 @@
         <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
-        <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
