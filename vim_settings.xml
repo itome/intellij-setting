@@ -72,13 +72,7 @@
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/LocalDateTimeExt.kt" timestamp="1561957795762">
-        <mark key="'" line="9" column="51" />
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="13" column="53" />
-        <mark key="." line="13" column="53" />
-        <mark key="^" line="13" column="53" />
-      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/LocalDateTimeExt.kt" timestamp="1561957795762" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/ToggleStretchStockerHandAction.kt" timestamp="1561793593081">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
@@ -169,10 +163,7 @@
         <mark key="^" line="6" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/util/ext/ProgramExtTest.kt" timestamp="1561957974938">
-        <mark key="[" line="79" column="32" />
-        <mark key="]" line="79" column="32" />
-        <mark key="." line="79" column="32" />
-        <mark key="^" line="143" column="39" />
+        <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/Tx.kt" timestamp="1561783017800">
         <mark key="[" line="10" column="0" />
@@ -188,10 +179,6 @@
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" timestamp="1561957950588">
         <mark key="'" line="0" column="17" />
-        <mark key="[" line="70" column="12" />
-        <mark key="]" line="70" column="12" />
-        <mark key="^" line="62" column="26" />
-        <mark key="." line="70" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" timestamp="1561795732225">
         <mark key="'" line="412" column="0" />
@@ -345,7 +332,7 @@
         <text encoding="base64">ICBhbCBjdXJyZW50ID0gTG9jYWxEYXRlVGltZS5ub3coWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>.plusNanos(5000)</text>
@@ -371,13 +358,13 @@
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
