@@ -394,7 +394,7 @@
         <text encoding="base64">ICAKICBATmEK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action FindInPath</text>
       </register>
       <register name="-" type="4">
         <text>ProgramRepository</text>
@@ -421,12 +421,12 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action Back</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
