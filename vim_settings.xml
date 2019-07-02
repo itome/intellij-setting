@@ -206,13 +206,14 @@
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/util/ext/ProgramExtTest.kt" timestamp="1561957974938">
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/NetworkModule.kt" timestamp="1562033469742">
-        <mark key="[" line="86" column="22" />
-        <mark key="]" line="86" column="27" />
-        <mark key="." line="86" column="27" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/NetworkModule.kt" timestamp="1562036142331">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="104" column="10" />
+        <mark key="." line="90" column="0" />
         <mark key="^" line="86" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/PlayerCookieJar.kt" timestamp="1562033987521">
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/PlayerCookieJar.kt" timestamp="1562036303643">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -252,8 +253,7 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/TestNetworkModule.kt" timestamp="1562032673276" />
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/remote/LicenseDataSourceImpl.kt" timestamp="1562032607065">
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/remote/LicenseDataSourceImpl.kt" timestamp="1562036722104">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
@@ -261,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/ViewBindingAdapter.kt" />
       <jump line="205" column="20" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/top/SignInFragmentTest.kt" />
       <jump line="245" column="24" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" />
       <jump line="37" column="21" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" />
@@ -361,40 +360,41 @@
       <jump line="26" column="10" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/DataSourceModule.kt" />
       <jump line="16" column="11" filename="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/TestRepositoryModule.kt" />
       <jump line="5" column="14" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/repository/LicenseRepository.kt" />
+      <jump line="63" column="8" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/NetworkModule.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRlYnVnIikuZChjb29raWVMaXN0LnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAuYWRkSW50ZXJjZXB0b3IoSHR0cExvZ2dpbmdJbnRlcmNlcHRvciB7IFRpbWJlci50YWcoIk9rSHR0cCIpLnYoaXQpIH0uYXBwbHkgewogICAgICAgICAgbGV2ZWwgPSBIdHRwTG9nZ2luZ0ludGVyY2VwdG9yLkxldmVsLkJPRFkKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRlYnVnICAgICAgICAgIikuZChjb29raWVMaXN0LnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgIC5hZGRJbnRlcmNlcHRvcihIdHRwTG9nZ2luZ0ludGVyY2VwdG9yIHsgVGltYmVyLnRhZygiT2tIdHRwIikudihpdCkgfS5hcHBseSB7CiAgICAgIGxldmVsID0gSHR0cExvZ2dpbmdJbnRlcmNlcHRvci5MZXZlbC5CT0RZCiAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRlYnVnOiBFeHBpcmVkIikuZChjb29raWVMaXN0LnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRlYnVnICAgICAgICAgIikuZChjb29raWVMaXN0LnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZUxpc3QucmVtb3ZlQWxsIHsgaXQuZXhwaXJlc0F0KCkgPCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSB9Cg==</text>
+        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRlYnVnOiBFeHBpcmVkIikuZChjb29raWVMaXN0LnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRlYnVnIikuZChjb29raWVMaXN0LnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgIGNvb2tpZUxpc3QucmVtb3ZlQWxsIHsgaXQuZXhwaXJlc0F0KCkgPCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCkK</text>
+        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRlYnVnIikuZChjb29raWVMaXN0LnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWJlci5sb2cuVGltYmVyCg==</text>
+        <text encoding="base64">ICAgIExvZy5kKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRlYnVnIikuZChjb29raWVzLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWJlci5sb2cuVGltYmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgQE5hbWVkKFF1YWxpZmllcnMuUExBWUVSKQogIGZ1biByZXRyb2ZpdEZvclBsYXllcigpOiBSZXRyb2ZpdAo=</text>
+        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRlYnVnIikuZChjb29raWVzLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBATmEK</text>
+        <text encoding="base64">CiAgQE5hbWVkKFF1YWxpZmllcnMuUExBWUVSKQogIGZ1biByZXRyb2ZpdEZvclBsYXllcigpOiBSZXRyb2ZpdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action Find</text>
       </register>
       <register name="-" type="4">
         <text>ProgramRepository</text>
@@ -413,20 +413,20 @@
         <entry>action RenameElement</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Find</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVQcm9qZWN0VG9vbFdpbmRvdw==</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Back</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
