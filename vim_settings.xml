@@ -163,12 +163,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" timestamp="1562124943346">
-        <mark key="'" line="32" column="6" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="49" column="3" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="78" column="11" />
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" timestamp="1562134682902">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="198" column="61" />
+        <mark key="]" line="198" column="94" />
+        <mark key="." line="198" column="94" />
+        <mark key="^" line="198" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponent.kt" timestamp="1562032622740">
         <mark key="[" line="36" column="0" />
@@ -182,6 +182,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/LiveDataExt.kt" timestamp="1562132846513" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/RotateTurnTableAction.kt" timestamp="1561787811073">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
@@ -238,7 +239,7 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/mypage/src/test/java/jp/cldh/mypage/ui/edit/EditUserInfoViewModelTest.kt" timestamp="1562124867398">
+      <file name="$USER_HOME$/Projects/love/android/features/mypage/src/test/java/jp/cldh/mypage/ui/edit/EditUserInfoViewModelTest.kt" timestamp="1562130790229">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="61" column="3" />
       </file>
@@ -260,12 +261,12 @@
         <mark key="^" line="173" column="34" />
         <mark key="." line="173" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" timestamp="1562123029761">
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" timestamp="1562134504678">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="62" column="50" />
-        <mark key="]" line="63" column="43" />
-        <mark key="." line="63" column="43" />
-        <mark key="^" line="63" column="43" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="46" column="30" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0-alpha01/bfd86b9887c2343516f82bed91acbab34a45841d/lifecycle-viewmodel-2.2.0-alpha01-sources.jar!/androidx/lifecycle/ViewModel.java" timestamp="1562121105282">
         <mark key="'" line="0" column="0" />
@@ -317,11 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="646" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.1/485c65235e08d3ae5af93db3e192e52590a8bc7b/exoplayer-ui-2.10.1-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" />
-      <jump line="62" column="25" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/ProgramBadge.kt" />
-      <jump line="99" column="11" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
-      <jump line="119" column="31" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="47" column="39" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/ProgramBadge.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/colors.xml" />
@@ -417,43 +413,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0-alpha01/bfd86b9887c2343516f82bed91acbab34a45841d/lifecycle-viewmodel-2.2.0-alpha01-sources.jar!/androidx/lifecycle/ViewModel.java" />
       <jump line="11" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/SignInMailViewModelTest.kt" />
+      <jump line="39" column="92" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" />
+      <jump line="79" column="30" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" />
+      <jump line="71" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" />
+      <jump line="120" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" />
+      <jump line="74" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CiAgQEFmdGVyCiAgZnVuIHRlYXJEb3duKCkgewogICAgQ29yb3V0aW5lUHJvdmlkZXIucmVzZXRJb0Rpc3BhdGNoZXIoKQogIH0K</text>
+        <text encoding="base64">CiAgQFRlc3QKICBmdW4gdGVzdEZldGNoUHJvZ3JhbV93aXRoT25kZW1hbmRfd2l0aG91dExpdmVfc3VjY2VzcygpIHsKICAgIHZhbCBtb2NrUHJvZ3JhbSA9IFByb2dyYW1Qcm90by5Qcm9ncmFtLm5ld0J1aWxkZXIoKQogICAgICAuc2V0SWQoIm1vY2tfcHJvZ3JhbV9pZCIpCiAgICAgIC5zZXRIYXNDb21pbmcodHJ1ZSkKICAgICAgLnNldEhhc09uZGVtYW5kKHRydWUpCiAgICAgIC5zZXRIYXNPbmFpcihmYWxzZSkKICAgICAgLmJ1aWxkKCkKICAgIHZhbCBtb2NrUHJvZ3JhbVJlc3BvbnNlID0gUHJvZ3JhbVByb3RvLkdldFByb2dyYW1SZXNwb25zZS5uZXdCdWlsZGVyKCkKICAgICAgLnNldFByb2dyYW0obW9ja1Byb2dyYW0pCiAgICAgIC5zZXRPbmRlbWFuZFZpZGVvKG1vY2tPbmRlbWFuZFZpZGVvKQogICAgICAuYnVpbGQoKQoKICAgIGNvRXZlcnkgeyBtb2NrUHJvZ3JhbVN0b3JlLmdldFByb2dyYW0oYW55KCkpIH0gcmV0dXJucyBtb2NrUHJvZ3JhbVJlc3BvbnNlLnN1Y2Nlc3MoKQogICAgY29FdmVyeSB7IG1vY2tQcm9ncmFtU3RvcmUucmVxdWVzdE9uZGVtYW5kTGljZW5zZShhbnkoKSkgfSByZXR1cm5zIG1vY2tMaWNlbnNlUmVzcG9uc2Uuc3VjY2VzcygpCiAgICBzZXR1cFZpZXdNb2RlbCgpCiAgICB2aWV3TW9kZWwuZmV0Y2hQcm9ncmFtKCJtb2NrX3Byb2dyYW1faWQiKQogICAgdmVyaWZ5KGV4YWN0bHkgPSAxKSB7IHByb2dyYW1PYnNlcnZlci5vbkNoYW5nZWQoZXEobW9ja1Byb2dyYW0uc3VjY2VzcygpKSkgfQogICAgdmVyaWZ5KGV4YWN0bHkgPSAxKSB7IGxpdmVWaWRlb09ic2VydmVyLm9uQ2hhbmdlZChlcShOb25lLnN1Y2Nlc3MoKSkpIH0KICAgIHZlcmlmeShleGFjdGx5ID0gMSkgeyBvbmRlbWFuZFZpZGVvT2JzZXJ2ZXIub25DaGFuZ2VkKGVxKG1vY2tPbmRlbWFuZFZpZGVvLnNvbWUoKS5zdWNjZXNzKCkpKSB9CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBhc3NlcnRUaGF0KHZpZXdNb2RlbC5wcm9ncmFtLnZhbHVlKS5pc0VxdWFsVG8obW9ja1Byb2dyYW0uc3VjY2VzcygpKQogICAgYXNzZXJ0VGhhdCh2aWV3TW9kZWwubGl2ZVZpZGVvLnZhbHVlKS5pc0VxdWFsVG8obW9ja0xpdmVWaWRlby5zb21lKCkuc3VjY2VzcygpKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtb2NrTGl2ZUxpY2Vuc2VFcnJvciA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpdmUK</text>
+        <text encoding="base64">ICAgICAgLm1hcCB7CiAgICAgICAgd2hlbiAoaXQpIHsKICAgICAgICAgIGlzIFN1Y2Nlc3MgLT4gaWYgKGl0LikKICAgICAgICAgIGlzIEZhaWx1cmUgLT4gTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBhc3NlcnRUaGF0KHZpZXdNb2RlbC5wcm9ncmFtLnZhbHVlKS5pc0VxdWFsVG8obW9ja1Byb2dyYW0uc3VjY2VzcygpKQogICAgYXNzZXJ0VGhhdCh2aWV3TW9kZWwubGl2ZVZpZGVvLnZhbHVlKS5pc0VxdWFsVG8obW9ja0xpdmVWaWRlby5zb21lKCkuc3VjY2VzcygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeU9yZGVyIHsKCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXQgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmlld01vZGVsLnByb2dyYW0ub25DaGEKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpdC5pZlN1Y2Nlc3MgeyAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBjb1ZlcmlmeSB7IG1vY2tQcm9ncmFtU3RvcmUuZ2V0UHJvZ3JhbShhbnkoKSkgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvVmVyaWZ5KCkgeyBtb2NrUHJvZ3JhbVN0b3JlLmdldFByb2dyYW0oYW55KCkpIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgQFRlc3QKICBmdW4gdGVzdEZldGNoUHJvZ3JhbV9mYWlsdXJlKCkgewogICAgdmFsIG1vY2tQcm9ncmFtRXJyb3IgPSBSdW50aW1lRXhjZXB0aW9uKCkKICAgIGNvRXZlcnkgeyBtb2NrUHJvZ3JhbVN0b3JlLmdldFByb2dyYW0oYW55KCkpIH0gdGhyb3dzIG1vY2tQcm9ncmFtRXJyb3IKCiAgICBzZXR1cFZpZXdNb2RlbCgpCiAgICB2aWV3TW9kZWwuZmV0Y2hQcm9ncmFtKCJtb2NrX3Byb2dyYW1faWQiKQogICAgdmVyaWZ5KGV4YWN0bHkgPSAxKSB7IHByb2dyYW1PYnNlcnZlci5vbkNoYW5nZWQoZXEobW9ja1Byb2dyYW1FcnJvci5mYWlsdXJlKCkpKSB9CiAgICB2ZXJpZnkoZXhhY3RseSA9IDApIHsgbGl2ZVZpZGVvT2JzZXJ2ZXIub25DaGFuZ2VkKGFueSgpKSB9CiAgICB2ZXJpZnkoZXhhY3RseSA9IDApIHsgb25kZW1hbmRWaWRlb09ic2VydmVyLm9uQ2hhbmdlZChhbnkoKSkgfQogIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvRXZlcnkgeyBtb2NrUHJvZ3JhbVN0b3JlLnJlcXVlc3RMaXZlTGljZW5zZShhbnkoKSkgfSByZXR1cm5zIG1vY2tMaWNlbnNlUmVzcG9uc2Uuc3VjY2VzcygpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB2YWwgcHJvZ3JhbU9ic2VydmVyID0gc3B5azxPYnNlcnZlcjxUcnk8UHJvZ3JhbVByb3RvLlByb2dyYW0+Pj4oKQogICAgdmlld01vZGVsLnByb2dyYW0ub2JzZXJ2ZUZvcmV2ZXIocHJvZ3JhbU9ic2VydmVyKQogICAgdmFsIGxpdmVWaWRlb09ic2VydmVyID0gc3B5azxPYnNlcnZlcjxUcnk8T3B0aW9uPFByb2dyYW1Qcm90by5MaXZlVmlkZW8+Pj4+KCkKICAgIHZpZXdNb2RlbC5saXZlVmlkZW8ub2JzZXJ2ZUZvcmV2ZXIobGl2ZVZpZGVvT2JzZXJ2ZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>coVerify</text>
+        <text>mockOndemandVideo.some().success()</text>
       </register>
     </registers>
     <search>
@@ -472,17 +473,17 @@
         <entry>action GotoAction</entry>
         <entry>action Run</entry>
         <entry>action SplitVertically</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action Back</entry>
+        <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
