@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/xml/device_admin.xml" timestamp="1562249534199">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefDownAction.kt" timestamp="1561787757988">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="24" />
@@ -32,6 +37,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/AndroidManifest.xml" timestamp="1562249588103">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerLeftAction.kt" timestamp="1561787993630">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="6" column="44" />
@@ -55,6 +65,18 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="10" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskUtil.kt" timestamp="1562249881069">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/AdminReceiver.kt" timestamp="1562249813477">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/RotateChefAction.kt" timestamp="1561787800972">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
@@ -67,17 +89,24 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskManager.kt" timestamp="1562251172369">
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+        <mark key="^" line="21" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/Tx.kt" timestamp="1561783017800">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="13" column="31" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1562247367833">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-        <mark key="." line="22" column="31" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1562250098548">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/HardwareAction.kt" timestamp="1561787729603">
         <mark key="[" line="8" column="2" />
@@ -106,6 +135,9 @@
         <mark key="]" line="14" column="31" />
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562249524266">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1561798547666">
         <mark key="[" line="0" column="0" />
@@ -200,9 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="11" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/ViewBindingAdapter.kt" />
-      <jump line="52" column="28" filename="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" />
-      <jump line="134" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/strings.xml" />
       <jump line="43" column="25" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/ViewBindingAdapter.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/binding/ViewBindingAdapter.kt" />
       <jump line="205" column="20" filename="$USER_HOME$/Projects/love/android/features/signin/src/test/java/jp/cldh/signin/ui/top/SignInFragmentTest.kt" />
@@ -300,43 +329,46 @@
       <jump line="26" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
       <jump line="203" column="27" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="147" column="67" filename="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/PlayerActivity.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskUtil.kt" />
+      <jump line="9" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" />
+      <jump line="21" column="25" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskUtil.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTVFJFQU1fVVJMX01QNF9WT0RfTE9ORyA9ICJodHRwczovL3d3dy5yYWRpYW50bWVkaWFwbGF5ZXIuY29tL21lZGlhL2JiYi0zNjBwLm1wNCI7Cg==</text>
+      <register name="0" type="4">
+        <text>work.newinnovations.director</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpNdXBzTWFuYWdlci5pbml0aWFsaXplKHRoaXMpCiAgICBoYXJkd2FyZU1hbmFnZXIuaW5pdGlhbGl6ZSh0aGlzKQo=</text>
+        <text encoding="base64">ICAgIGFjdGl2aXR5LndpbmRvdy5kZWNvclZpZXcuc3lzdGVtVWlWaXNpYmlsaXR5ID0gVmlldy5TWVNURU1fVUlfRkxBR19GVUxMU0NSRUVOCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTVFJFQU1fVVJMX01QNF9WT0RfTE9ORyA9ICJodHRwOi8vd3d3Lmh0bWw1dmlkZW9wbGF5ZXIubmV0L3ZpZGVvcy90b3lzdG9yeS5tcDQiOwoK</text>
+        <text encoding="base64">CiAgQFN1cHByZXNzKCJEZXByZWNhdGlvbiIpCiAgZnVuIGNsZWFyRGV2aWNlT3duZXIoKSB7CiAgICBpZiAoZHBtLmlzRGV2aWNlT3duZXJBcHAoY29udGV4dC5wYWNrYWdlTmFtZSkpIHsKICAgICAgZHBtLmNsZWFyRGV2aWNlT3duZXJBcHAoY29udGV4dC5wYWNrYWdlTmFtZSkKICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLy8g44Ob44O844Og44Ki44OX44Oq5YyWCiAgcHJpdmF0ZSBmdW4gc2V0SG9tZUFjdGl2aXR5KGFjdGl2aXR5OiBBY3Rpdml0eSkgewogICAgdmFsIGludGVudEZpbHRlciA9IEludGVudEZpbHRlcihJbnRlbnQuQUNUSU9OX01BSU4pLmFwcGx5IHsKICAgICAgYWRkQ2F0ZWdvcnkoSW50ZW50LkNBVEVHT1JZX0RFRkFVTFQpCiAgICAgIGFkZENhdGVnb3J5KEludGVudC5DQVRFR09SWV9IT01FKQogICAgfQoKICAgIHZhbCBob21lID0gQ29tcG9uZW50TmFtZShjb250ZXh0LCBhY3Rpdml0eTo6Y2xhc3MuamF2YSkKICAgIGRwbS5hZGRQZXJzaXN0ZW50UHJlZmVycmVkQWN0aXZpdHkoZGV2aWNlQWRtaW4sIGludGVudEZpbHRlciwgaG9tZSkKICB9CgogIC8vIOODm+ODvOODoOOCouODl+ODquWMluino+mZpAogIHByaXZhdGUgZnVuIHJlc2V0SG9tZUFjdGl2aXR5KCkgPQogICAgZHBtLmNsZWFyUGFja2FnZVBlcnNpc3RlbnRQcmVmZXJyZWRBY3Rpdml0aWVzKGRldmljZUFkbWluLCBjb250ZXh0LnBhY2thZ2VOYW1lKQoKICBwcml2YXRlIGZ1biBoYXNEZXZpY2VPd25lclBlcm1pc3Npb24oKTogQm9vbGVhbiA9CiAgICBkcG0uaXNBZG1pbkFjdGl2ZShkZXZpY2VBZG1pbikgJiYgZHBtLmlzRGV2aWNlT3duZXJBcHAoY29udGV4dC5wYWNrYWdlTmFtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uU3RvcCgpIHsKICAgIHN1cGVyLm9uU3RvcCgpCiAgICBraW9za01hbmFnZXIuc3RvcCh0aGlzKQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEtpb3NrVXRpbC5zdGFydCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFRyYWNrU2VsZWN0b3IgdHJhY2tTZWxlY3RvciA9IG5ldyBEZWZhdWx0VHJhY2tTZWxlY3RvcigpOwovLwovLyAgICAgICAgLy8gTWVhc3VyZXMgYmFuZHdpZHRoIGR1cmluZyBwbGF5YmFjay4gQ2FuIGJlIG51bGwgaWYgbm90IHJlcXVpcmVkLgovLyAgICAgICAgRGVmYXVsdEJhbmR3aWR0aE1ldGVyIGRlZmF1bHRCYW5kd2lkdGhNZXRlciA9IG5ldyBEZWZhdWx0QmFuZHdpZHRoTWV0ZXIoKTsKLy8gICAgICAgIC8vIFByb2R1Y2VzIERhdGFTb3VyY2UgaW5zdGFuY2VzIHRocm91Z2ggd2hpY2ggbWVkaWEgZGF0YSBpcyBsb2FkZWQuCi8vICAgICAgICBEYXRhU291cmNlLkZhY3RvcnkgZGF0YVNvdXJjZUZhY3RvcnkgPSBuZXcgRGVmYXVsdERhdGFTb3VyY2VGYWN0b3J5KHRoaXMsIFV0aWwuZ2V0VXNlckFnZW50KHRoaXMsICJ5b3VyQXBwbGljYXRpb25OYW1lIiksIGRlZmF1bHRCYW5kd2lkdGhNZXRlcik7Ci8vICAgICAgICBNZWRpYVNvdXJjZSBtZWRpYVNvdXJjZSA9IG5ldyBFeHRyYWN0b3JNZWRpYVNvdXJjZS5GYWN0b3J5KGRhdGFTb3VyY2VGYWN0b3J5KS5jcmVhdGVNZWRpYVNvdXJjZShVcmkucGFyc2UoU1RSRUFNX1VSTF9NUDRfVk9EX0xPTkcpKTsKLy8KLy8gICAgICAgIC8vIFNpbXBsZUV4b1BsYXllcgovLyAgICAgICAgcGxheWVyID0gRXhvUGxheWVyRmFjdG9yeS5uZXdTaW1wbGVJbnN0YW5jZSh0aGlzLCB0cmFja1NlbGVjdG9yKTsKLy8gICAgICAgIC8vIFByZXBhcmUgdGhlIHBsYXllciB3aXRoIHRoZSBzb3VyY2UuCi8vICAgICAgICBwbGF5ZXIucHJlcGFyZShtZWRpYVNvdXJjZSk7Ci8vICAgICAgICBwbGF5ZXIuc2V0UGxheVdoZW5SZWFkeSh0cnVlKTsK</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcGxheWVyID0gRXhvUGxheWVyRmFjdG9yeS5uZXdTaW1wbGVJbnN0YW5jZSh0aGlzKTsKICAgICAgICBEZWZhdWx0RGF0YVNvdXJjZUZhY3RvcnkgZGF0YVNvdXJjZUZhY3RvcnkgPQogICAgICAgICAgICAgICAgbmV3IERlZmF1bHREYXRhU291cmNlRmFjdG9yeSh0aGlzLCBVdGlsLmdldFVzZXJBZ2VudCh0aGlzLCAiZ3B1aW1hZ2VzYW1wbGUiKSk7CiAgICAgICAgUHJvZ3Jlc3NpdmVNZWRpYVNvdXJjZSB2aWRlb1NvdXJjZSA9IG5ldyBQcm9ncmVzc2l2ZU1lZGlhU291cmNlLkZhY3RvcnkoZGF0YVNvdXJjZUZhY3RvcnkpCiAgICAgICAgICAgICAgICAuY3JlYXRlTWVkaWFTb3VyY2UoVXJpLnBhcnNlKCJmaWxlOi8vL2FuZHJvaWRfYXNzZXQvYmlnX2J1Y2tfYnVubnkubXA0IikpOwogICAgICAgIHBsYXllci5wcmVwYXJlKHZpZGVvU291cmNlKTsKICAgICAgICBwbGF5ZXIuc2V0UGxheVdoZW5SZWFkeSh0cnVlKTsK</text>
+        <text encoding="base64">PFByZWZlcmVuY2VTY3JlZW4geG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KCjwvUHJlZmVyZW5jZVNjcmVlbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW5pdGlhbGl6ZUhhcmR3YXJlKCkK</text>
+        <text encoding="base64">CiAgZnVuIGluc3RhbGxQYWNrYWdlKGZpbGU6IEZpbGUpIHsKICAgIHZhbCBwYWNrYWdlSW5zdGFsbGVyID0gY29udGV4dC5wYWNrYWdlTWFuYWdlci5wYWNrYWdlSW5zdGFsbGVyCiAgICB2YWwgcGFyYW1zID0gUGFja2FnZUluc3RhbGxlci5TZXNzaW9uUGFyYW1zKFBhY2thZ2VJbnN0YWxsZXIuU2Vzc2lvblBhcmFtcy5NT0RFX0ZVTExfSU5TVEFMTCkuYXBwbHkgewogICAgICBzZXRJbnN0YWxsTG9jYXRpb24oUGFja2FnZUluZm8uSU5TVEFMTF9MT0NBVElPTl9BVVRPKQogICAgfQoKICAgIHZhbCBzZXNzaW9uSWQgPSBwYWNrYWdlSW5zdGFsbGVyLmNyZWF0ZVNlc3Npb24ocGFyYW1zKQogICAgcGFja2FnZUluc3RhbGxlci5vcGVuU2Vzc2lvbihzZXNzaW9uSWQpLnVzZSB7IHNlc3Npb24gLT4KICAgICAgc2Vzc2lvbi5vcGVuV3JpdGUoImhvZ2UiLCAwLCBmaWxlLmxlbmd0aCgpKS51c2UgeyBvdXRwdXQgLT4KICAgICAgICBGaWxlSW5wdXRTdHJlYW0oZmlsZSkudXNlIHsgaW5wdXQgLT4KICAgICAgICAgIGlucHV0LmNvcHlUbyhvdXRwdXQpCiAgICAgICAgICBzZXNzaW9uLmZzeW5jKG91dHB1dCkKICAgICAgICB9CiAgICAgIH0KICAgICAgdmFsIGR1bW15U2VuZGVyID0gUGVuZGluZ0ludGVudC5nZXRCcm9hZGNhc3QoCiAgICAgICAgY29udGV4dCwKICAgICAgICBzZXNzaW9uSWQsIEludGVudCgiZHVtbXkiKSwgMAogICAgICApLmludGVudFNlbmRlcgogICAgICBzZXNzaW9uLmNvbW1pdChkdW1teVNlbmRlcikKICAgIH0KICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>Initialize error</text>
+        <text encoding="base64">IC8vIGhpZGUgc3RhdHVzIGJhcg==</text>
       </register>
     </registers>
     <search>
@@ -353,19 +385,19 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindInPath</entry>
-        <entry>action Find</entry>
-        <entry>action RenameElement</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Back</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Run</entry>
+        <entry>action Find</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
