@@ -365,7 +365,7 @@
         <text encoding="base64">CiAgZnVuIGluc3RhbGxQYWNrYWdlKGZpbGU6IEZpbGUpIHsKICAgIHZhbCBwYWNrYWdlSW5zdGFsbGVyID0gY29udGV4dC5wYWNrYWdlTWFuYWdlci5wYWNrYWdlSW5zdGFsbGVyCiAgICB2YWwgcGFyYW1zID0gUGFja2FnZUluc3RhbGxlci5TZXNzaW9uUGFyYW1zKFBhY2thZ2VJbnN0YWxsZXIuU2Vzc2lvblBhcmFtcy5NT0RFX0ZVTExfSU5TVEFMTCkuYXBwbHkgewogICAgICBzZXRJbnN0YWxsTG9jYXRpb24oUGFja2FnZUluZm8uSU5TVEFMTF9MT0NBVElPTl9BVVRPKQogICAgfQoKICAgIHZhbCBzZXNzaW9uSWQgPSBwYWNrYWdlSW5zdGFsbGVyLmNyZWF0ZVNlc3Npb24ocGFyYW1zKQogICAgcGFja2FnZUluc3RhbGxlci5vcGVuU2Vzc2lvbihzZXNzaW9uSWQpLnVzZSB7IHNlc3Npb24gLT4KICAgICAgc2Vzc2lvbi5vcGVuV3JpdGUoImhvZ2UiLCAwLCBmaWxlLmxlbmd0aCgpKS51c2UgeyBvdXRwdXQgLT4KICAgICAgICBGaWxlSW5wdXRTdHJlYW0oZmlsZSkudXNlIHsgaW5wdXQgLT4KICAgICAgICAgIGlucHV0LmNvcHlUbyhvdXRwdXQpCiAgICAgICAgICBzZXNzaW9uLmZzeW5jKG91dHB1dCkKICAgICAgICB9CiAgICAgIH0KICAgICAgdmFsIGR1bW15U2VuZGVyID0gUGVuZGluZ0ludGVudC5nZXRCcm9hZGNhc3QoCiAgICAgICAgY29udGV4dCwKICAgICAgICBzZXNzaW9uSWQsIEludGVudCgiZHVtbXkiKSwgMAogICAgICApLmludGVudFNlbmRlcgogICAgICBzZXNzaW9uLmNvbW1pdChkdW1teVNlbmRlcikKICAgIH0KICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC8vIGhpZGUgc3RhdHVzIGJhcg==</text>
@@ -387,7 +387,6 @@
         <entry>action FindInPath</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoAction</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
@@ -398,6 +397,7 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
