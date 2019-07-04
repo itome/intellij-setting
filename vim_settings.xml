@@ -333,7 +333,7 @@
         <text encoding="base64">ICAgICAgaW5pdGlhbGl6ZUhhcmR3YXJlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>Initialize error</text>
@@ -361,11 +361,11 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
