@@ -9,6 +9,13 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="24" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_controller.xml" timestamp="1562316162241">
+        <mark key="'" line="125" column="4" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="67" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="36" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/layout/model_artist.xml" timestamp="1562304918140">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="70" column="150" />
@@ -70,11 +77,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" />
-      <jump line="2" column="25" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerToOverTurnTable.kt" />
-      <jump line="404" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" />
-      <jump line="100" column="47" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
-      <jump line="97" column="44" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
       <jump line="95" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/ToggleStretchStockerHandAction.kt" />
       <jump line="20" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
@@ -170,43 +172,48 @@
       <jump line="211" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_controller.xml" />
       <jump line="83" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="26" column="7" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player.xml" />
+      <jump line="35" column="5" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_controller.xml" />
+      <jump line="166" column="10" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_controller.xml" />
+      <jump line="163" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_controller.xml" />
+      <jump line="42" column="38" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_controller.xml" />
+      <jump line="125" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_controller.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudEFuaW1hdGlvbj8uc3RhcnQoKQo=</text>
+        <text encoding="base64">PCEtLSBGSVhNRTogVXNlIGNvbnN0cmFpbnQgbGF5b3V0LiBDdXJyZW50bHkgd2UgaGF2ZSB1bmtub3duIGlzc3VlIG9uIGNvbnN0cmFpbnQgbGF5b3V0IC0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIHNob3coKSB7CiAgICB2YWwgaXNBbHJlYWR5VmlzaWJsZSA9IGlzVmlzaWJsZQogICAgc3VwZXIuc2hvdygpCiAgICBpZiAoIWlzQWxyZWFkeVZpc2libGUpIHsKICAgICAgVmFsdWVBbmltYXRvci5vZkZsb2F0KDBGLCAxRikuYXBwbHkgewogICAgICAgIGR1cmF0aW9uID0gMjAwCiAgICAgICAgYWRkVXBkYXRlTGlzdGVuZXIgewogICAgICAgICAgdGhpc0BQbGF5ZXJDb250cm9sbGVyVmlldy5hbHBoYSA9IGl0LmFuaW1hdGVkVmFsdWUgYXMgRmxvYXQKICAgICAgICAgIGFscGhhQ2hhbmdlTGlzdGVuZXI/Lmludm9rZShpdC5hbmltYXRlZFZhbHVlIGFzIEZsb2F0KQogICAgICAgIH0KICAgICAgfS5zdGFydCgpCiAgICB9CiAgICBidXR0b25Db250cm9sbGVyUGxheS5pc1Zpc2libGUgPSAhaXNCdWZmZXJpbmcKICAgIHNob3VsZERpc3BhdGNoRG91YmxlVGFwRXZlbnRXaXRoU2luZ2xlVGFwID0gdHJ1ZQogICAgcG9zdERlbGF5ZWQoeyBzaG91bGREaXNwYXRjaERvdWJsZVRhcEV2ZW50V2l0aFNpbmdsZVRhcCA9IGZhbHNlIH0sIERPVUJMRV9UQVBfVElNRU9VVCkKICB9CgogIG92ZXJyaWRlIGZ1biBoaWRlKCkgewogICAgVmFsdWVBbmltYXRvci5vZkZsb2F0KDFGLCAwRikuYXBwbHkgewogICAgICBkdXJhdGlvbiA9IDIwMAogICAgICBhZGRVcGRhdGVMaXN0ZW5lciB7CiAgICAgICAgdGhpc0BQbGF5ZXJDb250cm9sbGVyVmlldy5hbHBoYSA9IGl0LmFuaW1hdGVkVmFsdWUgYXMgRmxvYXQKICAgICAgICBhbHBoYUNoYW5nZUxpc3RlbmVyPy5pbnZva2UoaXQuYW5pbWF0ZWRWYWx1ZSBhcyBGbG9hdCkKICAgICAgfQogICAgICBkb09uRW5kIHsgc3VwZXIuaGlkZSgpIH0KICAgIH0uc3RhcnQoKQogIH0K</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduU3RhcnQ9IkBpZC9sYXlvdXRfY29udHJvbGxlcl9wbGF5X2FuZF9zdGVwIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhciBsYXllZG91dAo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduRW5kPSJAaWQvbGF5b3V0X2NvbnRyb2xsZXJfcGxheV9hbmRfc3RlcCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvT25MYXlvdXQgeyBsYXlvdXRFbmRlZCA9IHRydWUgfQo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50Qm90dG9tPSIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduRW5kPSJwYSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImVuZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmkK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iOGRwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgPFZpZXcKICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlld19wbGF5X2J1dHRvbl9wbGFjZWhvbGRlciIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI4OGRwIgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI4OGRwIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAvPgo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgPFZpZXcKICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlld19wbGF5X2J1dHRvbl9wbGFjZWhvbGRlciIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI4OGRwIgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI4OGRwIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAvPgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X292ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>layout</text>
+        <text>!-- FIXME: Use constraint layout. Currently we have unknown issue on constraint layout --</text>
       </register>
     </registers>
     <search>
@@ -230,12 +237,12 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Find</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action SaveAll</entry>
+        <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
