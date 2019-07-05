@@ -91,7 +91,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/LLDB" timestamp="1562077224492">
+      <file name="/LLDB" timestamp="1562363351024">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/drawable/background_button.xml" timestamp="1561191186295">
@@ -135,11 +135,11 @@
         <mark key="." line="38" column="46" />
         <mark key="^" line="38" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Apps/AppDelegate.swift" timestamp="1562338150394">
-        <mark key="[" line="84" column="16" />
-        <mark key="]" line="84" column="15" />
-        <mark key="." line="84" column="15" />
-        <mark key="^" line="84" column="15" />
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Apps/AppDelegate.swift" timestamp="1562363672513">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="27" column="96" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/User/UserStore.swift" timestamp="1562077881815">
         <mark key="[" line="4" column="36" />
@@ -309,34 +309,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgbGV0IHVybCA9IFVSTChzdHJpbmc6IEFwcENvbmZpZy5QQVRSQUNBUlQuZG9tYWluKSB7CiAgICAgICAgICAgICAgICBzZWxmPy53ZWJWaWV3LmxvYWQoVVJMUmVxdWVzdCh1cmw6IHVybCkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0cmluZ3MoYnlBcHBlbmRpbmdQYXRoczogPCNUIyNbU3RyaW5nXSMjW1N3aWZ0LlN0cmluZ10jPikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVJQXBwbGljYXRpb24uc2hhcmVkLnJlZ2lzdGVyRm9yUmVtb3RlTm90aWZpY2F0aW9ucygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0cmluZ3MoYnl0OiA8I1QjI1tTdHJpbmddIyNbU3dpZnQuU3RyaW5nXSM+KQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0cgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUcnkgYWdhaW4gbGF0ZXIuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOODh+ODkOOCpOOCueODiOODvOOCr+ODs+OBruimgeaxggo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgZnVuYyBhcHBsaWNhdGlvbiggYXBwbGljYXRpb246IFVJQXBwbGljYXRpb24sIGRpZFJlZ2lzdGVyRm9yUmVtb3RlTm90aWZpY2F0aW9uc1dpdGhEZXZpY2VUb2tlbiBkZXZpY2VUb2tlbjogTlNEYXRhICkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDjgqjjg6njg7zmmYLjga7lh6bnkIYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5hcHBsaWNhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLyoqIGlPUzEw5Lul5LiKICoqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0cmluZ3MoYnlBcHBlbmRpbmdQYXRoczogPCNUIyNbU3RyaW5nXSMjW1N3aWZ0LlN0cmluZ10jPikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmMgYXBwbGljYXRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0cmluZ3MoYnl0OiA8I1QjI1tTdHJpbmddIyNbU3dpZnQuU3RyaW5nXSM+KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
         <text>AWSExecutor</text>
@@ -367,8 +367,8 @@
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
