@@ -17,10 +17,11 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/GPUVideoSample/app/src/main/res/layout/activity_main.xml" timestamp="1562510958828">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="73" column="15" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/GPUVideoSample/app/src/main/res/layout/activity_main.xml" timestamp="1562511653316">
+        <mark key="[" line="64" column="20" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="27" />
+        <mark key="^" line="64" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskUtil.kt" timestamp="1562249881069">
         <mark key="'" line="21" column="25" />
@@ -48,9 +49,6 @@
         <mark key="]" line="26" column="27" />
         <mark key="." line="26" column="27" />
         <mark key="^" line="26" column="27" />
-      </file>
-      <file name="/fragment.kt" timestamp="1561798547666">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerRightAction.kt" timestamp="1561787795557">
         <mark key="'" line="1" column="0" />
@@ -157,11 +155,6 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/AdminReceiver.kt" timestamp="1562249813477">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/java/team/itome/gpuimagesample/MainActivity.kt" timestamp="1562511121946">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="85" column="5" />
@@ -175,10 +168,10 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterType.java" timestamp="1562262133750">
+      <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterType.java" timestamp="1562511616720">
         <mark key="'" line="366" column="95" />
-        <mark key="[" line="380" column="107" />
-        <mark key="]" line="380" column="107" />
+        <mark key="[" line="222" column="65" />
+        <mark key="]" line="222" column="93" />
         <mark key="." line="380" column="107" />
         <mark key="^" line="380" column="107" />
       </file>
@@ -209,9 +202,7 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562249524266">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.2/1ee8761314b972234a6d9c4109e6e5d20dc2eb3e/exoplayer-core-2.10.2-sources.jar!/com/google/android/exoplayer2/Player.java" timestamp="1562511757927" />
       <file name="$USER_HOME$/Projects/GPUVideo-android/gpuv/src/main/java/com/daasuu/gpuv/player/GPUPlayerRenderer.java" timestamp="1562509770806">
         <mark key="'" line="161" column="0" />
         <mark key="[" line="92" column="19" />
@@ -253,14 +244,11 @@
         <mark key="." line="414" column="66" />
         <mark key="^" line="414" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/GPUVideoSample/app/src/main/java/team/itome/gpuvideosample/MainActivity.kt" timestamp="1562511502046">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="40" column="66" />
-      </file>
-      <file name="/fragment.java" timestamp="1562258740530">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/GPUVideoSample/app/src/main/java/team/itome/gpuvideosample/MainActivity.kt" timestamp="1562511767815">
+        <mark key="[" line="58" column="45" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -366,29 +354,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUVideoSample/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZhbCBncHVQbGF5ZXJWaWV3OiBHUFVQbGF5ZXJWaWV3IGJ5IGxhenkgeyBmaW5kVmlld0J5SWQ8R1BVUGxheWVyVmlldz4oUi5pZC5ncHVfcGxheWVyX3ZpZXcpIH0KICAgIHByaXZhdGUgdmFsIHBpeGVsYXRpb25TZWVrQmFyOiBTZWVrQmFyIGJ5IGxhenkgeyBmaW5kVmlld0J5SWQ8U2Vla0Jhcj4oUi5pZC5zZWVrX2Jhcl9waXhlbGF0aW9uKSB9CiAgICBwcml2YXRlIHZhbCBzZXBpYVNlZWtCYXI6IFNlZWtCYXIgYnkgbGF6eSB7IGZpbmRWaWV3QnlJZDxTZWVrQmFyPihSLmlkLnNlZWtfYmFyX3NlcGlhKSB9CiAgICBwcml2YXRlIHZhbCB0cmFuc2Zvcm1TZWVrQmFyOiBTZWVrQmFyIGJ5IGxhenkgeyBmaW5kVmlld0J5SWQ8U2Vla0Jhcj4oUi5pZC5zZWVrX2Jhcl90cmFuc2Zvcm0pIH0KCiAgICBwcml2YXRlIHZhbCBwaXhlbGF0aW9uRmlsdGVyID0gR2xQaXhlbGF0aW9uRmlsdGVyKCkKICAgIHByaXZhdGUgdmFsIHNlcGlhVG9uZUZpbHRlciA9IEdsU2VwaWFGaWx0ZXIoKQogICAgcHJpdmF0ZSB2YWwgbHVtaW5hbmNlRmlsdGVyID0gR2xMdW1pbmFuY2VGaWx0ZXIoKQogICAgcHJpdmF0ZSB2YWwgZmlsdGVyR3JvdXAgPQogICAgICAgIEdsRmlsdGVyR3JvdXAobGlzdE9mKHBpeGVsYXRpb25GaWx0ZXIsIHNlcGlhVG9uZUZpbHRlciwgbHVtaW5hbmNlRmlsdGVyKSkKCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBwbGF5ZXI6IFNpbXBsZUV4b1BsYXllcgoKICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKCiAgICAgICAgZ3B1UGxheWVyVmlldy5zZXRHbEZpbHRlcihmaWx0ZXJHcm91cCkKLy8KLy8gICAgICAgIHBpeGVsYXRpb25TZWVrQmFyLnNldE9uQ2hhbmdlTGlzdGVuZXIgeyBwcm9ncmVzcyAtPgovLyAgICAgICAgICAgIHBpeGVsYXRpb25GaWx0ZXIuc2V0KHJhbmdlKHByb2dyZXNzLCAxZiwgMTAwZikpCi8vICAgICAgICB9Ci8vCiAgICAgICAgc2VwaWFTZWVrQmFyLnNldE9uQ2hhbmdlTGlzdGVuZXIgeyBwcm9ncmVzcyAtPgogICAgICAgICAgICBzZXBpYVRvbmVGaWx0ZXIuc2V0SW50ZW5zaXR5KHJhbmdlKHByb2dyZXNzLCAwLjBmLCAyLjBmKSkKICAgICAgICAgICAgZ3B1SW1hZ2VWaWV3LnJlcXVlc3RSZW5kZXIoKQogICAgICAgIH0KLy8KLy8gICAgICAgIHRyYW5zZm9ybVNlZWtCYXIuc2V0T25DaGFuZ2VMaXN0ZW5lciB7IHByb2dyZXNzIC0+Ci8vICAgICAgICAgICAgdmFsIHRyYW5zZm9ybSA9IEZsb2F0QXJyYXkoMTYpCi8vICAgICAgICAgICAgTWF0cml4LnNldFJvdGF0ZU0odHJhbnNmb3JtLCAwLCAoMzYwICogcHJvZ3Jlc3MgLyAxMDApLnRvRmxvYXQoKSwgMGYsIDBmLCAxLjBmKQovLyAgICAgICAgICAgIGx1bWluYW5jZUZpbHRlci50cmFuc2Zvcm0zRCA9IHRyYW5zZm9ybQovLyAgICAgICAgICAgIGdwdUltYWdlVmlldy5yZXF1ZXN0UmVuZGVyKCkKLy8gICAgICAgIH0KCiAgICAgICAgcGxheWVyID0gRXhvUGxheWVyRmFjdG9yeS5uZXdTaW1wbGVJbnN0YW5jZSh0aGlzKQogICAgICAgIHZhbCBkYXRhU291cmNlRmFjdG9yeSA9CiAgICAgICAgICAgIERlZmF1bHREYXRhU291cmNlRmFjdG9yeSh0aGlzLCBVdGlsLmdldFVzZXJBZ2VudCh0aGlzLCAiZ3B1aW1hZ2VzYW1wbGUiKSkKICAgICAgICB2YWwgdmlkZW9Tb3VyY2UgPSBQcm9ncmVzc2l2ZU1lZGlhU291cmNlLkZhY3RvcnkoZGF0YVNvdXJjZUZhY3RvcnkpCiAgICAgICAgICAgIC5jcmVhdGVNZWRpYVNvdXJjZShVcmkucGFyc2UoImZpbGU6Ly8vYW5kcm9pZF9hc3NldC9iaWdfYnVja19idW5ueS5tcDQiKSkKICAgICAgICBwbGF5ZXIucHJlcGFyZSh2aWRlb1NvdXJjZSkKICAgICAgICBwbGF5ZXIucGxheVdoZW5SZWFkeSA9IHRydWUKICAgICAgICBncHVQbGF5ZXJWaWV3LnNldFNpbXBsZUV4b1BsYXllcihwbGF5ZXIpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uUmVzdW1lKCkgewogICAgICAgIHN1cGVyLm9uUmVzdW1lKCkKICAgICAgICBncHVQbGF5ZXJWaWV3Lm9uUmVzdW1lKCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biByYW5nZShwZXJjZW50YWdlOiBJbnQsIHN0YXJ0OiBGbG9hdCwgZW5kOiBGbG9hdCk6IEZsb2F0IHsKICAgICAgICByZXR1cm4gKGVuZCAtIHN0YXJ0KSAqIHBlcmNlbnRhZ2UgLyAxMDBmICsgc3RhcnQKICAgIH0KCiAgICBwcml2YXRlIGZ1biBTZWVrQmFyLnNldE9uQ2hhbmdlTGlzdGVuZXIob25Qcm9ncmVzc0NoYW5nZWQ6IChwcm9ncmVzczogSW50KSAtPiBVbml0KSB7CiAgICAgICAgdGhpcy5zZXRPblNlZWtCYXJDaGFuZ2VMaXN0ZW5lcihvYmplY3QgOiBTZWVrQmFyLk9uU2Vla0JhckNoYW5nZUxpc3RlbmVyIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUHJvZ3Jlc3NDaGFuZ2VkKHNlZWtCYXI6IFNlZWtCYXI/LCBwcm9ncmVzczogSW50LCBmcm9tVXNlcjogQm9vbGVhbikgewogICAgICAgICAgICAgICAgb25Qcm9ncmVzc0NoYW5nZWQocHJvZ3Jlc3MpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvblN0YXJ0VHJhY2tpbmdUb3VjaChzZWVrQmFyOiBTZWVrQmFyPykgewogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25TdG9wVHJhY2tpbmdUb3VjaChzZWVrQmFyOiBTZWVrQmFyPykgewogICAgICAgICAgICB9CiAgICAgICAgfSkKICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">PFNlZWtCYXI+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3B1SW1hZ2VWaWV3LnJlcXVlc3RSZW5kZXIoKQo=</text>
+        <text encoding="base64">Ci8vICAgICAgICB0cmFuc2Zvcm1TZWVrQmFyLnNldE9uQ2hhbmdlTGlzdGVuZXIgeyBwcm9ncmVzcyAtPgovLyAgICAgICAgICAgIHZhbCB0cmFuc2Zvcm0gPSBGbG9hdEFycmF5KDE2KQovLyAgICAgICAgICAgIE1hdHJpeC5zZXRSb3RhdGVNKHRyYW5zZm9ybSwgMCwgKDM2MCAqIHByb2dyZXNzIC8gMTAwKS50b0Zsb2F0KCksIDBmLCAwZiwgMS4wZikKLy8gICAgICAgICAgICBib3hCbHVyRmlsdGVyLnRyYW5zZm9ybTNEID0gdHJhbnNmb3JtCi8vICAgICAgICAgICAgZ3B1SW1hZ2VWaWV3LnJlcXVlc3RSZW5kZXIoKQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRyYW5zZm9ybVNlZWtCYXI6IFNlZWtCYXIgYnkgbGF6eSB7IGZpbmRWaWV3QnlJZDxTZWVrQmFyPihSLmlkLnNlZWtfYmFyX3RyYW5zZm9ybSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3B1SW1hZ2VWaWV3LnJlcXVlc3RSZW5kZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRyYW5zZm9ybVNlZWtCYXI6IFNlZWtCYXIgYnkgbGF6eSB7IGZpbmRWaWV3QnlJZDxTZWVrQmFyPihSLmlkLnNlZWtfYmFyX3RyYW5zZm9ybSkgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogIHRvb2xzOmNvbnRleHQ9Ii5NYWluQWN0aXZpdHkiPgoKICA8VGV4dFZpZXcKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgIGFuZHJvaWQ6dGV4dD0iSGVsbG8gV29ybGQhIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4KCjwvYW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dD4K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNpbXBsZUV4b1BsYXllci5nZXRWaWRlb0NvbXBvbmVudCgpLgo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogIHRvb2xzOmNvbnRleHQ9Ii5NYWluQWN0aXZpdHkiPgoKICA8VGV4dFZpZXcKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgIGFuZHJvaWQ6dGV4dD0iSGVsbG8gV29ybGQhIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4KCjwvYW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNpbXBsZUV4b1BsYXllci5nZXRWaWRlb0NvbXBvbmVudCgpLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -397,10 +385,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Transform</text>
       </register>
     </registers>
     <search>
@@ -410,7 +398,6 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>.,.+3action RenameElement</entry>
         <entry>action SplitVertically</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VhcmNoRXZlcnl3aGVyZQ==</entry>
         <entry>action GoToLastTab</entry>
@@ -419,17 +406,18 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Run</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Back</entry>
-        <entry>action Find</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action RenameElement</entry>
-        <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
+        <entry>action Find</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
