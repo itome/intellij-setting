@@ -35,13 +35,17 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="114" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1562586662700">
-        <mark key="[" line="77" column="73" />
-        <mark key="]" line="78" column="26" />
-        <mark key="^" line="78" column="26" />
-        <mark key="." line="78" column="26" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1562587843759">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1562586374315" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1562587665366">
+        <mark key="[" line="130" column="75" />
+        <mark key="]" line="130" column="87" />
+        <mark key="." line="130" column="87" />
+        <mark key="^" line="130" column="87" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/styles_material.xml" timestamp="1562580054459">
         <mark key="[" line="43" column="2" />
         <mark key="]" line="44" column="1" />
@@ -54,11 +58,11 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" timestamp="1562586673196">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="20" />
-        <mark key="^" line="35" column="20" />
-        <mark key="." line="35" column="20" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" timestamp="1562587830787">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="87" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" timestamp="1562580366962">
         <mark key="'" line="106" column="13" />
@@ -210,41 +214,41 @@
       <jump line="106" column="13" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>player_placeholder_image_blur</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIGNoZWNrIHJlc3BvbnNlIHN0cmluZyIsIGNoZWNrUmVzcG9uc2UudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhY3Rpb24uZXhlY3V0ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgPHN0eWxlIG5hbWU9IkJ1dHRvblJlY3RhbmdsZU91dGxpbmUiIHBhcmVudD0iV2lkZ2V0Lk1hdGVyaWFsQ29tcG9uZW50cy5CdXR0b24uT3V0bGluZWRCdXR0b24iPgogICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDpsYXlvdXRfd2lkdGgiPndyYXBfY29udGVudDwvaXRlbT4KICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6bGF5b3V0X2hlaWdodCI+d3JhcF9jb250ZW50PC9pdGVtPgogICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDppbnNldEJvdHRvbSI+MGRwPC9pdGVtPgogICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDppbnNldFRvcCI+MGRwPC9pdGVtPgogICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDp0ZXh0Q29sb3IiPkBjb2xvci9zZWxlY3Rvcl9idXR0b25fdGV4dDwvaXRlbT4KICAgIDxpdGVtIG5hbWU9ImNvcm5lclJhZGl1cyI+NGRwPC9pdGVtPgogICAgPGl0ZW0gbmFtZT0icmlwcGxlQ29sb3IiPkBjb2xvci9yaXBwbGVfbGlnaHQ8L2l0ZW0+CiAgPC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIHJlcGVhdCIsICIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgPHN0eWxlIG5hbWU9IkJ1dHRvblJvdW5kT3V0bGluZS5TZWNvbmRhcnkiIHBhcmVudD0iQnV0dG9uUmVjdGFuZ2xlT3V0bGluZSI+CiAgICA8aXRlbSBuYW1lPSJzdHJva2VXaWR0aCI+QGRpbWVuL3N0cm9rZV93aWR0aF9idXR0b248L2l0ZW0+CiAgICA8aXRlbSBuYW1lPSJzdHJva2VDb2xvciI+QGNvbG9yL2xpbmVfMzA8L2l0ZW0+CiAgPC9zdHlsZT4KCiAgPHN0eWxlIG5hbWU9IkJ1dHRvblJvdW5kT3V0bGluZS5TZWNvbmRhcnkuUmFkaXVzMjQiPgogICAgPGl0ZW0gbmFtZT0iY29ybmVyUmFkaXVzIj4yNGRwPC9pdGVtPgogIDwvc3R5bGU+CgogIDxzdHlsZSBuYW1lPSJCdXR0b25Sb3VuZE91dGxpbmUuU2Vjb25kYXJ5LlJhZGl1czI0LkJvZHkyIj4KICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6dGV4dEFwcGVhcmFuY2UiPkBzdHlsZS9UZXh0LlByaW1hcnlDb2xvci5Cb2R5MjwvaXRlbT4KICA8L3N0eWxlPgo=</text>
+        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIHNlbmRDaGVja1N0YXR1c1JlcXVlc3QiLCBjaGVja1Jlc3BvbnNlLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmluZDppc192aXNpYmxlPSJAe2NvbnRyb2xsZXJBbHBoYSAhPSAwfSIK</text>
+        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIHNlbmRDaGVja1N0YXR1c1JlcXVlc3QiLCBjaGVja1Jlc3BvbnNlLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDphbHBoYT0iQHtjb250cm9sbGVyQWxwaGF9Igo=</text>
+        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIHNlbmRDaGVja1N0YXR1c1JlcXVlc3QiLCBjaGVja1Jlc3BvbnNlLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlzVmlzaWJsZSA9IHRydWUKICAgICAgICAgIGFscGhhID0gMUYK</text>
+        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIGNoZWNrIHJlc3BvbnNlIHN0cmluZyIsIGNoZWNrUmVzcG9uc2UudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0T2ZOb3ROdWxsKAogICAgICAgICAgYnV0dG9uUHJvZ3JhbVZpZXdlckNsb3NlTW9kYWwsCiAgICAgICAgICBidXR0b25Qcm9ncmFtVmlld2VyUGxheWVyRnVsbCwKICAgICAgICAgIGJ1dHRvblByb2dyYW1WaWV3ZXJQbGF5ZXJNaW5pLAogICAgICAgICAgYnV0dG9uUHJvZ3JhbVZpZXdlclF1YWxpdHlTZXR0aW5nLAogICAgICAgICAgaW1hZ2VQcm9ncmFtVmlld2VyUHJvZ3JhbUJhZGdlLAogICAgICAgICAgdGV4dFByb2dyYW1WaWV3ZXJUaXRsZQogICAgICAgICkuZm9yRWFjaCB7CiAgICAgICAgICBpZiAocHJvZ3JhbT8uaXNWaWRlb09uR29pbmcoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIGl0LmlzVmlzaWJsZSA9IGFscGhhID4gMAogICAgICAgICAgICBpdC5hbHBoYSA9IGFscGhhCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgPHN0eWxlIG5hbWU9IkJ1dHRvblJlY3RhbmdsZU91dGxpbmUiIHBhcmVudD0iV2lkZ2V0Lk1hdGVyaWFsQ29tcG9uZW50cy5CdXR0b24uT3V0bGluZWRCdXR0b24iPgogICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDpsYXlvdXRfd2lkdGgiPndyYXBfY29udGVudDwvaXRlbT4KICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6bGF5b3V0X2hlaWdodCI+d3JhcF9jb250ZW50PC9pdGVtPgogICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDppbnNldEJvdHRvbSI+MGRwPC9pdGVtPgogICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDppbnNldFRvcCI+MGRwPC9pdGVtPgogICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDp0ZXh0Q29sb3IiPkBjb2xvci9zZWxlY3Rvcl9idXR0b25fdGV4dDwvaXRlbT4KICAgIDxpdGVtIG5hbWU9ImNvcm5lclJhZGl1cyI+NGRwPC9pdGVtPgogICAgPGl0ZW0gbmFtZT0icmlwcGxlQ29sb3IiPkBjb2xvci9yaXBwbGVfbGlnaHQ8L2l0ZW0+CiAgPC9zdHlsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpdGgoYmluZGluZykgewogICAgICAgICAgICAKICAgICAgICAgIH0K</text>
+        <text encoding="base64">CiAgPHN0eWxlIG5hbWU9IkJ1dHRvblJvdW5kT3V0bGluZS5TZWNvbmRhcnkiIHBhcmVudD0iQnV0dG9uUmVjdGFuZ2xlT3V0bGluZSI+CiAgICA8aXRlbSBuYW1lPSJzdHJva2VXaWR0aCI+QGRpbWVuL3N0cm9rZV93aWR0aF9idXR0b248L2l0ZW0+CiAgICA8aXRlbSBuYW1lPSJzdHJva2VDb2xvciI+QGNvbG9yL2xpbmVfMzA8L2l0ZW0+CiAgPC9zdHlsZT4KCiAgPHN0eWxlIG5hbWU9IkJ1dHRvblJvdW5kT3V0bGluZS5TZWNvbmRhcnkuUmFkaXVzMjQiPgogICAgPGl0ZW0gbmFtZT0iY29ybmVyUmFkaXVzIj4yNGRwPC9pdGVtPgogIDwvc3R5bGU+CgogIDxzdHlsZSBuYW1lPSJCdXR0b25Sb3VuZE91dGxpbmUuU2Vjb25kYXJ5LlJhZGl1czI0LkJvZHkyIj4KICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6dGV4dEFwcGVhcmFuY2UiPkBzdHlsZS9UZXh0LlByaW1hcnlDb2xvci5Cb2R5MjwvaXRlbT4KICA8L3N0eWxlPgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>SETTLEMENT_TIMEOUT_MILLS</text>
       </register>
     </registers>
     <search>
@@ -260,20 +264,20 @@
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action SaveAll</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
+        <entry>action FindInPath</entry>
+        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
