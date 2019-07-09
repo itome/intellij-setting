@@ -21,16 +21,23 @@
         <mark key="^" line="29" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/installedapp/src/main/java/jp/cldh/app/ui/MainActivity.kt" timestamp="1562645871150" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/DeviceOrientationManager.kt" timestamp="1562650780280">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="95" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1562588990970">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1562579803705">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1562651039735">
+        <mark key="[" line="154" column="32" />
+        <mark key="]" line="154" column="31" />
+        <mark key="^" line="154" column="31" />
+        <mark key="." line="154" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1562589449039">
         <mark key="'" line="16" column="43" />
@@ -221,41 +228,41 @@
       <jump line="14" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogbmFuYWNvXSBjaGVjayByZXNwb25zZSBzdHJpbmciLCBjaGVja1Jlc3BvbnNlLnRvU3RyaW5nKCkpCg==</text>
+      <register name="0" type="4">
+        <text>Orientation.LANDSCAPE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgPGRpbWVuIG5hbWU9InN0cm9rZV93aWR0aF9idXR0b24iPjFkcDwvZGltZW4+Cg==</text>
+        <text encoding="base64">ICBAVmlzaWJsZUZvclRlc3RpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgPGRpbWVuIG5hbWU9InN0cm9rZV93aWR0aF9idXR0b24iPjFkcDwvZGltZW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRPcmllbnRhdGlvbiA9IC5hY3Rpdml0eUluZm8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFycm93LmNvcmUuVHJ5CmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuSm9iCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmllbnRhdGlvbk1hbmFnZXIucmVxdWVzdE9yaWVudGF0aW9uKE9yaWVudGF0aW9uLlVOU1BFQ0lGSUVEKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRPcmllbnRhdGlvbiA9IE9yaWVudGF0aW9uLlBPUlRSQUlULmFjdGl2aXR5SW5mbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBmdW4gcmVxdWVzdFBheW1lbnQK</text>
+        <text encoding="base64">ICAgICAgCiAgICAgICAgaWYgKGJpbmRpbmcuaXNWaWRlb09uR29pbmcpCiAgICAgICAgZWxzZSAuYWN0aXZpdHlJbmZvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfS5mb2xkKAogICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgcmVxZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdE9yaWVudGF0aW9uKE9yaWVudGF0aW9uLikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZkZhaWx1cmUgPSB7IGpNdXBzTWFuYWdlci5hIH0K</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
-        <text>canc</text>
+        <text>reque</text>
       </register>
     </registers>
     <search>
@@ -273,18 +280,18 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Find</entry>
         <entry>action FindInPath</entry>
-        <entry>action Back</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
-        <entry>action GotoAction</entry>
-        <entry>action SaveAll</entry>
+        <entry>action Find</entry>
+        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
