@@ -9,6 +9,12 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" timestamp="1562655924182">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="91" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/dimens.xml" timestamp="1562639819920">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -25,7 +31,7 @@
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
-        <mark key="^" line="95" column="64" />
+        <mark key="^" line="96" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1562588990970">
         <mark key="[" line="79" column="0" />
@@ -33,12 +39,7 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1562653340269">
-        <mark key="[" line="155" column="32" />
-        <mark key="]" line="155" column="44" />
-        <mark key="^" line="155" column="44" />
-        <mark key="." line="155" column="44" />
-      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1562655717328" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1562589449039">
         <mark key="'" line="16" column="43" />
         <mark key="[" line="88" column="48" />
@@ -85,6 +86,11 @@
         <mark key="." line="367" column="56" />
         <mark key="^" line="367" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" timestamp="1562655892501">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="146" column="25" />
+        <mark key="]" line="146" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponent.kt" timestamp="1562550918090">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="11" column="0" />
@@ -126,8 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="8" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" />
-      <jump line="42" column="4" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" />
       <jump line="64" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-accessibility/3.2.0/1ce650f91e16a300a352dc1bb6b8810ec679c7c9/espresso-accessibility-3.2.0-sources.jar!/androidx/test/espresso/accessibility/AccessibilityChecks.java" />
       <jump line="2" column="16" filename="$USER_HOME$/Projects/AccessibilityPlayground/app/src/test/java/team/itome/accessibilityplayground/AccessibilityChecker.kt" />
       <jump line="92" column="76" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" />
@@ -226,44 +230,46 @@
       <jump line="16" column="43" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" />
+      <jump line="129" column="46" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>Orientation.LANDSCAPE</text>
+        <text encoding="base64">aXNWaWRlb09uR29pbmcgJmFtcDsmYW1wOyBjb250cm9sbGVyQWxwaGEgIT0gMA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgYXBwOmxheW91dF9nb25lTWFyZ2luRW5kPSIyNGRwIgo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBvcmllbnRhdGlvbk1hbmFnZXIuZW5hYmxlT3JpZW50YXRpb25MaXN0ZW5lcihmYWxzZSkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
         orientationManager.requestOrientation(</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRPcmllbnRhdGlvbiA9IAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBAVmlzaWJsZUZvclRlc3RpbmcK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRPcmllbnRhdGlvbiA9IC5hY3Rpdml0eUluZm8K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBvcmllbnRhdGlvbk1hbmFnZXIucmVxdWVzdE9yaWVudGF0aW9uKE9yaWVudGF0aW9uLlVOU1BFQ0lGSUVEKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRPcmllbnRhdGlvbiA9IE9yaWVudGF0aW9uLlBPUlRSQUlULmFjdGl2aXR5SW5mbwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgICAgaWYgKGJpbmRpbmcuaXNWaWRlb09uR29pbmcpCiAgICAgICAgZWxzZSAuYWN0aXZpdHlJbmZvCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRPcmllbnRhdGlvbiA9IE9yaWVudGF0aW9uLlBPUlRSQUlULmFjdGl2aXR5SW5mbwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
-        <text>orientationManager.requestOrientation(</text>
+        <text>controllerAlpha != 0</text>
       </register>
     </registers>
     <search>
@@ -286,12 +292,12 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
