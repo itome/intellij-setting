@@ -33,6 +33,10 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="96" column="64" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.2.0-alpha01/5411028b44e34d8adc95797fe7f6e05d322ebe83/lifecycle-livedata-core-2.2.0-alpha01-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1562660305834">
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="291" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1562588990970">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -234,8 +238,8 @@
       <jump line="33" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">aXNWaWRlb09uR29pbmcgJmFtcDsmYW1wOyBjb250cm9sbGVyQWxwaGEgIT0gMA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIHBvc3RWYWx1ZShUIHZhbHVlKSB7CiAgICAgICAgYm9vbGVhbiBwb3N0VGFzazsKICAgICAgICBzeW5jaHJvbml6ZWQgKG1EYXRhTG9jaykgewogICAgICAgICAgICBwb3N0VGFzayA9IG1QZW5kaW5nRGF0YSA9PSBOT1RfU0VUOwogICAgICAgICAgICBtUGVuZGluZ0RhdGEgPSB2YWx1ZTsKICAgICAgICB9CiAgICAgICAgaWYgKCFwb3N0VGFzaykgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIEFyY2hUYXNrRXhlY3V0b3IuZ2V0SW5zdGFuY2UoKS5wb3N0VG9NYWluVGhyZWFkKG1Qb3N0VmFsdWVSdW5uYWJsZSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYXBwOmxheW91dF9nb25lTWFyZ2luRW5kPSIyNGRwIgo=</text>
@@ -266,7 +270,7 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRPcmllbnRhdGlvbiA9IE9yaWVudGF0aW9uLlBPUlRSQUlULmFjdGl2aXR5SW5mbwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Back</text>
       </register>
       <register name="-" type="4">
         <text>controllerAlpha != 0</text>
@@ -286,19 +290,19 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Find</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
