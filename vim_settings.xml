@@ -9,25 +9,13 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" timestamp="1562579222478">
-        <mark key="'" line="85" column="6" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="101" column="47" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="50" column="44" />
-      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestWAONSalesAction.kt" timestamp="1562587934124">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="88" />
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/store/ProgramStoreTest.kt" timestamp="1562550975822">
-        <mark key="'" line="2" column="19" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/build/generated/source/kapt/developDebug/jp/cldh/programviewer/databinding/ActivityProgramViewerBindingImpl.java" timestamp="1562637783040" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1562588990970">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -46,19 +34,6 @@
         <mark key="]" line="45" column="23" />
         <mark key="^" line="45" column="23" />
         <mark key="." line="45" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1562555273695">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" timestamp="1562580366962">
-        <mark key="'" line="106" column="13" />
-        <mark key="[" line="67" column="33" />
-        <mark key="]" line="67" column="61" />
-        <mark key="." line="93" column="40" />
-        <mark key="^" line="93" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/ProgramStore.kt" timestamp="1562551070347">
         <mark key="[" line="14" column="50" />
@@ -80,18 +55,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="47" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" timestamp="1562551502672">
-        <mark key="'" line="0" column="31" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1562579803705">
-        <mark key="'" line="37" column="6" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="114" column="46" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1562589449039">
         <mark key="'" line="16" column="43" />
@@ -281,7 +248,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>canc</text>
@@ -299,21 +266,21 @@
         <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Run</entry>
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoAction</entry>
+        <entry>action RenameElement</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
