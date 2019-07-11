@@ -78,6 +78,9 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" timestamp="1562822826738">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0-alpha01/ff1470ebad448355d3722c637c85d5174b584f38/lifecycle-common-2.2.0-alpha01-sources.jar!/androidx/lifecycle/LifecycleObserver.java" timestamp="1562662512216">
         <mark key="'" line="25" column="17" />
       </file>
@@ -121,13 +124,11 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/OrientationEventListener.java" timestamp="1562567640058">
         <mark key="'" line="69" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1562823432582">
+        <mark key="'" line="238" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="0" filename="$USER_HOME$/Projects/GPUVideo-android/gpuv/src/main/java/com/daasuu/gpuv/player/GPUPlayerRenderer.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUVideoSample/GPUVideo-android/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUVideoSample/app/build.gradle" />
-      <jump line="0" column="37" filename="$USER_HOME$/Projects/GPUImageSample/app/src/main/res/layout/activity_main.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUVideoSample/app/src/main/res/layout/activity_main.xml" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/CoreComponent.kt" />
       <jump line="42" column="2" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/store/ProgramStoreTest.kt" />
       <jump line="2" column="19" filename="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/data/store/ProgramStoreTest.kt" />
@@ -184,7 +185,6 @@
       <jump line="22" column="44" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/LocalDateTimeExt.kt" />
       <jump line="111" column="46" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" />
       <jump line="121" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" />
       <jump line="77" column="9" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" />
       <jump line="105" column="24" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" />
       <jump line="176" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/test/java/jp/cldh/programviewer/ui/ProgramViewerViewModelTest.kt" />
@@ -223,6 +223,12 @@
       <jump line="120" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/Accessibility-Test-Framework-for-Android/src/main/java/com/google/android/apps/common/testing/accessibility/framework/AccessibilityCheck.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Accessibility-Test-Framework-for-Android/src/main/java/com/google/android/apps/common/testing/accessibility/framework/AccessibilityCheck.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" />
+      <jump line="71" column="44" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="255" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
+      <jump line="238" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -256,7 +262,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>Pro</text>
@@ -286,9 +292,9 @@
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
