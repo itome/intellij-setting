@@ -3,6 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestEdySales.kt" timestamp="1562803062881" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/TryExt.kt" timestamp="1562058869252">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/ext/TryExt.kt" timestamp="1562803792031">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/ToggleStretchStockerHandAction.kt" timestamp="1561793593081">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/NetworkModule.kt" timestamp="1562054607364">
         <mark key="'" line="63" column="8" />
         <mark key="[" line="84" column="0" />
@@ -22,110 +43,6 @@
         <mark key="]" line="64" column="27" />
         <mark key="." line="64" column="27" />
         <mark key="^" line="64" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskUtil.kt" timestamp="1562249881069">
-        <mark key="'" line="21" column="25" />
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" timestamp="1562255667819">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="37" column="69" />
-        <mark key="]" line="37" column="70" />
-        <mark key="." line="37" column="70" />
-        <mark key="^" line="37" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" timestamp="1561795732225">
-        <mark key="'" line="412" column="0" />
-        <mark key="[" line="506" column="20" />
-        <mark key="]" line="506" column="23" />
-        <mark key="." line="506" column="23" />
-        <mark key="^" line="506" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/res/layout/activity_player.xml" timestamp="1562260466533">
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerRightAction.kt" timestamp="1561787795557">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerDownAction.kt" timestamp="1561787784399">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-        <mark key="^" line="6" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/res/layout/activity_main.xml" timestamp="1562510955854">
-        <mark key="'" line="0" column="37" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="73" column="15" />
-        <mark key="." line="11" column="37" />
-        <mark key="^" line="11" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabChefAction.kt" timestamp="1561787735936">
-        <mark key="'" line="2" column="49" />
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="5" column="61" />
-        <mark key="." line="5" column="61" />
-        <mark key="^" line="5" column="61" />
-      </file>
-      <file name="$USER_HOME$/Projects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImagePixelationFilter.java" timestamp="1562260230963">
-        <mark key="'" line="32" column="20" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="78" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/PlayerActivity.java" timestamp="1562260513522">
-        <mark key="'" line="146" column="52" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="146" column="52" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/GPUVideo-android/gpuv/src/main/java/com/daasuu/gpuv/egl/filter/GlBilateralFilter.java" timestamp="1562258870069" />
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefRightAction.kt" timestamp="1561790340355">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/GPUVideoSample/settings.gradle" timestamp="1562510844471">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/TestRepositoryModule.kt" timestamp="1562055613637">
-        <mark key="'" line="18" column="11" />
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="52" column="51" />
-        <mark key="." line="52" column="51" />
-        <mark key="^" line="52" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/GPUVideoSample/GPUVideo-android/settings.gradle" timestamp="1562510815523" />
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestEdySales.kt" timestamp="1562246884984" />
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/TryExt.kt" timestamp="1562058869252">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/ToggleStretchStockerHandAction.kt" timestamp="1561793593081">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="19" column="1" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1562054974106">
         <mark key="'" line="139" column="52" />
@@ -147,6 +64,13 @@
         <mark key="]" line="38" column="69" />
         <mark key="^" line="38" column="69" />
         <mark key="." line="38" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskUtil.kt" timestamp="1562249881069">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerToOverTurnTable.kt" timestamp="1561791545905">
         <mark key="'" line="2" column="25" />
@@ -175,18 +99,28 @@
         <mark key="." line="380" column="107" />
         <mark key="^" line="380" column="107" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1562803574069">
+        <mark key="'" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/GPUImageSample/app/build.gradle" timestamp="1562255667819">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="37" column="69" />
+        <mark key="]" line="37" column="70" />
+        <mark key="." line="37" column="70" />
+        <mark key="^" line="37" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterAdjuster.java" timestamp="1562259731534">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="37" />
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1562253538082">
-        <mark key="'" line="13" column="6" />
-        <mark key="[" line="42" column="18" />
-        <mark key="]" line="43" column="25" />
-        <mark key="." line="43" column="25" />
-        <mark key="^" line="43" column="25" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" timestamp="1561795732225">
+        <mark key="'" line="412" column="0" />
+        <mark key="[" line="506" column="20" />
+        <mark key="]" line="506" column="23" />
+        <mark key="." line="506" column="23" />
+        <mark key="^" line="506" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/GPUImageSample/build.gradle" timestamp="1562255682404">
         <mark key="'" line="10" column="0" />
@@ -202,7 +136,12 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.2/1ee8761314b972234a6d9c4109e6e5d20dc2eb3e/exoplayer-core-2.10.2-sources.jar!/com/google/android/exoplayer2/Player.java" timestamp="1562511757927" />
+      <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/res/layout/activity_player.xml" timestamp="1562260466533">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="27" />
+        <mark key="^" line="26" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/GPUVideo-android/gpuv/src/main/java/com/daasuu/gpuv/player/GPUPlayerRenderer.java" timestamp="1562509770806">
         <mark key="'" line="161" column="0" />
         <mark key="[" line="92" column="19" />
@@ -210,12 +149,59 @@
         <mark key="." line="92" column="17" />
         <mark key="^" line="92" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerRightAction.kt" timestamp="1561787795557">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/DataSourceModule.kt" timestamp="1561963876698">
         <mark key="'" line="28" column="10" />
         <mark key="[" line="48" column="70" />
         <mark key="]" line="51" column="72" />
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="72" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerDownAction.kt" timestamp="1561787784399">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/GPUImageSample/app/src/main/res/layout/activity_main.xml" timestamp="1562510955854">
+        <mark key="'" line="0" column="37" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="73" column="15" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabChefAction.kt" timestamp="1561787735936">
+        <mark key="'" line="2" column="49" />
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="61" />
+        <mark key="." line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1562803892212">
+        <mark key="'" line="44" column="25" />
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="80" column="28" />
+        <mark key="." line="80" column="28" />
+        <mark key="^" line="80" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/PlayerActivity.java" timestamp="1562260513522">
+        <mark key="'" line="146" column="52" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="146" column="52" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1562803475755">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/GPUVideo-android/gpuv/src/main/java/com/daasuu/gpuv/egl/filter/GlPixelationFilter.java" timestamp="1562261514622">
         <mark key="'" line="46" column="0" />
@@ -229,6 +215,19 @@
         <mark key="]" line="9" column="18" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefRightAction.kt" timestamp="1561790340355">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/GPUVideoSample/settings.gradle" timestamp="1562510844471">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/RepositoryModule.kt" timestamp="1562054506054">
         <mark key="'" line="60" column="0" />
@@ -244,6 +243,13 @@
         <mark key="." line="414" column="66" />
         <mark key="^" line="414" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/TestRepositoryModule.kt" timestamp="1562055613637">
+        <mark key="'" line="18" column="11" />
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="51" />
+        <mark key="." line="52" column="51" />
+        <mark key="^" line="52" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/GPUVideoSample/app/src/main/java/team/itome/gpuvideosample/MainActivity.kt" timestamp="1562511767815">
         <mark key="[" line="58" column="45" />
         <mark key="]" line="58" column="42" />
@@ -252,9 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="71" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" />
       <jump line="85" column="34" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" />
       <jump line="30" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" />
@@ -352,34 +355,37 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUVideoSample/app/build.gradle" />
       <jump line="0" column="37" filename="$USER_HOME$/Projects/GPUImageSample/app/src/main/res/layout/activity_main.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/GPUVideoSample/app/src/main/res/layout/activity_main.xml" />
+      <jump line="13" column="19" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" />
+      <jump line="62" column="56" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" />
+      <jump line="41" column="25" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text encoding="base64">PFNlZWtCYXI+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vICAgICAgICB0cmFuc2Zvcm1TZWVrQmFyLnNldE9uQ2hhbmdlTGlzdGVuZXIgeyBwcm9ncmVzcyAtPgovLyAgICAgICAgICAgIHZhbCB0cmFuc2Zvcm0gPSBGbG9hdEFycmF5KDE2KQovLyAgICAgICAgICAgIE1hdHJpeC5zZXRSb3RhdGVNKHRyYW5zZm9ybSwgMCwgKDM2MCAqIHByb2dyZXNzIC8gMTAwKS50b0Zsb2F0KCksIDBmLCAwZiwgMS4wZikKLy8gICAgICAgICAgICBib3hCbHVyRmlsdGVyLnRyYW5zZm9ybTNEID0gdHJhbnNmb3JtCi8vICAgICAgICAgICAgZ3B1SW1hZ2VWaWV3LnJlcXVlc3RSZW5kZXIoKQovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIChpdCBpcyBKTXVwc0V4Y2VwdGlvbi5TZXR0bGVtZW50VGltZW91dEV4Y2VwdGlvbikgewogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3B1SW1hZ2VWaWV3LnJlcXVlc3RSZW5kZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBheW1lbnRTZXJ2aWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRyYW5zZm9ybVNlZWtCYXI6IFNlZWtCYXIgYnkgbGF6eSB7IGZpbmRWaWV3QnlJZDxTZWVrQmFyPihSLmlkLnNlZWtfYmFyX3RyYW5zZm9ybSkgfQo=</text>
+        <text encoding="base64">CmZ1bgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2hlbiAoc2VsZWN0ZWRTZXJ2aWNlKSB7CiAgICAgICAgUGF5bWVudFNlcnZpY2UuU1VJQ0EgLT4gak11cHNNYW5hZ2VyLnJlcXVlc3RTdWljYVNhbGVzKHNlbGVjdGVkTWVudS5wcmljZSkKICAgICAgICBQYXltZW50U2VydmljZS5XQU9OIC0+IGpNdXBzTWFuYWdlci5yZXF1ZXN0V0FPTlNhbGVzKHNlbGVjdGVkTWVudS5wcmljZSkKICAgICAgICBQYXltZW50U2VydmljZS5OQU5BQ08gLT4gak11cHNNYW5hZ2VyLnJlcXVlc3ROYW5hY29TYWxlcyhzZWxlY3RlZE1lbnUucHJpY2UpCiAgICAgICAgUGF5bWVudFNlcnZpY2UuRURZIC0+IGpNdXBzTWFuYWdlci5yZXF1ZXN0RWR5U2FsZXMoc2VsZWN0ZWRNZW51LnByaWNlKQogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhciAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogIHRvb2xzOmNvbnRleHQ9Ii5NYWluQWN0aXZpdHkiPgoKICA8VGV4dFZpZXcKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgIGFuZHJvaWQ6dGV4dD0iSGVsbG8gV29ybGQhIgogICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4KCjwvYW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dD4K</text>
+        <text encoding="base64">Ci8vICAgICAgICB0cmFuc2Zvcm1TZWVrQmFyLnNldE9uQ2hhbmdlTGlzdGVuZXIgeyBwcm9ncmVzcyAtPgovLyAgICAgICAgICAgIHZhbCB0cmFuc2Zvcm0gPSBGbG9hdEFycmF5KDE2KQovLyAgICAgICAgICAgIE1hdHJpeC5zZXRSb3RhdGVNKHRyYW5zZm9ybSwgMCwgKDM2MCAqIHByb2dyZXNzIC8gMTAwKS50b0Zsb2F0KCksIDBmLCAwZiwgMS4wZikKLy8gICAgICAgICAgICBib3hCbHVyRmlsdGVyLnRyYW5zZm9ybTNEID0gdHJhbnNmb3JtCi8vICAgICAgICAgICAgZ3B1SW1hZ2VWaWV3LnJlcXVlc3RSZW5kZXIoKQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNpbXBsZUV4b1BsYXllci5nZXRWaWRlb0NvbXBvbmVudCgpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3B1SW1hZ2VWaWV3LnJlcXVlc3RSZW5kZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRyYW5zZm9ybVNlZWtCYXI6IFNlZWtCYXIgYnkgbGF6eSB7IGZpbmRWaWV3QnlJZDxTZWVrQmFyPihSLmlkLnNlZWtfYmFyX3RyYW5zZm9ybSkgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -388,7 +394,7 @@
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>Transform</text>
+        <text>Try</text>
       </register>
     </registers>
     <search>
@@ -407,16 +413,16 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoAction</entry>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action Run</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
