@@ -97,6 +97,11 @@
         <mark key="." line="43" column="25" />
         <mark key="^" line="43" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/Podfile" timestamp="1563038178291">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/GPUVideo-android/gpuv/build.gradle" timestamp="1561994470237">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -119,7 +124,6 @@
         <mark key="^" line="6" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Apps/AppDelegate.swift" timestamp="1563036724528">
-        <mark key="'" line="36" column="4" />
         <mark key="[" line="76" column="1" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
@@ -295,6 +299,11 @@
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/Podfile.lock" timestamp="1563038232608">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskManager.kt" timestamp="1562253535464">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -364,8 +373,12 @@
         <mark key="." line="5" column="61" />
         <mark key="^" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Repositories/ProductRepository.swift" timestamp="1563036484648">
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/DataSources/Repositories/ProductRepository.swift" timestamp="1563038573698">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerLeftAction.kt" timestamp="1561787993630">
         <mark key="[" line="6" column="44" />
@@ -374,11 +387,10 @@
         <mark key="^" line="6" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Apps/AppConfig.swift" timestamp="1563036684217">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="35" column="46" />
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskUtil.kt" timestamp="1562249881069">
         <mark key="'" line="21" column="25" />
@@ -396,9 +408,6 @@
       </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET.xcodeproj/project.pbxproj" timestamp="1563032676689">
         <mark key="'" line="1500" column="0" />
-        <mark key="[" line="1471" column="0" />
-        <mark key="]" line="1471" column="0" />
-        <mark key="." line="1471" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/remote/LicenseDataSourceImpl.kt" timestamp="1562060390121">
         <mark key="[" line="33" column="24" />
@@ -517,31 +526,31 @@
         <text>AWSSNSCreatePlatformEndpointInput</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgc3RydWN0IE5PVElGSUNBVElPTiB7CiAgICAgICAgc3RhdGljIGxldCBBUFBMSUFUSU9OCiAgICB9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQogIC0gU1BTdG9ya0NvbnRyb2xsZXIgKDEuNi45KQo+Pj4+Pj4+IGRldmVsb3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIGxldCBkZXZpY2VUb2tlblN0cmluZyA9IGRldmljZVRva2VuLm1hcCB7IFN0cmluZyhmb3JtYXQ6ICIlLjJoaHgiLCAkMCkgfS5qb2luZWQoKQogICAgICAgIAogICAgICAgIC8vQVdTIFNOU+OBuOaOpee2muOBmeOCi+OBn+OCgeOBrktleeioreWumgogICAgICAgIHNlbGYuYWNjZXNzS2V5ID0gIklBTeOBp+WPluW+l+OBl+OBn0FjY2Vzc0tleeOCkuioreWumiIKICAgICAgICBzZWxmLnNlY3JldEtleSA9ICJJQU3jgaflj5blvpfjgZfjgZ9TZWNyZXRLZXnjgpLoqK3lrpoiCiAgICAgICAgCiAgICAgICAgQVdTU2VydmljZU1hbmFnZXIuZGVmYXVsdFNlcnZpY2VNYW5hZ2VyKCkuZGVmYXVsdFNlcnZpY2VDb25maWd1cmF0aW9uID0KICAgICAgICAgICAgQVdTU2VydmljZUNvbmZpZ3VyYXRpb24ocmVnaW9uOiBBV1NSZWdpb25UeXBlLkFQTm9ydGhlYXN0MSwgY3JlZGVudGlhbHNQcm92aWRlcjogc2VsZikKICAgICAgICAKICAgICAgICBsZXQgaW5wdXQgPSBBV1NTTlNDcmVhdGVQbGF0Zm9ybUVuZHBvaW50SW5wdXQoKQogICAgICAgIGlucHV0Py50b2tlbiA9IGRldmljZVRva2VuU3RyaW5nCiAgICAgICAgaW5wdXQ/LnBsYXRmb3JtQXBwbGljYXRpb25Bcm4gPSAiIgogICAgICAgIAogICAgICAgIEFXU1NOUy5kZWZhdWx0KCkuY3JlYXRlUGxhdGZvcm1FbmRwb2ludChpbnB1dCkgeyAocmVzcG9uc2UsIGVycm9yKSBpbgogICAgICAgICAgICBpZiBlcnJvciAhPSBuaWwgewogICAgICAgICAgICAgICAgcHJpbnQoIkVycm9yOiBcKGVycm9yKSIpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBwcmludCgiXChyZXNwb25zZT8uZW5kcG9pbnRBcm4pIikKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PT09PT09PQogIC0gR29vZ2xlVXRpbGl0aWVzL0FwcERlbGVnYXRlU3dpenpsZXIgKDYuMi4xKToKICAgIC0gR29vZ2xlVXRpbGl0aWVzL0Vudmlyb25tZW50CiAgICAtIEdvb2dsZVV0aWxpdGllcy9Mb2dnZXIKICAgIC0gR29vZ2xlVXRpbGl0aWVzL05ldHdvcmsKICAtIEdvb2dsZVV0aWxpdGllcy9FbnZpcm9ubWVudCAoNi4yLjEpCiAgLSBHb29nbGVVdGlsaXRpZXMvTG9nZ2VyICg2LjIuMSk6CiAgICAtIEdvb2dsZVV0aWxpdGllcy9FbnZpcm9ubWVudAogIC0gR29vZ2xlVXRpbGl0aWVzL01ldGhvZFN3aXp6bGVyICg2LjIuMSk6CiAgICAtIEdvb2dsZVV0aWxpdGllcy9Mb2dnZXIKICAtIEdvb2dsZVV0aWxpdGllcy9OZXR3b3JrICg2LjIuMSk6CiAgICAtIEdvb2dsZVV0aWxpdGllcy9Mb2dnZXIKICAgIC0gIkdvb2dsZVV0aWxpdGllcy9OU0RhdGEremxpYiIKICAgIC0gR29vZ2xlVXRpbGl0aWVzL1JlYWNoYWJpbGl0eQogIC0gIkdvb2dsZVV0aWxpdGllcy9OU0RhdGEremxpYiAoNi4yLjEpIgogIC0gR29vZ2xlVXRpbGl0aWVzL1JlYWNoYWJpbGl0eSAoNi4yLjEpOgogICAgLSBHb29nbGVVdGlsaXRpZXMvTG9nZ2VyCiAgLSBHb29nbGVVdGlsaXRpZXMvVXNlckRlZmF1bHRzICg2LjIuMSk6Cj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQogIC0gRmlyZWJhc2VDb3JlICg2LjAuMyk6CiAgICAtIEdvb2dsZVV0aWxpdGllcy9FbnZpcm9ubWVudCAofj4gNi4wKQogICAgLSBHb29nbGVVdGlsaXRpZXMvTG9nZ2VyICh+PiA2LjApCiAgLSBGaXJlYmFzZUluc3RhbmNlSUQgKDQuMi4wKToKICAgIC0gRmlyZWJhc2VDb3JlICh+PiA2LjApCiAgICAtIEdvb2dsZVV0aWxpdGllcy9FbnZpcm9ubWVudCAofj4gNi4wKQogICAgLSBHb29nbGVVdGlsaXRpZXMvVXNlckRlZmF1bHRzICh+PiA2LjApCiAgLSBGbG9hdGluZ1BhbmVsICgxLjYuMSkKICAtIEdvb2dsZUFwcE1lYXN1cmVtZW50ICg2LjAuMik6Cj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQpjbGFzcyBBcHBEZWxlZ2F0ZTogVUlSZXNwb25kZXIsIFVJQXBwbGljYXRpb25EZWxlZ2F0ZSwgQVdTQ3JlZGVudGlhbHNQcm92aWRlciB7CiAgICAKICAgIHZhciB3aW5kb3c6IFVJV2luZG93PwogICAgdmFyIGFjY2Vzc0tleTogU3RyaW5nPwogICAgdmFyIHNlY3JldEtleTogU3RyaW5nPwogICAgCiAgICBmdW5jIGFwcGxpY2F0aW9uKF8gYXBwbGljYXRpb246IFVJQXBwbGljYXRpb24sIGRpZEZpbmlzaExhdW5jaGluZ1dpdGhPcHRpb25zIGxhdW5jaE9wdGlvbnM6IFtVSUFwcGxpY2F0aW9uLkxhdW5jaE9wdGlvbnNLZXk6IEFueV0/KSAtPiBCb29sIHsKICAgICAgICBGaXJlYmFzZUFwcC5jb25maWd1cmUoKQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQogIC0gRmlyZWJhc2UvQ29yZSAoNi4zLjApOgogICAgLSBGaXJlYmFzZS9Db3JlT25seQogICAgLSBGaXJlYmFzZUFuYWx5dGljcyAoPSA2LjAuMikKICAtIEZpcmViYXNlL0NvcmVPbmx5ICg2LjMuMCk6CiAgICAtIEZpcmViYXNlQ29yZSAoPSA2LjAuMykKICAtIEZpcmViYXNlQW5hbHl0aWNzICg2LjAuMik6CiAgICAtIEZpcmViYXNlQ29yZSAofj4gNi4wKQogICAgLSBGaXJlYmFzZUluc3RhbmNlSUQgKH4+IDQuMikKICAgIC0gR29vZ2xlQXBwTWVhc3VyZW1lbnQgKD0gNi4wLjIpCj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQpjbGFzcyBBcHBEZWxlZ2F0ZTogVUlSZXNwb25kZXIsIFVJQXBwbGljYXRpb25EZWxlZ2F0ZSwgQVdTQ3JlZGVudGlhbHNQcm92aWRlciB7CiAgICAKICAgIHZhciB3aW5kb3c6IFVJV2luZG93PwogICAgdmFyIGFjY2Vzc0tleTogU3RyaW5nPwogICAgdmFyIHNlY3JldEtleTogU3RyaW5nPwogICAgCiAgICBmdW5jIGFwcGxpY2F0aW9uKF8gYXBwbGljYXRpb246IFVJQXBwbGljYXRpb24sIGRpZEZpbmlzaExhdW5jaGluZ1dpdGhPcHRpb25zIGxhdW5jaE9wdGlvbnM6IFtVSUFwcGxpY2F0aW9uLkxhdW5jaE9wdGlvbnNLZXk6IEFueV0/KSAtPiBCb29sIHsKICAgICAgICBGaXJlYmFzZUFwcC5jb25maWd1cmUoKQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGRldmVsb3AK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -573,8 +582,8 @@
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
       </history-cmd>
