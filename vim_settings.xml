@@ -86,11 +86,11 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563169805028">
-        <mark key="'" line="0" column="52" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563171276300">
+        <mark key="'" line="29" column="45" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1562856083718">
         <mark key="'" line="24" column="19" />
@@ -119,10 +119,10 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563169734908">
-        <mark key="'" line="29" column="26" />
-        <mark key="[" line="130" column="36" />
-        <mark key="]" line="130" column="32" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563170718862">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="21" column="3" />
         <mark key="^" line="130" column="32" />
         <mark key="." line="130" column="32" />
       </file>
@@ -140,11 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="404" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" />
-      <jump line="100" column="47" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
-      <jump line="97" column="44" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
-      <jump line="95" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/ToggleStretchStockerHandAction.kt" />
       <jump line="20" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="26" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
       <jump line="203" column="27" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
@@ -240,43 +235,48 @@
       <jump line="32" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" />
       <jump line="10" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/App.kt" />
       <jump line="29" column="26" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" />
+      <jump line="67" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" />
+      <jump line="130" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" />
+      <jump line="97" column="64" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" />
+      <jump line="18" column="3" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" />
+      <jump line="28" column="45" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>[Debug: Suica] check response string</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb21wYW5pb24gb2JqZWN0IHsKICAgIGNvbnN0IHZhbCBERUZBVUxUX1RJTUVfT1VUX01JTExTID0gMTAwCiAgICBjb25zdCB2YWwgREVGQVVMVF9SRUFEX0lOVEVSVkFMX01JTExTID0gNTBMCiAgICBjb25zdCB2YWwgQUNLX1dBSVRfVElNRV9NSUxMUyA9IDEwMDBMCiAgICBjb25zdCB2YWwgUkVTUE9OU0VfV0FJVF9USU1FX01JTExTID0gMTAwMEwKICAgIGNvbnN0IHZhbCBDT01NQU5EX1JFU0VORF9USU1FID0gM0wKICAgIGNvbnN0IHZhbCBBUF9QT0xMSU5HX0lOVEVSVkFMX01JTExTID0gNTAwTAogICAgY29uc3QgdmFsIFNFVFRMRU1FTlRfVElNRU9VVF9NSUxMUyA9IDE1MDAwTAogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlYWQK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCByZXNwb25zZVF1ZXVlID0gUHJpb3JpdHlRdWV1ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci5wbGFudCgpCg==</text>
+        <text encoding="base64">ICBycHZhZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIGNoZWNrIHJlc3BvbnNlIHN0cmluZyIsICkK</text>
+        <text encoding="base64">CiAgY29tcGFuaW9uIG9iamVjdCB7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCJbRGVidWc6IFN1aWNhXSBSZXNwb25zZSIsIHJlc3BvbnNlLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBERUZBVUxUX1RJTUVfT1VUX01JTExTID0gMTAwCiAgICBjb25zdCB2YWwgREVGQVVMVF9SRUFEX0lOVEVSVkFMX01JTExTID0gNTBMCiAgICBjb25zdCB2YWwgQUNLX1dBSVRfVElNRV9NSUxMUyA9IDEwMDBMCiAgICBjb25zdCB2YWwgUkVTUE9OU0VfV0FJVF9USU1FX01JTExTID0gMTAwMEwKICAgIGNvbnN0IHZhbCBDT01NQU5EX1JFU0VORF9USU1FID0gM0wKICAgIGNvbnN0IHZhbCBBUF9QT0xMSU5HX0lOVEVSVkFMX01JTExTID0gNTAwTAogICAgY29uc3QgdmFsIFNFVFRMRU1FTlRfVElNRU9VVF9NSUxMUyA9IDE1MDAwTAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCJbRGVidWc6IFN1aWNhXSBSZXF1ZXN0IiwgKQo=</text>
+        <text encoding="base64">ICAgIHJlYWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogcGFyc2VSZXNwb25zZV0iLCApCg==</text>
+        <text encoding="base64">ICAgIFRpbWJlci5wbGFudCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
+        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIGNoZWNrIHJlc3BvbnNlIHN0cmluZyIsICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIExvZy5kKCJbRGVidWc6IFN1aWNhXSBSZXNwb25zZSIsIHJlc3BvbnNlLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUK</text>
+        <text encoding="base64">ICAgIExvZy5kKCJbRGVidWc6IFN1aWNhXSBSZXF1ZXN0IiwgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>1024</text>
+        <text>Queue()</text>
       </register>
     </registers>
     <search>
@@ -293,7 +293,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
@@ -303,8 +302,9 @@
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
