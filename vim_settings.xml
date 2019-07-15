@@ -86,12 +86,11 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563167888174">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563169805028">
         <mark key="'" line="0" column="52" />
-        <mark key="[" line="94" column="3" />
-        <mark key="]" line="96" column="21" />
-        <mark key="." line="96" column="21" />
-        <mark key="^" line="96" column="21" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1562856083718">
         <mark key="'" line="24" column="19" />
@@ -120,7 +119,7 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563167966308">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563169734908">
         <mark key="'" line="29" column="26" />
         <mark key="[" line="130" column="36" />
         <mark key="]" line="130" column="32" />
@@ -247,34 +246,34 @@
         <text>[Debug: Suica] check response string</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci5wbGFudCgpCg==</text>
+        <text encoding="base64">ICAgIHJlYWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIGNoZWNrIHJlc3BvbnNlIHN0cmluZyIsICkK</text>
+        <text encoding="base64">ICAgIFRpbWJlci5wbGFudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCJbRGVidWc6IFN1aWNhXSBSZXNwb25zZSIsIHJlc3BvbnNlLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogU3VpY2FdIGNoZWNrIHJlc3BvbnNlIHN0cmluZyIsICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCJbRGVidWc6IFN1aWNhXSBSZXF1ZXN0IiwgKQo=</text>
+        <text encoding="base64">ICAgIExvZy5kKCJbRGVidWc6IFN1aWNhXSBSZXNwb25zZSIsIHJlc3BvbnNlLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogcGFyc2VSZXNwb25zZV0iLCApCg==</text>
+        <text encoding="base64">ICAgIExvZy5kKCJbRGVidWc6IFN1aWNhXSBSZXF1ZXN0IiwgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
+        <text encoding="base64">ICAgICAgTG9nLmQoIltEZWJ1ZzogcGFyc2VSZXNwb25zZV0iLCApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci1rZWVwIGNsYXNzIGNvbS5mYWNlYm9vay5zdGV0aG8uKiogeyAqOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>1024</text>
@@ -304,9 +303,9 @@
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Run</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
