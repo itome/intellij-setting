@@ -86,12 +86,12 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1562862227582">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563167888174">
         <mark key="'" line="0" column="52" />
-        <mark key="[" line="93" column="11" />
-        <mark key="]" line="93" column="18" />
-        <mark key="." line="93" column="18" />
-        <mark key="^" line="93" column="18" />
+        <mark key="[" line="94" column="3" />
+        <mark key="]" line="96" column="21" />
+        <mark key="." line="96" column="21" />
+        <mark key="^" line="96" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1562856083718">
         <mark key="'" line="24" column="19" />
@@ -120,8 +120,8 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563087285132">
-        <mark key="'" line="60" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563167966308">
+        <mark key="'" line="29" column="26" />
         <mark key="[" line="130" column="36" />
         <mark key="]" line="130" column="32" />
         <mark key="^" line="130" column="32" />
@@ -141,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="25" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerToOverTurnTable.kt" />
       <jump line="404" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" />
       <jump line="100" column="47" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
       <jump line="97" column="44" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
@@ -241,6 +240,7 @@
       <jump line="60" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" />
       <jump line="10" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/App.kt" />
+      <jump line="29" column="26" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -274,7 +274,7 @@
         <text encoding="base64">Ci1rZWVwIGNsYXNzIGNvbS5mYWNlYm9vay5zdGV0aG8uKiogeyAqOyB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>1024</text>
@@ -299,14 +299,14 @@
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
