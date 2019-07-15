@@ -213,10 +213,10 @@
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563181667946">
         <mark key="'" line="74" column="21" />
-        <mark key="[" line="135" column="4" />
-        <mark key="]" line="135" column="17" />
-        <mark key="." line="135" column="17" />
-        <mark key="^" line="135" column="17" />
+        <mark key="[" line="141" column="4" />
+        <mark key="]" line="141" column="17" />
+        <mark key="." line="141" column="17" />
+        <mark key="^" line="141" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/JMupsResponse.kt" timestamp="1563182293067">
         <mark key="'" line="2" column="21" />
@@ -396,7 +396,7 @@
         <text encoding="base64">ICAgIHByb2Nlc3MK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>writeCheckStatusRecursively</text>
@@ -427,8 +427,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
