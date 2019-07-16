@@ -199,11 +199,6 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563181231115">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="86" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterAdjuster.java" timestamp="1562259731534">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="37" />
@@ -221,11 +216,11 @@
         <mark key="[" line="245" column="0" />
         <mark key="]" line="252" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" timestamp="1563180458575">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" timestamp="1563289218603">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="21" column="5" />
-        <mark key="." line="26" column="3" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
         <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/proguard-rules.pro" timestamp="1563079979108">
@@ -247,11 +242,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563287034220">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563289301209">
         <mark key="'" line="20" column="14" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+        <mark key="[" line="112" column="6" />
+        <mark key="]" line="112" column="5" />
+        <mark key="." line="112" column="5" />
+        <mark key="^" line="112" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/PaymentManager.kt" timestamp="1563286423555">
         <mark key="'" line="74" column="2" />
@@ -403,34 +399,34 @@
         <text>RESPONSE_TIMEOUT_MILLS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciByZXNwb25zZUJ1ZmZlciA9IGJ5dGVBcnJheU9mKCkKICAgIHZhciBwcmV2aW91c0J5dGU6IEJ5dGU/ID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgIFRpbWJlci50YWcoIltEZWJ1ZzogU3VpY2FdIFJlcXVlc3QiKS5kKHJlcXVlc3Quc2VyaWFsaXplKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIAo=</text>
+        <text encoding="base64">ICAgIHZhciByZXNwb25zZUJ1ZmZlciA9IGJ5dGVBcnJheU9mKCkKICAgIHZhciBwcmV2aW91c0J5dGU6IEJ5dGU/ID0gbnVsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgIE4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXYK</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2l0aFRpbWVvdXQoUkVTUE9OU0VfVElNRU9VVF9NSUxMUykge30K</text>
+        <text encoding="base64">ICAgIHByaXYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudEFjdGlvbiA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgd2l0aFRpbWVvdXQoUkVTUE9OU0VfVElNRU9VVF9NSUxMUykge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgdmFsIFJFQURfUkVTUE9OU0VfSU5URVJWQUxfTUlMTFMgPSAyMDBMCg==</text>
+        <text encoding="base64">ICAgICAgY3VycmVudEFjdGlvbiA9IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgdmFsIFdSSVRFX1JFUVVFU1RfSU5URVJWQUxfTUlMTFMgPSA1MDBMCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgdmFsIFJFQURfUkVTUE9OU0VfSU5URVJWQUxfTUlMTFMgPSAyMDBMCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>()</text>
@@ -454,15 +450,15 @@
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
