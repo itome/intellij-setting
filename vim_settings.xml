@@ -15,6 +15,12 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" timestamp="1563278091985">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" timestamp="1563180103817">
         <mark key="[" line="45" column="20" />
         <mark key="]" line="45" column="27" />
@@ -27,11 +33,11 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/action/PaymentAction.kt" timestamp="1563180419115">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="34" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/action/PaymentAction.kt" timestamp="1563279995492">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/extension/StringExt.kt" timestamp="1563180571532">
         <mark key="[" line="4" column="0" />
@@ -43,6 +49,12 @@
         <mark key="]" line="64" column="27" />
         <mark key="." line="64" column="27" />
         <mark key="^" line="64" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsStartServiceAction.kt" timestamp="1563278991314">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="41" />
+        <mark key="." line="17" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/di/AppModule.kt" timestamp="1563180065321">
         <mark key="[" line="13" column="27" />
@@ -56,11 +68,26 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/SuicaSuccessResponse.kt" timestamp="1563280302892">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_payment.xml" timestamp="1562850030996">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="47" />
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskManager.kt" timestamp="1562851488944">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/HardwareAction.kt" timestamp="1563279901069">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestNanacoSales.kt" timestamp="1563084437958">
         <mark key="'" line="0" column="17" />
@@ -87,6 +114,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/SuicaErrorResponse.kt" timestamp="1563281247957">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_select_payment.xml" timestamp="1562850038087">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="3" column="8" />
@@ -112,11 +145,11 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="29" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/action/SuicaPaymentAction.kt" timestamp="1563182694430">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="18" column="10" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/action/SuicaPaymentAction.kt" timestamp="1563281388583">
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="22" />
+        <mark key="." line="32" column="22" />
+        <mark key="^" line="32" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/App.kt" timestamp="1563086751886">
         <mark key="'" line="11" column="6" />
@@ -131,11 +164,11 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/action/CheckStatusAction.kt" timestamp="1563183735253">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/action/CheckStatusAction.kt" timestamp="1563279988329">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestEdySales.kt" timestamp="1563084456117">
         <mark key="'" line="8" column="6" />
@@ -149,6 +182,10 @@
         <mark key="]" line="271" column="53" />
         <mark key="." line="275" column="78" />
         <mark key="^" line="271" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/SalesRequest.kt" timestamp="1563280657139">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/JMupsPlaygroundFragment.kt" timestamp="1563179519388">
         <mark key="[" line="97" column="10" />
@@ -191,10 +228,10 @@
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563181048732">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563279481574">
         <mark key="'" line="15" column="6" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="47" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="33" />
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
@@ -205,18 +242,24 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/proguard-rules.pro" timestamp="1563079979108">
+        <mark key="'" line="41" column="40" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/Menu.kt" timestamp="1562849260453">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="40" column="43" />
         <mark key="^" line="40" column="43" />
         <mark key="." line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563181667946">
-        <mark key="'" line="74" column="21" />
-        <mark key="[" line="141" column="4" />
-        <mark key="]" line="141" column="17" />
-        <mark key="." line="141" column="17" />
-        <mark key="^" line="141" column="17" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563278912144">
+        <mark key="'" line="72" column="21" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="55" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/JMupsResponse.kt" timestamp="1563182293067">
         <mark key="'" line="2" column="21" />
@@ -225,20 +268,21 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563182364639">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563278226422">
         <mark key="'" line="20" column="14" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="47" column="3" />
+        <mark key="[" line="147" column="56" />
+        <mark key="]" line="147" column="96" />
         <mark key="^" line="113" column="44" />
         <mark key="." line="163" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/PaymentManager.kt" timestamp="1563184674187">
-        <mark key="[" line="19" column="54" />
-        <mark key="]" line="19" column="53" />
-        <mark key="^" line="19" column="53" />
-        <mark key="." line="19" column="53" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/PaymentManager.kt" timestamp="1563281458095">
+        <mark key="'" line="39" column="49" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="39" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/PaymentResponse.kt" timestamp="1563182413697">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/PaymentResponse.kt" timestamp="1563280105215">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -248,6 +292,19 @@
         <mark key="]" line="13" column="49" />
         <mark key="." line="13" column="49" />
         <mark key="^" line="13" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/action/StartServiceAction.kt" timestamp="1563280143328">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/SuicaCompleteResponse.kt" timestamp="1563281254905">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="57" />
+        <mark key="." line="28" column="57" />
+        <mark key="^" line="28" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/GPUVideoSample/app/src/main/java/team/itome/gpuvideosample/MainActivity.kt" timestamp="1562511767815">
         <mark key="[" line="58" column="45" />
@@ -263,10 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="10" filename="$USER_HOME$/Projects/android-gpuimage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageFilterTools.kt" />
-      <jump line="104" column="55" filename="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterType.java" />
-      <jump line="14" column="12" filename="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterType.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterType.java" />
       <jump line="38" column="4" filename="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterType.java" />
       <jump line="63" column="42" filename="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterType.java" />
       <jump line="70" column="39" filename="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterType.java" />
@@ -363,43 +416,49 @@
       <jump line="7" column="25" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/PaymentResponse.kt" />
       <jump line="123" column="72" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/PaymentManager.kt" />
       <jump line="10" column="19" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/PaymentManager.kt" />
+      <jump line="49" column="32" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/PaymentManager.kt" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/PaymentManager.kt" />
+      <jump line="38" column="49" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/PaymentManager.kt" />
+      <jump line="8" column="11" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/SuicaCompleteResponse.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLnRhZygiW0RlYnVnOiBQYXltZW50TWFuYWdlcl0gcmVzcG9uc2VCdWZmZXIiKS5kKHJlc3BvbnNlQnVmZmVyLmpvaW5Ub1N0cmluZyB7IGl0LnRvU3RyaW5nKCkgfSkK</text>
+        <text encoding="base64">CiAgY29tcGFuaW9uIG9iamVjdCB7CiAgICBmdW4gZGVzZXJpYWxpemUoc291cmNlOiBTdHJpbmcpOiBTdWljYUVycm9yUmVzcG9uc2UgewogICAgICByZXR1cm4gSnNvbihKc29uQ29uZmlndXJhdGlvbi5TdGFibGUpLnBhcnNlKHNlcmlhbGl6ZXIoKSwgc291cmNlKQogICAgfQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIChieXRlKSB7CiAgICAgICAgICBTVFggLT4gewogICAgICAgICAgICByZXNwb25zZUJ1ZmZlciA9IGJ5dGVBcnJheU9mKCkKICAgICAgICAgIH0KICAgICAgICAgIEVUWCAtPiB7CiAgICAgICAgICAgIFRpbWJlci50YWcoIltEZWJ1ZzogUGF5bWVudE1hbmFnZXJdIHJlc3BvbnNlQnVmZmVyIikuZChwYXJzZVJlc3BvbnNlKHJlc3BvbnNlQnVmZmVyKS50b1N0cmluZygpKQogICAgICAgICAgICBwYXJzZVJlc3BvbnNlKHJlc3BvbnNlQnVmZmVyKQogICAgICAgICAgICB3cml0ZUFjY2VwdGVkKCkKICAgICAgICAgIH0KICAgICAgICAgIEFDSyAtPiB7CiAgICAgICAgICAgIHJlc3BvbnNlQnVmZmVyID0gYnl0ZUFycmF5T2YoKQogICAgICAgICAgfQogICAgICAgICAgTkFLIC0+IHsKICAgICAgICAgICAgcmVzcG9uc2VCdWZmZXIgPSBieXRlQXJyYXlPZigpCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBwb3J0Py53cml0ZShhY3Rpb24uZXhlY3V0ZSgpLCBERUZBVUxUX1RJTUVfT1VUX01JTExTKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENoZWNrU3RhdHVzQWN0aW9uKCkuZXhlY3V0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgU3VpY2FFcnJvclJlc3BvbnNlLmRlc2VyaWFsaXplKHBheW1lbnRSZXNwb25zZS5kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIltEZWJ1ZzogUGF5bWVudE1hbmFnZXJdIHJlc3BvbnNlQnVmZmVyIikuZChyZXNwb25zZUJ1ZmZlci5qb2luVG9TdHJpbmcgeyBpdC50b1N0cmluZygpIH0pCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLnRhZygiW0RlYnVnOiBQYXltZW50TWFuYWdlcl0gcmVzcG9uc2VCdWZmZXIiKS5kKHJlc3BvbnNlQnVmZmVyLmpvaW5Ub1N0cmluZyB7IGl0LnRvU3RyaW5nKCkgfSkK</text>
+        <text encoding="base64">ICAgIG9uQ29tcGxldGUoCiAgICApCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIltEZWJ1ZzogUGF5bWVudE1hbmFnZXJdIHJlc3BvbnNlQnVmZmVyIikuZChyZXNwb25zZUJ1ZmZlci5qb2luVG9TdHJpbmcgeyBpdC50b1N0cmluZygpIH0pCg==</text>
+      <register name="7" type="4">
+        <text>try {
+      SuicaCompleteResponse.deserialize(paymentResponse.data)
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIltEZWJ1ZzogUGF5bWVudE1hbmFnZXJdIHJlc3BvbnNlQnVmZmVyIikuZChidWZmZXIuam9pblRvU3RyaW5nIHsgaXQudG9TdHJpbmcoKSB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MK</text>
+        <text encoding="base64">CiAgZnVuIHNlcmlhbGl6ZSgpOiBTdHJpbmcgewogICAgcmV0dXJuIEpzb24oSnNvbkNvbmZpZ3VyYXRpb24uU3RhYmxlKS5zdHJpbmdpZnkoc2VyaWFsaXplcigpLCB0aGlzKQogIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>writeCheckStatusRecursively</text>
+        <text>Unit</text>
       </register>
     </registers>
     <search>
@@ -414,21 +473,21 @@
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
-        <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action Find</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action RenameElement</entry>
         <entry>action Debug</entry>
-        <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Run</entry>
+        <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Back</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
-        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
