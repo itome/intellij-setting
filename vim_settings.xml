@@ -426,7 +426,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgdmFsIFJFQURfUkVTUE9OU0VfSU5URVJWQUxfTUlMTFMgPSAyMDBMCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>()</text>
@@ -452,13 +452,13 @@
         <entry>action GotoAction</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
