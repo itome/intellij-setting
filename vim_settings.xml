@@ -9,7 +9,6 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/util/ext/IntExt.kt" timestamp="1562835289736" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabStockerAction.kt" timestamp="1563008331986">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="37" />
@@ -46,11 +45,11 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareConstant.kt" timestamp="1563008297018">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareConstant.kt" timestamp="1563196940484">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/OSS/flutter_compass/lib/main.dart" timestamp="1562919232884">
         <mark key="'" line="92" column="23" />
@@ -65,7 +64,18 @@
         <mark key="." line="64" column="49" />
         <mark key="^" line="64" column="49" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1562825592567" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/BrewAction.kt" timestamp="1563198213351">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerToOverTurnTable.kt" timestamp="1563198380581">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="22" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1562994921725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -85,12 +95,18 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563006564230">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/ResetBrewAction.kt" timestamp="1563198234705">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563198087072">
         <mark key="'" line="17" column="8" />
-        <mark key="[" line="105" column="58" />
-        <mark key="]" line="105" column="35" />
-        <mark key="." line="105" column="35" />
-        <mark key="^" line="105" column="35" />
+        <mark key="[" line="85" column="18" />
+        <mark key="]" line="86" column="37" />
+        <mark key="." line="86" column="37" />
+        <mark key="^" line="86" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/di/AppModule.kt" timestamp="1562993352909">
         <mark key="'" line="11" column="0" />
@@ -99,24 +115,24 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1562899374394">
-        <mark key="'" line="69" column="4" />
-        <mark key="[" line="24" column="70" />
-        <mark key="]" line="24" column="68" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1563196462866">
+        <mark key="'" line="31" column="14" />
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="50" />
         <mark key="." line="24" column="68" />
         <mark key="^" line="24" column="68" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test/1.2.1/87f7aed336c7341b1a1723fd4334e09eac887dd2/kotlinx-coroutines-test-1.2.1-sources.jar!/TestBuilders.kt" timestamp="1562928263801" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/Menu.kt" timestamp="1563195304603">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="19" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="44" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/test/java/jp/cldh/core/util/ext/ProgramExtTest.kt" timestamp="1562566223139">
         <mark key="[" line="367" column="48" />
         <mark key="]" line="367" column="56" />
         <mark key="." line="367" column="56" />
         <mark key="^" line="367" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/di/NetworkModule.kt" timestamp="1562900132972">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/StationStatus.kt" timestamp="1562996258504">
         <mark key="'" line="14" column="1" />
@@ -138,16 +154,18 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" timestamp="1562928495477">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/res/layout/activity_player_mock.xml" timestamp="1562915304437">
         <mark key="[" line="32" column="26" />
         <mark key="]" line="32" column="29" />
         <mark key="." line="32" column="29" />
         <mark key="^" line="32" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" timestamp="1563197717986">
+        <mark key="'" line="496" column="78" />
+        <mark key="[" line="522" column="34" />
+        <mark key="]" line="522" column="33" />
+        <mark key="." line="522" column="33" />
+        <mark key="^" line="522" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1562913983539">
         <mark key="'" line="0" column="0" />
@@ -162,7 +180,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/repository/network/OkHttpClientFactory.kt" timestamp="1562897800011" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToDelivery.kt" timestamp="1563198484747">
+        <mark key="[" line="12" column="68" />
+        <mark key="]" line="12" column="69" />
+        <mark key="." line="12" column="69" />
+        <mark key="^" line="8" column="75" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/DeviceOrientationManager.kt" timestamp="1562650780280">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -176,18 +199,21 @@
         <mark key="^" line="25" column="91" />
         <mark key="." line="25" column="91" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/Rx.kt" timestamp="1562993089921">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563198540390">
+        <mark key="'" line="117" column="0" />
+        <mark key="h" line="369" column="36" />
+        <mark key="j" line="371" column="28" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="122" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563007841216">
-        <mark key="'" line="189" column="26" />
-        <mark key="h" line="318" column="36" />
-        <mark key="j" line="320" column="28" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToOverDelivery.kt" timestamp="1563198474558">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="12" column="84" />
+        <mark key="." line="12" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/ProgramStore.kt" timestamp="1562551070347">
         <mark key="[" line="14" column="50" />
@@ -201,7 +227,13 @@
         <mark key="." line="37" column="40" />
         <mark key="^" line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskManager.kt" timestamp="1562993902332" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" timestamp="1563197460839">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="131" column="15" />
+        <mark key="]" line="131" column="17" />
+        <mark key="." line="131" column="17" />
+        <mark key="^" line="131" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/ext/PlayerViewExt.kt" timestamp="1562914502265">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="3" column="40" />
@@ -209,24 +241,13 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerViewModel.kt" timestamp="1562928473794">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabChefAction.kt" timestamp="1563008314028">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="37" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabChefAction.kt" timestamp="1563193865358">
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="16" column="1" />
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/java/jp/cldh/playground/ui/player/PlayerMockActivity.kt" timestamp="1562914513447">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1562907195255" />
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/res/values/styles_material.xml" timestamp="1562580054459">
         <mark key="[" line="43" column="2" />
         <mark key="]" line="44" column="1" />
@@ -240,17 +261,11 @@
         <mark key="." line="53" column="88" />
         <mark key="^" line="53" column="88" />
       </file>
+      <file name="/fragment.java" timestamp="1563198452237">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="7" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout/activity_program_viewer.xml" />
-      <jump line="189" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="237" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
-      <jump line="180" column="30" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_controller.xml" />
-      <jump line="279" column="35" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerTimeBar.kt" />
-      <jump line="156" column="4" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerTimeBar.kt" />
-      <jump line="112" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerTimeBar.kt" />
-      <jump line="798" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerTimeBar.kt" />
-      <jump line="364" column="1" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerTimeBar.kt" />
       <jump line="788" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerTimeBar.kt" />
       <jump line="470" column="10" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerTimeBar.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
@@ -342,43 +357,52 @@
       <jump line="278" column="64" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="40" column="14" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="189" column="26" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
+      <jump line="5" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabChefAction.kt" />
+      <jump line="109" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
+      <jump line="31" column="14" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" />
+      <jump line="226" column="16" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" />
+      <jump line="496" column="78" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_hardware_playground.xml" />
+      <jump line="75" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/BrewAction.kt" />
+      <jump line="6" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerToOverTurnTable.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToOverDelivery.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgVGltYmVyLnRhZygiRGVidWciKS5kKCJDb21wbGV0ZSBzdG9ja2VyIGFjdGlvbiIpCg==</text>
+        <text encoding="base64">CmltcG9ydCB3b3JrLm5ld2lubm92YXRpb25zLmRpcmVjdG9yLmluZnJhc3RydWN0dXJlLmhhcmR3YXJlLkhhcmR3YXJlQ29uc3RhbnQKaW1wb3J0IHdvcmsubmV3aW5ub3ZhdGlvbnMuZGlyZWN0b3IuaW5mcmFzdHJ1Y3R1cmUubW9kZWwuUngKaW1wb3J0IHdvcmsubmV3aW5ub3ZhdGlvbnMuZGlyZWN0b3IuaW5mcmFzdHJ1Y3R1cmUubW9kZWwuVHgKCmNsYXNzIE1vdmVDaGVmVG9PdmVyRGVsaXZlcnkgOiBIYXJkd2FyZUFjdGlvbigpIHsKICBvdmVycmlkZSBmdW4gZXhlY3V0ZShjdXJyZW50OiBUeCk6IFR4IHsKICAgIHJldHVybiBjdXJyZW50LmNvcHkoY2hlZlggPSBIYXJkd2FyZUNvbnN0YW50LkNIRUZfREVMSVZFUllfWCwgY2hlZlkgPSAxKQogIH0KCiAgb3ZlcnJpZGUgZnVuIG9uUmVzcG9uc2Uocng6IFJ4KSB7CiAgICBpZiAocnguY2hlZlggPT0gSGFyZHdhcmVDb25zdGFudC5DSEVGX0RFTElWRVJZX1ggJiYgcnguY2hlZlkgPT0gMSkgb25Db21wbGV0ZSgpCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVGltYmVyLnRhZygiRGVidWciKS5kKCJDb21wbGV0ZSBzdG9ja2VyIGFjdGlvbiIpCg==</text>
+        <text encoding="base64">ICAgIG1vdmVDaGVmVG8oSGFyZHdhcmVDb25zdGFudC5DSEVGX0RFTElWRVJZX1gsIDEpCiAgICBtb3ZlQ2hlZlRvKEhhcmR3YXJlQ29uc3RhbnQuQ0hFRl9ERUxJVkVSWV9YLCAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgVGltYmVyLnRhZygiRGVidWciKS5kKCJDb21wbGV0ZSBjaGVmIGFjdGlvbiIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhhbmQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVGltYmVyLnRhZygiW0RlYnVnOiBzZXJ2ZXIgc3RhdHVzXSIpLmQoc3RhdHVzLnRvU3RyaW5nKCkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRpbWJlci50YWcoIltEZWJ1Zzogc2VydmVyIHN0YXR1c10iKS5kKHN0YXR1cy50b1N0cmluZygpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhhbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImFkcmVzcyIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2gK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgQ2hlZgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc3RvY2tlclggPSBIYXJkd2FyZUNvbnN0YW50LlRVUk5fVEFCTEVfWCwKICAgICAgc3RvY2tlclkgPSBIYXJkd2FyZUNvbnN0YW50Lk9WRVJfVFVSTl9UQUJMRV9ZCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJyZXdDb2ZmZWUoMCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRhcmdldFZhbHVlID0gdmFsdWUuY29uc3RyYWluKDAsIDApCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhciB0YXJnZXRWYWx1ZSA9IC0xCgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZGUK</text>
+      </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>stocker</text>
+        <text>Over</text>
       </register>
     </registers>
     <search>
@@ -395,19 +419,19 @@
         <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9nZ2xlTGluZUJyZWFrcG9pbnQ=</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action GotoAction</entry>
-        <entry>action Run</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action RenameElement</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
