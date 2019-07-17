@@ -9,6 +9,9 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/usb/UsbEndpoint.java" timestamp="1563376866628">
+        <mark key="'" line="42" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/AppError.kt" timestamp="1563179634849">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="23" />
@@ -34,6 +37,10 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="16" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/HardwareAction.kt" timestamp="1563279901069">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestNanacoSales.kt" timestamp="1563365508903">
         <mark key="'" line="8" column="6" />
         <mark key="[" line="33" column="0" />
@@ -46,7 +53,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="75" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kai-morich/usb-serial-for-android/1.7.0/205b52356563559e32cc0b510bb9b93f60770bde/usb-serial-for-android-1.7.0-sources.jar!/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" timestamp="1563369131105" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kai-morich/usb-serial-for-android/1.7.0/205b52356563559e32cc0b510bb9b93f60770bde/usb-serial-for-android-1.7.0-sources.jar!/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" timestamp="1563377349454">
+        <mark key="'" line="203" column="10" />
+        <mark key="[" line="287" column="16" />
+        <mark key="]" line="287" column="15" />
+        <mark key="^" line="287" column="15" />
+        <mark key="." line="287" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/App.kt" timestamp="1562899775239">
         <mark key="'" line="11" column="6" />
         <mark key="[" line="19" column="46" />
@@ -63,10 +76,14 @@
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerManager.kt" timestamp="1563269471613">
         <mark key="'" line="31" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareException.kt" timestamp="1563179610639">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/usb/UsbRequest.java" timestamp="1563301200902">
         <mark key="'" line="298" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563370227011">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563378041496">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="43" column="77" />
         <mark key="]" line="43" column="86" />
@@ -100,6 +117,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/SelectPaymentFragment.kt" timestamp="1563378782371">
+        <mark key="[" line="33" column="58" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+        <mark key="^" line="34" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsException.kt" timestamp="1563297063187">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -112,7 +135,7 @@
         <mark key="." line="14" column="96" />
         <mark key="^" line="14" column="96" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsCancelAction.kt" timestamp="1563365505101">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsCancelAction.kt" timestamp="1563378135636">
         <mark key="'" line="8" column="6" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -143,7 +166,7 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="21" />
       </file>
-      <file name="/fragment.kt" timestamp="1563086332622">
+      <file name="/fragment.kt" timestamp="1563376955198">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/SuicaErrorResponse.kt" timestamp="1563285492510">
@@ -154,6 +177,10 @@
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" timestamp="1563268063801">
         <mark key="'" line="37" column="50" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.navigation/navigation-runtime/1.0.0/fc575d297c8c49c50f6288d789ff617657992f93/navigation-runtime-1.0.0-sources.jar!/androidx/navigation/NavController.java" timestamp="1563379111514">
+        <mark key="[" line="713" column="30" />
+        <mark key="]" line="713" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_select_payment.xml" timestamp="1562850038087">
         <mark key="'" line="35" column="0" />
@@ -191,6 +218,10 @@
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/Player.kt" timestamp="1563262781364">
         <mark key="[" line="10" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/model/SalesRequest.kt" timestamp="1563280657139">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kai-morich/usb-serial-for-android/1.7.0/205b52356563559e32cc0b510bb9b93f60770bde/usb-serial-for-android-1.7.0-sources.jar!/com/hoho/android/usbserial/driver/UsbSerialPort.java" timestamp="1563367394019" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1563081714592">
         <mark key="'" line="2" column="0" />
@@ -199,26 +230,31 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1562994921725">
-        <mark key="'" line="24" column="19" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/MainActivity.kt" timestamp="1563379376947">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="32" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563284611253">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="252" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.2.0-alpha02/9849dd6833f7e999169e4f9d48949cc92bf58b50/lifecycle-livedata-2.2.0-alpha02-sources.jar!/androidx/lifecycle/Transformations.java" timestamp="1562856010362" />
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563365604334">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563379270970">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="77" column="4" />
-        <mark key="]" line="77" column="4" />
-        <mark key="." line="77" column="4" />
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="36" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563368863437">
-        <mark key="'" line="127" column="28" />
-        <mark key="[" line="91" column="6" />
-        <mark key="]" line="91" column="64" />
-        <mark key="." line="91" column="64" />
-        <mark key="^" line="91" column="64" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563377699802">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="101" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/payment/PaymentManager.kt" timestamp="1563286423555">
         <mark key="'" line="74" column="2" />
@@ -236,15 +272,11 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/usb/UsbDeviceConnection.java" timestamp="1563367326593">
         <mark key="'" line="276" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1563369335890">
+      <file name="/fragment.java" timestamp="1563377224886">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
-      <jump line="278" column="64" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
-      <jump line="40" column="14" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
-      <jump line="189" column="26" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="5" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/GrabChefAction.kt" />
       <jump line="109" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="31" column="14" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" />
@@ -341,43 +373,47 @@
       <jump line="46" column="11" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
       <jump line="31" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerManager.kt" />
       <jump line="110" column="27" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
+      <jump line="14" column="39" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" />
+      <jump line="203" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kai-morich/usb-serial-for-android/1.7.0/205b52356563559e32cc0b510bb9b93f60770bde/usb-serial-for-android-1.7.0-sources.jar!/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" />
+      <jump line="42" column="15" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/usb/UsbEndpoint.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWVraW5nQmFjayA9IGZhbHNlCg==</text>
+      <register name="0" type="4">
+        <text>!navController.popBackStack(it.destinationId, false)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWVraW5nQmFjayA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlZWtpbmdGb3J3YXJkID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIW5hdkNvbnRyb2xsZXIucG9wQmFja1N0YWNrKGl0LmRlc3RpbmF0aW9uSWQsIGZhbHNlKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlZWtpbmdCYWNrID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbmF2SG9zdEZyYWdtZW50ID0gc3VwcG9ydEZyYWdtZW50TWFuYWdlci5maW5kRnJhZ21lbnRCeUlkKFIuaWQubmF2X2hvc3RfZnJhZ21lbnQpCiAgICAgICAgVGltYmVyLnRhZygiRGVidWciKS5kKG5hdkhvc3RGcmFnbWVudD8uY2hpbGRGcmFnbWVudE1hbmFnZXI/LmJhY2tTdGFja0VudHJ5Q291bnQudG9TdHJpbmcoKSkKICAgICAgICBUaW1iZXIudGFnKCJEZWJ1ZyIpLmQoaXQudG9TdHJpbmcoKSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRlQWZ0ZXJUaW1lb3V0KCkK</text>
+        <text encoding="base64">ICAgICAgZmluZE5hdkNvbnRyb2xsZXIoKS5wb3BCYWNrU3RhY2soKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRlQWZ0ZXJUaW1lb3V0KCkK</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRlQWZ0ZXJUaW1lb3V0KCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IAogIGZ1biBjYW5jZWxTZWxlY3RQYXltZW50U2VydmljZSgpIHsKICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRlQWZ0ZXJUaW1lb3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbmF2SG9zdEZyYWdtZW50ID0gc3VwcG9ydEZyYWdtZW50TWFuYWdlci5maW5kRnJhZ21lbnRCeUlkKFIuaWQubmF2X2hvc3RfZnJhZ21lbnQpCiAgICAgICAgVGltYmVyLnRhZygiRGVidWciKS5kKG5hdkhvc3RGcmFnbWVudD8uY2hpbGRGcmFnbWVudE1hbmFnZXI/LmJhY2tTdGFja0VudHJ5Q291bnQudG9TdHJpbmcoKSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRlQWZ0ZXJUaW1lb3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYmFja1N0YWNrRW50cnlDb3VudCA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIudGFnKCJEZWJ1ZyIpLmQobmF2Q29udHJvbGxlci4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>PARITY_NONE</text>
+        <text>currentDestinationId</text>
       </register>
     </registers>
     <search>
@@ -395,17 +431,17 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQmFjaw==</entry>
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action Debug</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoImplementation</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
+        <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
