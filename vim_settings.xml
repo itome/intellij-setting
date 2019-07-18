@@ -707,7 +707,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>ByteString.copyFromUtf8(mockResponseJson)</text>
@@ -731,7 +731,6 @@
         <entry>action GotoImplementation</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
@@ -740,6 +739,7 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SaveAll</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
