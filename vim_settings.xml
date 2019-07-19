@@ -39,13 +39,8 @@
         <mark key="[" line="10" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1563516293437">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="31" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="154" column="75" />
+        <mark key="^" line="161" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_timeline.xml" timestamp="1563515021077" />
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1563330425908">
         <mark key="'" line="6" column="0" />
       </file>
@@ -87,7 +82,6 @@
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1563350329080">
         <mark key="'" line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.8.2/59640023b2acd760eaf881589e22b2d65cda756c/arrow-core-0.8.2-sources.jar!/arrow/core/Option.kt" timestamp="1563503812863" />
       <file name="$USER_HOME$/Projects/love/android/features/playground/src/main/java/jp/cldh/playground/ui/player/PlayerMockActivity.kt" timestamp="1563257920059">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -255,7 +249,7 @@
         <text encoding="base64">ICAgICAgYW5kcm9pZDp0ZXh0PSJAe0BzdHJpbmcvZm9ybWF0X3BsYXllcl9jb250cm9sbGVyX3RpbWUocG9zaXRpb24sIGR1cmF0aW9uKX0iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -283,11 +277,11 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
