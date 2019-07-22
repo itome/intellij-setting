@@ -9,7 +9,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/values/colors.xml" timestamp="1563707502552">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/values/colors.xml" timestamp="1563794445856">
         <mark key="[" line="43" column="32" />
         <mark key="]" line="43" column="32" />
         <mark key="^" line="43" column="32" />
@@ -67,6 +67,7 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1563795929353" />
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" timestamp="1563789813333">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -105,12 +106,6 @@
         <mark key="'" line="36" column="0" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="53" column="67" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToRotationPoint.kt" timestamp="1563706963169">
-        <mark key="[" line="11" column="112" />
-        <mark key="]" line="11" column="111" />
-        <mark key="." line="11" column="111" />
-        <mark key="^" line="11" column="111" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/ImageBindingAdapter.kt" timestamp="1563704440958">
         <mark key="[" line="10" column="12" />
@@ -397,7 +392,7 @@
         <text encoding="base64">aW1wb3J0IGpwLmNsZGguY29yZS5kYXRhLnByb3RvLkdyb3VwU2VydmljZVByb3RvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>GroupServiceProto.ListGroupArtistResponse.newBuilder()</text>
@@ -425,11 +420,11 @@
         <entry>action FindInPath</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
