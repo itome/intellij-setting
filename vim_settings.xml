@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/TurnOnTurnTableLight.kt" timestamp="1563684397664">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" timestamp="1563329909226">
         <mark key="'" line="37" column="50" />
       </file>
@@ -21,48 +28,12 @@
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerToOverChefDelivery.kt" timestamp="1563707052361">
         <mark key="'" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563705215285">
-        <mark key="'" line="142" column="82" />
-        <mark key="[" line="81" column="29" />
-        <mark key="]" line="81" column="31" />
-        <mark key="." line="81" column="31" />
-        <mark key="^" line="81" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1563350329080">
-        <mark key="'" line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/accessibility/AccessibilityManager.java" timestamp="1563513471037">
-        <mark key="'" line="185" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/StationStatus.kt" timestamp="1563704515665">
-        <mark key="[" line="57" column="57" />
-        <mark key="]" line="57" column="72" />
-        <mark key="." line="57" column="72" />
-        <mark key="^" line="57" column="72" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/navigation/navigation_main.xml" timestamp="1563703254981">
-        <mark key="[" line="53" column="37" />
-        <mark key="]" line="53" column="37" />
-        <mark key="." line="53" column="37" />
-        <mark key="^" line="53" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/AndroidManifest.xml" timestamp="1563691777974">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="31" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToRotationPoint.kt" timestamp="1563706963169">
-        <mark key="[" line="11" column="112" />
-        <mark key="]" line="11" column="111" />
-        <mark key="." line="11" column="111" />
-        <mark key="^" line="11" column="111" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1563525820882">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="53" />
-        <mark key="^" line="5" column="51" />
-        <mark key="." line="5" column="51" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareConstant.kt" timestamp="1563706978687">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestNanacoPaymentAction.kt" timestamp="1563689491393">
         <mark key="[" line="18" column="23" />
@@ -70,11 +41,79 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/WelcomeFragment.kt" timestamp="1563703139553">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestWAONPaymentAction.kt" timestamp="1563689496550">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1563768747491">
+        <mark key="'" line="184" column="25" />
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="68" />
+        <mark key="." line="24" column="68" />
+        <mark key="^" line="24" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/SelectPaymentFragment.kt" timestamp="1563700809199">
         <mark key="[" line="30" column="14" />
         <mark key="]" line="30" column="17" />
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563706443336">
+        <mark key="'" line="330" column="42" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1563330425908">
+        <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_select_payment.xml" timestamp="1563699963485">
+        <mark key="'" line="76" column="68" />
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="63" column="46" />
+        <mark key="^" line="63" column="46" />
+        <mark key="." line="63" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/PaymentFragment.kt" timestamp="1563700817911">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="35" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskManager.kt" timestamp="1563694065055">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" timestamp="1563703106223">
+        <mark key="'" line="127" column="36" />
+        <mark key="[" line="154" column="47" />
+        <mark key="]" line="154" column="60" />
+        <mark key="." line="154" column="60" />
+        <mark key="^" line="154" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563705215285">
+        <mark key="'" line="142" column="82" />
+        <mark key="[" line="81" column="29" />
+        <mark key="]" line="81" column="31" />
+        <mark key="." line="81" column="31" />
+        <mark key="^" line="81" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/selializer/ItemTypeSerializer.kt" timestamp="1563702745452">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaPaymentAction.kt" timestamp="1563689479179">
         <mark key="[" line="19" column="23" />
@@ -95,42 +134,14 @@
         <mark key="." line="277" column="43" />
         <mark key="^" line="277" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_timeline.xml" timestamp="1563515019408">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_payment.xml" timestamp="1563699869838">
-        <mark key="'" line="182" column="26" />
-        <mark key="[" line="150" column="43" />
-        <mark key="]" line="150" column="46" />
-        <mark key="." line="150" column="46" />
-        <mark key="^" line="150" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareConstant.kt" timestamp="1563706978687">
-        <mark key="'" line="22" column="18" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="24" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_select_payment.xml" timestamp="1563699963485">
-        <mark key="'" line="76" column="68" />
-        <mark key="[" line="63" column="43" />
-        <mark key="]" line="63" column="46" />
-        <mark key="^" line="63" column="46" />
-        <mark key="." line="63" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/PaymentFragment.kt" timestamp="1563700817911">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-        <mark key="^" line="35" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/ui/program/list/ProgramListController.kt" timestamp="1563529278605">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="32" column="14" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/ui/ProgramViewerActivity.kt" timestamp="1563350329080">
+        <mark key="'" line="41" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1563693491371">
         <mark key="'" line="2" column="0" />
@@ -138,7 +149,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/com/cllive/player/PlayerModule.kt" timestamp="1563763551565" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/Menu.kt" timestamp="1563700008824">
         <mark key="'" line="53" column="26" />
         <mark key="[" line="14" column="0" />
@@ -146,12 +156,54 @@
         <mark key="^" line="44" column="19" />
         <mark key="." line="44" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/values/strings.xml" timestamp="1563699852425">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/accessibility/AccessibilityManager.java" timestamp="1563513471037">
+        <mark key="'" line="185" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/StationStatus.kt" timestamp="1563704515665">
+        <mark key="[" line="57" column="57" />
+        <mark key="]" line="57" column="72" />
+        <mark key="." line="57" column="72" />
+        <mark key="^" line="57" column="72" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/navigation/navigation_main.xml" timestamp="1563703254981">
+        <mark key="[" line="53" column="37" />
+        <mark key="]" line="53" column="37" />
+        <mark key="." line="53" column="37" />
+        <mark key="^" line="53" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_timeline.xml" timestamp="1563515019408">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/TurnOffTurnTableLight.kt" timestamp="1563684409347">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/AndroidManifest.xml" timestamp="1563691777974">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="31" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/resources/src/main/java/jp/cldh/resources/ui/component/adapter/EpoxyControllerProperty.kt" timestamp="1563760289675">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/Paging.kt" timestamp="1563528827980" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToRotationPoint.kt" timestamp="1563706963169">
+        <mark key="[" line="11" column="112" />
+        <mark key="]" line="11" column="111" />
+        <mark key="." line="11" column="111" />
+        <mark key="^" line="11" column="111" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" timestamp="1563761728915">
         <mark key="'" line="156" column="0" />
       </file>
@@ -161,73 +213,11 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/TurnOnTurnTableLight.kt" timestamp="1563684397664">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/AdminReceiver.kt" timestamp="1563692506475" />
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/WelcomeFragment.kt" timestamp="1563703139553">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="32" column="26" />
-        <mark key="^" line="32" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestWAONPaymentAction.kt" timestamp="1563689496550">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" timestamp="1563765086511">
-        <mark key="[" line="177" column="41" />
-        <mark key="]" line="177" column="41" />
-        <mark key="." line="177" column="41" />
-        <mark key="^" line="177" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563706443336">
-        <mark key="'" line="330" column="42" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/signin/src/main/res/layout/fragment_sign_in.xml" timestamp="1563330425908">
-        <mark key="'" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskManager.kt" timestamp="1563694065055">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/playground/HardwarePlaygroundFragment.kt" timestamp="1563703106223">
-        <mark key="'" line="127" column="36" />
-        <mark key="[" line="154" column="47" />
-        <mark key="]" line="154" column="60" />
-        <mark key="." line="154" column="60" />
-        <mark key="^" line="154" column="60" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/selializer/ItemTypeSerializer.kt" timestamp="1563702745452">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/Listing.kt" timestamp="1563527797890" />
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/values/strings.xml" timestamp="1563699852425">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="2" column="39" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/TurnOffTurnTableLight.kt" timestamp="1563684409347">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="5" column="26" />
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" timestamp="1563525820882">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="53" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/activity_main.xml" timestamp="1563694851910">
         <mark key="[" line="13" column="26" />
@@ -235,12 +225,18 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_payment.xml" timestamp="1563699869838">
+        <mark key="'" line="182" column="26" />
+        <mark key="[" line="150" column="43" />
+        <mark key="]" line="150" column="46" />
+        <mark key="." line="150" column="46" />
+        <mark key="^" line="150" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/store/GroupStore.kt" timestamp="1563527988532">
         <mark key="'" line="95" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerTimelineView.kt" />
       <jump line="18" column="6" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerTimelineView.kt" />
       <jump line="13" column="39" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_controller.xml" />
       <jump line="0" column="14" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout/view_player_timeline.xml" />
@@ -340,6 +336,7 @@
       <jump line="135" column="6" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" />
       <jump line="156" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/util/ext/ProgramExt.kt" />
+      <jump line="184" column="25" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/jp/cldh/player/PlayerControllerView.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
