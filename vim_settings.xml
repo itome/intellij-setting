@@ -67,7 +67,12 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1563795929353" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/build.gradle" timestamp="1563797574664">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="28" column="44" />
+        <mark key="." line="28" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/jp/cldh/test/di/InjectableTest.kt" timestamp="1563789813333">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -393,7 +398,7 @@
         <text encoding="base64">aW1wb3J0IGpwLmNsZGguY29yZS5kYXRhLnByb3RvLkdyb3VwU2VydmljZVByb3RvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>GroupServiceProto.ListGroupArtistResponse.newBuilder()</text>
@@ -423,9 +428,9 @@
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
-        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
