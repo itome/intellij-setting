@@ -225,12 +225,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563540478055">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="76" column="73" />
-        <mark key="]" line="76" column="71" />
-        <mark key="." line="76" column="71" />
-        <mark key="^" line="76" column="71" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563888431239">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="69" column="56" />
+        <mark key="]" line="69" column="55" />
+        <mark key="." line="69" column="55" />
+        <mark key="^" line="69" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterAdjuster.java" timestamp="1562259731534">
         <mark key="[" line="5" column="23" />
@@ -317,6 +317,7 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="10" column="61" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-lite/3.0.1/8566ccb35b5f73570348701e4586c81e60cb198a/protobuf-lite-3.0.1-sources.jar!/com/google/protobuf/GeneratedMessageLite.java" timestamp="1563438143102" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerAction.kt" timestamp="1563546744401">
         <mark key="'" line="6" column="6" />
         <mark key="[" line="6" column="0" />
@@ -420,6 +421,7 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaPaymentAction.kt" timestamp="1563888388048" />
       <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/res/layout/activity_player.xml" timestamp="1562260466533">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="26" column="27" />
@@ -716,7 +718,7 @@
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>currentStockerAction != null</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
@@ -737,14 +739,14 @@
         <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Run</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
