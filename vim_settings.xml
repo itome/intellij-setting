@@ -87,18 +87,19 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563868323991">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563869308051">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="247" column="0" />
-        <mark key="^" line="233" column="11" />
-        <mark key="." line="247" column="0" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="20" />
+        <mark key="." line="249" column="0" />
+        <mark key="^" line="247" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/local/ArtistInfo.kt" timestamp="1563849816160">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/PixelCopy.java" timestamp="1563870007898" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/KioskManager.kt" timestamp="1563694065055">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="22" />
@@ -108,6 +109,12 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="67" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/installedapp/src/androidTest/java/com/cllive/snapshot/ScreenshotUtil.kt" timestamp="1563870012572">
+        <mark key="[" line="73" column="21" />
+        <mark key="]" line="73" column="22" />
+        <mark key="^" line="73" column="22" />
+        <mark key="." line="73" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/xml/network_security_config.xml" timestamp="1563800062159">
         <mark key="[" line="3" column="56" />
@@ -329,37 +336,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZVByb2dyZXNzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlbGF5KDEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxheSgxMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxheSgxMDApCg==</text>
+        <text encoding="base64">ICAgIHdpdGhUaW1lb3V0KHRpbWVvdXRNaWxscykgewogICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgIGlmIChpc1R1cm5UYWJsZUZyb250RW1wdHkoKSkgYnJlYWsKICAgICAgICB0dXJuT25UdXJuVGFibGVMaWdodCgpCiAgICAgICAgdHVybk9mZlR1cm5UYWJsZUxpZ2h0KCkKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZnVuIGhpZGVBZnRlclRpbWVvdXQoKSB7CiAgICByZW1vdmVDYWxsYmFja3MoaGlkZUFjdGlvbikKICAgIGlmIChpc0F1dG9IaWRlRW5hYmxlZCkgcG9zdERlbGF5ZWQoaGlkZUFjdGlvbiwgREVGQVVMVF9USU1FT1VUX01TKQogIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWxheSgxMDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uUG9zaXRpb25EaXNjb250aW51aXR5KHJlYXNvbjogSW50KSB7CiAgICBoaWRlQWZ0ZXJUaW1lb3V0KCkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxheSgxMDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXIK</text>
+        <text encoding="base64">CiAgZnVuIGhpZGVBZnRlclRpbWVvdXQoKSB7CiAgICByZW1vdmVDYWxsYmFja3MoaGlkZUFjdGlvbikKICAgIGlmIChpc0F1dG9IaWRlRW5hYmxlZCkgcG9zdERlbGF5ZWQoaGlkZUFjdGlvbiwgREVGQVVMVF9USU1FT1VUX01TKQogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZVByb2dyZXNzKCkK</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uUG9zaXRpb25EaXNjb250aW51aXR5KHJlYXNvbjogSW50KSB7CiAgICBoaWRlQWZ0ZXJUaW1lb3V0KCkKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLm9uUG9zaXRpb25EaXNjb250aW51aXR5KHJlYXNvbikK</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVByb2dyZXNzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvbkNvbnQK</text>
+        <text encoding="base64">ICAgIHN1cGVyLm9uUG9zaXRpb25EaXNjb250aW51aXR5KHJlYXNvbikK</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.OptimizeImportAndReformatCode</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>show()</text>
@@ -382,16 +389,16 @@
         <entry>action GotoAction</entry>
         <entry>action ParameterInfo</entry>
         <entry>action RenameElement</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action FindInPath</entry>
+        <entry>action Back</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
