@@ -15,21 +15,6 @@
         <mark key="^" line="43" column="32" />
         <mark key="." line="43" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/group/detail/GroupDetailFragment.kt" timestamp="1563849671457">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/local/ProgramResponse.kt" timestamp="1563849824289">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/store/GroupStore.kt" timestamp="1563849898436">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/di/artist/list/ArtistListModule.kt" timestamp="1563782435494">
         <mark key="[" line="22" column="53" />
         <mark key="]" line="22" column="70" />
@@ -55,11 +40,12 @@
         <mark key="." line="107" column="62" />
         <mark key="^" line="107" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/list/ArtistListFragment.kt" timestamp="1563850472854">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="17" />
+      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/list/ArtistListFragment.kt" timestamp="1563850782474">
+        <mark key="'" line="7" column="38" />
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="27" column="58" />
+        <mark key="." line="27" column="58" />
+        <mark key="^" line="27" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/ui/artist/list/ArtistListViewModel.kt" timestamp="1563785148101">
         <mark key="[" line="26" column="6" />
@@ -233,9 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/animator/scale_up.xml" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/animator/scale_down.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/animator/scale_down.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/animator/scale_up.xml" />
       <jump line="0" column="2" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/animator/slide_right.xml" />
       <jump line="83" column="17" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" />
@@ -333,6 +316,9 @@
       <jump line="1767" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.4.0/6d5f8e6d209c309d9ef3e30aa81135ee94cc7d49/protobuf-java-util-3.4.0-sources.jar!/com/google/protobuf/util/JsonFormat.java" />
       <jump line="96" column="22" filename="$USER_HOME$/Projects/love/android/features/search/src/test/java/jp/cldh/search/ui/artist/list/ArtistListFragmentTest.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/love/android/features/search/src/test/java/jp/cldh/search/ui/artist/list/ArtistListFragmentTest.kt" />
+      <jump line="17" column="58" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/list/ArtistListFragment.kt" />
+      <jump line="104" column="2" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/group/detail/GroupDetailFragment.kt" />
+      <jump line="7" column="38" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/list/ArtistListFragment.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -369,7 +355,7 @@
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>bindwing</text>
       </register>
     </registers>
     <search>
@@ -387,17 +373,17 @@
         <entry>action GoToLastTab</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action FindInPath</entry>
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action SaveAll</entry>
+        <entry>action FindInPath</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
-        <entry>action SaveAll</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
