@@ -195,12 +195,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563889481790">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="100" column="2" />
-        <mark key="]" line="100" column="9" />
-        <mark key="." line="100" column="9" />
-        <mark key="^" line="100" column="9" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" timestamp="1563897175111">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="98" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/GPUVideo-android/sample/src/main/java/com/daasuu/gpuvideoandroid/FilterAdjuster.java" timestamp="1562259731534">
         <mark key="[" line="5" column="23" />
@@ -275,6 +275,7 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="10" column="61" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-lite/3.0.1/8566ccb35b5f73570348701e4586c81e60cb198a/protobuf-lite-3.0.1-sources.jar!/com/google/protobuf/GeneratedMessageLite.java" timestamp="1563438143102" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveStockerAction.kt" timestamp="1563546744401">
         <mark key="'" line="6" column="6" />
         <mark key="[" line="6" column="0" />
@@ -524,19 +525,19 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="32" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563898755655">
+        <mark key="[" line="97" column="85" />
+        <mark key="]" line="98" column="64" />
+        <mark key="^" line="98" column="64" />
+        <mark key="." line="98" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToOverSetup.kt" timestamp="1563551846195">
         <mark key="[" line="12" column="66" />
         <mark key="]" line="12" column="98" />
         <mark key="." line="12" column="98" />
         <mark key="^" line="12" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563890388222">
-        <mark key="'" line="137" column="31" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="133" column="82" />
-      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" timestamp="1563898848532" />
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/SuicaCompleteResponse.kt" timestamp="1563281254905">
         <mark key="'" line="8" column="11" />
         <mark key="[" line="28" column="37" />
@@ -558,8 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_timeline.xml" />
-      <jump line="24" column="35" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_timeline.xml" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_timeline.xml" />
       <jump line="52" column="36" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_timeline.xml" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/love/android/features/player/src/main/res/layout-land/view_player_timeline.xml" />
@@ -658,43 +657,47 @@
       <jump line="117" column="2" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="135" column="31" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaPaymentAction.kt" />
+      <jump line="132" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsAction.kt" />
+      <jump line="69" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/JMupsManager.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja1Jlc3BvbnNlLmNvbW1hbmRDb2RlID09IEpNdXBzUmVzcG9uc2UuQ29tbWFuZENvZGUuQVAgJiYKICAgICAgICBjaGVja1Jlc3BvbnNlLnJlc3BvbnNlQ29kZSAhPSBKTXVwc1Jlc3BvbnNlLlJlc3BvbnNlQ29kZS5QRU5ESU5HCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZWxlY3RlZEl0ZW0gPSBfc2VsZWN0ZWRJdGVtLnZhbHVlID86IHJldHVybgogICAgdmFsIHNlbGVjdGVkU2VydmljZSA9IF9wYXltZW50U2VydmljZS52YWx1ZSA/OiByZXR1cm4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UuY29tbWFuZENvZGUgPT0gSk11cHNSZXNwb25zZS5Db21tYW5kQ29kZS5BMSAmJgo=</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIHN1c3BlbmQgZnVuIG9uUGF5bWVudEZhaWxlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UuY29tbWFuZENvZGUgPT0gSk11cHNSZXNwb25zZS5Db21tYW5kQ29kZS5BMSAmJgo=</text>
+        <text encoding="base64">CiAgICAgIGlmIChyZXNwb25zZS50eXBlID09IFBheW1lbnRSZXN1bHQuVHlwZS5DT01QTEVURUQpIHsKICAgICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UuY29tbWFuZENvZGUgPT0gSk11cHNSZXNwb25zZS5Db21tYW5kQ29kZS5BMSAmJgo=</text>
+      <register name="3" type="4">
+        <text>{
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVxdQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UucmVzcG9uc2VDb2RlID09IEpNdXBzUmVzcG9uc2UuUmVzcG9uc2VDb2RlLlBFTkRJTkcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIltEZWJ1ZzogYmFzZTY0RGVjb2RlZF0iKS5kKHRoaXMpCg==</text>
+        <text encoding="base64">ICAgIF9qTXVwc0F2YWlsYWJsZS5wb3N0VmFsdWUodHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIlkiLnRvQnl0ZUFycmF5KFN0YW5kYXJkQ2hhcnNldHMuVVNfQVNDSUkpLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIF9qTXVwc0F2YWlsYWJsZS5wb3N0VmFsdWUodHJ1ZSkKICAgICAgICAgIF9zY3JlZW4ucG9zdFZhbHVlKFNjcmVlbi5USU1FT1VUKQogICAgICAgICAgZGVsYXkoU0NSRUVOX0lOVEVSVkFMKQogICAgICAgICAgX3NjcmVlbi5wb3N0VmFsdWUoU2NyZWVuLldFTENPTUUpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIExvZwo=</text>
+      <register name="8" type="4">
+        <text>{
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGptdXBzTWFuYWdlci5yZXF1ZXN0RWR5UGF5bWVudCgxKQo=</text>
+        <text encoding="base64">ICAKICBzdXNwZW5kIGZ1biBzdGFydERlbGl2ZXJ5KCkgewogICAgX3NjcmVlbi5wb3N0VmFsdWUoU2NyZWVuLlBBWU1FTlRfQ09NUExFVEVEKQoKICAgIHJlbW90ZVJlcG9zaXRvcnkucG9zdE9yZGVyKAogICAgICBzZWxlY3RlZEl0ZW0uaWQsCiAgICAgIHNlbGVjdGVkSXRlbS5wcmljZSwKICAgICAgMSwKICAgICAgc2VsZWN0ZWRTZXJ2aWNlLmlkLAogICAgICB0aW1lc3RhbXAsCiAgICAgIHJlc3BvbnNlLm1hc2tlZElkaQogICAgKQoKICAgIGRlbGF5KFNDUkVFTl9JTlRFUlZBTCkKICAgIF9zY3JlZW4ucG9zdFZhbHVlKFNjcmVlbi5ERUxJVkVSSU5HKQogIH0KICAKICBzdXNwZW5kIGZ1bkkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>0000APeyJPdXRwdXRDb21wbGV0ZUV2ZW50Ijp7IlNlcXVlbmNlTnVtYmVyIjoxMDAsIkN1cnJlbnRTZXJ2aWNlIjoiU3VpY2EiLCJBY2NvdW50TnVtYmVyIjoiSkUqKioqKioqKioqKjM0NDciLCJCYWxhbmNlIjoyODI1LCJTZXR0bGVkQW1vdW50IjoxLCJQYXltZW50Q29uZGl0aW9uIjoxMTEsIkFkZGl0aW9uYWxTZWN1cml0eUluZm9ybWF0aW9uIjp7InNwcndpZCI6IkpXMTA3MTA4NTUyMTQiLCJ0aW1lIjoiMTkvM</text>
+        <text>suspend</text>
       </register>
     </registers>
     <search>
@@ -711,19 +714,19 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQmFjaw==</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Back</entry>
-        <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Back</entry>
+        <entry>action RenameElement</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
