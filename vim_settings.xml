@@ -340,7 +340,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFEOmZlYXR1cmVzL2NvcmUvc3JjL21haW4vamF2YS9jb20vY2xsaXZlL2NvcmUvZGF0YS9zdG9yZS9Hcm91cFN0b3JlLmt0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>R.layout.activity_program_viewer</text>
@@ -371,8 +371,8 @@
         <entry>action Find</entry>
         <entry>action FindInPath</entry>
         <entry>action SaveAll</entry>
-        <entry>action GotoAction</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
