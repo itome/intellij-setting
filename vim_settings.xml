@@ -70,12 +70,12 @@
         <mark key="." line="64" column="29" />
         <mark key="^" line="64" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/search/src/test/java/com/cllive/search/ui/artist/list/ArtistListFragment.kt" timestamp="1563875036107">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="95" column="83" />
-        <mark key="]" line="95" column="90" />
-        <mark key="." line="95" column="90" />
-        <mark key="^" line="95" column="90" />
+      <file name="$USER_HOME$/Projects/love/android/features/search/src/test/java/com/cllive/search/ui/artist/list/ArtistListFragment.kt" timestamp="1563876040966">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="97" column="30" />
+        <mark key="]" line="97" column="49" />
+        <mark key="." line="97" column="49" />
+        <mark key="^" line="97" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/ui/group/list/GroupListController.kt" timestamp="1563782674922">
         <mark key="[" line="28" column="20" />
@@ -296,10 +296,10 @@
         <text encoding="base64">ICAgIHJldHVybiAocngudHVyblRhYmxlID09IDAgJiYgcngudHVyblRhYmxlQ3VwU2Vuc29yU3RhdGUgIT0gMyAmJiByeC50dXJuVGFibGVDdXBTZW5zb3JTdGF0ZSAhPSA0KSB8fAogICAgICAgIChyeC50dXJuVGFibGUgPT0gMSAmJiByeC50dXJuVGFibGVDdXBTZW5zb3JTdGF0ZSAhPSAyICYmIHJ4LnR1cm5UYWJsZUN1cFNlbnNvclN0YXRlICE9IDQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
-        <text>testImplementation</text>
+        <text>json</text>
       </register>
     </registers>
     <search>
@@ -320,15 +320,15 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
         <entry>action Run</entry>
-        <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
