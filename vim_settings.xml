@@ -9,6 +9,9 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" timestamp="1563857858783">
+        <mark key="'" line="179" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/values/colors.xml" timestamp="1563794445856">
         <mark key="[" line="43" column="32" />
         <mark key="]" line="43" column="32" />
@@ -204,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" />
-      <jump line="8" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestSuicaSalesAction.kt" />
       <jump line="8" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestEdySales.kt" />
@@ -304,6 +305,8 @@
       <jump line="96" column="66" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/com/cllive/programviewer/ui/ProgramViewerActivity.kt" />
       <jump line="83" column="25" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/com/cllive/programviewer/ui/ProgramViewerActivity.kt" />
       <jump line="75" column="4" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/com/cllive/programviewer/ui/ProgramViewerActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" />
+      <jump line="179" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/res/layout-land/activity_program_viewer.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -337,7 +340,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFEOmZlYXR1cmVzL2NvcmUvc3JjL21haW4vamF2YS9jb20vY2xsaXZlL2NvcmUvZGF0YS9zdG9yZS9Hcm91cFN0b3JlLmt0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>R.layout.activity_program_viewer</text>
@@ -361,15 +364,15 @@
         <entry>action RenameElement</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action FindInPath</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Run</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Find</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Find</entry>
+        <entry>action FindInPath</entry>
+        <entry>action SaveAll</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
