@@ -69,12 +69,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563802516806">
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563856497967">
         <mark key="'" line="155" column="51" />
-        <mark key="[" line="211" column="17" />
-        <mark key="]" line="212" column="28" />
-        <mark key="^" line="212" column="28" />
-        <mark key="." line="212" column="28" />
+        <mark key="[" line="130" column="30" />
+        <mark key="]" line="130" column="29" />
+        <mark key="^" line="130" column="29" />
+        <mark key="." line="130" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/local/ArtistInfo.kt" timestamp="1563849816160">
         <mark key="[" line="5" column="0" />
@@ -337,7 +337,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFEOmZlYXR1cmVzL2NvcmUvc3JjL21haW4vamF2YS9jb20vY2xsaXZlL2NvcmUvZGF0YS9zdG9yZS9Hcm91cFN0b3JlLmt0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>R.layout.activity_program_viewer</text>
@@ -359,17 +359,17 @@
         <entry>action GotoImplementation</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry>action Find</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action FindInPath</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Find</entry>
         <entry>action Back</entry>
         <entry>action SaveAll</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
