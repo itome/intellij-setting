@@ -296,7 +296,7 @@
         <text encoding="base64">ICAgIHJldHVybiAocngudHVyblRhYmxlID09IDAgJiYgcngudHVyblRhYmxlQ3VwU2Vuc29yU3RhdGUgIT0gMyAmJiByeC50dXJuVGFibGVDdXBTZW5zb3JTdGF0ZSAhPSA0KSB8fAogICAgICAgIChyeC50dXJuVGFibGUgPT0gMSAmJiByeC50dXJuVGFibGVDdXBTZW5zb3JTdGF0ZSAhPSAyICYmIHJ4LnR1cm5UYWJsZUN1cFNlbnNvclN0YXRlICE9IDQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>json</text>
@@ -320,15 +320,15 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
         <entry>action Run</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
