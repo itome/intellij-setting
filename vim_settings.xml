@@ -87,12 +87,12 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563862907374">
-        <mark key="'" line="233" column="11" />
-        <mark key="[" line="233" column="12" />
-        <mark key="]" line="233" column="11" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563868323991">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
         <mark key="^" line="233" column="11" />
-        <mark key="." line="233" column="11" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/local/ArtistInfo.kt" timestamp="1563849816160">
         <mark key="[" line="5" column="0" />
@@ -226,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="42" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="2" column="6" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToOverSetup.kt" />
       <jump line="143" column="82" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/values/strings.xml" />
@@ -326,40 +325,41 @@
       <jump line="79" column="4" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="234" column="11" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
       <jump line="64" column="71" filename="$USER_HOME$/Projects/love/android/features/player/src/main/java/com/cllive/player/PlayerManager.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVwZGF0ZVByb2dyZXNzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZnVuIGhpZGVBZnRlclRpbWVvdXQoKSB7CiAgICByZW1vdmVDYWxsYmFja3MoaGlkZUFjdGlvbikKICAgIGlmIChpc0F1dG9IaWRlRW5hYmxlZCkgcG9zdERlbGF5ZWQoaGlkZUFjdGlvbiwgREVGQVVMVF9USU1FT1VUX01TKQogIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWxheSgxMDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uUG9zaXRpb25EaXNjb250aW51aXR5KHJlYXNvbjogSW50KSB7CiAgICBoaWRlQWZ0ZXJUaW1lb3V0KCkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxheSgxMDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXIK</text>
+        <text encoding="base64">CiAgZnVuIGhpZGVBZnRlclRpbWVvdXQoKSB7CiAgICByZW1vdmVDYWxsYmFja3MoaGlkZUFjdGlvbikKICAgIGlmIChpc0F1dG9IaWRlRW5hYmxlZCkgcG9zdERlbGF5ZWQoaGlkZUFjdGlvbiwgREVGQVVMVF9USU1FT1VUX01TKQogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZVByb2dyZXNzKCkK</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uUG9zaXRpb25EaXNjb250aW51aXR5KHJlYXNvbjogSW50KSB7CiAgICBoaWRlQWZ0ZXJUaW1lb3V0KCkKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLm9uUG9zaXRpb25EaXNjb250aW51aXR5KHJlYXNvbikK</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVByb2dyZXNzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvbkNvbnQK</text>
+        <text encoding="base64">ICAgIHN1cGVyLm9uUG9zaXRpb25EaXNjb250aW51aXR5KHJlYXNvbikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvbkNvbnRpCg==</text>
+        <text encoding="base64">ICBvbkNvbnQK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Macro.OptimizeImportAndReformatCode</text>
       </register>
       <register name="-" type="4">
         <text>show()</text>
@@ -385,13 +385,13 @@
         <entry>action FindInPath</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action SaveAll</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
