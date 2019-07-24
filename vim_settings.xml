@@ -525,11 +525,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="32" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563898755655">
-        <mark key="[" line="97" column="85" />
-        <mark key="]" line="98" column="64" />
-        <mark key="^" line="98" column="64" />
-        <mark key="." line="98" column="64" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563973054694">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="43" />
+        <mark key="^" line="118" column="45" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToOverSetup.kt" timestamp="1563551846195">
         <mark key="[" line="12" column="66" />
@@ -662,39 +662,39 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZWxlY3RlZEl0ZW0gPSBfc2VsZWN0ZWRJdGVtLnZhbHVlID86IHJldHVybgogICAgdmFsIHNlbGVjdGVkU2VydmljZSA9IF9wYXltZW50U2VydmljZS52YWx1ZSA/OiByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICB0aW1lb3V0Sm9iPy5jYW5jZWwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBwcml2YXRlIHN1c3BlbmQgZnVuIG9uUGF5bWVudEZhaWxlZAo=</text>
+        <text encoding="base64">ICAgICAgICBfc2NyZWVuLnBvc3RWYWx1ZShTY3JlZW4uV0VMQ09NRSkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAKICBwcml2YXRlIHN1c3BlbmQgZnVuIG9uUGF5bWVudEZhaWxlZAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICAgIGlmIChyZXNwb25zZS50eXBlID09IFBheW1lbnRSZXN1bHQuVHlwZS5DT01QTEVURUQpIHsKICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
         }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9qTXVwc0F2YWlsYWJsZS5wb3N0VmFsdWUodHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIF9qTXVwc0F2YWlsYWJsZS5wb3N0VmFsdWUodHJ1ZSkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIF9qTXVwc0F2YWlsYWJsZS5wb3N0VmFsdWUodHJ1ZSkKICAgICAgICAgIF9zY3JlZW4ucG9zdFZhbHVlKFNjcmVlbi5USU1FT1VUKQogICAgICAgICAgZGVsYXkoU0NSRUVOX0lOVEVSVkFMKQogICAgICAgICAgX3NjcmVlbi5wb3N0VmFsdWUoU2NyZWVuLldFTENPTUUpCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
         }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAKICBzdXNwZW5kIGZ1biBzdGFydERlbGl2ZXJ5KCkgewogICAgX3NjcmVlbi5wb3N0VmFsdWUoU2NyZWVuLlBBWU1FTlRfQ09NUExFVEVEKQoKICAgIHJlbW90ZVJlcG9zaXRvcnkucG9zdE9yZGVyKAogICAgICBzZWxlY3RlZEl0ZW0uaWQsCiAgICAgIHNlbGVjdGVkSXRlbS5wcmljZSwKICAgICAgMSwKICAgICAgc2VsZWN0ZWRTZXJ2aWNlLmlkLAogICAgICB0aW1lc3RhbXAsCiAgICAgIHJlc3BvbnNlLm1hc2tlZElkaQogICAgKQoKICAgIGRlbGF5KFNDUkVFTl9JTlRFUlZBTCkKICAgIF9zY3JlZW4ucG9zdFZhbHVlKFNjcmVlbi5ERUxJVkVSSU5HKQogIH0KICAKICBzdXNwZW5kIGZ1bkkK</text>
-      </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text>suspend</text>
@@ -721,12 +721,12 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
-        <entry>action SaveAll</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
