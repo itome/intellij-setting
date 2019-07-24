@@ -3,8 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/group/detail/GroupDetailFragment.kt" timestamp="1563945312073">
-        <mark key="'" line="124" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/values/colors.xml" timestamp="1563794445856">
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="32" />
+        <mark key="^" line="43" column="32" />
+        <mark key="." line="43" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/store/GroupStore.kt" timestamp="1563949898392">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/test/java/com/cllive/search/ui/artist/list/ArtistListFragmentTest.kt" timestamp="1563941789284">
         <mark key="'" line="20" column="25" />
@@ -12,6 +19,24 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/CheckTurnTableFronCup.kt" timestamp="1563859707619">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/local/ProgramResponse.kt" timestamp="1563784855448">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/player/src/main/java/com/cllive/player/PlayerManager.kt" timestamp="1563934550752">
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="60" column="25" />
+        <mark key="." line="60" column="25" />
+        <mark key="^" line="60" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/di/artist/list/ArtistListModule.kt" timestamp="1563947321206">
         <mark key="'" line="31" column="0" />
@@ -25,17 +50,62 @@
         <mark key="." line="36" column="71" />
         <mark key="^" line="36" column="71" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-protobuf/2.6.0/76d7054c3cd6195bd8bbacf4d19ded302dca14d0/converter-protobuf-2.6.0-sources.jar!/retrofit2/converter/protobuf/ProtoConverterFactory.java" timestamp="1563936326147">
+        <mark key="'" line="54" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/repository/GroupRepository.kt" timestamp="1563949789117">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/di/CoreComponent.kt" timestamp="1563950015649">
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="45" column="31" />
+        <mark key="^" line="45" column="31" />
+        <mark key="." line="45" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/ui/program/list/ProgramListViewModel.kt" timestamp="1563782396221">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="68" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/com/cllive/programviewer/ui/info/ProgramViewerInfoFragment.kt" timestamp="1563950879796">
+        <mark key="'" line="21" column="6" />
+        <mark key="[" line="67" column="58" />
+        <mark key="]" line="68" column="90" />
+        <mark key="." line="68" column="90" />
+        <mark key="^" line="68" column="90" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/buildSrc/src/main/kotlin/dependencies/Versions.kt" timestamp="1563932959348">
         <mark key="[" line="26" column="62" />
         <mark key="]" line="27" column="65" />
         <mark key="." line="27" column="65" />
         <mark key="^" line="27" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/detail/ArtistDetailViewModel.kt" timestamp="1563948058747">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="67" />
-        <mark key="." line="15" column="67" />
-        <mark key="^" line="15" column="67" />
+      <file name="$USER_HOME$/Projects/love/android/installedapp/src/androidTest/java/com/cllive/snapshot/ScreenshotUtil.kt" timestamp="1563870012572">
+        <mark key="[" line="73" column="21" />
+        <mark key="]" line="73" column="22" />
+        <mark key="^" line="73" column="22" />
+        <mark key="." line="73" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/presentation/MainViewModel.kt" timestamp="1563874068395">
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="48" />
+        <mark key="." line="34" column="48" />
+        <mark key="^" line="34" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/detail/ArtistDetailViewModel.kt" timestamp="1563950541704">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="25" column="76" />
+        <mark key="^" line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/di/artist/list/ArtistListComponent.kt" timestamp="1563782451050">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/com/cllive/test/InstrumentTestRunner.kt" timestamp="1563943855413">
         <mark key="[" line="15" column="0" />
@@ -43,12 +113,26 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/res/navigation/nav_main.xml" timestamp="1563948509968">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="93" column="50" />
-        <mark key="]" line="94" column="7" />
-        <mark key="." line="94" column="7" />
-        <mark key="^" line="94" column="7" />
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/res/navigation/nav_main.xml" timestamp="1563950785451">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.0-M1/590425dd923dc790483e7f124cd7715a3b190945/kotlinx-coroutines-core-1.3.0-M1-sources.jar!/commonMain/Timeout.kt" timestamp="1563861711907">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="18" column="93" />
+        <mark key="^" line="18" column="95" />
+        <mark key="." line="18" column="95" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/model/StationStatus.kt" timestamp="1563873868847">
+        <mark key="[" line="64" column="31" />
+        <mark key="]" line="64" column="29" />
+        <mark key="." line="64" column="29" />
+        <mark key="^" line="64" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/signin/build.gradle.kts" timestamp="1563942803686">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/di/artist/detail/ArtistDetailComponent.kt" timestamp="1563947785174">
         <mark key="[" line="29" column="27" />
@@ -56,15 +140,32 @@
         <mark key="." line="29" column="46" />
         <mark key="^" line="29" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/repository/ArtistRepository.kt" timestamp="1563949795202">
+        <mark key="j" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/search/src/test/java/com/cllive/search/ui/artist/list/ArtistListFragment.kt" timestamp="1563932997584">
+        <mark key="'" line="60" column="18" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="97" column="49" />
+        <mark key="." line="97" column="49" />
+        <mark key="^" line="97" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/res/layout/fragment_artist_list.xml" timestamp="1563947132143">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/detail/ArtistDetailFragment.kt" timestamp="1563947912555">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="10" />
+      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/detail/ArtistDetailFragment.kt" timestamp="1563950649433">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="44" column="67" />
+        <mark key="]" line="44" column="65" />
+        <mark key="." line="44" column="65" />
+        <mark key="^" line="44" column="65" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/ui/group/list/GroupListController.kt" timestamp="1563782674922">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/installedapp/build.gradle.kts" timestamp="1563942933246">
         <mark key="[" line="25" column="0" />
@@ -76,6 +177,18 @@
         <mark key="'" line="9" column="6" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="39" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/di/artist/list/ArtistListModule.kt" timestamp="1563782435494">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="22" column="70" />
+        <mark key="." line="22" column="70" />
+        <mark key="^" line="22" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/CheckTurnTableFrontCup.kt" timestamp="1563859713878">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/signin/src/test/java/com/cllive/signin/ui/top/SignInFragmentTest.kt" timestamp="1563944667456">
         <mark key="[" line="62" column="0" />
@@ -95,11 +208,20 @@
         <mark key="." line="96" column="32" />
         <mark key="^" line="96" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/repository/ArtistRepositoryImpl.kt" timestamp="1563949785056">
+        <mark key="'" line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/test/src/main/java/com/cllive/test/TestRunner.kt" timestamp="1563943844348">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="12" column="63" />
         <mark key="." line="12" column="63" />
         <mark key="^" line="12" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/HardwareManager.kt" timestamp="1563874465977">
+        <mark key="[" line="249" column="16" />
+        <mark key="]" line="249" column="16" />
+        <mark key="^" line="249" column="16" />
+        <mark key="." line="249" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/di/artist/detail/ArtistDetailModule.kt" timestamp="1563947354999">
         <mark key="[" line="22" column="2" />
@@ -107,8 +229,36 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563947088276">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/xml/network_security_config.xml" timestamp="1563800062159">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="61" />
+        <mark key="." line="3" column="61" />
+        <mark key="^" line="3" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/com/cllive/programviewer/ui/ProgramViewerActivity.kt" timestamp="1563950847004">
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="96" column="82" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/jp/cldh/core/data/remote/GroupDataSourceImpl.kt" timestamp="1563786061952">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="19" />
+        <mark key="^" line="37" column="19" />
+        <mark key="." line="37" column="67" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToSetupRotationPoint.kt" timestamp="1563802025064">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/store/ArtistStore.kt" timestamp="1563950511806">
+        <mark key="[" line="18" column="88" />
+        <mark key="]" line="18" column="87" />
+        <mark key="." line="18" column="87" />
+        <mark key="^" line="18" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/list/ArtistListViewModel.kt" timestamp="1563947051205">
         <mark key="[" line="17" column="0" />
@@ -120,18 +270,43 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-lite/3.0.1/8566ccb35b5f73570348701e4586c81e60cb198a/protobuf-lite-3.0.1-sources.jar!/com/google/protobuf/GeneratedMessageLite.java" timestamp="1563935683276">
+        <mark key="[" line="1463" column="8" />
+        <mark key="]" line="1463" column="7" />
+        <mark key="^" line="1463" column="7" />
+        <mark key="." line="1463" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/di/artist/list/ArtistListComponent.kt" timestamp="1563947367399">
         <mark key="'" line="2" column="10" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/MoveChefToOverDeliveryRotation.kt" timestamp="1563802315975">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="70" />
+        <mark key="^" line="12" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/hardware/action/CheckTurnTableFrontCupExists.kt" timestamp="1563860304956">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="12" column="88" />
+        <mark key="^" line="12" column="88" />
+        <mark key="." line="12" column="88" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/store/SettingsStore.kt" timestamp="1563949828838">
+        <mark key="'" line="2" column="11" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="24" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/repository/GroupRepositoryImpl.kt" timestamp="1563949781984">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/love/android/installedapp/src/androidTest/java/com/cllive/snapshot/TypographyScreenshot.kt" timestamp="1563942586588">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="45" column="1" />
-      </file>
-      <file name="/fragment.java" timestamp="1563936549382">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/love/android/features/search/src/main/res/layout/fragment_artist_detail.xml" timestamp="1563947150148">
         <mark key="[" line="10" column="0" />
@@ -141,12 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/di/program/list/ProgramListComponent.kt" />
-      <jump line="11" column="14" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/di/artist/list/ArtistListComponent.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/ui/artist/list/ArtistListFragment.kt" />
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/ui/program/list/ProgramListFragment.kt" />
-      <jump line="100" column="9" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/ui/group/detail/GroupDetailFragment.kt" />
-      <jump line="28" column="12" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/ui/group/detail/GroupDetailFragment.kt" />
       <jump line="111" column="0" filename="$USER_HOME$/Projects/love/android/features/search/src/main/res/layout/fragment_group_detail.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/jp/cldh/programviewer/di/ProgramViewerInfoComponent.kt" />
       <jump line="10" column="10" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/jp/cldh/search/di/artist/list/ArtistListComponent.kt" />
@@ -241,43 +410,49 @@
       <jump line="10" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/res/navigation/nav_main.xml" />
       <jump line="90" column="0" filename="$USER_HOME$/Projects/love/android/features/core/src/main/res/navigation/nav_main.xml" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/list/ArtistListFragment.kt" />
+      <jump line="8" column="6" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/repository/ArtistRepositoryImpl.kt" />
+      <jump line="2" column="11" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/store/SettingsStore.kt" />
+      <jump line="17" column="64" filename="$USER_HOME$/Projects/love/android/features/core/src/main/java/com/cllive/core/data/store/ArtistStore.kt" />
+      <jump line="15" column="6" filename="$USER_HOME$/Projects/love/android/features/search/src/main/java/com/cllive/search/ui/artist/detail/ArtistDetailFragment.kt" />
+      <jump line="41" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/com/cllive/programviewer/ui/ProgramViewerActivity.kt" />
+      <jump line="19" column="6" filename="$USER_HOME$/Projects/love/android/features/programviewer/src/main/java/com/cllive/programviewer/ui/info/ProgramViewerInfoFragment.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmNvcmVDb21wb25lbnQoY29yZUNvbXBvbmVudCgpKQogICAgICAuZnJhZ21lbnQodGhpcykKICAgICAgLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgIDxhY3Rpb24KICAgICAgYW5kcm9pZDppZD0iQCtpZC90b19hcnRpc3RfZGV0YWlsIgogICAgICBhcHA6ZGVzdGluYXRpb249IkBpZC9mcmFnbWVudF9hcnRpc3RfZGV0YWlsIgogICAgICAvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE86IE5hdmlnYXRlIHRvIGFydGlzdCBkZXRhaWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZ1biBvbkFydGlzdENsaWNrKGFydGlzdDogQXJ0aXN0UHJvdG8uQXJ0aXN0KSB7CiAgICAvLyBUT0RPOiBOYXZpZ2F0ZSB0byBhcnRpc3QgZGV0YWlsCg==</text>
+        <text encoding="base64">ICAgIDxhY3Rpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXJ0aXN0UmVwb3NpdG9yeS5nZXRBcnRpc3RCeUNvZGUoYXJ0aXN0Q29kZSkgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICA8ZnJhZ21lbnQKICAgIGFuZHJvaWQ6aWQ9IkAraWQvZnJhZ21lbnRfYXJ0aXN0X2RldGFpbCIK</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmZyYWdtZW50KHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgTG9nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERhZ2dlckFydAo=</text>
+        <text encoding="base64">ICAgICAgYXJ0aXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERhZ2dlckFydGlzdERldGFpbENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jbGxpdmUucmVzb3VyY2VzLnVpLmNvbXBvbmVudC5iaW5kaW5nLmJpbmRpbmcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgYmluZGluZzogRnJhZ21lbnRBcnRpc3REZXRhaWxCaW5kaW5nIGJ5IGJpbmRpbmcoUi5sYXlvdXQuZnJhZ21lbnRfYXJ0aXN0X2RldGFpbCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>ArtistList</text>
+        <text>ArtistServiceProto.GetArtistResponse</text>
       </register>
     </registers>
     <search>
@@ -294,16 +469,16 @@
         <entry>action GoToLastTab</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action RenameElement</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Back</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action SaveAll</entry>
         <entry>action Run</entry>
