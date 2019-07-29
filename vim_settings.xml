@@ -117,6 +117,12 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/res/layout/fragment_signage.xml" timestamp="1564399763098">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/newinnovations/develop-director/app/src/main/java/work/newinnovations/director/infrastructure/jmups/action/JMupsRequestWAONSalesAction.kt" timestamp="1563387907473">
         <mark key="'" line="8" column="6" />
         <mark key="[" line="30" column="0" />
@@ -703,7 +709,7 @@
         <text encoding="base64">ICAgICAgaGFyZHdhcmVNYW5hZ2VyLmhvbGRBbGwodHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aG9sZCAmJiA=</text>
@@ -727,15 +733,15 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
-        <entry>action Run</entry>
         <entry>action Find</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action Run</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
