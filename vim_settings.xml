@@ -11,17 +11,17 @@
         <mark key="." line="55" column="58" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/FeedViewController.swift" timestamp="1564408698932">
-        <mark key="]" line="70" column="5" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="16" column="31" />
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/FeedViewController.swift" timestamp="1564418960164">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" timestamp="1564415506921">
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" timestamp="1564419546764">
         <mark key="'" line="91" column="44" />
-        <mark key="[" line="191" column="25" />
-        <mark key="]" line="191" column="25" />
-        <mark key="." line="191" column="25" />
-        <mark key="^" line="193" column="22" />
+        <mark key="[" line="195" column="19" />
+        <mark key="]" line="195" column="19" />
+        <mark key="." line="195" column="19" />
+        <mark key="^" line="195" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Favorites/FavoritesViewController.swift" timestamp="1564408786771">
         <mark key="'" line="54" column="0" />
@@ -38,6 +38,10 @@
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/BrandList/BrandListViewController.swift" timestamp="1564418921839">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/UINavigationItem+.swift" timestamp="1564408126328" />
     </filemarks>
@@ -57,41 +61,41 @@
       <jump line="8" column="8" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/ParentTabBarController.swift" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>ParentTabBarController</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlzbWlzcyhhbmltYXRlZDogdHJ1ZSkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc21pc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyYW5kVmlld0NvbnRyb2xsZXIucHVzaCh2aWV3Q29udHJvbGxlcjogdG9wVmlld0NvbnRyb2xsZXIsIGJyYW5kTmFtZTogYnJhbmROYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZjLnB1c2hUb0JyYW5kUGFnZShicmFuZE5hbWU6IDwjVCMjU3RyaW5nIyNTd2lmdC5TdHJpbmcjPikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobmF2Q29udHJvbGxlci50b3BWaWV3Q29udHJvbGxlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgZnVuYyBwdXNoVG9CcmFuZFBhZ2UoYnJhbmROYW1lOiBTdHJpbmcpIHsKICAgICAgICBzZWxlY3RlZEluZGV4ID0gMgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEluZGV4Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGVsc2UgaWYgbGV0IHZjID0gc2VsZi5wcmVzZW50aW5nVmlld0NvbnRyb2xsZXIgewogICAgICAgICAgICBkaXNtaXNzKGFuaW1hdGVkOiB0cnVlKSB7CiAgICAgICAgICAgICAgICBCcmFuZFZpZXdDb250cm9sbGVyLnB1c2godmlld0NvbnRyb2xsZXI6IHZjLCBicmFuZE5hbWU6IGJyYW5kTmFtZSkKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyYW5kVmlld0NvbnRyb2xsZXIucHVzaCh2aWV3Q29udHJvbGxlcjogdmMsIGJyYW5kTmFtZTogYnJhbmROYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZjLnRhYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyYW5kVmlld0NvbnRyb2xsZXIucHVzaCh2aWV3Q29udHJvbGxlcjogdmMsIGJyYW5kTmFtZTogYnJhbmROYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNtaXNzKGFuaW1hdGVkOiB0cnVlKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBCcmFuZFZpZXdDb250cm9sbGVyLnB1c2godmlld0NvbnRyb2xsZXI6IHNlbGYsIGJyYW5kTmFtZTogcHJvZHVjdC5icmFuZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmMucHJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc21pc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXNlbnRpbmdWaWV3Q29udHJvbGxlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>presentingViewController</text>
+        <text>!</text>
       </register>
     </registers>
     <search>
@@ -102,16 +106,16 @@
       <history-search />
       <history-cmd>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
-        <entry>action Back</entry>
-        <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action FindInPath</entry>
+        <entry>action Macro.OptimizeImportAndReformatCode</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action SaveAll</entry>
+        <entry>action Run</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
