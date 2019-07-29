@@ -4,20 +4,34 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/UICollectionView+.swift" timestamp="1564411382992" />
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductInfoItem.swift" timestamp="1564414272645">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="55" column="58" />
+        <mark key="^" line="33" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/FeedViewController.swift" timestamp="1564408698932">
         <mark key="]" line="70" column="5" />
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" timestamp="1564411828654">
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="20" />
-        <mark key="^" line="69" column="20" />
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" timestamp="1564415506921">
+        <mark key="'" line="91" column="44" />
+        <mark key="[" line="191" column="25" />
+        <mark key="]" line="191" column="25" />
+        <mark key="." line="191" column="25" />
+        <mark key="^" line="193" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Favorites/FavoritesViewController.swift" timestamp="1564408786771">
         <mark key="'" line="54" column="0" />
         <mark key="]" line="60" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/ParentTabBarController.swift" timestamp="1564415270407">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/User/UserViewController.swift" timestamp="1564408791409">
         <mark key="'" line="91" column="8" />
@@ -36,43 +50,48 @@
       <jump line="39" column="20" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/User/UserViewController.swift" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Favorites/FavoritesViewController.swift" />
       <jump line="91" column="8" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/User/UserViewController.swift" />
+      <jump line="73" column="30" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" />
+      <jump line="91" column="44" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" />
+      <jump line="27" column="4" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductInfoItem.swift" />
+      <jump line="2" column="32" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/ParentTabBarController.swift" />
+      <jump line="8" column="8" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/ParentTabBarController.swift" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uVmlldy5ib3VuY2VzID0gZmFsc2UK</text>
+      <register name="0" type="4">
+        <text>ParentTabBarController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uVmlldy5zY3JvbGxUb1RvcChhbmltYXRlZDogZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc21pc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAodHJhbnNpdGlvbmluZ0RlbGVnYXRlIGFzPyBTUFN0b3JrVHJhbnNpdGlvbmluZ0RlbGVnYXRlKT8udHJhbnNsYXRlRm9yRGlzbWlzcyA9IDEwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZjLnB1c2hUb0JyYW5kUGFnZShicmFuZE5hbWU6IDwjVCMjU3RyaW5nIyNTd2lmdC5TdHJpbmcjPikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uVmlldy5ib3VuY2VzID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgIAogICAgZnVuYyBwdXNoVG9CcmFuZFBhZ2UoYnJhbmROYW1lOiBTdHJpbmcpIHsKICAgICAgICBzZWxlY3RlZEluZGV4ID0gMgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwYXRjaFF1ZXVlLm1haW4uYXN5bmNBZnRlcihkZWFkbGluZTogRGlzcGF0Y2hUaW1lLm5vdygpICsgMykgeyBbd2VhayBzZWxmXSBpbgogICAgICAgICAgICBzZWxmPy5jb2xsZWN0aW9uVmlldy5ib3VuY2VzID0gdHJ1ZQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEluZGV4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIjAuNeenkuW+jOOBq+Wun+ihjCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyYW5kVmlld0NvbnRyb2xsZXIucHVzaCh2aWV3Q29udHJvbGxlcjogdmMsIGJyYW5kTmFtZTogYnJhbmROYW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uVmlldy5ib3VuY2VzID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoc2VsZi50cmFuc2l0aW9uaW5nRGVsZWdhdGUgYXM/IFNQU3RvcmtUcmFuc2l0aW9uaW5nRGVsZWdhdGUpPy5zd2lwZVRvRGlzbWlzc0VuYWJsZWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNtaXNzKGFuaW1hdGVkOiB0cnVlKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb2xsZWN0aW9uVmlldy5jb250ZW50T2Zmc2V0LnkgPT0gMCkgewogICAgICAgICAgICAgICAgICAgIChzZWxmPy50cmFuc2l0aW9uaW5nRGVsZWdhdGUgYXM/IFNQU3RvcmtUcmFuc2l0aW9uaW5nRGVsZWdhdGUpPy5zd2lwZVRvRGlzbWlzc0VuYWJsZWQgPSB0cnVlCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmMucHJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xsZWN0aW9uVmlldy5ib3VuY2VzID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>presentingViewController</text>
       </register>
     </registers>
     <search>
@@ -80,17 +99,19 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>action RenameElement</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action Back</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SaveAll</entry>
+        <entry>action Back</entry>
         <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
