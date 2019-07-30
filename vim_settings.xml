@@ -1,123 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/UICollectionView+.swift" timestamp="1564411382992" />
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductInfoItem.swift" timestamp="1564414272645">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="32" column="45" />
-        <mark key="]" line="33" column="38" />
-        <mark key="." line="55" column="58" />
-        <mark key="^" line="33" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/FeedViewController.swift" timestamp="1564418960164">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" timestamp="1564419546764">
-        <mark key="'" line="91" column="44" />
-        <mark key="[" line="195" column="19" />
-        <mark key="]" line="195" column="19" />
-        <mark key="." line="195" column="19" />
-        <mark key="^" line="195" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Favorites/FavoritesViewController.swift" timestamp="1564408786771">
-        <mark key="'" line="54" column="0" />
-        <mark key="]" line="60" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/ParentTabBarController.swift" timestamp="1564415270407">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/User/UserViewController.swift" timestamp="1564408791409">
-        <mark key="'" line="91" column="8" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/BrandList/BrandListViewController.swift" timestamp="1564418921839">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="77" />
-      </file>
-      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/UINavigationItem+.swift" timestamp="1564408126328" />
-    </filemarks>
-    <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/FeedViewController.swift" />
-      <jump line="34" column="8" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/UINavigationItem+.swift" />
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Extensions/UINavigationItem+.swift" />
-      <jump line="64" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Feed/FeedViewController.swift" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Favorites/FavoritesViewController.swift" />
-      <jump line="39" column="20" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/User/UserViewController.swift" />
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Favorites/FavoritesViewController.swift" />
-      <jump line="91" column="8" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/User/UserViewController.swift" />
-      <jump line="73" column="30" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" />
-      <jump line="91" column="44" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" />
-      <jump line="27" column="4" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductInfoItem.swift" />
-      <jump line="2" column="32" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/ParentTabBarController.swift" />
-      <jump line="8" column="8" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/ParentTabBarController.swift" />
-    </jumps>
-    <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzbWlzcyhhbmltYXRlZDogdHJ1ZSkgewogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyYW5kVmlld0NvbnRyb2xsZXIucHVzaCh2aWV3Q29udHJvbGxlcjogdG9wVmlld0NvbnRyb2xsZXIsIGJyYW5kTmFtZTogYnJhbmROYW1lKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobmF2Q29udHJvbGxlci50b3BWaWV3Q29udHJvbGxlcikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGVsc2UgaWYgbGV0IHZjID0gc2VsZi5wcmVzZW50aW5nVmlld0NvbnRyb2xsZXIgewogICAgICAgICAgICBkaXNtaXNzKGFuaW1hdGVkOiB0cnVlKSB7CiAgICAgICAgICAgICAgICBCcmFuZFZpZXdDb250cm9sbGVyLnB1c2godmlld0NvbnRyb2xsZXI6IHZjLCBicmFuZE5hbWU6IGJyYW5kTmFtZSkKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZjLnRhYgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyYW5kVmlld0NvbnRyb2xsZXIucHVzaCh2aWV3Q29udHJvbGxlcjogdmMsIGJyYW5kTmFtZTogYnJhbmROYW1lKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCcmFuZFZpZXdDb250cm9sbGVyLnB1c2godmlld0NvbnRyb2xsZXI6IHNlbGYsIGJyYW5kTmFtZTogcHJvZHVjdC5icmFuZCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc21pc3MK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXNlbnRpbmdWaWV3Q29udHJvbGxlcgo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>action Run</text>
-      </register>
-      <register name="-" type="4">
-        <text>!</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>action RenameElement</entry>
-        <entry>action ActivateProjectToolWindow</entry>
-        <entry>action Find</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action FindInPath</entry>
-        <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action Run</entry>
-      </history-cmd>
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
@@ -170,9 +53,23 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="true" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
