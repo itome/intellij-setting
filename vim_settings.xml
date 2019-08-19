@@ -15,6 +15,9 @@
         <mark key="^" line="28" column="98" />
         <mark key="." line="28" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/quizknock/Info.plist" timestamp="1566228753507">
+        <mark key="'" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/ProductViewController.swift" timestamp="1564494329935">
         <mark key="[" line="86" column="55" />
         <mark key="]" line="86" column="55" />
@@ -27,6 +30,7 @@
         <mark key="]" line="54" column="56" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/quizknock/ViewController.swift" timestamp="1566228760535" />
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/FavoriteProduct.swift" timestamp="1564491162278">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="100" />
@@ -78,6 +82,8 @@
       <jump line="40" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductImageCarouselItem.swift" />
       <jump line="8" column="3" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductImageCarouselItem.swift" />
       <jump line="50" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Controllers/Product/Items/ProductImageCarouselItem.swift" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/quizknock/Info.plist" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/quizknock/Info.plist" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -125,17 +131,20 @@ self?.</text>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
