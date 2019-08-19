@@ -112,7 +112,7 @@ self?.</text>
         <text encoding="base64">ICAgICAgICBzdG9yZS5zdG9ja3MuYXNEcml2ZXIoKS5kcml2ZShvbk5leHQ6IHsgW3dlYWsgc2VsZl0gc3RvY2tzIGluCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text>sel</text>
@@ -132,8 +132,8 @@ self?.</text>
         <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
-        <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
