@@ -15,6 +15,13 @@
         <mark key="^" line="28" column="98" />
         <mark key="." line="28" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/.gitignore" timestamp="1566231347699">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/quizknock/Info.plist" timestamp="1566228753507">
         <mark key="'" line="44" column="0" />
       </file>
@@ -30,7 +37,13 @@
         <mark key="]" line="54" column="56" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/quizknock/ViewController.swift" timestamp="1566228760535" />
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/project.yml" timestamp="1566234848091">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="2" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/FavoriteProduct.swift" timestamp="1564491162278">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="100" />
@@ -65,6 +78,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/Podfile" timestamp="1566235739483">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="22" />
+      </file>
       <file name="/LLDB" timestamp="1564490445162">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,47 +94,57 @@
         <mark key="^" line="20" column="40" />
         <mark key="." line="20" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/.swiftlint.yml" timestamp="1566234019449">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/.gitignore" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/.gitignore" />
+      <jump line="24" column="25" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/project.yml" />
+      <jump line="6" column="16" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/project.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/project.yml" />
+      <jump line="6" column="15" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/.swiftlint.yml" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpc1B1Ymxpc2hlZCA9IHByb2R1Y3QgIT0gbmlsID8gcHJvZHVjdCEucHVibGlzaEF0IDwgRGF0ZSgpIDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAtIFBvZGZpbGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">IGZzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAtIFBvZGZpbGUKICAtIFBvZGZpbGUubG9jawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBpbWFnZVVybHM6IFtTdHJpbmddPyB7Cg==</text>
+        <text encoding="base64">ICAtIC5idWlsZAogIC0gU2NyaXB0cwogIC0gUHJvdG8KICAtIEN5YmVyTERIVGVzdHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uVmlldy5yeC5kaWRTY3JvbGwuc3Vic2NyaWJlKG9uTmV4dDogeyBbd2VhayBzZWxmXSBpbgogICAgICAgICAgICBpZiBsZXQgY29sbGVjdGlvblZpZXcgPSBzZWxmPy5jb2xsZWN0aW9uVmlldyB7CiAgICAgICAgICAgICAgICBTUFN0b3JrQ29udHJvbGxlci5zY3JvbGxWaWV3RGlkU2Nyb2xsKGNvbGxlY3Rpb25WaWV3KQogICAgICAgICAgICB9CiAgICAgICAgfSkuZGlzcG9zZWQoYnk6IGJhZykKICAgICAgICAK</text>
+        <text encoding="base64">ICAtIENvbmZpZ3MKICAtIFhDVGVtcGxhdGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgICAgIGNvbGxlY3Rpb25WaWV3LnJ4LmRpZFNjcm9sbC5zdWJzY3JpYmUob25OZXh0OiB7IFt3ZWFrIHNlbGZdIGluCiAgICAgICAgICAgIGlmIGxldCBjb2xsZWN0aW9uVmlldyA9IHNlbGY/LmNvbGxlY3Rpb25WaWV3IHsKICAgICAgICAgICAgICAgIFNQU3RvcmtDb250cm9sbGVyLnNjcm9sbFZpZXdEaWRTY3JvbGwoY29sbGVjdGlvblZpZXcpCiAgICAgICAgICAgIH0KICAgICAgICB9KS5kaXNwb3NlZChieTogYmFnKQo=</text>
+        <text encoding="base64">ICAtIHZlbmRvcgogIC0gQ2FydGhhZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpc1B1Ymxpc2hlZCA9Cg==</text>
+        <text encoding="base64">ICAgICAgLSBzY3JpcHQ6ICIke1BPRFNfUk9PVH0vU3dpZnRMaW50L3N3aWZ0bGludCBhdXRvY29ycmVjdCAtLWZvcm1hdCIKICAgICAgbmFtZTogU3dpZnRsaW50IGF1dG9jb3JyZWN0Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>self?.
-self?.
-self?.
-self?.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICR7UE9EU19ST09UfS9Td2lmdExpbnQvc3dpZnRsaW50IGF1dG9jb3JyZWN0IC0tZm9ybWF0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBjb2xsZWN0aW9uVmlldy5yeC5kaWRTY3JvbGwuc3Vic2NyaWJlKG9uTmV4dDogeyBbd2VhayBzZWxmXSBpbgogICAgICAgICAgICBpZiBsZXQgY29sbGVjdGlvblZpZXcgPSBzZWxmPy5jb2xsZWN0aW9uVmlldyB7CiAgICAgICAgICAgICAgICBTUFN0b3JrQ29udHJvbGxlci5zY3JvbGxWaWV3RGlkU2Nyb2xsKGNvbGxlY3Rpb25WaWV3KQogICAgICAgICAgICB9CiAgICAgICAgfSkuZGlzcG9zZWQoYnk6IGJhZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHtQT0RTX1JPT1R9L1N3aWZ0TGludC9zd2lmdGxpbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5zdG9ja3MuYXNEcml2ZXIoKS5kcml2ZShvbk5leHQ6IHsgW3dlYWsgc2VsZl0gc3RvY2tzIGluCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBTd2lmdGxpbnQK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>sel</text>
+        <text encoding="base64">LCAnfj4gMy41Jw==</text>
       </register>
     </registers>
     <search>
@@ -129,11 +158,11 @@ self?.</text>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Run</entry>
-        <entry>action SearchEverywhere</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
