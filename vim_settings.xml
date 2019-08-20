@@ -84,6 +84,12 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/README.md" timestamp="1566269527720">
+        <mark key="[" line="11" column="97" />
+        <mark key="]" line="11" column="100" />
+        <mark key="." line="11" column="100" />
+        <mark key="^" line="11" column="100" />
+      </file>
       <file name="/LLDB" timestamp="1564490445162">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,34 +120,34 @@
         <text encoding="base64">ICAtIFBvZGZpbGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGZzCg==</text>
+        <text encoding="base64">JCBnaXQgY2xvbmUgZ2l0QGdpdGh1Yi5jb206QmF0b244L3F1aXprbm9jay1pb3MuZ2l0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIFBvZGZpbGUKICAtIFBvZGZpbGUubG9jawo=</text>
+        <text encoding="base64">Z2l0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIC5idWlsZAogIC0gU2NyaXB0cwogIC0gUHJvdG8KICAtIEN5YmVyTERIVGVzdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIENvbmZpZ3MKICAtIFhDVGVtcGxhdGVzCg==</text>
+        <text encoding="base64">IGZzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIHZlbmRvcgogIC0gQ2FydGhhZ2UK</text>
+        <text encoding="base64">ICAtIFBvZGZpbGUKICAtIFBvZGZpbGUubG9jawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBzY3JpcHQ6ICIke1BPRFNfUk9PVH0vU3dpZnRMaW50L3N3aWZ0bGludCBhdXRvY29ycmVjdCAtLWZvcm1hdCIKICAgICAgbmFtZTogU3dpZnRsaW50IGF1dG9jb3JyZWN0Cg==</text>
+        <text encoding="base64">ICAtIC5idWlsZAogIC0gU2NyaXB0cwogIC0gUHJvdG8KICAtIEN5YmVyTERIVGVzdHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICR7UE9EU19ST09UfS9Td2lmdExpbnQvc3dpZnRsaW50IGF1dG9jb3JyZWN0IC0tZm9ybWF0Cg==</text>
+        <text encoding="base64">ICAtIENvbmZpZ3MKICAtIFhDVGVtcGxhdGVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHtQT0RTX1JPT1R9L1N3aWZ0TGludC9zd2lmdGxpbnQK</text>
+        <text encoding="base64">ICAtIHZlbmRvcgogIC0gQ2FydGhhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBTd2lmdGxpbnQK</text>
+        <text encoding="base64">ICAgICAgLSBzY3JpcHQ6ICIke1BPRFNfUk9PVH0vU3dpZnRMaW50L3N3aWZ0bGludCBhdXRvY29ycmVjdCAtLWZvcm1hdCIKICAgICAgbmFtZTogU3dpZnRsaW50IGF1dG9jb3JyZWN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCAnfj4gMy41Jw==</text>
@@ -160,9 +166,9 @@
         <entry>action Back</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action SaveAll</entry>
-        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
