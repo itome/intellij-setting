@@ -12,6 +12,11 @@
       <file name="$USER_HOME$/Projects/love/ios/project.yml" timestamp="1566353553082">
         <mark key="'" line="202" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/Dispatcher.swift" timestamp="1566392771336">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="65" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Entities/Models/Product.swift" timestamp="1564492458983">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="28" column="0" />
@@ -32,11 +37,6 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/Configs/Project.xcconfig" timestamp="1566353780462">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/project.yml" timestamp="1566363801292">
         <mark key="'" line="18" column="9" />
         <mark key="[" line="54" column="0" />
@@ -44,10 +44,10 @@
         <mark key="^" line="50" column="16" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Models/Remote/ArticleResponse.swift" timestamp="1566316202654">
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/Store.swift" timestamp="1566392759573">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Entities/Models/Article.swift" timestamp="1566364682824">
         <mark key="'" line="8" column="3" />
@@ -55,6 +55,12 @@
         <mark key="]" line="13" column="96" />
         <mark key="." line="13" column="96" />
         <mark key="^" line="13" column="96" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" timestamp="1566392797097">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Extensions/String+.swift" timestamp="1566364675894">
         <mark key="'" line="10" column="0" />
@@ -94,6 +100,13 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Dispatcher.swift" timestamp="1566392868505">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+        <mark key="^" line="15" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/love/ios/.swiftlint.yml" timestamp="1566353531646">
         <mark key="'" line="4" column="39" />
         <mark key="[" line="58" column="3" />
@@ -109,6 +122,12 @@
         <mark key="]" line="6" column="64" />
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Store.swift" timestamp="1566393631952">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/DataSources/Requests/Request.swift" timestamp="1566365800510">
         <mark key="'" line="0" column="0" />
@@ -165,6 +184,11 @@
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/Pods/RxSwift/RxSwift/Traits/Single.swift" timestamp="1566364861030">
         <mark key="'" line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/ActionCreator.swift" timestamp="1566392791377">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -237,43 +261,60 @@
       <jump line="7" column="36" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/DataSources/Repositories/ArticleRepository.swift" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/AppDelegate.swift" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/AppDelegate.swift" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/Dispatcher.swift" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/Store.swift" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/Store.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/Store.swift" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Store.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/Dispatcher.swift" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Dispatcher.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/ActionCreator.swift" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Dispatcher.swift" />
+      <jump line="13" column="34" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Dispatcher.swift" />
+      <jump line="65" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Dispatcher.swift" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Dispatcher.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Dispatcher.swift" />
+      <jump line="0" column="4" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Store.swift" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyB2YXIgYmFzZVVSTDogU3RyaW5nIHsKICAgICAgICByZXR1cm4gQnVuZGxlLm1haW4ub2JqZWN0KGZvckluZm9EaWN0aW9uYXJ5S2V5OiAiQVBJQmFzZVVSTCIpIGFzISBTdHJpbmcKICAgIH0K</text>
+        <text encoding="base64">cHJvdG9jb2wgQWN0aW9uQ3JlYXRvcjogY2xhc3MgewogICAgdmFyIGRpc3BhdGNoZXI6IERpc3BhdGNoZXIgeyBnZXQgfQp9CgpleHRlbnNpb24gQWN0aW9uQ3JlYXRvciB7CiAgICB2YXIgZGlzcGF0Y2hlcjogRGlzcGF0Y2hlciB7IHJldHVybiAuZGVmYXVsdCB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcnRpY2xlUmVwb3NpdG9yeUltcGwoKS5nZXRBcnRpY2xlcyhwYWdlOiAxKS5zdWJzY3JpYmUob25TdWNjZXNzOiB7CiAgICAgICAgICAgIHByaW50KCQwKQogICAgICAgIH0pLmRpc3Bvc2VkKGJ5OiBEaXNwb3NlQmFnKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJ4U3dpZnQK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDgtMjEuCi8vCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QkFTRV9VUkwgPSBodHRwczovLwo=</text>
+        <text encoding="base64">aW1wb3J0IEZvdW5kYXRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTaW5nbGUuanVzdCgxKS5zdWJzY3JpYmUgewogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFVJS2l0Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDgtMjEuCi8vCgppbXBvcnQgRm91bmRhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTaW5nbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gICAK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDgtMjEuCi8vCgppbXBvcnQgRm91bmRhdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVBJX0hPU1QgPQo=</text>
+        <text encoding="base64">ICAgICAgICBBcnRpY2xlUmVwb3NpdG9yeUltcGwoKS5nZXRBcnRpY2xlcyhwYWdlOiAxKS5zdWJzY3JpYmUob25TdWNjZXNzOiB7CiAgICAgICAgICAgIHByaW50KCQwKQogICAgICAgIH0pLmRpc3Bvc2VkKGJ5OiBEaXNwb3NlQmFnKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ActivateProjectToolWindow</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>patramarket</text>
       </register>
     </registers>
     <search>
@@ -295,8 +336,8 @@
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
-        <entry>action SaveAll</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SaveAll</entry>
         <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
