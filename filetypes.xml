@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ListGroupArtistsResponse" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping pattern="fragment_test_player_controller" type="XML" />
       <mapping ext="sdef" type="XML" />
     </extensionMap>
