@@ -22,6 +22,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/.gitignore" timestamp="1566966014425">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="132" column="40" />
+        <mark key="^" line="132" column="40" />
+        <mark key="." line="132" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/ParentTabBarViewController.swift" timestamp="1566394582806">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="1" />
@@ -34,12 +41,12 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Mocks/GeneratedMocks.swift" timestamp="1566964216862">
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Mocks/GeneratedMocks.swift" timestamp="1566965532662">
         <mark key="'" line="195" column="30" />
-        <mark key="[" line="338" column="126" />
-        <mark key="]" line="338" column="125" />
-        <mark key="^" line="338" column="125" />
-        <mark key="." line="338" column="125" />
+        <mark key="[" line="298" column="14" />
+        <mark key="]" line="298" column="14" />
+        <mark key="^" line="298" column="7" />
+        <mark key="." line="298" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/project.yml" timestamp="1566958929592">
         <mark key="'" line="48" column="7" />
@@ -91,6 +98,11 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Domains/Category/CategoryStoreSpec.swift" timestamp="1566966315809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" timestamp="1566963867472">
         <mark key="[" line="3" column="9" />
@@ -174,12 +186,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Domains/Category/CategoryActionCreatorSpec.swift" timestamp="1566964472105">
-        <mark key="'" line="2" column="12" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="16" column="75" />
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Domains/Category/CategoryActionCreatorSpec.swift" timestamp="1566966316947">
+        <mark key="'" line="16" column="46" />
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Domains/Category/CategoryActionSpec.swift" timestamp="1566913720735">
         <mark key="[" line="4" column="38" />
@@ -214,10 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Store.swift" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/Dispatcher.swift" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/Dispatcher.swift" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/patra/PATRASHOP-iOS/PATRAMARKET/PATRAMARKET/Flux/ActionCreator.swift" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" />
@@ -314,43 +322,47 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Entities/Models/AppError.swift" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Domains/Category/CategoryAction.swift" />
       <jump line="195" column="30" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Mocks/GeneratedMocks.swift" />
+      <jump line="17" column="15" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Domains/Category/CategoryActionCreatorSpec.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/.gitignore" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Domains/Category/CategoryStoreSpec.swift" />
+      <jump line="16" column="46" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Domains/Category/CategoryActionCreatorSpec.swift" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNhdGVnb3J5UmVwb3NpdG9yeSA9IGNhdGVnb3J5UmVwb3NpdG9yeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBmdW5jIGFueSgpIHt9Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDgtMjguCi8vCgppbXBvcnQgRm91bmRhdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3Rpb25DcmVhdG9yLmRpc3BhdGNoZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHViCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXh0ZW5zaW9uIENhdGVnb3J5QWN0aW9uQ3JlYXRvciB7CiAgICB2YXIgZGlzcGF0Y2hlcjogRGlzcGF0Y2hlciB7IHJldHVybiBNb2NrRGlzcGF0Y2hlcigpIH0KfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R1Ygo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5pbml0KGRpc3BhdGNoZXI6IC5kZWZhdWx0KQo=</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBmdW5jIGFueSgpIHt9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgpleHRlbnNpb24gQWN0aW9uQ3JlYXRvciB7CiAgICB2YXIgZGlzcGF0Y2hlcjogRGlzcGF0Y2hlciB7IHJldHVybiAuZGVmYXVsdCB9Cn0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rpb25DcmVhdG9yLmRpc3BhdGNoZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgaW5pdChkaXNwYXRjaGVyOiBEaXNwYXRjaGVyID0gLmRlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdHViCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgaW5pdChjYXRlZ29yeVJlcG9zaXRvcnk6IENhdGVnb3J5UmVwb3NpdG9yeSwgZGlzcGF0Y2hlcjogRGlzcGF0Y2hlcikgewogICAgICAgIHNlbGYuY2F0ZWdvcnlSZXBvc2l0b3J5ID0gY2F0ZWdvcnlSZXBvc2l0b3J5CiAgICAgICAgc2VsZi5kaXNwYXRjaGVyID0gZGlzcGF0Y2hlcgogICAgfQo=</text>
+        <text encoding="base64">ZXh0ZW5zaW9uIENhdGVnb3J5QWN0aW9uQ3JlYXRvciB7CiAgICB2YXIgZGlzcGF0Y2hlcjogRGlzcGF0Y2hlciB7IHJldHVybiBNb2NrRGlzcGF0Y2hlcigpIH0KfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4dGVuc2lvbiBBY3Rpb25DcmVhdG9yIHsKICAgIHZhciBkaXNwYXRjaGVyOiBEaXNwYXRjaGVyIHsgcmV0dXJuIC5kZWZhdWx0IH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5pbml0KGRpc3BhdGNoZXI6IC5kZWZhdWx0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>CategoryAction</text>
+        <text>puzzle</text>
       </register>
     </registers>
     <search>
@@ -363,7 +375,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action GoToLastTab</entry>
         <entry>action RenameElement</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
@@ -371,13 +382,14 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action SaveAll</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action Find</entry>
         <entry>action Macro.OptimizeImportAndReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action ParameterInfo</entry>
+        <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
