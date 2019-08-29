@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Mocks/DataSources/Repositories/CategoryRepositoryMock.swift" timestamp="1567090081744">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="56" column="28" />
-        <mark key="]" line="56" column="43" />
-        <mark key="." line="56" column="43" />
-        <mark key="^" line="56" column="43" />
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/Login/LoginViewController.swift" timestamp="1567097933301">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/.gitignore" timestamp="1566966014425">
         <mark key="'" line="0" column="0" />
@@ -17,19 +16,71 @@
         <mark key="^" line="132" column="40" />
         <mark key="." line="132" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/MyPage/Items/MyPageItem.swift" timestamp="1567097389280">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="1" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="52" />
-      </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/project.yml" timestamp="1566958929592">
         <mark key="'" line="48" column="7" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="^" line="76" column="19" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Domains/Category/CategoryActionCreator.swift" timestamp="1567089191925">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" timestamp="1567089143038">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+      </file>
+      <file name="/LLDB" timestamp="1567093681372">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Entities/Models/AppError.swift" timestamp="1567089857138">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/MyPage/MyPageViewController.swift" timestamp="1567097719996">
+        <mark key="'" line="33" column="75" />
+        <mark key="[" line="29" column="67" />
+        <mark key="]" line="29" column="69" />
+        <mark key="." line="29" column="69" />
+        <mark key="^" line="29" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/Podfile" timestamp="1567091848733">
+        <mark key="'" line="4" column="68" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Domains/Category/CategoryStore.swift" timestamp="1567093368756">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+      </file>
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1567093613091">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Mocks/DataSources/Repositories/CategoryRepositoryMock.swift" timestamp="1567090081744">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="56" column="43" />
+        <mark key="." line="56" column="43" />
+        <mark key="^" line="56" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/MyPage/Items/MyPageItem.swift" timestamp="1567097389280">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="21" column="52" />
+        <mark key="." line="21" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/DataSources/Repositories/CategoryRepository.swift" timestamp="1566914546822">
         <mark key="'" line="6" column="0" />
@@ -38,15 +89,10 @@
         <mark key="." line="8" column="66" />
         <mark key="^" line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Domains/Category/CategoryActionCreator.swift" timestamp="1567089191925">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/Category/CategoryViewController.swift" timestamp="1567096515888">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="35" />
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/Category/CategoryViewController.swift" timestamp="1567097926102">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="23" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Entities/Models/Article.swift" timestamp="1566961619774">
         <mark key="'" line="24" column="0" />
@@ -62,15 +108,6 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="/fragment.swift" timestamp="1567093693949">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Architecture/ActionCreator.swift" timestamp="1567089143038">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="5" />
-        <mark key="." line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-      </file>
-      <file name="/LLDB" timestamp="1567093681372">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/Category/Items/ArticleItem.swift" timestamp="1567095611903">
@@ -95,20 +132,6 @@
       <file name="/Dummy.txt" timestamp="1566927940024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/MyPage/Items/MyPageHeaderItem.swift" timestamp="1567097502294">
-        <mark key="'" line="7" column="19" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="15" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Entities/Models/AppError.swift" timestamp="1567089857138">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknockTests/Domains/Category/CategoryActionCreatorSpec.swift" timestamp="1567092549521">
         <mark key="'" line="0" column="25" />
         <mark key="[" line="12" column="0" />
@@ -120,28 +143,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/MyPage/MyPageViewController.swift" timestamp="1567097244099">
-        <mark key="'" line="31" column="75" />
-        <mark key="[" line="31" column="76" />
-        <mark key="]" line="31" column="87" />
-        <mark key="." line="31" column="87" />
-        <mark key="^" line="31" column="87" />
-      </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/Podfile" timestamp="1567091848733">
-        <mark key="'" line="4" column="68" />
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="18" />
-        <mark key="^" line="24" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Domains/Category/CategoryStore.swift" timestamp="1567093368756">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-      </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1567093613091">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/Home/HomeViewController.swift" timestamp="1567097908824">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -165,45 +170,48 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/MyPage/Items/MyPageHeaderItem.swift" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/MyPage/Items/MyPageHeaderItem.swift" />
       <jump line="7" column="19" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/MyPage/Items/MyPageHeaderItem.swift" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/Login/LoginViewController.swift" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/Home/HomeViewController.swift" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/quizknock/quizknock-ios/quizknock/Views/Category/CategoryViewController.swift" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFVJS2l0CmltcG9ydCBDYXJib24KCnN0cnVjdCBNeVBhZ2VJdGVtQ29tcG9uZW50OiBJZGVudGlmaWFibGVDb21wb25lbnQgewogICAgdmFyIHRpdGxlOiBTdHJpbmcKICAgIHZhciBvblRhcDogKCkgLT4gVm9pZAoKICAgIHZhciBpZDogU3RyaW5nIHsKICAgICAgICByZXR1cm4gdGl0bGUKICAgIH0KCiAgICBmdW5jIHJlbmRlckNvbnRlbnQoKSAtPiBNeVBhZ2VJdGVtIHsKICAgICAgICByZXR1cm4gLmxvYWRGcm9tTmliKCkKICAgIH0KCiAgICBmdW5jIHJlbmRlcihpbiBjb250ZW50OiBNeVBhZ2VJdGVtKSB7CiAgICAgICAgY29udGVudC50aXRsZSA9IHRpdGxlCiAgICAgICAgY29udGVudC5vblRhcCA9IG9uVGFwCiAgICB9CgogICAgZnVuYyByZWZlcmVuY2VTaXplKGluIGJvdW5kczogQ0dSZWN0KSAtPiBDR1NpemU/IHsKICAgICAgICByZXR1cm4gQ0dTaXplKHdpZHRoOiBib3VuZHMud2lkdGgsIGhlaWdodDogNTYpCiAgICB9CgogICAgZnVuYyBzaG91bGRDb250ZW50VXBkYXRlKHdpdGggbmV4dDogTXlQYWdlSXRlbUNvbXBvbmVudCkgLT4gQm9vbCB7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9Cn0KCmZpbmFsIGNsYXNzIE15UGFnZUl0ZW06IFVJQ29udHJvbCwgTmliTG9hZGFibGUgewogICAgQElCT3V0bGV0IHByaXZhdGUgd2VhayB2YXIgdGl0bGVMYWJlbDogVUlMYWJlbCEKICAgIEBJQkFjdGlvbiBmdW5jIG9uVGFwKHNlbmRlcjogVUlUYXBHZXN0dXJlUmVjb2duaXplcikgeyBvblRhcD8oKSB9CgogICAgdmFyIG9uVGFwOiAoKCkgLT4gVm9pZCk/CgogICAgdmFyIHRpdGxlOiBTdHJpbmc/IHsKICAgICAgICBkaWRTZXQgewogICAgICAgICAgICBzZWxmLnRpdGxlTGFiZWwudGV4dCA9IHRpdGxlCiAgICAgICAgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW5jIGxvYWRWaWV3KCkgewogICAgICAgIHZpZXcgPSBVSVZpZXcuaW5zdGFudGlhdGVGcm9tTmliKG5pYk5hbWU6ICJDYXRlZ29yeVZpZXdDb250cm9sbGVyIiwgb3duZXI6IHNlbGYpCiAgICAgICAgdmlldy5mcmFtZSA9IFVJU2NyZWVuLm1haW4uYm91bmRzCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50Lm9uVGFwID0gb25UYXAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBJQkFjdGlvbiBmdW5jIG9uVGFwKHNlbmRlcjogVUlUYXBHZXN0dXJlUmVjb2duaXplcikgeyBvblRhcD8oKSB9CiAgICAKICAgIHZhciBvblRhcDogKCgpIC0+IFZvaWQpPwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDgtMzAuCi8vCgppbXBvcnQgRm91bmRhdGlvbgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBvblRhcDogKCkgLT4gVm9pZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWRlcjoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50Lm9uVGFwID0gb25UYXAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBJQkFjdGlvbiBmdW5jIG9uVGFwKHNlbmRlcjogVUlUYXBHZXN0dXJlUmVjb2duaXplcikgeyBvblRhcD8oKSB9CiAgICAKICAgIHZhciBvblRhcDogKCgpIC0+IFZvaWQpPwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDloZrmnKwg5q2m5b+XIG9uIDIwMTktMDgtMzAuCi8vCgppbXBvcnQgRm91bmRhdGlvbgo=</text>
+      </register>
+      <register name="8" type="4">
         <text>UserContentComponent(title: &quot;\(user.system.point) ポイント/円&quot;) {
                         PointHistoryViewController.push(viewController: self, pointHistorys: user.system.pointHistory)
                     }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWRlcjogVmlld05vZGUoVXNlckhlYWRlckNvbXBvbmVudCh0aXRsZTogIuWIqeeUqOWPr+iDveODneOCpOODs+ODiCIpKSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZW4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRlTGFiZWwudGV4dCA9IGFydGljbGUuZGF0ZUZvckRpc3BsYXkKICAgICAgICAgICAgc2VsZi5hdXRob3JOYW1lTGFiZWwudGV4dCA9IGFydGljbGUuYXV0aG9yTmFtZQogICAgICAgICAgICBpZiBsZXQgdXJsID0gYXJ0aWNsZS50aHVtYm5haWxVcmwgewogICAgICAgICAgICAgICAgc2VsZi50aHVtYm5haWxJbWFnZVZpZXcuYWZfc2V0SW1hZ2Uod2l0aFVSTDogdXJsKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWRlcjogVmlld05vZGUoVXNlckhlYWRlckNvbXBvbmVudCh0aXRsZTogIuWIqeeUqOWPr+iDveODneOCpOODs+ODiCIpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
       <register name="-" type="4">
-        <text>MyPageItem</text>
+        <text>CategoryViewController</text>
       </register>
     </registers>
     <search>
@@ -224,10 +232,10 @@
         <entry>action GotoAction</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SaveAll</entry>
