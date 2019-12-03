@@ -1,17 +1,17 @@
-<scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+<scheme name="Atom One Dark Custom" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
-    <property name="created">2018-04-23T22:12:07</property>
+    <property name="created">2019-11-27T11:22:52</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2019-12-02T14:10:15</property>
-    <property name="originalScheme">Atom One Dark</property>
+    <property name="ideVersion">4.0.0.1</property>
+    <property name="modified">2019-11-27T11:23:19</property>
+    <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_SIZE" value="24" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
